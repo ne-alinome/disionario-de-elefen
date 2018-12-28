@@ -1,0 +1,6686 @@
+
+
+Disionario – Gramatica – Vici 13 julio 2018 html  +  28 desembre 2018 js
+Disionario de Elefen
+
+   
+
+ 
+
+Lingua:  
+
+    Trova parolas intera     Trova esata     Mostra imajes
+
+Aora disponable como un libro primida!
+
+Capitoles:   A B C D E F G H I J K L M N O P Q R S T U V W X Y Z   Tota
+524 articles trovada.  
+
+b   simbol   (dise ‘be’)
+La letera du de la alfabeta roman; la nota sete de la scala diatonica de C major
+en   b
+fr   b; si
+he   האות השנייה באלפבית הלטיני
+
+ba   esclama
+Espresante un manca de interesa
+en   bah, nonsense, rubbish, who cares?
+he   למי אכפת?, שטויות!, להביע חוסר עניין
+
+babau   nom
+Un mal spirito imajinada, istorial usada per asusta enfantes; un person o cosa cual on regarda tipal como un ojeto de teme; un causa de teme, irita o despeta osesente
+da   bussemand
+en   bogeyman, boogeyman, bogey, bogles, bugaboo, bugbear
+eo   infantimigulo
+es   coco
+he   ישות דמיונית מאיימת
+
+babca   nom
+Un torta dulse de pasta levada con forma de pan, conteninte uvas seca, nozas o xocolada
+en   babka (cake)
+he   בבקה (עוגה)
+
+babela   verbo transitiva
+Parla rapida e continuante en modo fol, ajitada o noncomprendable
+en   babble, gab, gabble, mutter, gibber, witter, prattle, prate, waffle, bumble, talk nonsense
+he   לפטפט, לקשקש, ללהג, לברבר, למלמל
+
+»  babela   nom
+en   gibberish, gobbledygook, gobbledegook, bafflegab, jargon, patter, balderdash, piffle, baloney, drivel, bunkum, twaddle
+he   פטפוט, קשקוש, להג, מלמול, בבלת, ג’יבריש
+
+»  babela bela   esclama
+Diseda per imita un testo parolosa o noiante
+en   blah blah blah
+fr   blablabla
+he   בלה בלה בלה
+
+»  babelosa   ajetivo
+en   gibberish, jargon-filled
+he   ג’יבריש
+
+Babilonia   nom
+Un rejion antica de Mesopotamia, formida cuando la renas de Acad en la norde e Sumer en la sude ia combina en la dui prima de la milenio du aec
+ca   Babilònia
+da   Babylonien
+en   Babylonia
+fr   Babylone
+he   בבל
+
+»  babilonian   ajetivo
+en   babylonian
+he   בבלי
+
+babirusa   nom
+Un porco savaje de la forestas de Malaisia con alga dentones cornin
+Babyrousa
+en   babirusa, deer pig, pig deer
+he   בבירוסה (חזיר)
+
+babuin   nom
+Un simia grande e sosial de la mundo vea, con beco longa como un can, dentes grande e calos nuda sur la gluteos
+Papio, Mandrillus
+en   baboon
+fr   babouin
+he   בבון (קוף)
+
+baca   nom
+Un fruta peti, ronda e jusosa
+da   bær
+de   Beere
+en   berry
+fr   baie
+he   פרי יער, גרגר יער
+
+»  baca de peper   nom
+en   peppercorn
+he   גרגיר פלפל
+
+»  bacin   ajetivo
+en   berrylike
+he   בצורת פרי יער
+
+bacara   nom
+Un jua de fortuna en cual on atenta teni cartas con valua somante a un numero de cual sua dijito destra es la plu alta
+en   baccarat (card game)
+he   בקרה (משחק קלפים)
+
+bacelita   nom
+Un forma temprana de plastica, tipal oscur brun, fabricada de formaldehido e fenol, xef usada per aparatos eletrical
+en   bakelite
+he   בקליט (פלסטיק)
+
+baclava   nom
+Un deser orijinante en Asia ueste, composada de pasta folin plenida con nozas axida, empapada en miel
+en   baklava (dessert)
+he   בקלווה (מאפה מתוק)
+
+Bactria   nom
+Un pais antica en Asia sentral, corespondente a la parte norde de Afganistan moderna
+da   Bactriana
+de   Baktrien
+el   Βακτρία
+en   Bactria (ancient region)
+eo   Baktrio
+fr   Bactriane
+it   Battriana
+he   באקטריה (איזור עתיק במרכז אסיה)
+ja   バクトリア
+nl   Bactrië
+
+badaui   ajetivo
+Pertinente a la nomadas arabi de la deserto
+en   Bedouin
+fr   bédouin
+he   בדואי
+
+»  badaui   nom
+en   Bedouin
+fr   Bédouin
+he   בדואי
+
+badminton   nom
+Un jua o sporte con racetas en cual un volante es colpada de asi a ala supra un rede
+en   badminton
+he   בדמינגטון
+
+»  badmintonor   nom
+en   badminton player
+he   שחקן בדמינגטון
+
+Baffin   nom
+en   Baffin
+he   באפין
+
+»  Baia Baffin   nom
+Un baia entre Labrador e Calalitnunat
+en   Baffin Bay
+he   מפרץ באפין
+
+»  Isola Baffin   nom
+Un isola grande canadian en la Mar Artica a norde de la Baia Hudson
+en   Baffin Island
+he   האי באפין
+
+bagaje   nom
+Ojetos personal, pacida en valises per viaja; la aparatos portable de un armada
+en   baggage, luggage
+fr   bagage
+he   מטען, כבודה
+
+bagel   nom
+Un paneta densa con forma anelo, tipal de cosini iudi
+en   bagel
+he   בייגל, כעך
+
+bagete   nom
+Un pan franses, longa e magra
+en   baguette (bread)
+he   בגט
+
+»  bagete plenida   nom
+en   Italian sandwich, submarine sandwich, sub, hoagie, hoagy, grinder, hero
+he   כריך מלחמניה ארוכה
+
+bahai   ajetivo   (dise ‘bahaï’)
+Un relijio monoteiste, fundida en la sentenio 19, cual asentua la unia de umanas e tota relijios, e la aspira a pas mundal
+en   Baha’i
+he   בהאי
+
+»  bahai   nom
+en   Baha’i
+he   בהאי
+
+»  bahaisme   nom   (dise ‘bahaïsme’)
+en   Baha’i, Baha’ism (religion)
+he   הדת הבהאית
+
+Bahamas   nom, plural
+Un pais de multe isolas a sude-este de Florida e a norde-este de Cuba
+(capital: Nassau)
+en   Bahamas
+he   איי בהאמה
+
+»  bahaman   ajetivo
+en   Bahamian
+he   בהאמי
+
+»  bahaman   nom
+en   Bahamian
+he   בהאמי
+
+baia   nom
+Un parte de mar o lago en un indente de costa
+en   bay, bight
+es   bahía, ensenada (entrada de agua, más o menos protegida, en mar o lago)
+fr   baie
+he   מפרץ
+
+»  baieta   nom
+en   cove, inlet
+fr   crique
+he   מפרצון
+
+Baical, Lago   nom
+Un lago grande de acua dulse en Sibir sude, la plu grande de Eurasia e la plu profonda de mundo
+en   Lake Baikal, Lake Baykal
+he   ימת באיקל
+
+Baiern   nom
+Un stato en Deutxland sude, e istorial un rena autonom
+en   Bavaria
+he   בוואריה
+
+»  baieres   ajetivo
+en   Bavarian
+he   בווארי
+
+»  baieres   nom
+en   Bavarian
+he   בווארי
+
+baieta   nom
+Un stofa de lana feltrin, tipal verde, usada per covre tables de biliardo o juas de carta
+en   baize (fabric)
+he   בייז (אריג, בדר"כ ירוק, המשמש לציפוי שולחנות משחק)
+
+baioneta   nom
+Un arma simil a un cotel longa cual on pote fisa a boca de fusil per usa en combate prosima
+en   bayonet
+he   כידון
+
+bait   nom
+Un grupo de bitios, tipal oto, manipulada como un unia, e usada en mesura la grandia de un fix o memoria
+en   byte
+he   (מחשבים) בייט, בית
+
+»  cilobait   nom
+en   kilobyte
+he   קילובייט
+
+»  gigabait   nom
+en   gigabyte, gig
+he   גיגהבייט
+
+»  megabait   nom
+en   megabyte, meg
+he   מגהבייט
+
+»  terabait   nom
+en   terabyte
+he   טרהבייט
+
+baji   nom
+(En cosini barati) un bal o torta plata peti de vejetales, fritada en pasta
+en   bhaji, bhajji, bajji
+
+bal   nom
+Un sfera o oval, solida o vacua, usada en juas e sportes; cualce cosa con forma simil
+en   ball
+es   bola, pelota (juguete esférico)
+fr   boule; balle (de jeu); boulet
+he   כדור
+
+»  bal bonodorosa   nom
+en   pomander
+he   פומנדר (כלי לבושם בצורת כדור)
+
+»  bal de bolo   nom
+en   bowl, bowling ball
+he   כדור באולינג
+
+»  bal de canon   nom
+en   cannonball
+fr   boulet de canon
+he   כדור תותח
+
+»  bal de carne   nom
+en   meatball
+he   כדור בשר, קציצה
+
+»  bal de foco   nom
+en   fireball
+he   כדור אש
+
+»  bal de futbal   nom
+en   football
+he   כדור פוטבול
+
+»  bal de naftalina   nom
+en   mothball
+he   כדור נפטלין
+
+»  bal de neva   nom
+en   snowball
+fr   boule de neige
+he   כדור שלג
+
+»  bal de pasta   nom
+en   dumpling, gnocco
+he   כופתה
+
+»  bal oto   nom
+en   eightball
+he   הכדור השחור בביליארד
+
+»  bales de pasta   nom, plural
+en   gnocchi
+he   ניוקי
+
+»  bal de tenis   nom
+en   tennis ball
+he   כדור טניס
+
+»  baleta   nom
+Un misil metal peti, tipal silindre e puntida, xutada de un fusil; un simbol peti introduinte cada punto en un lista
+en   bullet
+es   bala (munición)
+fr   balle (munition)
+he   קליע, כדור
+
+»  baleta falsa   nom
+en   blank (bullet)
+
+»  balon   nom
+en   balloon; (speech) bubble
+es   globo (aerostático)
+fr   ballon
+he   בלון
+
+»  balon de aira calda   nom
+en   hot-air balloon
+he   כדור פורח
+
+»  balon de avisa   nom
+en   warning balloon (software)
+he   (תוכנה) בועת אזהרה
+
+»  balonor   nom
+en   balloonist
+he   מפעיל כדור פורח
+
+bala   verbo transitiva
+(Un ovea o capra) fa sua clama
+→ maa
+en   baa, bleat
+he   לפעות
+
+Balabak, Streta   nom
+Un streta entre Palauan e Borneo
+ca   Estret de Balabac
+de   Balabacstraße
+en   Balabac Strait
+es   Estrecho de Balábac
+fr   Détroit de Balabac
+he   מיצר באלבאק
+ja   バラバク海峡
+nl   Straat Balabac
+pt   Estreito de Balabac
+
+balaclava   nom
+Un veste cual covre la testa e colo estra partes de la fas, tipal fabricada de lana
+en   balaclava
+he   כובע גרב
+
+balada   nom
+Un poesia o canta narante en strofes corta; un canta lenta e emosiosa o romantica
+en   ballad
+fr   balade
+he   בלדה
+
+»  baladador   nom
+en   personal stereo, walkman
+
+»  baladador dijital   nom
+en   MP3 player, digital audio player
+
+»  balador   nom
+en   balladeer
+he   זמר בלדות
+
+balalaica   nom
+Un strumento de cordetas simil a un gitar, ma con corpo triangulo e entre du e cuatro cordetas, orijinante en paises slavica
+en   balalaika (musical instrument)
+he   בלליקה (כלי נגינה)
+
+balansa   nom
+Un plance longa, ecuilibrada sur un fulcro, sur cual du enfantes senta e alterna en puia se a supra; un strumento per mesura pesa, usante du boles sur un fulcro
+en   seesaw; scales
+fr   tape-cul (jeu)
+he   נדנדה; מאזניים
+
+»  balansa fratal   nom
+en   vernier (fractional scale)
+he   זחון (מכשיר מדידה)
+
+»  Balansa   nom   «♎»
+Un constela de la zodiaco
+en   Libra (constellation)
+fr   la Balance
+he   קבוצת הכוכבים מאזניים; מזל מאזניים
+
+»  balansador   nom
+en   outrigger
+fr   portant, longeron
+he   מייצב (סירה, קאנו)
+
+»  balansi   verbo transitiva
+en   seesaw, balance, swing (up and down)
+fr   balancer
+he   לנדנד, לנוע מעלה ומטה
+
+balasto   nom
+Un materia pesosa, portada per stablia en la basa de un barcon; un materia simil en un balon cual on descarga cuando on vole alti
+en   ballast
+fr   ballast
+he   זיבורית
+
+»  balasti   verbo transitiva
+en   ballast
+he   למלא בזיבורית
+
+balbuta   verbo transitiva
+Parla con pausas nonintendeda e un tende de repete la leteras inisial de parolas; fa un serie de sonas corta esplodente
+en   stutter, stammer; splutter, sputter
+fr   bégayer
+he   לגמגם
+
+»  balbuta   nom
+en   stutter, stammer; splutter, sputter
+fr   bégaiement
+he   גמגום
+
+balcan   ajetivo
+Pertinente a la parte de Europa cual conteni la parte sude de la Rios Danubio e Sava, a ueste de la Mar Ejeo e Mar Negra, a este de la Mar Adriatica e Mar Ionica, e a norde de la Mar Mediteraneo
+en   Balkan
+fr   des balkans, balkanique
+he   בלקני
+
+»  Balcanes   nom, plural
+en   Balkans (mountains, region)
+fr   Balcans (montagnes, région)
+he   בלקן
+
+balcon   nom
+Un plataforma encluida par un mur o rel a la esterna de un construida, asedable tra un porte o fenetra a la mesma nivel; la sejas a supra en un teatro, salon de conserta, o salon de presenta
+en   balcony
+fr   balcon
+he   מרפסת
+
+»  balcon media   nom
+en   mezzanine
+fr   mezzanine
+he   קומת ביניים
+
+baldacin   nom
+Un covrente de stofa, metal o petra supra alga cosa como un trono, leto o area santa
+en   canopy, baldaquin, tabernacle, marquee, awning
+fr   baldaquin
+he   חופה, אפיריון
+
+balde   nom
+Un contenador silindre e abrida, tipal de metal o plastica, con un manico, usada per teni e porta licuidas o otra materias
+en   bucket, pail
+fr   seau
+he   דלי
+
+»  baldon   nom
+Un contenador per dejetadas, tipal estra un casa
+en   bin, dustbin, rubbish bin, litter bin, trash can, garbage can, ashcan
+fr   poubelle
+he   פח אשפה
+
+»  baldon de resicli   nom
+en   recycling bin, recycle bin
+he   פח מיחזור, מיחזורית; (מחשבים) סל המיחזור
+
+»  baldoni   verbo transitiva
+en   bin, throw away, chuck out, toss, toss out
+fr   mettre à la poubelle
+he   להשליך, לזרוק לפח
+
+balear   ajetivo
+en   Balearic
+he   שקשור באיים הבאלריים
+
+»  Isolas Balear   nom, plural
+Un grupo de cuatro isolas grande e sete isolas peti en la Mar Mediteraneo a este de Espania
+en   Balearic Islands
+he   האיים הבלאריים
+
+»  Mar Balear   nom
+Un mar entre la Isolas Balear e Espania
+en   Balearic Sea
+he   הים הבלארי
+
+balena   nom
+Un mamal multe grande de mares, con corpo idrodinamical sin pelo, con pina orizonal a sua coda e un buco de respira a la culmina de sua testa
+Cetacea
+en   whale
+fr   baleine
+he   לוויתן
+
+»  Balena   nom
+en   Cetus (constellation)
+fr   la Baleine
+he   קבוצת הכוכבים לוויתן
+
+»  balenor   nom
+en   whaler
+fr   baleinier
+he   צייד לוויתנים
+
+balenotera   nom
+Un balena con pel pliada a fondo
+Balaenopteridae
+en   rorqual (whale)
+fr   rorqual
+he   לוויתן ענק
+
+balesta   nom
+Un arco medieval, monturida sur un lenio, con ranur per la flexa e un aparato per tira e relasa la corda
+en   crossbow
+fr   arbalète
+he   קשת מוצלבת, רובה קשת
+
+»  baleston   nom
+en   arbalest (weapon)
+he   קשת מוצלבת כבדה
+
+baleto   nom
+Un dansa artal a musica, usante pasos e jestis esata e multe formal
+en   ballet
+fr   ballet
+he   בלט
+
+»  baletiste   nom
+en   ballet dancer, ballerina
+he   רקדן בלט, בלרינה
+
+Balgaria   nom
+Un pais en Europa sude-este a la costa de la Mar Negra, a sude de la Rio Danubio
+(capital: Sofia)
+en   Bulgaria
+he   בולגריה
+
+»  balgarsce   ajetivo
+en   Bulgarian (person, language)
+he   בולגרי
+
+»  balgarsce   nom
+en   Bulgarian (person, language)
+he   בולגרי
+
+Bali   nom
+Un isola montaniosa en Indonesia, a este de Djava, notada per sua belia e la ricia de sua cultur
+en   Bali
+he   באלי (אי)
+
+balia   verbo nontransitiva
+Abri nonvolente sua boca e enspira profonda, tipal cuando on es fatigada o noiada; (un buco) es larga abrida
+en   yawn; gape
+fr   bâiller
+he   לפהק
+
+»  balia   nom
+en   yawn
+fr   bâillement
+he   פיהוק
+
+»  baliante   ajetivo
+en   yawning, gaping, agape, wide open
+he   מפהק
+
+balio   nom
+(Istorial) la representante rejional de un monarca
+en   bailiff
+fr   huissier de justice, bailli
+he   פקיד בית המשפט
+
+balistica   nom
+La siensa de misiles e fusiles
+en   ballistics
+fr   ballistique
+he   בליסטיקה
+
+»  balistical   ajetivo
+en   ballistic
+fr   ballistique
+he   בליסטי
+
+balmol   nom
+Un sporte simil a basebal ma usante un bal plu grande e mol
+en   softball (sport)
+he   סופטבול
+
+balo   nom
+Un congrega sosial do persones dansa
+en   dance (event)
+fr   bal
+he   מסיבת ריקודים
+
+»  balo de debuantes   nom
+en   debutantes’ ball, cotillion
+he   נשף רשמי, בו מופיעות לראשונה נערות צעירות בפני החברה
+
+»  balo formal   nom
+en   ball
+he   נשף
+
+»  balo vivosa   nom
+en   lively dance (event), hop, bop, hoedown, hootenanny, shindig, corroboree
+he   מסיבה סוערת
+
+Balotxistan   nom
+Un rejion montaniosa de Asia ueste cual inclui un parte de Iran sude-este, Afganistan sude-ueste, e Pacistan ueste; un provinse de Pacistan ueste
+en   Balochistan, Baluchistan
+he   בלוצ’יסטן (מחוז בפקיסטן)
+
+»  balotxi   ajetivo
+en   Baloch, Baluch, Balochi
+he   תושב בלוצ’יסטן
+
+balsa   nom
+Un strutur plata e flotante de lenio, usada como barco o plataforma flotante
+en   raft
+fr   radeau
+he   רפסודה
+
+»  balsi   verbo transitiva
+en   raft, send by raft
+he   לשוט על-גבי רפסודה
+
+balsam   nom
+Un materia resinosa sudada par alga arbores e arboretas, usada per fabrica cosmeticas e unjentes; un unjente bonodorosa usada per sani o calmi la pel
+en   balm, balsam, liniment
+fr   baume
+he   משחה מרגיעה
+
+»  balsam de labio   nom
+en   lip balm, lip salve, chapstick
+he   שפתון (להגנה על השפתיים)
+
+»  balsamal   ajetivo
+en   balsamic
+he   בשמי, ניחוחי
+
+»  balsami   verbo transitiva
+en   embalm
+fr   embaumer
+he   לחנוט
+
+balti   nom
+Un plato spisosa de Pacistan, coceda en un casoleta peti con du manicos
+en   balti
+
+baltica   ajetivo
+Pertinente a la rejion composada par Esti, Lietuva e Latvia e la Mar Baltica
+en   Baltic
+he   באלטי
+
+»  Baltica   nom
+en   Baltic (region)
+he   באלטי
+
+»  Mar Baltica   nom
+Un mar a norde de Deutxland e Polsca, a sude de Sveria e Suomi
+en   Baltic Sea
+he   הים הבאלטי
+
+balustre   nom
+Un de un serie de colonas corta cual suporta un rel
+en   baluster, railing
+he   עמוד מעקה
+
+bambola   verbo nontransitiva
+Move en modo nonstable de lado a lado, como si a punto de cade; move en modo torpe o perilida en acua o fango
+en   wobble, totter, teeter, be unsteady; stagger, reel, bumble, lurch, toddle, walk unsteadily; flounder, flail
+fr   tituber
+he   להתנודד
+
+»  bambolante   ajetivo
+en   tottering, staggering; tipsy
+he   מתנודד; מבוסם
+
+bambu   nom   (dise ‘bambú’)
+Un erba leniosa e jigante cual abita xef la tropicos; la talo de esta, usada per fabrica mobilas
+Bambusa, Arundinaria, Dendrocalamus
+en   bamboo (plant, stem)
+es   bambú (planta, tallo)
+fr   bambou
+he   במבוק
+
+banana   nom
+Un arbor tropical con folias multe grande e frutas cual crese en grupos; la fruta comable de esta, longa e curva con pulpa mol e pel jala cuando matur
+Musa
+en   banana (plant, fruit)
+fr   banane; bananier
+he   בננה
+
+banca   nom
+Un seja longa per plu ca un person, tipal construida de lenio o petra
+en   bench (seat), pew
+fr   banc
+he   ספסל
+
+bancarota   ajetivo
+(Un person o organiza) noncapas de paia detas, par declara legal
+en   bankrupt, insolvent
+fr   en banqueroute, insolvable
+he   פושט רגל, חדל פירעון
+
+»  bancaroti   verbo nontransitiva
+en   go bankrupt, go bust
+fr   être en banqueroute, faire banqueroute
+he   לפשוט רגל
+
+»  bancaroti   verbo transitiva
+en   bankrupt, make bankrupt
+he   לרושש, לגרום לפשיטת רגל
+
+»  bancarotia   nom
+en   bankruptcy
+he   פשיטת רגל
+
+banceta   verbo nontransitiva
+Un come grande per multe persones
+en   banquet, feast
+fr   banqueter, festoyer
+he   לסעוד
+
+»  banceta   nom
+en   banquet, feast
+fr   banquet, festin
+he   משתה, סעודה
+
+banco   nom
+Un instituida finansial cual investi mone deponeda par clientes, repaia cuando esijeda, presta mone con interesa, e intercambia mones
+en   bank (money)
+fr   banque
+he   בנק
+
+»  banco de arena   nom
+en   sandbank
+he   שרטון
+
+»  banco de datos   nom
+en   database, data bank
+fr   banque de données
+he   בסיס נתונים, מאגר מידע
+
+»  banco de oios   nom
+en   eye bank
+he   בנק קרניות
+
+»  bancor   nom
+en   banker
+fr   banquier
+he   בנקאי
+
+bancsia   nom
+Un arboreta perene de Australia con folias magra e cuorin e spinas de flores brosin
+Banksia
+en   banksia (plant)
+he   בנקסיה (צמח)
+
+banda   nom
+Un peso longa e magra de materia plata, tipal usada per lia o decora; un peso simil ma autoaderente, usada per fisa; un peso simil ma con cualias magnetal, usada per rejistra sonas, imajes o datos; un de la partes individua composante un misca audio; un divide de un via, marcada par linias depintada per separa trafica par rapidia o dirije
+en   band, tape, strip, strap, streamer; track (mix); lane (traffic); swathe
+fr   bande
+he   רצועה, פס; סרט דבק; (מוזיקה) ערוץ; (תחבורה) נתיב
+
+»  banda audio   nom
+en   audio tape
+he   סרט מגנטי
+
+»  banda de calsa   nom
+en   garter (band around leg)
+he   בירית
+
+»  banda de capeles   nom
+en   hairband, bandeau
+he   סרט לשיער
+
+»  banda de crise   nom
+en   emergency lane, hard shoulder
+he   שוליים לעצירת חירום
+
+»  banda de cuoro   nom
+en   leather band, thong
+he   רצועת עור
+
+»  banda de frecuentia   nom
+en   frequency band, waveband
+he   רצועת תדרים
+
+»  banda de lenio   nom
+en   strip of wood, lath
+fr   planche
+he   לייסט, רצועת עץ דקה
+
+»  banda de oios   nom
+en   blindfold
+he   כיסוי עיניים
+
+»  banda de rota   nom
+en   tread (tire/tyre)
+he   סוליית צמיג
+
+»  banda de sona   nom
+en   soundtrack
+he   פסקול
+
+»  banda de suo   nom
+en   sweatband
+he   מגן זיעה
+
+»  banda de taie   nom
+en   waistband
+he   רצועת מותניים (בבגדים)
+
+»  banda de testa   nom
+en   headband
+fr   bandeau
+he   סרט מצח
+
+»  banda de xapo   nom
+en   hatband
+he   סרט שנקשר סביב הכובע
+
+»  banda elastica   nom
+en   elastic band, rubber band
+he   סרט אלסטי, גומיה
+
+»  banda emostasal   ajetivo
+en   tourniquet
+he   חוסם עורקים
+
+»  banda erugin   nom
+de   Gleiskette
+en   caterpillar track, continuous track, tank tread
+es   tractor oruga
+fr   chenille
+it   cingolo
+he   זחל טנק
+pt   lagarta
+ru   гусеничный движитель
+
+»  banda fortinte   nom
+en   strengthening strip, wale
+he   רצועה מחזקת
+
+»  banda larga   nom
+en   broadband
+he   פס רחב
+
+»  banda medical   nom
+en   bandage
+fr   bandage
+he   תחבושת
+
+»  banda medical aderente   nom
+en   band-aid, sticking plaster
+he   פלסטר
+
+»  banda ru   nom
+en   rumble strip (on road)
+he   פס הרעדה
+
+»  banda solosa   nom
+en   sunbelt (sunny region)
+he   איזור שמשי
+
+»  banda transportante   nom
+en   conveyor belt
+he   מסוע, סרט נע
+
+»  banda video   nom
+en   video tape
+he   סרט וידאו (רצועה מגנטית)
+
+»  bandeta   nom
+en   stripe (pattern), streak
+he   פס
+
+»  bandetosa   ajetivo
+en   stripy, striped, tabby
+he   מפוספס
+
+»  bandi   verbo transitiva
+en   tape, tape up; strap
+he   לקשור, לכרוך
+
+»  bandi la oios   verbo
+en   blindfold
+fr   bander les yeux
+he   לשים כיסוי עיניים
+
+»  bandin   ajetivo
+en   straplike, strap-shaped
+he   בצורת רצועה, בצורת פס
+
+Banda, Mar   nom
+Un mar entre Malucu e Timor
+en   Banda Sea
+he   ים באנדה
+
+bandana   nom
+Un teleta grande e colorosa, portada sirca la testa o colo
+en   bandana, kerchief
+he   בנדנה, מטפחת ראש
+
+bande   nom
+Un grupo unida de musicistes
+en   band, ensemble, combo (people)
+he   (מוזיקה) להקה, הרכב, אנסמבל
+
+»  bande marxante   nom
+en   marching band
+he   תזמורת צועדת
+
+»  desbandi   verbo nontransitiva
+en   disband
+he   (מוזיקה) להתפרק
+
+bandera   nom
+Un peso de stofa, tipal retangulo, con un borda liada a un palo o corda, usada como un simbol de un nasion o instituida o como un decora en festas; un cosa simil usada per comunica; un banda longa de stofa con un slogan o desinia, publica pendeda o portada en un prosegue
+en   flag, banner, banderole
+fr   drapeau, pavillon, bannière
+he   דגל
+
+»  bandereta   nom
+en   pennant
+fr   fanion
+he   דגלון
+
+»  banderetas   nom, plural
+en   bunting
+he   דגלונים לקישוט
+
+»  banderor   nom
+en   flagman
+he   דגלן
+
+bandicute   nom
+Un marsupio insetivor nativa de Australia e Gine Nova
+Peramelidae
+en   bandicoot
+he   בנדיקוט (חיית-כיס)
+
+bandito   nom
+Un rubor o otra criminor parteninte a un gang, tipal operante en un rejion isolida o sin leges
+en   bandit, outlaw, highwayman, brigand
+fr   bandit, brigand
+he   שודד, פורע חוק, בנדיט
+
+»  banditia   nom
+en   banditage, brigandage
+fr   banditisme, brigandage
+he   פריעת חוק
+
+bandolera   nom
+Un xarpe de spala con anelos o poxes per cartuxes, portada par soldatos o banditos
+en   bandolier (belt)
+he   חגורת תחמושת
+
+bandura   nom
+Un strumento de cordetas, orijinante en Ucraina, cual sembla un luto grande, juada como un sitra
+en   bandura (musical instrument)
+he   בנדורה (כלי נגינה)
+
+bangalo   nom
+Un casa con sola un nivel su la teto
+en   bungalow, ranch house
+eo   bangalo
+fr   pavillon; bungalow
+he   בונגלו
+
+Bangladex   nom
+Un pais en Asia sude en la delta de la Rio Ganga a la Golfo Bengala
+(capital: Dhaka)
+en   Bangladesh
+he   בנגלדש
+
+»  bangla   ajetivo
+en   Bengali, Bangla
+he   בנגלי
+
+»  bangla   nom
+en   Bengali, Bangla (person, language)
+he   בנגלי, השפה הבנגלית
+
+bangra   nom
+Un spesie de musica popular cual combina folclor pandjabi con pop ueste
+en   bhangra
+
+banio   nom
+Un contenador grande plenida con acua, tipal locada en un sala privata, en cual persones lava se
+en   bathtub, bath, tub
+fr   baignoire
+he   אמבטיה, אמבט
+
+»  banio de vortis   nom
+en   whirlpool bath, hot tub, jacuzzi, spa
+fr   jacuzzi
+he   ג’קוזי, אמבט זרמים
+
+»  bani   verbo transitiva
+en   bathe
+fr   baigner
+he   להתרחץ
+
+»  bani   nom
+en   bath, bathing
+fr   bain
+he   רחיצה, רחצה
+
+»  bani de sangue   nom
+en   bloodbath
+he   מרחץ דמים
+
+»  bani de spuma   nom
+en   foam bath, bubble bath (activity)
+fr   bain de mousse
+he   (רחיצה ב) אמבטיית קצף
+
+»  bani su sol   verbo
+en   sunbathe
+fr   bain de soleil
+he   להשתזף
+
+»  banieria   nom
+en   spa, bath, bath house (communal)
+he   ספא, בית מרחץ
+
+»  banieria mineral   nom
+en   mineral bath, spa
+he   בריכת מינרלים
+
+»  banieria termal   nom
+en   thermal bath, spa
+he   בריכה תרמית
+
+»  banior   nom
+en   bather
+fr   baigneur
+he   מתרחץ
+
+baniomaria   nom
+Un casola con un comparte separable a supra cual on pote caldi par acua calda o bolinte en la comparte a su
+en   double boiler, water bath, bain-marie
+fr   bain Marie
+he   אמבט מרים, סיר אדים
+
+banjo   nom
+Un strumento de cordetas con colo longa e corpo ronda de pergamin estendeda sur un anelo metal, tipal usada en musica tradisional de la SUA
+en   banjo
+fr   banjo
+he   בנג’ו
+
+»  banjiste   nom
+en   banjo player
+he   נגן בנג’ו
+
+banlam   ajetivo
+Pertinente a un popla de partes de Jonguo sude, o a sua lingua
+en   Min Nan, Ban-Lam (person, language)
+he   הוקיין (שפה בסין)
+
+»  banlam   nom
+en   Min Nan, Ban-Lam (person, language)
+he   הוקיין (שפה בסין)
+
+bantu   ajetivo
+Pertinente a un grupo grande de poplas orijinal de Africa sentral e sude, o a sua multe linguas relatada
+en   Bantu (person, language)
+he   בנטו (קבוצות אתניות באפריקה, קבוצת שפות באפריקה)
+
+»  bantu   nom
+en   Bantu (person, language)
+he   בנטו (קבוצות אתניות באפריקה, קבוצת שפות באפריקה)
+
+banxi   nom
+(En mitos eres) un spirito fema de ci sua ululas averti a un mori prosima
+en   banshee
+he   בנשי
+
+baobab   nom
+Un arbor corta con tronco estrema spesa e frutas grande e comable, capas de vive multe longa
+Adansonia
+en   baobab
+fr   baobab
+he   באובב (עץ)
+
+bar   nom
+Un instituida do on servi bevidas alcolosa, e a veses otra bevidas e comedas
+en   bar, pub, bar room, saloon
+fr   bar
+he   בר, פאב, מסבאה
+
+»  bariste   nom
+en   bartender, barman, barmaid, barkeep, mixologist; barista
+he   ברמן; בריסטה
+
+bara   nom   «/»
+Un peso longa de lenio, metal o otra materia dur, tipal usada como un util o arma; un peso de comeda con forma simil; un sinia de puntua scriveda entre alternativas o en fratos
+en   bar, rod, rail; slash (punctuation)
+fr   barre
+he   מוט, מקל; קו נטוי, לוכסן
+
+»  bara de confeto   nom
+en   candy bar, confectionery bar
+he   ממתק
+
+»  bara de dentes   nom
+en   rack (for pinion)
+he   מוט משונן
+
+»  bara de molas   nom
+en   splinter bar
+he   אסל
+
+»  bara de musli   nom
+en   muesli bar, granola bar, flapjack
+he   חטיף גרנולה
+
+»  bara de pesas   nom
+en   barbell
+he   מוט משקולות
+
+»  bara de rola   nom
+en   scrollbar
+he   מחשבים (פס גלילה)
+
+»  bara de tira   nom
+en   tow bar, tow hitch
+he   מוט גרירה
+
+»  bara de titulo   nom
+en   title bar (software)
+he   (מחשבים) שורת כותרת
+
+»  bara de utiles   nom
+en   toolbar (software)
+he   (מחשבים) סרגל כלים
+
+»  bara de xocolada   nom
+en   chocolate bar
+he   חטיף שוקולד
+
+»  bara inclinada   nom   «/»
+en   slash, forward slash, oblique stroke, solidus
+he   קו נטוי, לוכסן
+
+»  bara natural   nom
+en   health bar (food)
+he   חטיף בריאות, חטיף אנרגיה
+
+»  bara reta   nom
+en   straightedge (tool)
+he   סרגל
+
+»  bara reversada   nom   «\»
+en   backslash
+he   לוכסן אחורי
+
+»  bara traversante   nom
+en   crossbar
+he   מוט רוחב
+
+»  bara vertical   nom   «|»
+en   vertical slash, bar, pipe symbol
+he   קו אנכי
+
+»  baras de arjento   nom, plural
+en   silver bullion
+he   מטילי כסף
+
+»  baras de oro   nom, plural
+en   gold bullion
+he   מטילי זהב
+
+»  bareta   nom
+en   bolt (door, gun); barrette, hairslide
+he   בריח; סיכת ראש
+
+»  bari   verbo transitiva
+en   bar, block off; cross out, strike through
+he   לחסום; למחוק (על-ידי שרטוט קו)
+
+»  desbari   verbo transitiva
+en   unbar, unblock
+he   להסיר חסימה
+
+baracuda   nom
+Un pex tropical, grande e xasante, con corpo magra e mandibulas e dentes grande
+Phyraena barracuda
+en   barracuda
+he   ברקודה (דג)
+
+Barain   nom
+Un pais en Asia ueste, composada de un grupo de isolas en la Golfo Persian
+(capital: Manama)
+en   Bahrain
+he   בחריין
+
+»  baraini   ajetivo
+en   Bahraini
+he   בחרייני
+
+»  baraini   nom
+en   Bahraini
+he   בחרייני
+
+Barat   nom
+Un pais grande en Asia sude
+(capital: Delhi Nova)
+→ India
+en   India
+he   הודו
+
+»  barati   ajetivo
+→ indian
+en   Indian (person, language)
+he   הודי; הינדית
+
+»  barati   nom
+en   Indian (person, language)
+he   הודי; הינדית
+
+barata   ajetivo
+Con custa basa
+en   cheap, inexpensive
+fr   bon marché
+he   זול
+
+»  barata   nom
+en   bargain (cheap item)
+he   עסקה טובה, ‘מציאה’
+
+»  baratia   nom
+en   cheapness
+he   היות משהו זול
+
+baratamanica   nom
+Un person avar ci no vole paia per cosas
+en   cheapskate, pinchpenny, tightwad
+he   קמצן
+
+barba   nom
+Un crese de capeles sur la mento e jenas de la fas de un om; un mexa simil sur la mento de alga animales
+en   beard
+fr   barbe
+he   זקן (שיער פנים)
+
+»  barba de balena   nom
+en   baleen
+he   מזיפה (שיערות סינון בלוויתן)
+
+»  barba de jenas   nom
+en   whiskers, sideburns, sideboards
+he   פיאות לחיים
+
+»  barbeta   nom
+en   goatee
+fr   barbiche
+he   זקן תיש, זקן צרפתי
+
+»  barbi   verbo transitiva
+en   give a beard to
+he   להוסיף זקן ל- (שחקן או דמות מצוירת)
+
+»  barbida   ajetivo
+en   bearded
+he   מזוקן
+
+Barbados   nom
+Un pais e isola en la Mar Caribe este
+(capital: Bridgetown)
+en   Barbados
+he   ברבדוס
+
+»  barbadian   ajetivo
+en   Barbadian, Bajan (person, language)
+he   ברבדיאני; השפה הקריאולית בברבדוס
+
+»  barbadian   nom
+en   Barbadian, Bajan (person, language)
+he   ברבדיאני; השפה הקריאולית בברבדוס
+
+barbar   ajetivo
+Sin cultur o sivilia; primitiva; cruel, bruta
+en   barbarian, barbaric, barbarous
+fr   barbare
+he   ברברי, חסר תרבות; פרימיטיבי; אכזרי
+
+»  barbar   nom
+en   barbarian
+he   ברברי, חסר תרבות; פרימיטיבי; אכזרי
+
+»  barbaria   nom
+en   barbarism
+fr   barbarie
+he   ברבריות
+
+barbecu   nom   (dise ‘barbecú’)
+Un tipo de grilia supra un foco basa sur cual on coce comedas, spesial carne, per sabori los par la fuma; un asembla sosial do on coce comedas estra casa sur un tal grilia
+en   barbecue, barbeque, BBQ, barbie
+he   ברביקיו, גריל, מצלה, מנגל, ‘על האש’
+
+barbiturica   ajetivo
+en   barbituric
+he   ברביטורטי
+
+»  barbiturica   nom
+Un medisin calminte o cual indui dormi, derivada de asida barbiturica
+en   barbiturate
+fr   barbituratique
+he   ברביטורט (תרופה)
+
+»  asida barbiturica   nom
+Un asida organica sinteseda
+en   barbituric acid
+he   חומצה ברביטורטית
+
+barbo   nom
+Un pex grande de acuas dulse de Europa, con filetas pendente de sua boca
+Barbus
+en   barbel
+he   בינית (דג)
+
+Barbuda   nom
+Un de la du isolas major de la pais Antigua e Barbuda
+en   Barbuda
+he   ברבודה (אי)
+
+»  barbudan   ajetivo
+en   Barbudan
+he   שקשור בברבודה
+
+»  barbudan   nom
+en   Barbudan
+he   תושב ברבודה
+
+barcasa   nom
+Un barcon con fondo plana, usada per porta cargas tra canales e rios
+en   barge
+fr   péniche, barge
+he   דוברה, ארבה (כלי שיט)
+
+barco   nom
+Un veculo peti, propulsada sur acua par remos, velas o motor
+en   boat
+fr   bateau
+he   סירה
+
+»  barco-bus   nom
+en   water bus, water taxi, sightseeing boat
+he   סירת אוטובוס, מונית נהר
+
+»  barco de canal   nom
+en   canalboat, narrowboat
+he   סירת תעלות
+
+»  barco de embarca   nom
+en   ship’s tender
+he   כניע (סירה להבאת נוסעים לחוף מאוניה)
+
+»  barco de faro   nom
+en   lightvessel, lightship
+he   אוניית מגדלור
+
+»  barco de remos   nom
+en   rowboat, rowing boat
+he   סירת משוטים
+
+»  barco de salva   nom
+en   lifeboat
+fr   canot de sauvetage
+he   סירת הצלה
+
+»  barco de vela   nom
+en   sailboat
+fr   bateau à voile
+he   סירת מפרש
+
+»  barco longa   nom
+en   longboat
+he   סירה ארוכה
+
+»  barco teatral   nom
+en   showboat
+he   ספינת שעשועים
+
+»  barco tirante   nom
+en   tug, tugboat, towboat
+he   ספינת גרר, גוררת
+
+»  barco vicing   nom
+en   Viking boat, longboat, longship
+he   ספינה ויקינגית
+
+»  barceria   nom
+en   marina
+fr   marine
+he   מרינה, מעגנה
+
+»  barceta   nom
+en   dinghy
+fr   canot
+he   דינגית, דוגית
+
+»  barceta de palo   nom
+en   punt
+he   פונטית (סירת תיור קטנה)
+
+»  barci   verbo transitiva
+en   boat, convey by boat, go boating
+
+»  barcon   nom
+en   ship
+fr   navire
+he   ספינה, אוניה
+
+»  barcon abandonada   nom
+en   hulk, wreck
+he   גווה (אוניה ישנה ובלתי כשרה לשיט)
+
+»  barcon blindada   nom
+en   battleship, armored/armoured ship
+he   ספינת קרב, אונית מערכה
+
+»  barcon de carga   nom
+en   cargo ship, freighter
+he   אוניית משא
+
+»  barcon de gera   nom
+en   warship
+fr   navire de guerre
+he   ספינת מלחמה
+
+»  barcon de soldatos   nom
+en   troopship
+he   מובלת צבא, מובלת גייסות
+
+»  barcon de turi   nom
+en   cruise ship, cruise liner
+eo   krozoŝipo
+fr   navire de croisière, paquebot
+he   אוניית תענוגות
+
+»  barcon de vapor   nom
+en   steamship, steamboat
+fr   bateau à vapeur
+he   אוניית קיטור
+
+»  barcon de vela   nom
+en   sailing ship
+he   אוניית מפרשים, ספינת מפרש
+
+»  barcon prima   nom
+en   flagship
+he   אוניית הדגל, ספינת הדגל
+
+»  barcon privata   nom
+en   private ship, privateer
+he   פריבטיר (אוניה חמושה בבעלות פרטית)
+
+»  barcon ruinada   nom
+en   shipwreck
+fr   épave
+he   ספינה טרופה
+
+»  barcon spasial   nom
+en   spaceship, spacecraft, starship
+fr   vaisseau spatial
+he   חללית, ספינת חלל
+
+»  barconeria   nom
+en   boatyard, shipyard
+he   מספנה, מבדוק
+
+»  barconi   verbo transitiva
+en   ship, send by ship
+he   לשלוח באונייה, לשלוח דרך הים
+
+»  estra barco   averbo
+en   overboard
+he   מחוץ לספינה, בתוך המים
+
+»  motobarco   nom
+Un barco motorida, tipal usada per recrea
+en   motorboat, powerboat, speedboat
+he   סירת מנוע
+
+»  sur barco   averbo
+en   on board
+fr   à bord
+he   על הסיפון
+
+bardana   nom
+Un planta erbin e grande en familia de margarita, con flores cual deveni capsulas spinosa
+Arctium
+en   burdock, hordock (plant)
+he   לפה גדולה (צמח)
+
+barde   nom
+Un poesiste, tipal un ci nara epicas antica
+en   bard, skald
+fr   barde
+he   משורר נודד
+
+»  bardal   ajetivo
+en   bardic, skaldic
+he   שקשור לשירה של משוררים נודדים
+
+Barents, Mar   nom
+Un mar a norde de Noria e Rusce, un parte de la Mar Artica
+en   Barents Sea
+he   ים ברנץ
+
+baril   nom
+Un contenador grande e silindre, fabricada de lenio, metal o plastica e plu larga a sua media, tipal usada per conserva licuidas alcolosa
+en   barrel, cask, butt, hogshead
+fr   baril
+he   חבית
+
+»  barileria   nom
+en   cooperage, barrel factory
+he   מפעל לחביות
+
+»  barileta   nom
+en   keg
+he   חביונת, חבית קטנה
+
+»  barilor   nom
+en   barrelmaker, cooper
+he   חבתן, יצרן חביות
+
+bario   nom   «Ba»
+La elemento cimical con numero atomal 56, opaca a raios X e donce usosa en radiografia medical de la stomaco o intestines
+en   barium (element)
+fr   baryum
+he   בריום (יסוד)
+
+barion   nom
+Un particula suatomal con masa egal a o plu ca un proton
+en   baryon (particle)
+fr   baryon
+he   באריון (חלקיק תת-אטומי)
+
+barisentro   nom
+La sentro de masa de du o plu corpos cual orbita lunlotra
+en   barycenter/barycentre
+he   מרכז מסה
+
+»  barisentral   ajetivo
+en   barycentric
+he   שקשור למרכז מסה
+
+baritono   ajetivo
+(Un vose cantante de om) con tono entre basa e tenor
+en   baritone
+he   בריטוני
+
+»  baritono   nom
+en   baritone
+fr   baryton
+he   בריטון
+
+barmitsva   nom
+La rituo de inisia un xico iudi a la eda de 13 anios
+en   bar mitzvah
+he   בר מצווה
+
+baroca   ajetivo
+Pertinente a la stilo de arciteta, arte e musica de Europa en la sentenios 17 e 18, marcada par sua detalia ornosa
+en   baroque
+fr   baroque
+he   (אמנות) בארוק
+
+barometre   nom
+Un strumento cual mesura la presa de la atmosfera, tipal usada en la studia de clima o per mesura altia
+en   barometer
+he   ברומטר, מד לחץ-אוויר
+
+baron   nom
+Un membro de la ordina la plu basa de nobiles engles, o un ordina simil en otra paises
+en   baron, lord
+fr   baron
+he   ברון
+
+»  baronesa   nom
+en   baroness
+fr   baronne
+he   ברונית
+
+»  baroneta   nom
+en   baronet
+he   ברונט
+
+»  baronia   nom
+en   barony
+fr   baronnie
+he   ברונות
+
+basa   ajetivo
+Con poca estende a supra; situada prosima a la tera o otra funda; (un parte) situada su la loca tipal; con grado o prestijia min ca la majoria; (un tono) con frecuentia peti; (acua o un vale) no profonda; (un person) desplasente, repulsante, noncompatiosa, bruta o con mal maneras
+en   low (position); lower (part); short (height); shallow (depth); deep (tone); low, mean, unkind, base
+fr   bas; grave (voix)
+he   (צליל או מיקום) נמוך; רדוד; שפל, בזוי
+
+»  basa   nom
+en   bottom, bottom half, lower part
+fr   le bas
+he   תחתית, בסיס, החלק התחתון
+
+»  basa de bicini   nom
+en   bikini bottom
+he   החלק התחתון של ביקיני
+
+»  basa de catran   ajetivo
+en   low in tar, low-tar (cigarette)
+he   דל עטרן
+
+»  a basa   averbo
+en   down; downward, downwards
+fr   en bas
+he   למטה, כלפי מטה, לתחתית
+
+»  a basa de   preposada
+en   near the bottom of; down, towards the bottom of
+fr   en bas de
+he   בתחתית ה-
+
+»  basi   verbo nontransitiva
+en   lower
+fr   baisser
+he   להתנמך
+
+»  basi   verbo transitiva
+en   lower, reduce in height; debase, degrade; demote
+fr   abaisser
+he   להנמיך; להשחית; להוריד בדרגה
+
+»  basi   esclama
+‹ basi la regulas! ›
+en   down with ..., no more ...
+eo   for la ...
+he   הלאה ה..., לא עוד ...
+
+»  basi   nom
+en   abasement (action); demotion
+he   הנמכה; השפלה, ביזוי; הורדה בדרגה
+
+»  basi se   verbo
+en   lower oneself, abase oneself, belittle oneself, deign (to do)
+he   לרדת ברמה; להתבזות
+
+»  basi sua regarda   verbo
+en   look down
+he   להשפיל מבט
+
+»  basia   nom
+en   lowness; meanness; abasement (state)
+he   המצב של להיות נמוך; המצב של להיות שפל
+
+»  plu basa   ajetivo
+en   lower, deeper, shorter
+he   נמוך יותר, עמוק יותר
+
+basalto   nom
+Un roca volcanal negra con particulas pico
+en   basalt
+fr   basalte
+he   בזלת
+
+bascetbal   nom
+Un sporte juada entre du ecipos de sinco juores, en cual on reseta puntos per lansa un bal tra un anelo a cada fini de la campo
+en   basketball (sport)
+fr   basketball
+he   כדורסל
+
+»  bascetbalor   nom
+en   basketball player
+he   שחקן כדורסל, כדורסלן
+
+base   nom
+La loca major de funsiona, spesial en operas militar; un materia usada como un funda per pinta o cosmetica; (en cimica) un materia capas de reata con un asida per formi un sal e acua, o de aseta o neutri iones de idrojen; (en gramatica) la forma noninfletada de un verbo; (en matematica) la numero fundal de un scala de conta; (en basebal) un de la cuatro locas cual on debe traversa en un turno per gania un punto
+en   base (headquarters, chemistry, linguistic, numbers, baseball)
+fr   base
+he   (צבא, כימיה, מתמטיקה, בלשנות) בסיס
+
+basebal   nom
+Un sporte con du ecipos de nove juores en cual on colpa un bal peti con un baston e core sirca un diamante de bases
+en   baseball, hardball
+fr   baseball
+he   בייסבול, כדור בסיס
+
+»  basebalor   nom
+en   baseball player
+he   שחקן בייסבול
+
+basil   nom
+Un erba bonodorosa en familia de menta, nativa de Asia tropical; la folias de esta, usada en cosina
+Ocimum basilicum
+en   basil
+fr   basilic
+he   בזיליקום, ריחן
+
+basilica   nom
+Un construida retangulo con du series de colonas e un apside semisirculo, usada en Roma antica e como un eglesa cristian
+en   basilica
+fr   basilique
+he   בזיליקה
+
+basilisco   nom
+Un lezardo longa, magra e briliante verde de America Sentral; (en mitos) un retil con regarda o respira matante, cual emerji de un ovo poneda par un gal mas e caldida par un serpente
+Basiliscus
+en   basilisk (lizard, mythology)
+fr   basilic
+he   בסיליסק (לטאה, יצור מיתולוגי)
+
+basilo   nom
+Un bateria con forma de paleta, cual causa alga maladias
+en   bacillus (bacterium)
+he   בצילוס, מתג (חיידק)
+
+basin   nom
+Un depresa natural en la surfas de la tera
+en   basin, bowl (geography)
+fr   bassin (géographie)
+he   (גיאוגרפיה) אגן
+
+»  Basin Grande   nom
+Un rejion seca en la SUA, a ueste de la Montes Rocosa
+en   Great Basin
+fr   grande Bassin des États-Unis
+he   האגן הגדול
+
+»  basin idrografial   nom
+en   watershed
+he   אגן ניקוז
+
+basmati   nom
+Un varia de ris longa, magra e bonodorosa de Barat
+en   basmati rice
+he   אורז בסמטי
+
+baso   ajetivo
+(Un vose cantante de om) con tono la plu basa; (un strumento) con tono la plu basa en sua familia
+en   bass (music)
+he   (מוזיקה) בס
+
+»  baso   nom
+en   bass (music)
+fr   basse (musique)
+he   (מוזיקה) בס
+
+»  basiste   nom
+en   bassist, bass player
+fr   bassiste
+he   בסיסט, נגן גיטרת בס
+
+basofilia   nom
+en   basophilia
+fr   basophilia
+he   (רפואה) בזופיליה
+
+»  basofilica   ajetivo
+(Un selula o sua contenidas) capas de es fasil colorida par tinjentes alcalin
+en   basophilic
+fr   basophile
+he   בזופילי
+
+»  basofilica   nom
+en   basophil
+fr   basophile
+he   בזופיל
+
+bason   nom
+La strumento basa en la familia de oboe, con anxa duple
+en   bassoon
+fr   basson
+he   בסון (כלי נגינה)
+
+Bass, Streta   nom
+Un streta entre Australia e Tasmania
+en   Bass Strait
+he   מיצר בס
+
+basta   verbo nontransitiva
+Es plu ca sufisinte
+en   be ample, be more than enough, more than suffice
+fr   être plus qu’assez, plus que suffisant
+he   להיות שופע, להיות מעל הצורך
+
+»  bastante   ajetivo
+en   ample, more than enough, more than sufficient
+he   שופע, מעל ומעבר
+
+»  bastante   averbo
+en   amply, enough, sufficiently
+fr   assez, amplement
+he   בשפע
+
+bastardo   nom
+(Istorial) un person con jenitores nonsposida con lunlotra; (insultante) un person nonplasente o despetada
+en   bastard
+fr   bâtard
+he   ממזר
+
+»  bastardia   nom
+en   bastardy, illegitimacy
+he   ממזרות
+
+bastion   nom
+Un parte protendente de un fortres, angulida de la linia de un mur, permetente ce defendores xuta en dirijes diversa
+en   bastion, bulwark
+he   בסטיון, מגנן
+
+basto   nom
+Un ramo magra e reta de un arbor; un peso magra de lenio, tipal usada per suporta o mesura; un peso magra de metal, usada per prepara la carga de un fusil de antecarga
+en   stick, cane, rod; ramrod
+fr   bâton, canne
+he   מקל, מוט; חוטר
+
+»  basto cavalin   nom
+en   hobbyhorse
+he   סוס נדנדה
+
+»  basto curva   nom
+en   crook, staff, crosier, crozier
+he   מטה עם ראש מעוקל
+
+»  basto de mesura   nom
+en   measuring stick, measuring rod
+fr   jauge
+he   מוט מידה
+
+»  basto de olio   nom
+en   dipstick
+fr   jauge de niveau d’huile
+he   מוט למדידת כמות שמן
+
+»  basto de pasea   nom
+en   walking stick
+he   מקל הליכה
+
+»  basto de tambur   nom
+en   drumstick
+he   מקל תיפוף
+
+»  basto de zucar   nom
+en   candy cane
+fr   sucre d’orge en forme de canne
+he   מקל סבא (ממתק)
+
+»  basto eletrical   nom
+en   electric prod, stun baton
+he   שוקר חשמלי (לבקר)
+
+»  basto majial   nom
+en   wand, magic wand
+he   מטה קסם, שרביט קסמים
+
+»  basteta   nom
+en   stick, twig, small branch
+fr   bâtonnet
+he   זרד, ענף קטן
+
+»  basteta de dentes   nom
+en   toothpick
+fr   cure-dent
+he   קיסם שיניים
+
+»  basti   verbo transitiva
+en   cane (punish)
+he   להלקות במקל
+
+»  baston   nom
+Un basto spesa o pesosa, tipal usada per colpa
+en   bat, club, truncheon, billy club, police club, nightstick, baton; skittle, pin (bowling)
+fr   massue, matraque, gourdin
+he   אלה, נבוט, מחבט; פין באולינג
+
+»  baston de golf   nom
+en   golf club
+he   מקל גולף
+
+»  bastoni   verbo transitiva
+en   bludgeon, batter, cudgel, club, beat, thrash, clobber, pummel
+fr   matraquer
+he   להכות באלה, לחבוט, להלום
+
+»  de bastetas   ajetivo
+en   wicker
+fr   en osier
+he   קלוע, עשוי מנצרים
+
+batalia   verbo transitiva
+Luta contra o combate (algun) tra un periodo longa e difisil, como du fortes militar; (metafor) labora o campania forte e ostinosa contra (un problem)
+en   battle, combat, fight
+fr   batailler, combattre
+he   להילחם, להיאבק
+
+»  batalia   nom
+en   battle, fight, fighting, combat
+fr   bataille, combat
+he   קרב, מאבק
+
+»  batalia per   verbo
+en   campaign for
+he   להילחם למען
+
+»  batalior   nom
+en   fighter, combatant; campaigner
+fr   combattant
+he   לוחם
+
+batalion   nom
+Un grupo grande de soldatos preparada per batalia; (metafor) un grupo grande de persones campaniante per un gol comun
+en   battalion
+fr   bataillon
+he   גדוד
+
+bate   verbo transitiva
+Colpa forte (un person o animal) a multe veses per dole o feri el, tipal con un baston o flajelo; colpa forte (un cosa) a multe veses per crea un ruido o ritmo, o per despolvi lo; marteli (metal) per formi lo; turba o secute (crema, ovos o simil) per cambia lo a un spuma
+en   beat, thrash, thresh, batter, pound, pummel; beat up, do over; slam (door); flap; whip (into a froth), churn
+fr   battre
+he   להכות, להרביץ; לטרוק; לדוש; לחבוץ
+
+»  batador   nom
+en   beater, whisk, churn; thresher; clapper (bell)
+he   מקצפה, מחבצה; מכונת דישה; ענבל הפעמון
+
+»  batador eletrical   nom
+en   beater
+fr   batteur électrique
+he   מקצפה חשמלית
+
+»  batador engranada   nom
+en   crank beater, eggbeater
+he   מקצפה ידנית
+
+»  bateta   verbo transitiva
+en   knock, rap, tap (at door); beat (heart); flutter (wings)
+fr   battre (cœur, ailes)
+he   לנקוש, לדפוק; לפעום (לב); לנפנף (כנפיים)
+
+»  bateta   nom
+en   knock, rap, tap (at door); beat (heart); flutter (wings)
+he   נקישה, דפיקה; פעימה (לב); נפנוף (כנפיים)
+
+»  bateta de cor   nom
+en   heartbeat
+fr   battement de cœur
+he   פעימת לב, דופק
+
+»  bateta de ungulas   nom
+en   hoofbeat
+he   נקישת פרסה
+
+»  batetador   nom
+en   knocker (door)
+he   מרתוק (התקן הקשה על הדלת)
+
+bateovo   nom, composada (verbo+nom)
+Un util de cosini per bate ovos o crema
+en   eggbeater
+he   מקציף ביצים
+
+bateporte   nom, composada (verbo+nom)
+Un ojeto de metal o lenio xarnierida a un porte e bateda par visitores per atrae atende
+en   door knocker
+fr   heurtoir
+he   מרתוק (התקן הקשה על הדלת)
+
+bateria   nom
+Un membro de un grupo multe grande de microbios uniselulal, con mures selulal ma sin organetas e sin nucleo, de cual alga causa maladias
+Bacteria, Eubacteria
+en   bacterium, eubacterium
+fr   bactérie
+he   חיידק, בקטריה
+
+»  antibaterial   ajetivo
+en   antibacterial, antibiotic
+he   אנטיביוטי
+
+»  antibaterial   nom
+en   antibacterial, antibiotic
+he   אנטיביוטיקה
+
+»  baterial   ajetivo
+en   bacterial
+fr   bactérien
+he   חיידקי, בקטריאלי
+
+»  baterias   nom, plural
+en   bacteria
+he   חיידקים, בקטריות
+
+bateriolojia   nom
+La studia de baterias
+en   bacteriology
+fr   bactériologie
+he   בקטריולוגיה
+
+»  bateriolojial   ajetivo
+en   bacteriological
+fr   bactériologique
+he   בקטריולוגי
+
+»  bateriolojiste   nom
+en   bacteriologist
+fr   bactériologiste
+he   בקטריולוג
+
+baterioterapia   nom
+La usa de baterias transplantada en un organisme
+en   bacteriotherapy
+he   בקטריותרפיה
+
+bateriside   nom
+Un materia cual mata baterias
+en   bactericide
+he   קוטל חיידקים
+
+baterivor   ajetivo
+(Un microbio) cual come baterias
+en   bacterivorous
+he   שניזון מחיידקים
+
+»  baterivor   nom
+en   bacterivore
+he   שניזון מחיידקים
+
+batic   nom
+Un metodo orijinante en Djava per produi desinias colorosa sur stofas par tinje los pos proteje alga partes con sera; un stofa produida en esta modo
+en   batik (dyeing)
+he   בטיק (טכניקת צביעת בדים)
+
+batiscopio   nom
+Un aparato per regarda su la surfas de acua
+en   bathyscope, aquascope
+he   מכשיר לראייה מתחת לפני המים
+
+batisfera   nom
+Un cambra sfera cual pote porta persones per oserva su mar, tenida par cordon a un barcon
+en   bathysphere
+he   תא צלילה
+
+batisme   nom
+Un seta de protestantisme cual promove la batiza sola de adultes e par sumerji completa
+en   Baptist religion
+he   בפטיזם
+
+»  batiste   ajetivo
+en   Baptist
+he   בפטיסטי
+
+»  batiste   nom
+en   Baptist
+he   בפטיסט
+
+batista   nom
+Un stofa delicata de lino o coton
+en   batiste (fabric)
+he   בטיסט (אריג)
+
+batiza   verbo transitiva
+La sperde de acua sur la fronte de (un person, tipal un bebe), o la sumerji completa de (algun), per simboli puri o rejenera e la entra a cristianisme, tipal acompaniada par un dona de nom
+en   baptize/baptise, christen
+fr   baptiser
+he   (נצרות) להטביל
+
+»  batiza   nom
+en   baptism, christening
+fr   baptême
+he   (נצרות) טבילה, הטבלה
+
+»  batizeria   nom
+en   baptistry, baptistery
+he   (נצרות) אגן טבילה, בפטיסטריום
+
+»  rebatiza   verbo transitiva
+en   rebaptize/rebaptise
+he   (נצרות) להטביל מחדש
+
+batmitsva   nom
+La rituo de inisia un xica iudi a la eda de 12 anios e un dia
+en   bat mitzvah
+he   בת מצווה
+
+bava   verbo nontransitiva
+(Un licuida) cade lenta en gotas o un corente magra
+en   dribble, trickle; drool, slobber
+fr   baver
+he   לטפטף, לנטוף; להזיל ריר, לרייר
+
+»  bava   verbo transitiva
+Cade (saliva) de sua boca
+en   dribble, trickle; drool, slobber
+he   לטפטף, לנטוף; להזיל ריר, לרייר
+
+»  bava   nom
+en   dribble, trickle; drool, slobber
+fr   bave
+he   טפטוף; הזלת ריר
+
+bazar   nom
+Un mercato en paises de Asia ueste; un vende de benes per recolie reservas, tipal per un asosia carital
+en   bazaar; jumble sale, fete
+fr   bazar
+he   בזאר, יריד
+
+bazuca   nom
+Un cazu trompetin; un lansaroceto tubo, usada contra tances prosima
+en   bazooka
+he   בזוקה
+
+bearnes   ajetivo
+Pertinente a un rejion en Frans sude-ueste o a sua cosini, spesial a un salsa rica con jalas de ovos e estragon
+en   Béarnaise (French region, sauce)
+he   ביארנז (איזור בצרפת, רוטב)
+
+beatifia   verbo transitiva
+(La Pape) declara ce (un person mor) es en paradiso, como un paso a santi, e ce on pote prea a el
+en   beatify
+he   להכריז (על-ידי האפיפיור) שאדם מת נכנס לגן-עדן
+
+»  beatifia   nom
+en   beatification
+he   הכרזה (על-ידי האפיפיור) שאדם מת נכנס לגן-עדן
+
+»  beatifiante   ajetivo
+en   beatific
+he   בעל אושר עילאי (בגן-עדן)
+
+Beaufort, Mar   nom   (dise ‘bofort’)
+Un mar a norde de Alaska e Yukon, un parte de la Mar Artica
+en   Beaufort Sea
+he   ים בופור
+
+bebe   ajetivo
+en   baby, babe, infant, tot
+fr   de bébé
+he   תינוק; גור
+
+»  bebe   nom
+Un enfante multe joven, spesial un ci ia nase resente; un animal multe joven o nova naseda
+en   baby, babe, infant, tot
+fr   bébé
+he   תינוק; גור
+
+»  bebe de la buma   nom
+en   baby boomer
+he   שנולד בדור הבייבי בום
+
+»  bebes   nom, plural
+en   babies, litter
+he   תינוקות; שגר
+
+»  bebeta   nom
+en   newborn, neonate
+fr   nouveau-né
+he   יילוד, תינוק בן-יומו
+
+»  bebia   nom
+en   babyhood, infancy
+he   ינקות
+
+bebop   nom
+Un tipo de jaz de la desenio de 1940, con armonia e ritmos complicada
+en   bebop (music)
+he   (מוזיקה) ביבופ
+
+becasia   nom
+Un avia de bosces en familia de calidris, con beco longa, plumas brun e camoflada, e un moda distinguida de vola esibinte
+Scolopax
+en   woodcock (bird)
+fr   bécasse
+he   חרטומן (ציפור)
+
+becerel   nom
+La unia internasional per mesura radioativia, egal a un desintegra per secondo
+en   becquerel (unit of radioactivity)
+fr   becquerel
+he   בקרל (יחידת מידה לרדיואקטיביות)
+
+beco   nom
+La mandibulas cornin e estendeda de un avia o otra animal; la nas e boca estendeda de un animal, tipal un mamal; la parte de un strumento musical cual on teni entre o contra sua labios; la fini puntida de un pen, cual distribui la inca sur la surfas de scrive; la parte de un carafa cual gida la flue de un licuida versada
+en   beak, bill; snout, muzzle; mouthpiece (music); nib (pen); spout (jug)
+fr   bec
+he   (אנטומיה) מקור; חוטם; (מוזיקה) פיה; שפיץ (של עט); זרבובית
+
+»  beco de Bunsen   nom
+en   Bunsen burner
+fr   bec Bunsen
+he   מבער בונסן
+
+»  becin   ajetivo
+en   beaklike
+he   דמוי מקור
+
+becobarcin   nom, composada (nom+ajetivo)
+Un eron con beco larga, negra e culierin
+Cochlearius cochlearius
+en   boat-billed heron, boatbill (bird)
+fr   savacou huppé
+he   אנפת מקור-סירה (ציפור)
+
+becocrusada   nom, composada (nom+ajetivo)
+Un pinson spesa de cual la mas es tipal roja e la fema es tipal oliva, con mandibulas crusada per estrae semes de conos de coniferes
+Loxia
+en   crossbill (bird)
+fr   bec-croisé
+he   צלוב-מקור (ציפור)
+
+becoibisin   nom, composada (nom+ajetivo)   (dise ‘becoïbisin’)
+Un avia vadante de la planos alta de Asia sentral, con beco longa e curvida a su
+Ibidorhyncha struthersii
+en   ibisbill (bird)
+fr   bec-d’ibis tibétain
+he   איבידית (ציפור)
+
+becosapatin   nom, composada (nom+ajetivo)
+Un siconia african con plumas gris e beco multe grande con forma de zoco
+Balaeniceps rex
+en   shoebill (bird)
+fr   bec-en-sabot du Nil
+he   מנעלן (ציפור)
+
+becosisorin   nom, composada (nom+ajetivo)
+Un avia de mar con alas longa, relatada a la sternas, ci come par vola con sua mandibula basa su la acua
+Rynchopidae, Rynchops
+en   skimmer (bird)
+fr   bec-en-ciseaux
+he   גזרן (ציפור)
+
+becospatulin   nom, composada (nom+ajetivo)
+Un avia vadante, relatada a la ibises, con plumas xef ros o blanca e un beco longa con fini plata e larga
+Platalea
+en   spoonbill (bird)
+fr   spatule (oiseau)
+he   כפן (ציפור)
+
+becospesa   nom, composada (nom+ajetivo)
+Un pinson con beco spesa e cono, tipal con plumas briliante colorida
+Carduelinae
+en   grosbeak (bird)
+fr   gros-bec
+he   ציפור עבת-מקור
+
+bedel   nom
+Un ofisior de rituos en un eglesa o universia o instituida simil
+en   beadle (officer)
+fr   bedeau
+he   (דת) שמש
+
+begonia   nom
+Un planta erbin de climas calda, con flores briliante colorida ma composada sola de sepales e no petales
+Begonia
+en   begonia
+fr   bégonia
+he   בגוניה (צמח)
+
+Beijing   nom
+La site capital de Jonguo
+en   Beijing, Peking
+he   בייג’ינג, פקינג
+
+beje   ajetivo
+Pal jalin brun
+en   beige
+fr   beige
+he   בז’, צבע חום-בהיר
+
+bela   ajetivo
+Estetical plasente a la sensas o mente; atraosa
+en   beautiful, lovely, pretty, comely, stunning, gorgeous, elegant, handsome
+fr   beau, joli
+he   יפה, יפהפה
+
+»  bela   nom
+en   belle, beau
+he   אישה יפה
+
+»  beleria   nom
+en   beauty salon, beauty shop, beauty parlor/parlour
+fr   salon de beauté
+he   מכון יופי
+
+»  beleta   ajetivo
+en   pretty, cute, pert
+he   נאה, חמוד
+
+»  beleta   nom
+en   pretty thing, pretty one, cutie
+fr   jolie fille
+he   חמוד, חמודה
+
+»  beli   verbo nontransitiva
+en   become beautiful
+fr   embellir
+he   להתייפייף
+
+»  beli   verbo transitiva
+en   beautify, make beautiful, embellish, prettify
+fr   embellir
+he   לייפות
+
+»  beli   nom
+en   beautification
+fr   embellissement
+he   ייפוי, התייפות
+
+»  belia   nom
+en   beauty, loveliness, prettiness, pulchritude
+fr   beauté
+he   יופי
+
+»  estrema bela   ajetivo
+en   extremely beautiful, exquisite, gorgeous, ravishing
+he   יפה מאוד, מהמם
+
+beladona   nom
+Un planta venenosa de Europa con flores purpur e frutas negra simil a serisas; un droga preparada de la folias e radises de esta, conteninte atropina
+Atropa belladonna
+en   belladonna, deadly nightshade
+fr   belladone
+he   בלדונה (צמח)
+
+Belau   nom
+Un pais en la Mar Pasifica ueste, composada de un grupo de sirca sento isolas
+(capital: Ngerulmud)
+en   Palau
+he   פלאו
+
+»  belau   ajetivo
+en   Palauan
+he   שקשור במדינה פלאו
+
+»  belau   nom
+en   Palauan
+he   תושב פלאו
+
+belga   ajetivo
+Pertinente a un popla celta de Galia norde
+en   Belgic
+fr   belgique
+he   שקשור בבלגים (עם עתיק)
+
+»  belgas   nom, plural
+en   Belgae (ancient tribe)
+fr   Belge
+he   בלגים (עם עתיק)
+
+Beliz   nom
+Un pais en America Sentral a la costa de la Mar Caribe a este de Guatemala
+(capital: Belmopan)
+en   Belize
+he   בליז
+
+»  belizan   ajetivo
+en   Belizian
+he   בליזי
+
+»  belizan   nom
+en   Belizian
+he   בליזי
+
+Beljia   nom
+Un pais en Europa ueste entre Nederland e Frans
+(capital: Bruxelles)
+en   Belgium
+fr   Belgique
+he   בלגיה
+
+»  beljes   ajetivo
+en   Belgian
+fr   belge
+he   בלגי
+
+»  beljes   nom
+en   Belgian
+fr   Belge
+he   בלגי
+
+beltin   nom
+Un festa antica de la celtas, selebrada a la dia prima de maio
+en   beltane (pagan holiday)
+he   בלטיין (חג פגני)
+
+beluga   nom
+Un balena peti, con dentes blanca, relatada a la narval, vivente en manadas, xef prosima a la costas de la Mar Artica
+Delphinapterus leucas
+en   beluga, white whale
+fr   béluga
+he   לבנתן, בלוגה
+
+belvedere   nom
+Un strutur con teto, tipal abrida a cada lado, cual ofre un vista bela
+en   belvedere, gazebo
+he   (אדריכלות) בלוודרה
+
+bemol   ajetivo
+(Un nota) plu basa par un semitono ca un nota spesifada; (un strumento o nota) malajustada e sonante su la altia espetada
+en   flat (music)
+fr   bémol
+he   (מוזיקה) במול
+
+»  bemol   nom
+en   flat (music)
+fr   bémol
+he   (מוזיקה) במול
+
+ben   nom
+Un cosa cual on vende o compra
+en   item for sale; commodity
+fr   article, marchandise
+he   מצרך
+
+»  beneria   nom
+en   warehouse, storehouse, repository, depot
+fr   entrepôt
+he   מחסן
+
+»  benes   nom, plural
+en   goods, ware, wares, merchandise, commodities
+fr   fournitures
+he   מצרכים, טובין, סחורה
+
+»  benes de arjento   nom, plural
+en   silverware
+fr   argenterie
+he   כלי כסף
+
+»  benes de coce   nom, plural
+en   cookware
+fr   matériel de cuisine
+he   כלי בישול
+
+»  benes de cose   nom, plural
+en   haberdashery, notions
+fr   matériel de couture
+he   מוצרי סדקית, גלנטריה
+
+»  benes de cosina   nom, plural
+en   kitchenware
+he   כלי מטבח
+
+»  benes de fero   nom, plural
+en   ironware
+he   כלי מתכת
+
+»  benes de vitro   nom, plural
+en   glassware
+he   כלי זכוכית
+
+»  benes dorada   nom, plural
+en   giltware
+he   כלים מוזהבים
+
+»  benes furada   nom, plural
+en   stolen goods, booty, loot, swag
+he   שלל, סחורה גנובה
+
+»  benes nonlegal   nom, plural
+en   illegal goods, contraband
+he   סחורה לא חוקית, סחורה מוברחת
+
+benedictin   ajetivo
+Pertinente a un ordina de monces ci segue la regulas de San Benedicto
+en   Benedictine (monk)
+fr   bénédictin
+he   בנדיקטיני
+
+»  benedictin   nom
+en   Benedictine (monk)
+fr   bénédictin
+he   בנדיקטיני
+
+benefica   verbo nontransitiva
+Reseta o gania un vantaje o profita (de alga aveni)
+en   benefit, gain advantage
+fr   bénéficier, profiter
+he   להפיק תועלת, להרוויח
+
+»  benefica   verbo transitiva
+en   benefit, give advantage to, favor/favour
+fr   faire profiter, favoriser
+he   להביא תועלת
+
+»  benefica   nom
+en   benefit, behalf, sake; perk
+fr   profit, bénéfice
+he   תועלת, רווח, יתרון; הטבה
+
+»  beneficada   nom
+en   beneficiary
+fr   bénéficiaire
+he   מוטב
+
+»  beneficante   ajetivo
+en   beneficial, salutary, conducive
+fr   bénéfique
+he   מועיל, מביא תועלת, תורם ל-
+
+»  beneficor   nom
+en   benefactor
+fr   bienfaiteur
+he   תורם, נדבן
+
+Bengala   nom
+Un rejion de Asia sude cual conteni la deltas de la Rios Ganga e Brahmaputra
+en   Bengal
+he   בנגל
+
+»  Golfo Bengala   nom
+Un parte de la Mar Indian a sude de Bangladex, a este de Barat, e a ueste de Miama e Tai
+en   Bay of Bengal
+he   מפרץ בנגל
+
+Benin   nom
+Un pais en Africa ueste, a ueste de Nijeria
+(capital: Porto-Novo)
+en   Benin
+he   בנין
+
+»  benines   ajetivo
+en   Beninese, Beninois
+he   שקשור לבנין
+
+»  benines   nom
+en   Beninese, Beninois
+he   תושב בנין
+
+benzen   nom
+Un idrocarbono licuida, volatil e sin color, trovada en catran de carbon e petrolio, e usada en sintese cimical
+en   benzene
+he   (כימיה) בנזן
+
+»  anelo de benzen   nom
+en   benzene ring
+he   (כימיה) טבעת בנזן
+
+benzoica   ajetivo
+en   benzoic
+he   (כימיה) בנזואי
+
+»  asida benzoica   nom
+Un solida cristal sin color e un asida simple de carbosil
+en   benzoic acid
+he   (כימיה) חומצה בנזואית
+
+benzodiazepina   nom
+Cualce de alga composadas organica eterosiclal, usada como calmintes
+en   benzodiazepine
+
+Beograd   nom
+La site capital de Serbia
+en   Belgrade
+he   בלגרד
+
+berber   ajetivo
+Pertinente a la popla orijinal de Africa norde o a sua linguas afroasian
+en   Berber
+fr   berbère
+he   ברברי (קבוצה אתנית)
+
+»  berber   nom
+en   Berber
+fr   Berbère
+he   ברברים (קבוצה אתנית)
+
+berberis   nom
+Un arboreta spinosa cual produi flores jala e bacas roja o blu-negra
+Berberis
+en   barberry, berberis (plant)
+fr   berbéris, épine-vinette
+he   ברברית (צמח)
+
+bercelio   nom   «Bk»
+La elemento cimical con numero atomal 97
+en   berkelium (element)
+he   ברקליום (יסוד)
+
+bereta   nom
+Un xapeta plata de feltro o otra materia; un xapeta cuadro con tre protendes plata, portada par eglesores catolica
+en   beret; biretta
+fr   béret
+he   כומתה, ברט
+
+bergamota   nom
+Un tipo de orania de cual sua casca conteni un materia oliosa cual on usa en cosmeticas e per sabori te
+Citrus bergamia
+en   bergamot, bergamot orange
+he   תפוז ברגמוט
+
+»  bergamoto   nom
+en   bergamot tree
+he   עץ ברגמוט
+
+beril   nom
+Un mineral transparente de jala, blu o verde pal, usada como un jem
+en   beryl (gem)
+eo   berilo
+he   בריל (מינרל)
+
+berilio   nom   «Be»
+La elemento cimical con numero atomal 4, un metal dur e gris
+en   beryllium (element)
+he   בריליום (יסוד)
+
+Bering   nom
+en   Bering
+he   ברינג
+
+»  Mar Bering   nom
+Un estende de la Mar Pasifica norde entre Sibir e Alaska, bordada par la Isolas Aleutian a la sude
+en   Bering Sea
+he   ים ברינג
+
+»  Beringia   nom
+en   Beringia
+he   ברינגיה (האיזור סביב מיצר ברינג)
+
+»  Streta Bering   nom
+en   Bering Strait
+he   מיצר ברינג
+
+Bermuda   nom
+Un teritorio ultramar de Britan, composada de sirca 150 isolas peti, en la Mar Atlantica a este de America Norde
+en   Bermuda
+he   איי ברמודה
+
+»  bermudan   ajetivo
+en   Bermudan
+he   שקשור לאיי ברמודה
+
+»  bermudan   nom
+en   Bermudan
+he   תושב איי ברמודה
+
+besa   verbo transitiva
+Toca (un person o cosa) con sua labios como un indica de ama, desira sesal, adora o saluta
+en   kiss, smooch
+fr   embrasser, baiser
+he   לנשק, להתנשק
+
+»  besa   nom
+en   kiss
+fr   baiser
+he   נשיקה
+
+»  beseta   verbo transitiva
+en   peck, lightly kiss
+fr   faire la bise
+he   לנשק קלות, לנשק על הלחי
+
+»  beseta   nom
+en   peck, light kiss
+fr   bise, bisou
+he   נשיקה קלה, נשיקה על הלחי
+
+besaculo   nom, composada (verbo+nom)
+(Nonformal) un adulor
+en   (colloquial) kiss-ass, kiss-up (sycophant)
+he   חנפן
+
+besaorea   nom, composada (verbo+nom)
+(Nonformal) un adulor
+en   (colloquial) kiss-ass, kiss-up (sycophant)
+he   חנפן
+
+bestia   nom
+Un mamal domada; cualce animal grande e cuatropede
+en   beast
+fr   bête
+he   בהמה
+
+»  bestia de carga   nom
+en   pack animal, beast of burden, workhorse
+he   בהמת משא
+
+»  bestia de servi   nom
+en   service animal, support animal, helper animal
+he   חיית עזר (לנכים)
+
+»  bestia de tira   nom
+en   draft/draught animal
+he   בהמת עבודה
+
+»  bestia imajinal   nom
+en   imaginary beast
+he   חיה דמיונית
+
+»  bestin   ajetivo
+en   bestial
+fr   bestial
+he   בהמי
+
+»  bestinia   nom
+en   bestiality
+he   בהמיות
+
+»  bestias   nom, plural
+en   beasts, livestock
+he   חיות משק
+
+beta   nom
+Un planta erbin, de cual sua radis es comeda par umanas e animales domada e es prosededa per zucar
+Beta vulgaris
+en   beet, beetroot (plant, vegetable)
+fr   betterave
+he   סלק (צמח)
+
+beta   nom   «Β β»
+La letera du de la alfabeta elinica
+en   beta (Greek letter)
+he   בטא (אות יוונית)
+
+»  a beta   averbo
+en   in beta, being beta-tested
+he   בגרסת בטא
+
+»  varia de beta   nom
+en   beta version
+he   גרסת בטא
+
+betel   nom
+Un planta trepante e perene de Asia, de cual sua folias es usada como un stimulante
+Piper betle
+en   betel (plant, stimulant)
+he   פלפל הודי
+
+beton   nom
+Un materia ru e pesosa, usada en construi, composada de un misca de calculos, arena, semento e acua
+en   concrete
+fr   béton
+he   בטון
+
+»  beton fortida   nom
+en   reinforced concrete
+he   בטון מזוין
+
+»  de beton   ajetivo
+en   (made of) concrete
+he   מבוטן, עשוי מבטון
+
+betong   nom
+Un marsupio peti e simil a un rodente, nativa de Australia ma aora perilida
+Bettongia
+en   bettong (marsupial)
+he   בטונג (חיית כיס)
+
+betonica   nom
+Un planta eurasian en familia de mento, con spigas de flores ostentosa purpur
+Stachys officinalis
+en   betony, bishopwort (plant)
+he   אשבל (צמח)
+
+betul   nom
+Un arbor magra e rapida cresente cual ave un cortex magra e produi amentos, trovada en locas norde
+Bertula
+en   birch
+fr   bouleau
+he   שדר, לבנה (עץ)
+
+bevi   verbo transitiva
+Prende (un licuida) en la boca e engoli lo
+en   drink, imbibe, quaff
+fr   boire
+he   לשתות, לגמוע
+
+»  bevable   ajetivo
+en   drinkable, potable
+fr   potable
+he   ראוי לשתייה
+
+»  beveria   nom
+en   drinking establishment, pub, tavern
+fr   débit de boissons
+he   פאב, בר, מסבאה
+
+»  bevida   nom
+en   drink, beverage, libation
+fr   boisson
+he   משקה
+
+»  bevida de alcol   nom
+en   alcoholic drink
+fr   boisson alcoolisée
+he   משקה אלכוהולי
+
+»  bevida ofreda   nom
+en   libation
+he   נסך (משקה כמנחה לאל)
+
+»  bevida sin alcol   nom
+en   non-alcoholic drink
+fr   boisson sans alcool
+he   משקה ללא אלכוהול
+
+»  nonbevor   nom
+en   non-drinker
+he   שאינו שותה
+
+»  nonbevor de alcol   nom
+en   non-drinker of alcohol, teetotaler/teetotaller
+he   מתנזר מאלכוהול
+
+bexamel   nom
+Un salsa blanca de lete, erbas e otra saborintes
+en   bechamel, white sauce
+he   בשאמל (רוטב)
+
+bezica   nom
+Un jua de cartas per du persones usante 64 cartas (la sete asta la as de du pacetas)
+en   bezique (card game)
+he   בזיק (משחק קלפים)
+
+bezoar   nom
+Un coagula peti e petrin cual pote formi en la stomaco de alga animales, tipal remasticantes, e cual on ia usa istorial como un remedia per alga maladias
+en   bezoar (biology)
+he   אבן בזואר
+
+bi-   prefisa
+A du veses, duple
+en   bi-
+he   (קידומת טכנית) פעמיים, כפול
+
+biatlon   nom
+Un concurso atletal cual combina du sportes, tipal corsa de sci e spara a blancos
+en   biathlon
+fr   biathlon
+he   ביאתלון
+
+»  biatlonor   nom
+en   biathlete
+he   ביאתלט
+
+Biblia   nom
+La libro santa de iudisme e, con ajunta de la Atesta Nova, de cristianisme
+en   Bible
+fr   Bible
+he   תנ"ך
+
+»  biblial   ajetivo
+en   biblical
+fr   biblique
+he   תנכי
+
+biblio-   prefisa
+Libros
+en   biblio-
+he   (קידומת טכנית) שקשור בספרים
+
+bibliofilia   nom
+La ama de libros o de colie los
+en   bibliophilia
+he   ביבליופיליה (אהבת ספרים)
+
+»  bibliofilica   nom
+en   bibliophile
+he   ביבליופיל (אוהב ספרים)
+
+bibliografia   nom
+Un lista de libros a cual un obra erudita refere, tipal primida como un apendis; un lista de la libros de un autor; la descrive sistemal de libros, sua autores e publicis
+en   bibliography
+he   ביבליוגרפיה
+
+»  bibliografial   ajetivo
+en   bibliographical
+he   ביבליוגרפי
+
+»  bibliografiste   nom
+en   bibliographer
+he   ביבליוגרף
+
+biblioteca   nom
+Un colie de libros e jornales per usa o empresta par la popla o membros de un instituida; un salon o construida cual conteni esta; un colie simil de filmas, musica rejistrada, materia jenetical, etc, retenida per rexerca o empresta; un sala en un casa privata, dedicada a libros; (en informatica) un colie de funsionas o programes furnida per usa jeneral
+en   library
+fr   bibliothèque
+he   ספרייה
+
+»  bibliotecor   nom
+en   librarian
+fr   bibliothécaire
+he   ספרן
+
+biblioteconomia   nom
+Un campo de studia cual aplica a bibliotecas la tecnicas de maneja e informatica
+ca   biblioteconomia
+en   library science, library economy, bibliothecography
+es   biblioteconomía
+fr   bibliothéconomie
+it   biblioteconomia
+pt   biblioteconomia
+
+bicarbonato   nom
+Un sal conteninte la anion HCO
+en   bicarbonate
+he   ביקרבונט, מימן פחמתי
+
+»  bicarbonato de sodio   nom
+Un polvo blanca, usada en estinguadores de foco, bevidas gasosa e pasta de dentes, como un fermentante en forni, o per limpi
+en   sodium bicarbonate
+fr   bicarbonate de soude
+he   סודיום ביקרבונט, סודה לשתייה
+
+bicini   nom
+Un veste de nada per femes, con du pesos tipal peti
+en   bikini
+fr   bikini
+he   ביקיני
+
+bide   nom
+Un bol oval e basa, usada per lava la jenitales e ano
+en   bidet
+fr   bidet
+he   בידה
+
+bidialetal   ajetivo
+Capas de parla fluente du dialetos
+en   bidialectal
+
+»  bidialetalisme   nom
+en   bidialectalism
+
+bidimensional   ajetivo
+Avente o parente ave longia e largia ma no profondia
+en   two-dimensional
+he   דו-מימדי
+
+biela   nom
+Un bara juntante du partes movente en un macina, tipal lo entre la piston e la arbor de maniveles en un motor o pompa
+en   connecting rod (machinery)
+fr   bielle
+he   מוט מחבר
+
+Bielarus   nom
+Un pais en Europa este, entre Rusia e Polsca e a norde de Ucraina
+(capital: Minsk)
+en   Belarus
+he   בלרוס
+
+»  bielarusce   ajetivo
+en   Belarusian
+he   בלרוסי
+
+»  bielarusce   nom
+en   Belarusian
+he   בלרוסי
+
+bies   nom
+Un de la du dirijes perpendicular a la cadena e trama de un stofa
+en   bias (fabric)
+fr   biais (tissu)
+he   אלכסון באריג או בד
+
+bifasal   ajetivo
+Aveninte en du fases
+en   biphasic
+he   דו-פאזי
+
+bifocal   ajetivo
+(Un lente) con du partes con distantias focal diferente
+en   bifocal
+he   דו-מוקדי, ביפוקלי
+
+»  bifocal   nom
+en   bifocals
+he   משקפיים דו-מוקדיים, ביפוקלים
+
+bigama   ajetivo
+Sposida a du persones a la mesma tempo, tipal nonlegal
+en   bigamous
+fr   bigame
+he   שקשור לביגמיה
+
+»  bigamia   nom
+en   bigamy
+fr   bigamie
+he   ביגמיה, נישואי כפל
+
+»  bigamiste   nom
+en   bigamist
+he   ביגמיסט
+
+bigel   nom
+Un can peti con pelo corta, usada per xasa lepres
+en   beagle (dog)
+he   ביגל (כלב)
+
+bigin   nom
+Un dansa orijinante sur la isolas de la Mar Caribe, simil a la fostrot
+en   beguine, biguine (dance)
+he   ביגין (ריקוד)
+
+bijenero   ajetivo
+(Un person) con du identias de jenero, o simultan o en situas diversa
+en   bigender
+he   ביג’נדר, דו-מגדרי
+
+»  bijenero   nom
+en   bigender person
+he   ביג’נדר, דו-מגדרי
+
+bilabial   ajetivo
+(Un consonante) formida par pone la du labios a lunlotra, como P, B, M e W
+en   bilabial (consonant)
+fr   bilabial
+he   דו-שפתי
+
+»  bilabial   nom
+en   bilabial (consonant)
+he   עיצור דו-שפתי
+
+biladal   ajetivo
+Con du lados; afetante ambos lados; envolvente du partitos o nasiones
+en   bilateral, two-sided
+fr   bilatéral
+he   דו-צדדי
+
+bilaterio   nom
+Un membro de un grupo tasonomial usada per clasi animales con simetria biladal
+Bilateria
+en   bilateral
+he   בעל סימטריה דו-צדדית
+
+bilbi   nom
+Un marsupio omnivor de la desertos de Australia
+Macrotis lagotis
+en   bilby, rabbit bandicoot
+fr   bilby, bandicoot lapin
+he   בילבי (חיית כיס)
+
+bile   nom
+Un licuida amarga e verdin brun cual aida dijesta, secreteda par la figato e retenida en la vesica bilal
+en   bile, gall
+fr   bile
+he   (ביולוגיה) מרה
+
+»  bilal   ajetivo
+en   bilious, biliary
+fr   biliaire
+he   שקשור לכיס המרה
+
+bileta   nom
+Un paper o carta peti cual permete ce sua posesor entra a un loca, viaja par transporta publica, regarda un spetaculo, etc; un paper simil cual permete ce sua posesor reseta un ben o servi en futur, o paia min per lo; un paper usada como mone fisical
+en   ticket; coupon, voucher; bill (paper money), note, banknote
+fr   billet, ticket, coupon
+he   כרטיס, שובר; קופון; שטר
+
+»  bileta de deta   nom
+en   chit, IOU
+he   שובר תשלום
+
+»  bileta de rasca   nom
+en   scratchcard
+fr   carte à gratter
+he   כרטיס גירוד
+
+»  bileta de rasca e gania   nom
+en   scratchcard (instant lottery)
+he   כרטיס גירוד לזכייה מיידית, חישגד
+
+»  bileta de un dirije   nom
+en   one-way ticket
+fr   aller simple
+he   כרטיס לכיוון אחד
+
+»  bileta de vade e reveni   nom
+en   round-trip ticket, return ticket
+fr   aller-retour
+he   כרטיס הלוך ושוב
+
+»  bileteria   nom
+en   ticket office, box office
+he   קופת כרטיסים
+
+»  biletor   nom
+en   ticket collector, conductor, guard
+he   כרטיסן
+
+bilia   nom
+Un bal peti de vitro colorida o simil, usada en alga juas per enfantes
+en   marble (ball)
+fr   bille (jouet)
+he   גולה (כדור)
+
+biliardo   nom
+Un jua con spesies diversa ma tipal per du persones, usante un table spesial con bales dur, propulsada par colpa los con la fini de un basto reta
+en   billiards, pool, snooker
+fr   billard
+he   ביליארד (משחק)
+
+»  biliardo american   nom
+en   pool
+he   פול (משחק)
+
+»  biliardo engles   nom
+en   snooker
+he   סנוקר (משחק)
+
+»  biliardo franses   nom
+en   carom billiards
+he   ביליארד צרפתי (משחק)
+
+»  biliarderia   nom
+en   billiards hall, billiards room, poolhall, poolroom, snooker hall
+he   אולם ביליארד
+
+»  biliardor   nom
+en   billiards player
+he   שחקן ביליארד
+
+bilingual   ajetivo
+Capas de parla fluente du linguas; (un testo o ata) scriveda o fada en du linguas; (un nasion o site) usante du linguas, spesial si ambos es ofisial
+en   bilingual
+eo   dulingva
+he   דו-לשוני
+
+»  bilingual   nom
+en   bilingual, bilingual person
+eo   dulingvulo
+he   דו-לשוני
+
+»  bilingualisme   nom
+en   bilingualism
+eo   dulingveco, dulingvismo
+he   דו-לשוניות
+
+bilion   determinante
+Des a potia nove; mil milion
+en   (a) billion, (a) thousand million, (a) milliard
+fr   (un) milliard
+he   מיליארד
+
+»  bilion   ajetivo
+en   billionth (ordinal)
+he   מיליארד
+
+»  bilioni   verbo nontransitiva
+en   split into a billion parts
+he   להתפצל למיליארד חלקים
+
+»  bilioni   verbo transitiva
+en   split into a billion parts
+he   לפצל למיליארד חלקים
+
+»  bilioni   nom
+en   billionth (fraction)
+fr   milliardième (fraction)
+he   חלקי מיליארד
+
+»  bilionor   nom
+en   billionaire
+he   מיליארדר
+
+bimetal   ajetivo
+Composada de du metales
+en   bimetallic
+he   דו-מתכתי
+
+binaria   ajetivo
+(Un stela) composada de du partes; pertinente a o espresada en un sistem de numeros con la base 2 e usante sola la dijitos 0 e 1
+en   binary
+fr   binaire
+he   בינארי
+
+»  nonbinaria   ajetivo
+en   non-binary; multigender
+he   רב-מגדרי
+
+»  nonbinaria   nom
+en   multigender person
+he   רב-מגדרי
+
+binoculo   nom
+Un aparato otical con un lente per cada oio, usada per regarda cosas distante
+en   binoculars
+fr   jumelles
+he   משקפת
+
+»  binoculo de teatro   nom
+en   opera glasses
+he   משקפת תיאטרון
+
+»  binoculal   ajetivo
+en   binocular
+fr   binoculaire
+he   דו-עיני
+
+binomio   nom
+(En matematica) un espresa de aljebra, la soma o difere de du termas; (en biolojia) la nom de un spesie, composada de du nomes; (en gramatica) un formula nomin con du nucleos liada par un conjunta, de cual sua ordina es relativa fisada
+en   binomial
+fr   binôme
+he   בינום, דו-איבר
+
+»  binomial   ajetivo
+en   binomial
+fr   binomial
+he   בינומי, דו-איברי
+
+bio-   prefisa
+Vive e organismes
+en   bio-
+he   (קידומת טכנית) ביו-
+
+biocimica   nom
+La siensa cual studia prosedes cimical en organismes
+en   biochemistry
+he   ביוכימיה
+
+»  biocimical   ajetivo
+en   biochemical
+he   ביוכימי
+
+biocombustable   nom
+Un combustable derivada de organismes
+en   biofuel
+he   דלק ביולוגי, ביו-דלק
+
+biodegrada   verbo nontransitiva
+Deveni descomposada par baterias o otra organismes
+en   biodegrade
+he   להתכלות (בצורה טבעית)
+
+»  biodegrada   nom
+en   biodegradation
+he   (אקולוגיה) התכלות
+
+»  biodegradante   ajetivo
+en   biodegradable
+he   מתכלה (בצורה טבעית)
+
+biodiversa   ajetivo
+(Un area o ecosistem) conteninte organismes multe diversa
+en   biodiverse
+he   מגוון ביולוגית
+
+»  biodiversia   nom
+en   biodiversity
+he   מגוון ביולוגי
+
+biofilia   nom
+Un simpatia inata e jenetical entre umanas e la mundo natural
+en   biophilia
+he   ביופיליה
+
+»  biofilica   ajetivo
+en   biophilic
+he   ביופילי
+
+»  biofilica   nom
+en   biophile
+he   ביופילי
+
+biofisica   nom
+La siensa de la pertine de leges fisical a cosas biolojial
+en   biophysics
+he   ביופיזיקה
+
+biografia   nom
+Un raconta de la vive de un person, scriveda par un otra
+en   biography
+he   ביוגרפיה
+
+»  autobiografia   nom
+Un raconta de la vive de un person, scriveda par el mesma
+en   autobiography, memoirs
+he   אוטוביוגרפיה
+
+»  autobiografial   ajetivo
+en   autobiographical, autobiographic
+he   אוטוביוגרפי
+
+»  biografial   ajetivo
+en   biographical, biographic
+he   ביוגרפי
+
+»  biografiste   nom
+en   biographer
+he   ביוגרף
+
+bioinjenia   nom
+en   bioengineering
+he   ביו-הנדסה
+
+biojenese   nom
+La sintese de materias par organismes
+en   biogenesis
+he   ביוגנסיס
+
+biojeografia   nom
+La ramo de biolojia cual studia la distribui jeografial de plantas e animales
+en   biogeography
+he   ביוגיאוגרפיה
+
+biolojia   nom
+La studia de organismes
+en   biology
+he   ביולוגיה
+
+»  biolojia matematical   nom
+en   mathematical biology
+he   ביולוגיה מתמטית
+
+»  biolojial   ajetivo
+en   biological
+he   ביולוגי
+
+»  biolojiste   nom
+en   biologist
+he   ביולוג
+
+biomasa   nom
+La masa intera de organismes en un area o volum spesifada; materia organica usada como un combustable
+en   biomass
+he   ביומסה
+
+biomecanica   nom
+La siensa de pertine de leges mecanical a la move o strutur de organismes
+en   biomechanics
+he   ביו-מכניקה
+
+biometria   nom
+La aplica de analise statistical a datos biolojial
+en   biometrics, biometry, biostatistics
+he   ביומטריה
+
+»  biometrial   ajetivo
+en   biometric, biometrical
+he   ביומטרי
+
+bionica   nom
+La studia de sistemes macinal cual funsiona como organismes o partes de organismes
+en   bionics
+he   ביוניקה
+
+»  bionical   ajetivo
+en   bionic
+he   ביוני
+
+biopsia   nom
+Un esamina de texeda estraeda de un corpo vivente per determina la esiste, estende o causa de un maladia
+en   biopsy
+he   ביופסיה
+
+bioritmo   nom
+Un sicle periodal en la fisiolojia o funsiona de un organisme, como la sicle dial de dormi e velia; un ritmo sicle de ativia fisical, mental o emosial en la vive de un person
+en   biorhythm
+he   ביוריתמוס
+
+biosfera   nom
+La partes de la surfas, atmosfera e idrosfera de la Tera cual organismes abita
+en   biosphere
+he   ביוספרה
+
+biosintese   nom
+La produi de moleculas complicada en organismes o selulas
+en   biosynthesis
+he   ביוסינתזה
+
+biotecnolojia   nom
+La esplota de prosedes biolojial per intendes industrial o comersial, spesial la manipula de jenes de microbios per produi antimicrobiales, ormones, etc
+en   biotechnology
+he   ביוטכנולוגיה
+
+bipartida   ajetivo
+Composada de du partes
+en   bipartite
+he   דו-צדדי, שמורכב משני חלקים
+
+bipartisan   ajetivo
+Pertinente o acordada par du partitos
+en   bipartite
+he   דו-מפלגתי
+
+bipede   ajetivo
+(Un animal) paseante sur sola du gamas
+en   bipedal
+he   דו-רגלי
+
+»  bipede   nom
+en   biped
+he   דו-רגלי
+
+biplana   nom
+Un spesie temprana de avion con du duples de alas, la un supra la otra
+en   biplane
+he   מטוס דו-כנפי
+
+bipolal   ajetivo
+Con du polos o estremas; con episodios alternante de mania e depresa; (un neuron) con du asones
+en   bipolar
+he   דו-קוטבי
+
+bir   nom
+Un bevida alcolosa fermentada de malta e saborida con lupulos
+en   beer
+fr   bière
+he   בירה
+
+»  bir blonde   nom
+en   lager
+fr   bière blonde
+he   בירה לאגר
+
+»  bir forte   nom
+en   stout
+fr   stout, bière brune
+he   בירה כהה, סטאוט
+
+»  bireria   nom
+en   brewery
+fr   brasserie
+he   מבשלת בירה
+
+»  biror   nom
+en   brewer
+fr   brasseur
+he   בשלן בירה
+
+birazal   ajetivo
+Pertinente a o conteninte membros de du razas
+en   biracial
+he   דו-גזעי
+
+biriani   nom
+Un plato de Barat e otra paises de Asia sude, composada de ris con spises, lentiles, carnes e vejetales
+en   biryani, biriani (food)
+he   ביריאני (תבשיל)
+
+bisc   nom
+Un sopa cremosa de crustaseos pureda, orijinante en Frans
+en   bisque (soup)
+fr   bisque
+he   ביסק (מרק)
+
+Biscaia   nom
+en   Biscay
+he   ביסקאיה (מחוז ספרדי)
+
+»  Golfo Biscaia   nom
+Un golfo a este de Frans e a norde de Espania, un parte de la Mar Atlantica
+en   Bay of Biscay
+he   מפרץ ביסקאיה
+
+biscoto   nom
+Un torta peti e nonlevada, tipal ronda, plata, dulse e cracosa
+en   cookie, biscuit, cracker
+fr   biscuit
+he   עוגייה, ביסקוויט
+
+»  biscoto arenin   nom
+en   shortbread, shortcake
+he   שורטברד (עוגיית חמאה)
+
+»  biscoto de jinjer   nom
+en   gingersnap, ginger nut
+he   עוגיית זנגוויל
+
+»  biscoto dur   nom
+en   hardtack
+he   ביסקוויט קשה
+
+»  biscoto savoian   nom
+en   ladyfinger, lady’s finger, sponge finger
+he   בישקוט (עוגייה ספוגית)
+
+»  biscoto seca   nom
+en   rusk, zwieback
+he   צנים
+
+bisel   nom
+(En construi) un inclina a via de orizonal o vertical; un peso de un strumento de vento cual dirije aira contra un borda agu
+en   bevel; fipple
+fr   biseau, chanfrein
+he   (בנייה, נגרות) שיפוע
+
+»  biseli   verbo transitiva
+en   bevel, chamfer
+fr   biseauter, chanfreiner
+he   לשפע
+
+bisepe   nom
+Cualce musculo con du puntos de fisa a un fini; la musculo grande de la braso alta; la musculo grande a la lado dorsal de la coxa
+en   biceps (muscle)
+fr   biceps
+he   שריר הזרוע
+
+bisesal   ajetivo
+Sesal atraeda a e omes e femes; (en biolojia) con cualias de ambos sesos
+en   bisexual
+fr   bisexuel
+he   דו-מיני
+
+»  bisesalia   nom
+en   bisexuality
+fr   bisexualité
+he   דו-מיניות
+
+bisicle   nom
+Un veculo con du rotas, la un pos la otra, propulsada par pedales e gidada par manicos liada a la rota fronte
+en   bicycle, bike
+fr   bicyclette, vélo
+he   אופניים
+
+»  bisicle motorida   nom
+en   motorized/motorised bicycle, moped
+fr   vélomoteur
+he   אופניים ממונעים
+
+»  bisicle orizonal   nom
+en   recumbent bicycle
+fr   vélo couché, vélo horizontal, vélorizontal
+he   אופנוח
+
+»  bisicle per du   nom
+en   tandem
+he   אופני טנדם
+
+»  bisicli   verbo transitiva
+en   bicycle, cycle
+fr   faire du vélo
+he   לרכוב על אופניים
+
+»  bisiclisme   nom
+en   bicycling, cycling (sport, pastime)
+fr   cyclisme
+he   רכיבת אופניים
+
+»  bisicliste   nom
+en   bicyclist, cyclist
+fr   cycliste
+he   רוכב אופניים
+
+Bismarck, Mar   nom
+Un mar a norde de Papua Gine Nova e Britan Nova
+en   Bismarck Sea
+he   ים ביסמרק
+
+bismuto   nom   «Bi»
+La elemento cimical con numero atomal 83
+en   bismuth
+fr   bismuth (élément)
+he   ביסמוט (יסוד)
+
+biso   nom
+Un faxo de filetas secreteda par multe spesies de bivalvos per fisa se a un surfas solida
+en   byssus
+he   משי הים
+
+bison   nom
+Un bove grande, savaje e pelosa, trovada en Europa e America Norde
+Bison
+en   bison
+fr   bison
+he   ביזון
+
+bispo   nom
+Un eglesor major de alga setas de cristianisme; un peso de xace cual sembla un mitra
+en   bishop (including chess)
+fr   évêque; fou (échecs)
+he   הגמון, בישוף; (שחמט) רץ
+
+»  bispal   ajetivo
+en   episcopal
+fr   épiscopal
+he   אפיסקופלי, שקשור לבישופות
+
+»  bispia   nom
+en   bishopric, diocese
+fr   diocèse
+he   בישופות
+
+bistro   nom
+Un restorante peti
+en   bistro
+fr   bistro
+he   ביסטרו
+
+bisturi   nom
+Un cotel multe agu con un lamina peti, usada per sirurjia
+en   scalpel, lancet
+fr   scalpel, bistouri
+he   סכין מנתחים
+
+bitio   nom
+Un unia de informa, espresada como 0 o 1
+en   bit, binary digit
+fr   bit
+he   (מחשבים) סיבית, ביט
+
+bitnic   nom
+Un person joven de un sucultur de la desenios de 1950 e 1960 con influes a musica, poesia e arte
+en   beatnik
+he   ביטניק
+
+bitume   nom
+Un misca negra e viscosa de idrocarbonos, usada en fabrica tetos e surfases de vias
+en   bitumen, asphalt (viscous pitch)
+fr   octet
+he   אספלט, ביטומן
+
+»  bitumosa   ajetivo
+en   bituminous
+he   מכיל ביטומן
+
+bivaca   verbo nontransitiva
+(Un soldato o trepor) campa tempora sin tendas o otra covrentes
+en   bivouac
+fr   bivouaquer
+he   לחנות באופן ארעי
+
+»  bivaca   nom
+en   bivouac encampment
+fr   bivouac
+he   מחנה ארעי
+
+bivalvo   nom
+Un molusco con corpo compresada en un conca xarnierida
+Bivalvia
+en   bivalve, clam
+fr   bivalve
+he   צדפה
+
+Bixcec   nom
+La site capital de Cirgistan
+en   Bishkek
+he   בישקק (בירת קירגיזסטן)
+
+bizantian   ajetivo
+Pertinente a la site antica Bizantion, la Impero Roman Este, o la Eglesa Ortodox Este, tipal regardante arte e arciteta
+en   Byzantine
+he   ביזנטיני
+
+bizara   ajetivo
+Multe strana o noncomun, tipal en modo interesante o divertinte
+en   bizarre, outlandish, kinky, kooky, madcap, zany, wacky
+fr   bizarre
+he   מוזר, משונה, הזוי, תמהוני, ביזרי
+
+»  bizara   nom
+en   weirdo, oddball, dingbat, kook
+he   מוזר, משונה, הזוי, תמהוני, ביזרי
+
+blanca   ajetivo
+Con color de lete o neva resente, refletante tota lus vidable; parteninte a un grupo umana con pel pal
+en   white; Caucasian, Caucasoid
+fr   blanc
+he   לבן
+
+»  blanca   nom
+en   white
+he   לבן
+
+»  blanca de ovo   nom
+en   egg white
+fr   blanc d’œuf
+he   חלבון ביצה
+
+»  blanca-negra   ajetivo
+en   black and white
+fr   noir et blanc
+he   שחור-לבן
+
+»  blanci   verbo nontransitiva
+en   whiten, bleach, blanch
+fr   blanchir
+he   להפוך ללבן
+
+»  blanci   verbo transitiva
+en   whiten, bleach, blanch
+fr   blanchir
+he   להלבין
+
+»  blancida   ajetivo
+en   whitened, bleached
+he   מולבן
+
+»  blancin   ajetivo
+en   whitish
+he   לבנבן
+
+»  blancinte   ajetivo
+en   whitening
+he   מלבין
+
+»  blancinte   nom
+en   bleach, whitener
+fr   eau de Javel
+he   מלבין, מחמצן
+
+»  grisin blanca   ajetivo
+en   greyish white, hoary
+he   לבן אפרפר
+
+»  Mar Blanca   nom
+Un mar a sude de la Penisola Cola
+en   White Sea
+he   הים הלבן
+
+»  nonblancida   ajetivo
+en   unbleached
+he   לא מולבן
+
+blanceta   nom
+Un inseto pico con alas, covreda con polvo de sira blanca, un peste per plantas
+Aleyrodoidea
+en   whitefly
+fr   aleurode, mouche blanche
+he   כנימת עש
+
+blanco   nom
+Un marca o ojeto a cual on xuta, spesial un carton con sirculos consentral, usada per eserse o concurso con fusiles o arcos
+en   target (shooting); butt (of joke)
+he   מטרה (במטווח)
+
+»  blanco de eserse   nom
+en   practice target
+he   מטרה לתרגול ירי
+
+blanda   ajetivo
+Noninteresante o nonstimulante par sua cualias forte
+en   bland, mild, plain, weak (food, medicine); insipid, anodyne, vapid; wimpy
+fr   fade; douce (médecine); non irritant
+he   תפל; חסר עניין, סתמי
+
+»  blanda   nom
+en   pablum, pap; wimp
+he   טקסט או בידור תפלים או פשטניים
+
+»  blandia   nom
+en   blandness, weakness, plainness
+he   תפלות; סתמיות
+
+blasfema   verbo nontransitiva
+Parla desrespetante sur cosas santa; usa parolas o espresas ofendente, tipal en espresa coleria
+en   blaspheme; swear, curse, cuss
+fr   blasphémer, profaner, jurer
+he   לנאץ, לחלל; לקלל, לנבל פה
+
+»  blasfema   nom
+en   sacrilege, profanation, blasphemy; swearing, cursing, curse, swearword, expletive
+fr   sacrilège, profanation, blasphème
+he   חילול הקודש; קללה, ניבול פה
+
+»  blasfemal   ajetivo
+en   sacrilegious, profane, blasphemous
+he   של חילול הקודש
+
+»  blasfemante   ajetivo
+en   swearing, cursing, foul-mouthed
+he   מחלל קודש; מקלל, מנבל פה
+
+bleni   nom
+Un pex peti con pinas spinosa, pel sin scamas e testa nonagu
+Blennioidei
+en   blenny (fish)
+he   דמוי-קרנון (דג)
+
+bleta   nom
+Un varia de beta con folias verde e troncetas blanca, larga e comable
+Beta vulgaris susp. vulgaris
+en   chard (plant)
+he   סלק עלים, מנגולד
+
+blinda   verbo transitiva
+Covre (un veculo militar) con metal spesa per proteje lo
+en   armor-plate/armour-plate
+fr   blinder
+he   לשריין (כלי רכב)
+
+»  blindada   ajetivo
+en   armored/armoured, armor-plated/armour-plated
+fr   blindé
+he   משוריין
+
+blini   nom
+Un crepe composada de farina de saraseno e servida con crema asida
+en   blini (pancake)
+fr   blini
+he   בליני (פנקייק)
+
+»  blineta   nom
+Un crepe plenida con ceso o frutas, fritada o fornida
+en   blintz (pancake)
+he   בלינצ’ס
+
+bloco   nom
+Un peso de materia grande, dur e solida, tipal con surfas plana a cada lado; un grupo de construidas bordada par stradas; un alia political, tipal de nasiones o partitos
+en   block, chunk, slab, obstacle; block (group of buildings); bloc (alliance)
+fr   bloc
+he   גוש, בלוק (גם קבוצת בניינים); לבנה; ברית פוליטית
+
+»  bloco de desinias   nom
+en   sketch pad
+he   פנקס סקיצות
+
+»  bloco de notas   nom
+en   notepad, scratchpad
+he   פנקס רשימות
+
+»  bloco de paper   nom
+en   pad of paper
+fr   bloc de papier
+he   פנקס, דפדפת
+
+»  bloci   verbo transitiva
+en   block, clog, obstruct, stonewall
+fr   bloquer
+he   לחסום, לסתום
+
+»  bloci   nom
+en   blockage, obstruction
+he   מחסום, חסימה, מעצור, סתימה
+
+»  bloci de via   nom
+en   roadblock
+he   מחסום דרכים
+
+»  blocinte   ajetivo
+en   blocking; occlusive
+he   חוסם, עוצר, סותם
+
+»  blocinte   nom
+en   blocker; occlusive (consonant)
+he   (רפואה) חוסם, מדכא
+
+»  blocinte de canales de calsio   nom
+Un medisin cual destensa la dutos sangual e furni plu sangue e osijen a la cor
+en   calcium-channel blocker
+he   חוסם תעלות סידן
+
+»  blocinte de resetadores beta   nom
+Un droga cual preveni la stimula de la resetadores cual ativi plu la cor
+en   beta blocker
+he   חוסם בטא
+
+»  desbloci   verbo transitiva
+en   unblock, unclog
+he   לפתוח או לשחרר סתימה או חסימה
+
+blog   nom
+Un loca ueb do un person o grupo peti ofre periodal sua opinas, sujestas, novas, lias a otra locas, o otra cosas
+en   blog, web log
+fr   blog
+he   בלוג
+
+»  blogi   verbo transitiva
+en   blog
+he   לפרסם בלוג
+
+»  blogor   nom
+en   blogger, blog author
+he   בלוגר
+
+blogosfera   nom
+La rede sosial de tota bloges con sua autores e lejores
+en   blogosphere
+he   בלוגוספירה
+
+blonde   ajetivo
+Con capeles pal jala
+en   blonde, blond, fair-haired, fair
+fr   blond
+he   בלונדיני, בלונדינית
+
+»  blonde   nom
+en   blonde
+he   בלונדיני, בלונדינית
+
+»  blanca blonde   ajetivo
+en   platinum blonde
+he   בלונד פלטינום
+
+»  blanca blonde   nom
+en   platinum blonde
+fr   blonde platine
+he   בלונד פלטינום
+
+»  blondia   nom
+en   blondness
+fr   blondeur
+he   בלונד
+
+»  roja blonde   ajetivo
+en   strawberry blonde
+he   בלונד אדמדם
+
+»  roja blonde   nom
+en   strawberry blonde
+he   בלונד אדמדם
+
+blu   ajetivo
+Con color de la mar, simil a azul ma plu oscur
+en   dark blue, navy
+fr   bleu sombre, bleu marine
+he   כחול
+
+»  blu   nom
+en   dark blue, navy
+he   כחול
+
+»  blui   verbo nontransitiva
+en   turn blue
+he   להכחיל
+
+»  blui   verbo transitiva
+en   turn blue
+he   לצבוע בכחול
+
+»  bluin   ajetivo
+en   bluish, blueish
+he   כחלחל
+
+»  blus   nom, plural
+en   blues (music)
+fr   blues
+he   בלוז
+
+blueta   nom
+Un planta magra eurasian con flores tipal forte azul; un planta de America Norde con flores simil
+Centaurea, Houstonia
+en   cornflower, bluet
+fr   bleuet
+he   דרדר כחול (צמח)
+
+blugras   nom
+Un tipo de musica contri con voses en armonia prosima e la jua rapida de strumentos de cordetas
+en   bluegrass (music)
+he   בלוגרס
+
+blusa   nom
+Un camisa laxe e tipal alga ornada, per femes
+en   blouse
+he   חולצה (לאישה)
+
+boa   nom
+Un serpente constrinjente cual pari enfantes vivente e pote deveni multe grande; un xarpe longa e magra de plumas o pelo, tipal portada con roba de sera
+Boidae
+en   boa (snake, scarf)
+fr   boa (serpent, écharpe)
+he   בואה (נחש)
+
+bob   nom
+Un treno con volante e freno, usada par ecipos de du o cuatro persones per corsa rapida sur jelo
+en   bobsled, bobsleigh
+fr   bobsleigh, bob
+he   מזחלת
+
+»  bobor   nom
+en   bobsledder
+fr   bobsledder
+he   רוכב מזחלת
+
+bobin   nom
+Un cosa silindre sur cual on pote enrola un banda, filo o otra materias flexable
+en   spool, reel, bobbin
+fr   bobine
+he   סליל, גליל
+
+»  bobini   verbo transitiva
+en   spool, wind
+fr   embobiner
+he   לגולל, ללפף, לכרוך
+
+»  rebobini   verbo transitiva
+en   rewind, wind back
+fr   rembobiner
+he   להחזיר לאחור
+
+bobo   ajetivo
+Sin bon judi; nonseria, riable; (un person) strana ma nonperilosa
+en   silly, goofy, corny, loopy, nutty, bonkers
+fr   fada
+he   טיפשי, שטותי, אווילי
+
+»  bobo   nom
+en   goofball, goon, nincompoop, pillock, prat
+he   טיפש, שוטה, אידיוט; שטות, הבל
+
+»  bobia   nom
+en   silliness, tomfoolery
+he   טיפשות, שטותיות, אוויליות
+
+bobo   nom
+Un avia de mar tropical, con plumas brun, negra o blanca e tipal con pedes briliante colorida
+Sula, Morus
+en   booby, gannet (bird)
+fr   fou
+he   סולה (ציפור)
+
+bobolince   nom
+Un avia cantante de America Norde en familia de merlo, con beco simil a un pinson
+Dolichonyx oryzivorus
+en   bobolink (bird)
+he   ארוך טופר (ציפור)
+
+boca   nom
+La abri en la parte basa de la fas umana, tra cual on introdui comedas e bevidas e de cual on emete parlas e otra sonas; la abri corespondente de un otra animal; un abri a un strutur vacua, como un botela, fusil, cava o porto; la loca do un rio entra a la mar
+en   mouth (anatomy, river, cave), gob; muzzle (gun)
+fr   bouche
+he   פה; פתח, כניסה
+
+»  boca de leon   nom
+Un planta con spigas de flores briliante colorida con du lobes
+Antirrhinum
+en   snapdragon (plant)
+he   לוע הארי (צמח)
+
+»  boca de venti   nom
+en   vent
+fr   bouche d’aération
+he   פתח אוורור
+
+»  boca plen   nom
+en   mouthful
+fr   bouchée
+he   מלוא הפה
+
+»  bocal   ajetivo
+en   oral, buccal, of the mouth
+fr   buccal
+he   אוראלי
+
+»  boceta   nom
+en   nozzle, showerhead
+fr   pomme (d’arosage, de douche)
+he   זרבובית; דיזה; ראש מקלחת
+
+»  bocon   nom
+en   maw
+he   לוע
+
+boctxoi   nom
+Un col xines
+en   bok choy (cabbage)
+he   כרוב סיני
+
+Bod   nom
+Un rejion montaniosa en Asia a la lado norde de la Montes Himalaia, e pos 1965 un teritorio autonom de Jonguo
+(capital: Lhasa)
+→ Tibet
+en   Tibet
+fr   Tibet
+he   טיבט
+
+»  bod   ajetivo
+→ tibetan
+en   Tibetan
+fr   tibétain
+he   טיבטי
+
+»  bod   nom
+en   Tibetan (person, language)
+fr   Tibétain
+he   טיבטי, טיבטית (שפה)
+
+bodi   nom
+Un vesteta de un peso abrasante la tronco, per femes
+en   bodysuit, body, teddy
+fr   body
+he   בגד גוף
+
+»  bodi de bebe   nom
+en   onesie, babygro, romper
+fr   body
+he   מגמשת (בגד גוף לתינוקות)
+
+»  bodi de dansa   nom
+Un veste de un peso abrasante la tronco e cisa la brasos e gamas, per dansores o esersores
+en   leotard
+he   בגד גוף (לספורט)
+
+»  bodi de nada   nom
+Un veste de un peso, per nadores
+en   one-piece swimsuit
+fr   maillot une pièce
+he   בגד ים שלם
+
+»  bodi de sporte   nom
+en   leotard
+he   בגד גוף (לספורט)
+
+»  bodi longa   nom
+en   bodystocking, unitard
+he   בגד גוף (כולל לרגליים)
+
+bodisatva   nom
+(En mahaiana) un person ci pote ateni nirvana ma pospone lo per salva viventes sufrinte
+en   bodhisattva (Buddhism)
+he   בודהיסטווה (בודהיזם)
+
+bodjpuri   ajetivo
+Un lingua parlada en Bihar ueste e Uttar Pradesh este
+en   Bhojpuri
+he   בוג’פורי (שפה בהודו)
+
+»  bodjpuri   nom
+en   Bhojpuri
+he   בוג’פורי
+
+bodran   nom
+Un tambur magra de Er, tipal juada con basteta de du testas
+en   bodhrán (musical instrument)
+he   בוראן (כלי נגינה)
+
+Boemia   nom
+Un rejion cual formi la parte ueste de Txesco; un rena slavica en la sentenio 14
+en   Bohemia
+he   בוהמיה
+
+»  boemian   ajetivo
+en   Bohemian
+he   בוהמייני
+
+»  boemian   nom
+en   Bohemian
+he   בוהמייני
+
+bogi   nom
+Un xasi con entre cuatro e ses rotas, cual pivote su la fini de un vagon de ferovia; un strutur simil con otra usas
+en   bogie (wheel system)
+he   חוגון
+
+Bohai, Mar   nom
+Un mar a este de Jonguo e a ueste de la Baia Corea
+en   Bohai Sea
+he   ים בוהאי
+
+Bohol   nom
+Un isola en la Pilipinas
+en   Bohol (island)
+he   בוהול (אי)
+
+»  Mar Bohol   nom
+Un mar interna de la Pilipinas, entre Bohol e Mindanao
+en   Bohol Sea
+he   ים בוהול
+
+boia   nom
+Un flota ancorida cual averti sur un resife o otra peril, o permete lia un barco
+en   buoy
+fr   bouée
+he   מצוף
+
+boia   ajetivo
+Pertinente a un tribu celta de la eda de la Impero Roman, per cual Boemia es nomida
+en   Boiian
+he   בויי (שבט קלטי)
+
+»  boias   nom, plural
+en   Boii (ancient tribe)
+he   בויים (שבט קלטי)
+
+boicota   verbo transitiva
+Sorti de relatas sosial o comersial con (un person, nasion o aveni) per puni o protesta
+en   boycott
+fr   boycotter
+he   להחרים
+
+»  boicota   nom
+en   boycott
+fr   boycott
+he   חרם
+
+bol   nom
+Un plato larga e ronda, tipal usada per licuida; un plato plu profonda con un covrente, teninte sopa
+en   basin, bowl, tureen
+fr   bol, bassin
+he   קערה
+
+»  bol bonodorosa   nom
+en   potpourri
+he   פוטפורי
+
+»  bol de lava   nom
+en   dishpan, washing-up bowl, washtub
+he   גיגית
+
+»  bol de leto   nom
+en   bedpan
+he   סיר לילה
+
+»  bol de mole   nom
+en   mortar
+he   (מטבח) מכתש
+
+»  bol de salada   nom
+en   salad bowl
+fr   saladier
+he   קערת סלט
+
+»  bol e piston   nom
+en   mortar and pestle
+he   עלי ומכתש
+
+»  boleta   nom
+en   small bowl, porringer
+he   קערית
+
+bola   verbo nontransitiva
+(Un licuida) conteni o produi sferas peti de aira o otra gas
+en   bubble, effervesce
+fr   faire des bulles
+he   לבעבע
+
+»  bola   nom
+en   bubble
+fr   bulle
+he   בועה
+
+»  bolante   ajetivo
+en   bubbling, effervescent
+fr   effervescent
+he   מבעבע
+
+»  bolosa   ajetivo
+en   bubbly
+he   תוסס
+
+bolero   nom
+Un dansa espaniol; un musica per esta; un jaca corta e abrida per femes
+en   bolero
+he   בולרו (ריקוד)
+
+bolevar   nom
+Un strada larga en un vila o site, tipal con arbores a ambos lados
+en   boulevard, avenue
+fr   boulevard; avenue
+he   שדרה
+
+»  bolevar a plaia   nom
+en   promenade, esplanade, boardwalk
+he   טיילת
+
+»  bolevar de pasea   nom
+Un parce longa e streta per paseores
+en   promenade, mall
+he   מדרחוב
+
+boli   verbo nontransitiva
+(Un licuida) ateni la temperatur a cual lo bola e deveni vapor; (un person) es plen de coleria intensa ma no espresada
+en   boil, seethe
+fr   bouillir
+he   לרתוח
+
+»  boli   verbo transitiva
+en   boil (something)
+fr   faire bouillir
+he   להרתיח
+
+»  boli lenta   verbo nontransitiva
+en   simmer
+he   להתבשל בחום נמוך
+
+»  boli lenta   verbo transitiva
+en   simmer
+he   לבשל בחום נמוך
+
+»  bolida   ajetivo
+en   boiled
+he   רתוח
+
+»  bolinte   ajetivo
+en   boiling
+fr   bouillant
+he   רותח
+
+»  dur bolida   ajetivo
+en   hardboiled
+he   שָׁלוק
+
+bolide   nom
+Un meteor grande cual esplode en la atmosfera; un veculo alterada per es plu rapida e potiosa
+en   bolide; hotrod
+he   כדור אש (מטאור)
+
+boling   nom
+Un jua o sporte en cual on atenta cade bastones par rola un bal pesosa longo un surfas de lenio
+en   bowling
+fr   bowling
+he   באולינג, כדורת
+
+»  boling de des bastones   nom
+en   ten-pin bowling
+he   באולינג 10 פינים
+
+»  boling de nove bastones   nom
+en   nine-pin bowling
+he   באולינג 9 פינים
+
+Bolivia   nom
+Un pais sin costa en la ueste de America Sude
+(capital: Sucre)
+en   Bolivia
+fr   Bolivie
+he   בוליביה
+
+»  bolivian   ajetivo
+en   Bolivian
+fr   bolivien
+he   בוליביאני
+
+»  bolivian   nom
+en   Bolivian
+fr   Bolivien
+he   בוליביאני
+
+bolo   nom
+Un jua o sporte, tipal estra casa, en cual on lansa un bal pesosa a un bal peti, atentante ariva plu prosima ca otra juores
+en   lawn bowling, bowls, bocce, pétanque
+fr   jeu de boules, pétanque
+he   כדורת דשא
+
+bolo   nom
+Un masa peti e ronda de un sustantia, tipal de comeda masticada cuando on engoli lo
+en   bolus (biology)
+he   בולוס (מזון לעוס)
+
+bolsa   nom
+Un saco peti, tipal de femes, per porta mone, macia, medisin, un telefoneta, o otra cosas personal
+en   handbag, pouch, purse, pocketbook
+fr   sac à main
+he   תיק יד
+
+»  bolseta   nom
+Un portamone
+en   wallet, purse, billfold
+fr   porte-feuille, porte-monnaie, bourse
+he   ארנק
+
+»  bolson   nom
+Un saco con bretelas, portable sur la dorso
+en   rucksack, backpack, knapsack; holdall, carryall, gymbag, sports bag
+fr   sac à dos
+he   תיק גב, תרמיל
+
+»  bolson de scola   nom
+en   schoolbag
+he   ילקוט, תיק לבית-ספר
+
+»  bolson de spala   nom
+en   satchel
+he   תיק צד
+
+»  bolsonor   nom
+en   backpacker
+he   תרמילאי
+
+bolxevic   ajetivo
+Pertinente a la ramo de la Partito Democrata Sosial Rusce cual ia saisi la potia en la Revolui de Otobre en 1917
+en   Bolshevik
+he   בולשביק
+
+»  bolxevic   nom
+en   Bolshevik
+he   בולשביק
+
+boma   nom
+Un palo orizonal, longa e pivotente, liada a la masto de un barco de vela; un palo cual porta alta un microfon o camera
+en   boom
+fr   bôme
+he   מוט בום
+
+bomba   nom
+Un contenador plen de materia esplodente e ensendente, tipal usada en gera
+en   bomb, bombshell
+fr   bombe
+he   פצצה
+
+»  bomba de foco   nom
+en   firebomb
+he   פצצת תבערה
+
+»  bomba de idrojen   nom
+en   hydrogen bomb, H-bomb
+fr   bombe à hydrogène, bombe H
+he   פצצת מימן
+
+»  bomba ensendente   nom
+en   incendiary bomb
+he   פצצת תבערה
+
+»  bomba nucleal   nom
+en   nuclear bomb, nuke
+he   פצצת אטום
+
+»  bomba-orolojo   nom
+en   time bomb
+fr   bombe à retardement
+he   פצצת זמן
+
+»  bomba umana   nom
+en   human bomb, suicide bomber
+es   bombardero suicida, terrorista suicida
+fr   auteur d’un attentat-suicide
+he   פצצה אנושית, מחבל מתאבד
+pt   homens-bomba
+
+»  bombador   nom
+en   bomber (aircraft)
+fr   bombardier
+he   מפציץ (מטוס)
+
+»  bombeta   nom
+Un bomba ascondeda a la surfas de tera o acua, cual detona cuando tocada
+en   mine (bomb)
+fr   mine
+he   מוקש
+
+»  bombetador   nom
+en   minelayer
+he   מניח מוקשים
+
+»  bombi   verbo transitiva
+en   bomb
+fr   bombarder
+he   להפציץ, להטיל פצצה
+
+»  bombi   nom
+en   bombing
+he   הפצצה
+
+»  bombi nucleal   verbo transitiva
+en   nuke
+he   להטיל פצצת אטום
+
+»  bombor   nom
+en   bomber (person), bombardier
+he   מטילן
+
+»  desbombetor   nom
+en   deminer
+fr   démineur
+he   מפנה מוקשים
+
+»  planta bombetas   verbo
+en   mine, plant mines
+fr   miner
+he   להניח מוקשים
+
+bombarda   verbo transitiva
+Ataca continuante (un loca o persones) con bombas o otra misiles, criticas o demandas
+en   bombard, barrage, pelt
+fr   bombarder
+he   להפגיז; להמטיר
+
+»  bombarda   nom
+en   bombardment, bombing, barrage, blitz, salvo, volley
+fr   bombardement
+he   הפגזה, מטח, בליץ
+
+»  bombarda con foco   verbo
+en   firebomb
+he   להפגיז עם פצצות תבערה
+
+»  bombarda con petras   verbo
+en   stone
+he   לסקול
+
+»  bombarda de lado   nom
+en   broadside
+he   מטח דופן
+
+bombarda   nom
+Un oboe medieval, con anxa encluida en beco de lenio
+en   bombarde (musical instrument)
+he   בומברד (כלי נגינה)
+
+bombis   nom
+Un papilio grande de cual sua eruga texe un cocon usada per fabrica seda
+Bombyx
+en   silkmoth
+fr   bombyx
+he   טוואי המשי
+
+»  bombis de morero   nom
+Bombyx mori
+en   domesticated silkworm
+fr   bombyx du mûrier
+he   טוואי משי מבויית
+
+bombisila   nom
+Un avia cantante con plumas rosin brun, de cual alga ave alas con finis roja como sira de seli
+Bombycilla
+en   waxwing (bird)
+fr   jaseur
+he   ציצנית (ציפור)
+
+bon   ajetivo, prenomal
+Desirada, aprobada, plasente, bonvenida; con cualias nesesada per un rol o intende; seguente prinsipes moral; compatiosa, simpatiosa, obedinte, respetada; fundida en lojica o fato; valida, coerente; asetada par leges
+en   good, nice; valid
+fr   bon
+he   טוב
+
+»  bon   averbo
+en   well, nicely
+fr   bien
+he   בצורה טובה
+
+»  bon   esclama
+en   well, right; good, OK, okay
+fr   bon, bien
+he   טוב, בסדר, אוקיי
+
+»  bon-   prefisa
+Ajuntada a un verbo per formi un verbo per un ata plu bon, tipal spesialida
+‹ bonodori; bondise ›
+en   good-, well- (added to verbs: a better variant of the action, often a specialized sense)
+he   (קידומת) בצורה טובה
+
+»  autoboni   nom
+en   self-improvement
+fr   auto-amélioration
+he   שיפור עצמי
+
+»  boni   verbo nontransitiva
+en   improve, become good, get better
+fr   s’améliorer
+he   להשתפר
+
+»  boni   verbo transitiva
+en   improve, ameliorate, better, enhance, emend, revamp
+fr   améliorer
+he   לשפר
+
+»  boni   nom
+en   improvement, enhancement
+fr   amélioration
+he   שיפור
+
+»  bonia   nom
+en   goodness
+fr   bonté
+he   טוּב
+
+»  bonida   ajetivo
+en   improved
+fr   amélioré
+he   משופר
+
+»  fa la plu bon cual on pote   verbo
+en   do one’s best
+fr   faire le mieux possible
+he   לעשות את המיטב
+
+»  la plu bon   ajetivo
+en   best, optimal, optimum
+fr   le meilleur
+he   הכי טוב, אופטימלי
+
+»  ma bon   esclama
+Espresante ce on aseta un delude minor
+en   oh well (mild disappointment)
+he   נו טוב
+
+»  multe bon   ajetivo
+en   very good, excellent, primo, top-notch
+he   טוב מאוד
+
+»  no bon e no mal   espresa
+en   so-so, comme ci comme ça
+he   ככה ככה
+
+»  plu bon   ajetivo
+en   better, preferable
+fr   meilleur
+he   בצורה טובה יותר, בצורה מועדפת
+
+»  plu bon   averbo
+ca   millor
+de   eher, bevorzugt, besser
+en   preferably, rather
+eo   pli bone
+es   más bien
+fr   mieux, plutôt
+he   עדיף
+ja   というより, の方が良い
+pt   melhor
+ru   скорее, лучше
+
+Bonaire   nom
+Un teritorio autonom de Nederland en la Mar Caribe sude
+en   Bonaire (island)
+fr   Bonaire
+he   בונייר (אי)
+
+bonbon   nom
+Un confeto peti covreda con xocolada
+en   bonbon (confectionery)
+he   בונבון (ממתק)
+
+bondaje   nom
+Un pratica sesal cual envolve la lia o restrinje de un person
+en   bondage (sexual)
+fr   bondage
+he   קשירה (מינית)
+
+bondi   verbo nontransitiva
+Core saltante; salta repetente, tipal sur un trampolin o materas
+en   bound, bounce, lope
+fr   bondir
+he   לקפץ, להקפיץ
+
+»  bondi   nom
+en   bound
+he   הקפצה
+
+»  rebondi   verbo nontransitiva
+Move rapida a via de un surfas pos colpa lo; (lus) deveni refletada de un surfas
+da   springe, hoppe
+de   aufprallen
+en   rebound, bounce back, ricochet
+eo   resalti
+es   rebotar, botar, saltar, brincar, dar saltos, dar brincos
+fr   rebondir
+it   rimbalzare
+he   לקפוץ בחזרה
+nl   stuiteren
+pt   saltar, dar saltos
+
+bongo   nom
+Cada de un duple de tambures peti, tipal tenida entre la jenos e tocada par la ditos
+en   bongo (drum)
+he   בונגו (תוף)
+
+bongo   nom
+Un antilope de foresta, con pelo pal brun e bandetas blanca vertical, trovada en Africa sentral
+Tragelaphus eurycerus
+en   bongo (antelope)
+fr   bongo
+he   בונגו (אנטילופה)
+
+bonobo   nom
+Un ximpanze con fas e capeles negra, trovada en la forestas tropical de Congo
+Pan paniscus
+en   bonobo, pygmy chimpanzee
+he   בונובו (שימפנזה)
+
+bonsai   nom
+Un arbor o arboreta ornal, cultivada en un vaso basa, e artifis prevenida de ateni sua grandia normal; la arte de cultiva estas
+en   bonsai
+he   בונסאי
+
+boraja   nom
+Un planta erbin con flores briliante azul e folias pelosa, usada como un medisin e en saladas
+Borago
+en   borage (plant)
+fr   bourrache
+he   בוראז’ (צמח)
+
+borax   nom
+Un composada blanca, trovada en deponedas de sal alcalin, usada en la fabrica de vitro e seramicas e como un antisepsica
+en   borax (substance)
+he   (כימיה) בוראקס
+
+borbon   nom
+Un uisce SUA, distilada de mais e segal
+en   bourbon (whiskey/whisky)
+he   בורבון (וויסקי)
+
+borda   verbo transitiva
+Formi la linia dividente a la estrema de (alga cosa); (un rejion o pais) es visina a (un otra)
+en   border
+fr   border
+he   לגבול
+
+»  borda   nom
+en   edge, border, brink, verge, rim; outskirts, outlying regions; brim (hat, cup); threshold (metaphor)
+fr   bord, bordure
+he   גבול, קצה; שוליים
+
+»  borda de mar   nom
+en   seaside
+he   שפת הים
+
+»  borda de troteria   nom
+en   curb/kerb
+he   אבן שפה
+
+»  borda fronte   nom
+en   peak (cap)
+he   מצחייה (של כובע)
+
+»  sin borda   nom
+en   borderless, brimless, rimless
+he   ללא גבולות
+
+bordel   nom
+Un casa do algun (tipal un om) pote visita prostituidas (tipal femes)
+en   brothel, bordello, whorehouse
+fr   bordel
+he   בית בושת, בית זונות
+
+»  bordelor   nom
+en   brothelkeeper, madam
+fr   maquerelle
+he   מאדאם (בבית בושת)
+
+bordo   ajetivo
+Con color brunin carmesi
+en   maroon, puce
+fr   bordeaux
+he   בורדו (צבע)
+
+»  bordo   nom
+Un vino roja, blanca o ros de Bordeaux, un rejion en Frans sude-ueste
+en   bordeaux, claret
+fr   bordeaux
+he   בורדו (יין)
+
+borio   nom   «Bh»
+La elemento cimical con numero atomal 107
+en   bohrium (element)
+fr   bohrium
+he   בוריום (יסוד)
+
+borla   nom
+Un mexa ornal pendente de filos o cordetas nodada a un fini
+en   tassel
+he   ציצית
+
+Borneo   nom
+Un isola grande a norde de Djava, divideda entre Indonesia, Malaisia e Brune
+en   Borneo
+fr   Bornéo
+he   בורנאו
+
+boro   nom   «B»
+La elemento cimical con numero atomal 5, cual en sua forma pur es un cristal dur e negra
+en   boron (element)
+fr   bore
+he   בור, בורון (יסוד)
+
+borxt   nom
+Un sopa de betas e otra vejetales, orijinante en Ucraina
+en   borscht, borshch
+fr   borscht
+he   בורשט
+
+bosanova   nom
+Un stilo de musica de Brasil, derivada de la samba ma asentuante plu la melodia e min la percute; un dansa per esta musica
+en   bossa nova
+he   בוסה נובה
+
+bosce   nom
+Un grupo local e relativa peti de arbores, min grande ca un foresta, e cisa cultivada
+en   copse, grove, small wood, orchard, woodland
+fr   bosquet
+he   חורשה, חורש, מטע
+
+»  bosce de arboretas   nom
+en   shrubland, scrubland, brush
+he   סבך, בתה
+
+»  bosce de frutas   nom
+en   orchard
+fr   verger
+he   פרדס, מטע, בוסתן
+
+»  bosceta   nom
+en   thicket, bushes; rough (golf)
+fr   buisson
+he   חורשה קטנה
+
+»  boscin   ajetivo
+en   wooded, sylvan
+he   יערי
+
+»  boscor   nom
+en   woodsman, woodman
+he   שוכן ביער
+
+»  subosce   nom
+en   undergrowth, underbrush, scrub, brushwood (low-growing vegetation)
+fr   sousbois
+he   סבך שיחים
+
+Bosnia   nom
+La parte norde de Bosnia e Hersegovina
+en   Bosnia
+fr   Bosnie
+he   בוסניה
+
+»  Bosnia e Hersegovina   nom
+Un pais en Europa sude-este, separada de Iugoslavia en 1992
+(capital: Sarajevo)
+en   Bosnia and Herzegovina
+he   בוסניה והרצגובינה
+
+»  bosnian   ajetivo
+en   Bosnian, Bosniak (person, language)
+fr   bosniaque
+he   בוסני
+
+»  bosnian   nom
+en   Bosnian, Bosniak (person, language)
+fr   Bosniaque
+he   בוסני
+
+boson   nom
+Un particula suatomal, per esemplo un foton, sin jira o con jira intero
+en   boson (particle)
+fr   boson
+he   בוזון (חלקיק תת-אטומי)
+
+Bosporo, Streta   nom
+Un streta cual junta la Mar Negra con la Mar Marmara e separa Europa de Asia ueste
+en   Bosphorus Strait, Bosporus Strait
+he   מיצר בוספורוס
+
+bota   nom
+Un sapato cual covre un parte de la gama
+en   boot
+fr   botte
+he   מגף
+
+»  bota de cauxo   nom
+en   rubber boot, wellington, welly, gumboot
+fr   botte en caoutchouc
+he   מגף גומי
+
+»  bota militar   nom
+en   jackboot
+he   מגף צבאי
+
+botanica   nom
+La studia de plantas, incluinte sua fisiolojia, strutur, jenetica, ecolojia, distribui, clasi, e importa economial
+en   botany
+fr   botanique
+he   בוטניקה
+
+»  botanical   ajetivo
+en   botanical
+fr   botanique
+he   בוטני
+
+»  botaniciste   nom
+en   botanist
+fr   botaniste
+he   בוטנאי
+
+bote   nom
+Un contenador metal silindre, tipal per conserva comedas o bevidas
+en   can, tin
+fr   boite de conserve
+he   פחית
+
+»  boteria   nom
+en   cannery
+he   מפעל שימורים
+
+»  boti   verbo transitiva
+en   can, tin
+fr   mettre en conserve
+he   לשמר (מזון) בפחית
+
+»  botida   ajetivo
+en   canned, tinned
+fr   en conserve
+he   משומר
+
+boteca   nom
+Un construida en cual on vende cosas a la popla
+en   shop, store, boutique, commercial unit
+fr   boutique, magasin
+he   חנות
+
+»  boteca completa   nom
+en   one-stop shop
+he   חנות מא’ ועד ת’
+
+»  boteca de cose   nom
+en   fabric store, haberdasher’s
+he   חנות בדים
+
+»  boteca de departes   nom
+en   department store
+he   חנות כלבו
+
+»  boteca de te   nom
+en   teashop
+he   בית תה
+
+»  boteca de utiles   nom
+en   tool shop, hardware store, ironmonger’s
+he   חנות לכלי עבודה
+
+»  boteca descontante   nom
+en   discount store
+he   חנות דיסקאונט
+
+»  boteca sin imposta   nom
+en   duty-free shop, duty-free store
+he   חנות למוצרים פטורים ממכס, דיוטי פרי
+
+»  botecor   nom
+en   shopkeeper
+he   מנהל חנות, בעל חנות, חנווני
+
+botela   nom
+Un contenador, tipal de vitro o plastica e con colo magra, usada per conserva bevidas o otra licuidas
+en   bottle, flask
+fr   bouteille
+he   בקבוק
+
+»  botela de acua   nom
+en   water bottle, canteen
+fr   bouteille d’eau, bidon
+he   בקבוק מים, מימיה
+
+»  boteleta   nom
+en   phial, vial
+fr   flacon
+he   בקבוקון
+
+»  boteli   verbo transitiva
+en   bottle
+fr   mettre en bouteille
+he   לבקבק, להכניס לבקבוק
+
+Botnia, Golfo   nom
+Un golfo entre Sveria e Suomi, un parte de la Mar Baltica
+en   Gulf of Bothnia
+he   המפרץ הבוטני
+
+boton   nom
+Un disco o bal peti, coseda a un veste e puiable tra un ranur peti per clui la veste, o en alga casos mera ornal; un tecla per ajusta o controla un macina
+en   button, knob
+fr   bouton
+he   כפתור; לחצן
+
+»  boton de presa   nom
+en   snap fastener, press stud, popper
+fr   bouton-pression
+he   לחצנית
+
+»  botoni   verbo transitiva
+en   button
+fr   boutonner
+he   לכפתר
+
+»  botonin   ajetivo
+en   buttonlike, knobby
+he   גבשושי
+
+»  desbotoni   verbo transitiva
+en   unbutton
+fr   déboutonner
+he   לפתוח כפתורים
+
+botor   nom
+Un avia grande de pantanes en familia de eron, ma tipal plu peti
+Botaurinae
+en   bittern (bird)
+he   אנפה גמדית (ציפור)
+
+Botsuana   nom
+Un pais sin costa en Africa sude, de cual sua dui ueste es la Deserto Kalahari
+(capital: Gaborone)
+→ tsuana
+en   Botswana
+he   בוטסואנה
+
+»  tsuana   ajetivo
+→ Botsuana
+en   Botswanan (person), Tswana (language)
+he   בוטסואני, בוטסואנית (שפה)
+
+»  tsuana   nom
+en   Botswanan (person), Tswana (language)
+he   בוטסואני, בוטסואנית (שפה)
+
+botulisme   nom
+Un veneni causada par un bateria cual crese sur comedas en botes no sterilida
+en   botulism
+he   בוטוליזם, נקנקת
+
+bove   nom
+Un mamal domada grande, tipal usada per sua carne o lete, o per aparatos de cultiva
+Bos
+en   ox, cow, bull, bovine
+fr   bovin, bœuf, vache, taureau
+he   פרה, פר, שור
+
+»  bove fema   nom
+en   cow
+fr   vache
+he   פרה
+
+»  Bove   nom   «♉»
+Un constela de la zodiaco
+en   Taurus (constellation)
+fr   le Taureau
+he   שור (קבוצת כוכבים)
+
+»  bove mas   nom
+en   bull
+fr   taureau
+he   פר, שור
+
+»  boval   ajetivo
+en   bovine
+fr   bovin
+he   שקשור לבקר
+
+»  boves   nom, plural
+en   cattle, oxen
+fr   bétail
+he   בקר
+
+»  boveta   nom
+en   calf
+fr   veau
+he   עגל
+
+»  boveta fema   nom
+en   heifer
+he   עֶגלה
+
+»  bovin   ajetivo
+en   cowlike, bovine
+he   דמוי פרה
+
+»  bovor   nom
+en   cowherd, cowboy, wrangler
+fr   bouvier, cowboy
+he   בוקר, קאובוי
+
+boxe   verbo transitiva
+Combate (un oposor) usante sola sua punios, tipal como sporte
+en   box
+fr   boxer
+he   להתאגרף
+
+»  boxe   nom
+en   boxing, pugilism
+fr   boxe
+he   איגרוף
+
+»  boxe de pedi   verbo
+en   kickbox
+he   להתאגרף בקיקבוקסינג
+
+»  boxe de pedi   nom
+en   kickboxing
+fr   savate
+he   קיקבוקסינג
+
+»  boxe de pesa media   nom
+en   middleweight boxing
+he   איגרוף משקל בינוני
+
+»  boxe pesosa   nom
+en   heavyweight boxing
+he   איגרוף משקל כבד
+
+»  boxe plumin   nom
+en   featherweight boxing
+he   איגרוף משקל נוצה
+
+»  boxe profesal   nom
+en   professional boxing, prizefight
+he   איגרוף מקצועי
+
+»  boxe solitar   nom
+en   shadowboxing
+he   איגרוף צללים
+
+»  boxor   nom
+en   boxer, pugilist
+fr   boxeur
+he   מתאגרף
+
+»  boxor de pedi   nom
+en   kickboxer
+he   מתאגרף קיקבוקסינג
+
+»  boxor profesal   nom
+en   professional boxer, prizefighter
+he   מתאגרף מקצועי
+
+braci-   prefisa
+Corta
+en   brachy- (short)
+he   (קידומת טכנית) קצר
+
+braciopodo   nom
+Un membro de la filo de animales maral con concas a la surfases alta e basa
+Brachiopoda
+en   brachiopod
+he   ברכיופוד
+
+braciosauro   nom
+Un dinosauro erbivor enorme de entre la tarda de la jurasica e la media de la cretasica, con gamas anterior multe plu longa ca la posteriores
+Brachiosaurus
+en   brachiosaur, brachiosaurus
+he   ברכיוזאורוס
+
+bradi-   prefisa
+Lenta
+en   brady- (slow)
+he   (קידומת טכנית) לאט
+
+bradipo   nom
+Un mamal multe lenta de America tropical, cual usa sua gamas longa e talones curva per pende inversada de ramos
+Megalonychidae, Bradypodidae
+en   sloth
+fr   bradype, paresseux, aï
+he   עצלן (בעל חיים)
+
+Brahmaputra, Rio   nom
+Un rio en Asia sude cual comensa en la Montes Himalaia e flue tra 2900 km tra Bod, Barat norde-este e Bangladex, do lo junta se a la Rio Ganga ante fini en la Mar Bangla
+en   Brahmaputra River
+es   Río Brahmaputra
+he   נהר בראהמאפוטרה
+
+braille   nom   (dise ‘brai, brail’)
+Un sistem de scrive usada par persones sieca, nomida per sua inventor (Louis Braille) e composada de bultos peti impresada sur paper, lejeda par la ditos
+en   Braille
+fr   Braille
+he   ברייל
+
+Brama   nom
+(En induisme) la dio creante
+en   Brahma
+he   ברהמה (אל הינדי)
+
+braman   nom
+(En induisme) un person de la casta la plu alta; (metafor) un person de la clase la plu alta
+en   brahmin, brahman
+he   ברהמין
+
+brancia   nom
+Un organo respiral de pexes e alga amfibios, cual estrae osijen de acua e escrete diosido de carbono
+en   gill
+fr   branchie, ouie
+he   זים
+
+»  brancial   ajetivo
+en   branchial
+he   זימי
+
+brandi   verbo transitiva
+Move (un cosa tenida en la mano, como un bandera, spada o torxa) en ondas de asi a ala
+en   brandish, flourish, wield, wave; swing (club)
+fr   brandir
+he   לנופף (דגל, חרב, לפיד)
+
+»  brandi per colpa   verbo
+en   swing at
+he   לנופף (נשק) באיום
+
+brasa   nom
+Un peso peti de carbon o lenio ancora ardente en un foco morinte
+en   ember
+fr   braise
+he   גחל
+
+»  brasador   nom
+en   brazier, hibachi
+fr   brasero
+he   מחתה, כלי לגחלים
+ja   火鉢, 七輪
+
+»  brasas   nom, plural
+en   embers; afterglow (emotion)
+he   גחלת; זהרור
+
+brasaleta   nom
+Un banda, anelo o cadena ornal, portada sur la polso o braso
+en   bracelet, bangle, wristband
+fr   bracelet
+he   צמיד
+
+»  brasaleta de talo   nom
+en   anklet
+fr   chaîne de cheville, bracelet de cheville
+he   צמיד רגל
+
+Brasil   nom
+La pais la plu grande en America Sude, en la parte este-sentral de la continente, a la Mar Atlantica
+(capital: Brasilia)
+en   Brazil
+es   Brasil
+fr   Brésil
+he   ברזיל
+
+»  brasilera   ajetivo
+en   Brazilian
+es   brasileño
+fr   brésilien
+he   ברזילאי
+
+»  brasilera   nom
+en   Brazilian
+es   brasileño
+fr   Brésilien
+he   ברזילאי
+
+braso   nom
+Cada de la du membros superior de la corpo umana, de la spala asta la mano; cada de la gamas anterior de un animal; cada de la membros flexable de un nonvertebrato como un polpo
+en   arm
+fr   bras
+he   זרוע
+
+»  braso alta   nom
+en   upper arm
+fr   bras
+he   זרוע עליונה
+
+»  braso basa   nom
+en   forearm
+fr   avant-bras
+he   אמה
+
+»  brasal   ajetivo
+en   brachial
+he   שקשור לזרוע
+
+»  braseta   nom
+en   bracket, parenthesis
+fr   parenthèse, crochet
+he   סוגר (סימן פיסוק)
+
+»  braseta angulo   nom   «< >»
+en   angle bracket
+fr   chevron
+he   סוגר זוויתי
+
+»  braseta curva   nom   «( )»
+en   round bracket, parenthesis
+fr   parenthèse
+he   סוגר (סימן פיסוק)
+
+»  braseta reta   nom   «[ ]»
+en   square bracket
+fr   crochet
+he   סוגר מרובע
+
+»  braseta risa   nom   «{ }»
+en   curly bracket, brace
+fr   accolade
+he   סוגר מסולסל
+
+»  braseti   verbo transitiva
+en   bracket
+he   לשים בסוגריים
+
+»  brasetida   ajetivo
+en   bracketed
+he   בסוגריים, מוסגר
+
+»  brasetida   averbo
+en   in brackets
+he   בסוגריים, מוסגר
+
+»  brasetida   nom
+en   parenthesis, parenthetical phrase
+he   בסוגריים, מוסגר
+
+»  brasi   verbo transitiva
+en   apply one’s arm to
+he   להשתמש בזרועות
+
+»  brasi   nom
+en   stroke (swimming)
+fr   brasse (natation)
+he   (שחייה) לחתור
+
+»  entre brasetas   ajetivo
+en   in brackets, parenthetical
+he   בסוגריים, מוסגר
+
+»  entre brasetas   averbo
+en   in brackets, parenthetically, by the way
+fr   entre parenthèses
+he   במאמר מוסגר, דרך אגב
+
+bratea   nom
+Un folia spesialida, tipal peti, con un flor a la media
+en   bract (botany)
+fr   bractée
+he   (בוטניקה) חפה
+
+brava   ajetivo
+Con cualias o capasias cual merita respeta
+en   decent, worthy, gallant
+fr   méritant, brave
+he   ראוי להערכה
+
+»  brava   esclama
+en   bravo
+fr   bravo
+he   בראבו!
+
+bravata   nom
+Un ostenta de coraje per impresa o menasa
+ca   arrogància, bravata
+en   bravado, bluster, bombast, swagger
+es   bravuconería, bravuconada, fanfarronada, baladronada, bravata
+fr   bravade
+it   spavalderia, spacconaggine, baldanza
+he   רברבנות, שחצנות
+pt   bravata, fanfarrice
+
+»  bravator   nom
+en   blowhard, braggart
+he   רברבן, שחצן
+
+»  bravatosa   ajetivo
+en   bombastic, swaggering, swashbuckling
+he   רברבני, שחצני
+
+»  bravatosa   nom
+en   swashbuckler
+he   רברבני, שחצני
+
+brecdansa   verbo nontransitiva
+Un dansa enerjiosa e jinastin, developada par afroamericanes
+en   breakdance
+he   לרקוד ברייקדאנס
+
+»  brecdansa   nom
+en   breakdance, breakdancing, B-boying
+he   ברייקדאנס
+
+Bres   nom
+Un rejion de Frans norde-ueste cual formi la penisola entre la Golfo Biscaia e la Manga; un duxia cual ia esiste de 939 asta 1547 ec
+en   Brittany; Duchy of Brittany
+fr   Bretagne
+he   בריטאני (איזור בצרפת)
+
+»  bresonica   ajetivo
+en   Breton (person, language)
+fr   breton
+he   ברטוני, ברטונית (שפה)
+
+»  bresonica   nom
+en   Breton (person, language)
+fr   Breton
+he   ברטוני, ברטונית (שפה)
+
+bretela   nom
+Un banda cual pasa supra la spala, tipal per porta un saco o teni la taie de un pantalon o falda
+en   brace (UK), suspender (US); shoulder strap
+fr   bretelle
+he   כתפיה, שלייקס
+
+»  bretela de calsa   nom
+en   suspender (UK), garter (US)
+he   בירית
+
+»  breteleta   nom
+en   spaghetti strap, noodle strap
+fr   bretelle
+he   (בגדים) רצועת ספגטי
+
+»  sin bretelas   ajetivo
+en   strapless
+he   ללא כתפיות, סטרפלס
+
+Breton, Capo   nom
+Un isola cual es la parte norde-este de la provinse Scotia Nova en Canada
+en   Cape Breton
+fr   Cap-Breton
+he   קייפ ברטון (אי)
+
+bretsel   nom   «&»
+Un biscoto fornida con forma de noda o baston, saborida con sal; un sinia de puntua cual sinifia `e`
+en   pretzel; ampersand
+he   כעך, בייגל; סימן החיבור &
+
+breviario   nom
+Un libro conteninte la testo liturjial per cada dia, resitada par membros de la Eglesa Catolica Roman
+en   breviary
+es   breviario
+fr   bréviaire
+he   ספר תפילות יומי
+
+bri   nom
+Un ceso mol, blanda e cremosa, con casca firma e blanca
+en   brie (cheese)
+he   ברי (גבינה)
+
+bricabrac   nom
+Cosas vea o no plu usada; ornas de poca valua
+en   junk, odds and ends, bric-a-brac
+fr   bric-à-brac
+he   אוסף חפצים בעלי ערך נמוך
+
+»  bricabraceria   nom
+en   junk shop, charity shop
+he   חנות יד-שנייה
+
+brice   nom
+Un bloco retangulo, tipal fabricada de arjila fornida o secida par la sol, usada per construi
+en   brick; ingot, bar
+fr   brique
+he   לבנה, בלוק; מטיל
+
+»  brice de beton   nom
+en   concrete block, cement block
+fr   bloc de béton
+he   בלוק בטון
+
+»  brice de carbon   nom
+en   briquet, briquette
+he   לבנת פחם
+
+»  brice de sene   nom
+en   cinder block, breeze block, besser block
+he   לבנה, בלוק (חלול)
+
+»  brici   verbo transitiva
+en   brick, brick up
+he   לבנות בלבנים
+
+»  bricor   nom
+en   bricklayer, brickie
+he   בנאי
+
+bricola   verbo nontransitiva
+Fa taxes diversa per manteni un casa o jardin; construi o decora mesma sua casa, en loca de emplea laborores
+en   do odd jobs, tinker
+fr   bricoler
+he   לשפץ, לתקן או לתחזק ללא בעלי מקצוע
+
+»  bricola   nom
+en   DIY, do-it-yourself, odd jobs
+fr   bricolage
+he   עשה זאת בעצמך
+
+»  bricoleta   verbo nontransitiva
+Ocupa se en modo plasente ma sin projeta
+en   putter/potter about
+he   להעביר את הזמן
+
+»  bricolor   nom
+en   tinkerer
+he   מתקן או משפץ כתחביב
+
+brida   nom
+Un aparato de bandas, tipal de cuoro, usada per controla un cavalo, liada a un morso e un redin
+en   bridle (straps)
+fr   bride
+he   רסן
+
+»  bridi   verbo transitiva
+en   bridle
+fr   brider
+he   לשים רסן
+
+»  desbridi   verbo transitiva
+en   unbridle; debride
+fr   débrider
+he   להסיר רסן
+
+»  desbridi   nom
+en   unbridling; debridement
+he   הסרת רסן; (רפואה) הטריה
+
+brigada   nom
+Un sudivide de un armada, plu grande ca un divide e min grande ca un batalion; un organiza con strutur cuasi militar
+en   brigade
+fr   brigade
+he   חטיבה, בריגדה
+
+»  brigada de pompores   nom
+en   fire department, fire brigade
+fr   brigade des sapeurs-pompiers
+he   מכבי אש
+
+»  brigador   nom
+en   brigadier
+fr   brigadier
+he   תת-אלוף
+
+brigantin   nom
+Un barcon de vela con du mastos, de cual la fronte ave velas cuadro
+en   brigantine, brig
+he   בריגנית (ספינה בעלת שני תרנים)
+
+brije   nom
+Un jua de cartas, entre du duples de juores, en cual on ofre un contrata per gania un cuantia spesifada de prendes con un trumfo nomida
+en   bridge (card game)
+fr   bridge
+he   ברידג’ (משחק קלפים)
+
+brilia   verbo nontransitiva
+Produi o refleta lus forte; sintili o lampi forte
+en   shine, gleam
+fr   briller
+he   לזרוח, לזהור, לנצוץ, לבהוק, להבריק, לקרון
+
+»  brilia   verbo transitiva
+en   cause to shine, polish, burnish
+fr   faire briller
+he   להבהיק, להבריק, לצחצח
+
+»  brilia   nom
+en   brilliance, splendor/splendour, lucidity, gleam
+fr   brillance, éclat, splendeur
+he   ברק, בוהק, זוהר
+
+»  brilia de mente   nom
+en   brainwave, brainstorm
+he   הברקה; סיעור מוחות
+
+»  brilia de sol   nom
+en   sunshine
+he   אור שמש
+
+»  briliante   ajetivo
+en   shining, shiny, bright, brilliant, glossy, gleaming, lustrous, splendid, lucid, lurid, resplendent, vibrant
+fr   brillant
+he   זוהר, זורח, נוצץ, בוהק, מבריק, קורן
+
+»  briliante   nom
+en   shiner; brightener; sequin
+he   מבהיר; נצנץ (נצנצים)
+
+»  brilieta   verbo nontransitiva
+en   glow
+he   לזהור, לבהוק באור עמום
+
+»  brilieta   nom
+en   sheen, glow, luster/lustre
+he   ברק, בוהק עמום
+
+»  brilion   nom
+en   glare, dazzle
+he   סנוור
+
+»  cuantia de brilia   nom
+en   brightness; magnitude (astronomy)
+he   בהירות
+
+briliamobila   nom, composada (verbo+nom)
+Un sustantia usada per brilia mobilas de lenio
+en   furniture polish
+he   מבריק רהיטים
+
+briliasapato   nom, composada (verbo+nom)
+Un sustantia usada per brilia sapatos o botas de cuoro
+en   shoe polish
+he   משחת נעליים
+
+brinca   verbo transitiva
+Move lejera par saltas peti, sur un o du pedes, per traversa (un loca); core juante, como un enfante
+en   hop, skip, gambol, caper, cavort, flit across
+fr   sautiller
+he   לקפץ, לדלג
+
+»  brinca   nom
+en   hop, skip, gambol, caper, flit
+he   קפיצה, דילוג
+
+»  brincor   nom
+en   hopper, skipper, leaper
+he   קופץ, מדלג
+
+brincacorda   nom, composada (verbo+nom)
+Un jua de salta, usante un corda cual la saltor o du otra persones teni a ambos finis e jira supra la testa e su la pedes
+en   skipping
+fr   saut(er) à la corde
+he   קפיצה בחבל
+
+brincacuadro   nom, composada (verbo+nom)
+Un jua en cual enfantes salta tra cuadros sur la tera per retrae un ojeto ja lansada a un cuadro
+en   hopscotch
+he   קלאס (משחק)
+
+brincadorso   nom, composada (verbo+nom)
+Un jua de salta supra la dorsos de persones ci inclina se a su
+en   leapfrog
+fr   saute-mouton
+he   סוס ארוך, חמור ארוך (משחק)
+
+brinda   verbo transitiva
+(Persones asemblada) leva sua vitros e bevi per onora (un person o cosa), tipal pos un parla corta par un ospitor
+en   toast, raise one’s glass to
+fr   lever son verre en l’honneur de
+he   להרים כוסית
+
+»  brinda   nom
+en   toast
+fr   toast
+he   הרמת כוסית
+
+briofite   nom
+Un planta verde peti sin flores, de un spesie cual inclui moses e epaticas
+en   bryophyte
+
+briox   nom
+Un pan lejera e dulse, tipal con forma de bal peti
+en   brioche (bread)
+fr   brioche
+he   בריוש (מאפה)
+
+briozon   nom
+Un membro de un filo de nonvertebratos acual e fisada
+Briozoa
+en   bryozoon (pl. bryozoa) (organism)
+fr   bryozoon
+he   חיטחב (בעל-חיים)
+
+Britan   nom
+La nasion composada de England, Cimri e Scotland
+en   Britain, Great Britain, Britannia
+fr   Grande-Bretagne
+he   בריטניה
+
+»  Britan Grande   nom
+La isola conteninte England, Cimri e Scotland, e la loca de la plu de la Rena Unida
+en   Great Britain (island)
+
+»  Britan Nova   nom
+Un isola norde-este de Papua e Gine Nova
+en   New Britain (island)
+he   בריטניה החדשה (אי)
+
+»  brites   ajetivo
+en   British (person, language)
+fr   britannique
+he   בריטי
+
+»  brites   nom
+en   Briton, Brit
+fr   Britannique
+he   בריטי
+
+Britania   nom
+La personi de Britan, tipal en la forma de un fem con elmo, scermo e tridente
+en   Britannia (personification of Britain)
+he   בריטניה (דמות נשית שמייצגת את האי הבריטי)
+
+broca   nom
+Un spino metal usada per fora, como parte de un forador
+en   drill bit
+fr   foret, mèche
+he   מקדח
+
+brocada   nom
+Un stofa rica, tipal de seda, texeda con motif relevada de oro o arjento
+en   brocade (fabric)
+he   ברוקד (אריג)
+
+brocol   nom
+Un tipo de col simil a un coliflor, con brotos verde o purpurin
+Brassica oleracea
+en   broccoli (plant, vegetable)
+fr   broccoli
+he   ברוקולי
+
+brode   verbo transitiva
+Decora (un stofa) par cose motifes sur lo con ago e filo
+en   embroider
+fr   broder
+he   לרקום
+
+»  brode   nom
+en   embroidery, needlework, needlepoint
+fr   broderie
+he   רקמה
+
+broma   verbo transitiva
+Dise (un cosa comica) per causa rie
+en   joke, jest, tease
+fr   plaisanter, blaguer
+he   להתבדח, להתלוצץ
+
+»  broma   nom
+en   joke, gag, tease, pleasantry, zinger, wisecrack
+fr   plaisanterie, blague
+he   בדיחה
+
+»  broma de parolas   nom
+en   pun, wordplay, play on words
+fr   jeu de mots, calembour
+he   משחק מילים
+
+»  bromor   nom
+en   joker, jester, jokester, comedian
+fr   blagueur
+he   בדחן
+
+»  bromosa   ajetivo
+en   jocular, facetious
+he   מבדח, היתולי, משעשע
+
+»  bromosia   nom
+en   jocularity, facetiousness, levity
+he   בדיחות הדעת
+
+bromelia   nom
+Un planta de America tropical e sutropical, tipal con troncetas corta con rosetas de folias rijida e spinosa
+Bromeliaceae
+en   bromeliad (plant)
+he   צמח ממשפחת הברומליים
+
+bromo   nom   «Br»
+La elemento cimical con numero atomal 35, un licuida roja, fumosa, venenosa e malodorosa
+en   bromine
+fr   brome
+he   ברום (יסוד)
+
+»  bromido   nom
+en   bromide (chemistry)
+he   (כימיה) ברומיד
+
+bronciol   nom
+Cada de la ramos pico a cual un bronco divide
+en   bronchiole
+fr   bronchiole
+he   (אנטומיה) סימפונית
+
+broncite   nom
+Un inflama de la membranas mucosa de la broncos, tipal causante spasmas e toses
+en   bronchitis
+fr   bronchite
+he   דלקת סימפונות, ברונכיטיס
+
+bronco   nom
+Cada de la tubos major de la pulmones cual diverje de la tracea
+en   bronchus, bronchi
+fr   bronche
+he   (אנטומיה) סימפון
+
+»  broncal   ajetivo
+en   bronchial
+he   שקשור לסימפונות, ברונכיטי
+
+broncodilatante   nom
+Un medisin per dilata la broncos
+en   bronchodilator
+he   מרחיב סימפונות (תרופה)
+
+broncoscopio   nom
+Un corda de fibres otical cual on introdui en la tracea per esamina la broncos
+en   bronchoscope
+he   ברונכוסקופ
+
+»  broncoscopi   nom
+en   bronchoscopy
+he   ברונכוסקופיה
+
+bronze   nom
+Un aliada de cupre e stanio, con color jalin brun; un pel brunida par la sol
+en   bronze; tan, suntan
+fr   bronze
+he   ארד, ברונזה; שיזוף
+
+»  bronze dorada   nom
+en   gilded bronze, vermeil
+he   ארד מוזהב
+
+»  bronzi   verbo nontransitiva
+en   tan
+he   להשתזף
+
+»  bronzi   verbo transitiva
+en   tan
+he   לגרום לשיזוף
+
+»  de bronze   ajetivo
+en   (made of) bronze
+he   עשוי ארד
+
+brosa   nom
+Un util con manico, composada de capelones, capeletas o filos de fero fisada a un bloco, tipal usada per limpi, frota, depinta o ordina capeles
+en   brush, paintbrush
+fr   brosse
+he   מברשת
+
+»  brosa de capeles   nom
+en   hairbrush
+he   מברשת שיער
+
+»  brosa de dentes   nom
+en   toothbrush
+fr   brosse à dents
+he   מברשת שיניים
+
+»  brosa de ungias   nom
+en   nailbrush
+
+»  brosi   verbo transitiva
+en   brush; groom (animal)
+fr   brosser
+he   להבריש
+
+»  brosin   ajetivo
+en   brushlike, bushy (tail)
+he   דמוי מברשת
+
+broto   nom
+Un crese botonin sur un planta, cual va deveni un folia, flor o rameta; un crese de un organisme cual separa per formi un individua nova, sin reprodui sesal
+en   bud
+fr   bourgeon
+he   ניצן
+
+»  broto de rosa   nom
+en   rosebud
+he   ניצת הוורד
+
+»  broti   verbo nontransitiva
+en   bud
+fr   bourgeonner
+he   להנץ, להצמיח ניצנים
+
+brox   nom
+Un joala o orna con un spina xarnierida per fisa lo a un veste
+en   brooch
+fr   broche
+he   סיכת נוי
+
+brun   ajetivo
+Con color produida par misca roja, jala e negra, como lenio oscur o tera rica; con pel o capeles de esta color
+en   brown; brunette; swarthy
+fr   brun, marron
+he   חום (צבע)
+
+»  brun   nom
+en   brown; brunette
+he   חום (צבע)
+
+»  brun oranin   nom
+en   tawny
+he   חום-צהבהב
+
+»  brun pal   nom
+en   light brown
+he   חום בהיר, בז’
+
+»  brun rojin   nom
+en   reddish brown, auburn, rugous
+fr   auburn
+he   חום-אדמדם
+
+»  bruni   verbo nontransitiva
+en   turn brown
+fr   brunir; griller, faire dorer (culinaire)
+he   להפוך לצבע חום
+
+»  bruni   verbo transitiva
+en   sear, brown (cookery); bruise
+fr   brunir
+he   להשחים
+
+»  bruni   nom
+en   bruise
+he   כתם (בפרי)
+
+»  brunin   ajetivo
+en   brownish
+he   שנוטה לצבע חום
+
+»  pal brun   ajetivo
+en   light brown, beige, fawn
+fr   beige
+he   חום בהיר, בז’
+
+Brune   nom
+Un pais e sultania peti, rica con petrolio, a la costa norde-ueste de Borneo
+(capital: Bandar Seri Begawan)
+en   Brunei
+he   ברוניי
+
+»  brune   ajetivo
+en   Bruneian
+he   שקשור לברוניי
+
+»  brune   nom
+en   Bruneian
+he   תושב ברוניי
+
+Brunswick Nova   nom
+Un provinse de Canada este, bordante la Mar Atlantica
+en   New Brunswick (Canadian province)
+he   ניו ברנזוויק (פרובינציה קנדית)
+
+brusca   ajetivo
+Subita e franca en sua parla o condui
+en   brusque, curt, blunt, terse, short, peremptory
+eo   bruska, abrupta
+fr   brusque
+he   בוטה
+
+bruta   ajetivo
+(Un materia) no refinada, no preparada; (un jem) no taliada; (arena) conteninte multe particulas o granes; (un estima) nonesata; (un person) sin cortesia, rapida deveninte coler o iritada, no simpatiosa o compatiosa
+en   rough (marble, estimate), untreated, uncut (gem), coarse (sand), unrefined (sugar), unfinished, crude, gross (national product, income, profit, tax, tonnage); uncouth, brutish, loutish, boorish, gruff, surly, crass
+fr   brut
+he   גס (חומר); גולמי; גס רוח, חסר תרבות
+
+»  bruta   nom
+en   brute, boor, lout, ruffian, lowlife, vulgarian
+he   גס רוח, חסר תרבות
+
+Bruxelles   nom   (dise ‘bruxeles’)
+La site capital de Beljia
+en   Brussels
+he   בריסל
+
+bubon   nom
+Un noda limfal inflamada e inflada, en la axila o inguin
+en   bubo (swollen lymph node)
+fr   bubon
+he   קשר לימפה מודלק
+
+»  bubonal   ajetivo
+en   bubonic
+fr   bubonique
+he   שקשור לקשרי לימפה מודלקים
+
+buce   nom
+Un ordina bela de flores, tipal donada, o portada en un rituo como sposi
+en   bouquet, bunch of flowers
+fr   bouquet
+he   זר (פרחים)
+
+»  buceta   nom
+en   posy, nosegay
+he   זר קטן
+
+buco   nom
+Un loca vacua en o tra un corpo o surfas solida, o entre du ojetos; (metafor) un parte mancante, per esemplo en nosa comprende
+en   hole, gap, breach, lacuna
+fr   trou
+he   חור, חריר, נקב, פתח; רווח, פער
+
+»  buco de baril   nom
+en   bunghole
+he   חור בחבית
+
+»  buco de boton   nom
+en   buttonhole
+he   חור לכפתור, איבקה
+
+»  buco de clave   nom
+en   keyhole
+fr   trou de serrure
+he   חור מנעול
+
+»  buco de cloaca   nom
+en   manhole
+fr   bouche d’égout
+he   פתח ביוב
+
+»  buco de culo   nom
+en   (colloquial) asshole/arsehole (anus, insult)
+he   (שפה מדוברת) פי-הטבעת; אידיוט
+
+»  buco de palo   nom
+en   posthole
+he   חור לעמוד
+
+»  buco de posta   nom
+en   letterbox, mail slot
+he   חריץ לדואר
+
+»  buco de refuja   nom
+en   foxhole
+he   שוחה
+
+»  buco de respira   nom
+en   blowhole
+he   נחיר (של יונק ימי)
+
+»  buco de spia   nom
+en   spyhole, peephole
+he   חור הצצה
+
+»  buco de strada   nom
+en   pothole
+he   מהמורה (בכביש)
+
+»  buco de verme   nom
+en   wormhole
+fr   trou de ver
+he   (אסטרונומיה) חור תולעת
+
+»  buco negra   nom
+en   black hole
+fr   trou noir
+he   (אסטרונומיה) חור שחור
+
+»  ateni la buco con un colpa   espresa
+en   score a hole in one (golf)
+he   (גולף) לקלוע לגומה בפעם אחת
+
+»  bucosa   ajetivo
+en   full of holes, holey
+he   מחורר, מנוקב
+
+Bucuresti   nom
+La site capital de Romania
+en   Bucharest
+he   בוקרשט
+
+Buda   nom
+Un titulo donada a la fundor de Budisme, Siddhārtha Gautama; un sculta o imaje de el; un person ci ia ateni lumina completa
+en   Buddha
+he   בודהה
+
+»  budisme   nom
+en   Buddhism
+he   בודהיזם
+
+»  budiste   nom
+en   Buddhist
+he   בודהיסט
+
+budlea   nom
+Un arboreta con flores bonodorosa
+Buddleia
+en   buddleia (plant)
+he   בודליה (צמח)
+
+bufalo   nom
+Un bove spesa con cornos estendente a retro, xef trovada en la tropicos de la mundo vea
+Bubalus
+en   water buffalo, buffalo
+fr   buffle
+he   תאו, בופאלו
+
+bufe   nom
+Un come composada de platos diversa cual visitores servi a se
+en   buffet, potluck (meal)
+fr   buffet
+he   בופה, מזנון
+
+»  buferia   nom
+en   cafeteria, buffet restaurant
+he   קפיטריה, מזנון
+
+bufon   nom
+Un ator comica ci porta macia esajerada e vestes riable o povre; un person comica, bobo o juosa; un person fol o noncapas; un carta de jua, tipal con imaje de bufon, cual pote ave cualce valua desirada; (en informatica) un sinia cual representa cualce otra sinia o serie de sinias
+en   clown, buffoon, jester; joker, wildcard; catchall
+fr   bouffon, clown; joker (jeu de cartes)
+he   ליצן, מוקיון; ג’וקר (קלף); (מחשבים) תו-כל
+
+»  bufonal   ajetivo
+en   clown
+he   ליצני, מוקיוני
+
+»  bufonales   nom, plural
+en   antics, buffoonery
+he   מעשי ליצנות
+
+»  bufonia   nom
+en   clowning, antics, buffoonery, horseplay
+he   ליצנות
+
+bugainvilea   nom
+Un planta trepante e ornal de la tropicos
+Bougainvillea
+en   bougainvillea
+he   בוגנוויליה (צמח)
+
+bugi   nom
+Un stilo de blus juada a piano, con ritmo forte e rapida; un dansa per esta o otra musica rapida
+en   boogie, boogie-woogie (dance, music)
+he   (מוזיקה) בוגי-ווגי
+
+bujeta   verbo transitiva
+Furni o reserva (un cuantia de mone) per un periodo
+en   budget
+he   לתקצב
+
+»  bujeta   nom
+Un estima de spende e revenu per un periodo futur
+en   budget
+eo   buĝeto
+he   תקציב
+
+bujia   nom
+Un aparato cual ensende la miscada esplodente en un motor de combusta interna
+en   spark plug
+fr   bougie d’allumage
+he   מצת, פלאג
+
+bula   nom
+Un bola peti sur la pel, plenida con sero, causada par frica, arde o infla; un bola simil, plenida con aira o licuida, a la surfas de un planta, metal caldida, lenio pintida, etc
+en   blister
+fr   ampoule
+he   שלפוחית, אבעבועה
+
+»  buli   verbo nontransitiva
+en   blister
+fr   se boursoufler, cloquer
+he   להתכסות בשלפוחיות
+
+»  buli   verbo transitiva
+en   blister
+he   לגרום לשלפוחיות
+
+bulbo   nom
+Un organo de alga plantas, trovada su la tera, e usada per conserva nurintes; cualce ojeto con forma simil
+en   bulb
+fr   bulbe
+he   פקעת
+
+»  bulbo de lus   nom
+en   lightbulb
+he   נורה
+
+»  bulbo flax   nom
+en   flashbulb
+he   נורת מבזק, פלאש
+
+»  bulbal   ajetivo
+en   bulbous (growing from a bulb)
+he   פקעתי
+
+»  bulbin   ajetivo
+en   bulbous, bulblike
+he   בולבוסי, בולט
+
+bulbul   nom
+Un avia cantante de la tropicos de Africa e Asia, tipal con vose bela e plumas sombre
+Pycnonotidae
+en   bulbul (bird)
+fr   bulbul
+he   בולבול (ציפור)
+
+buldog   nom
+Un can con pelo lisa, peto larga, testa grande, mandibula basa protendente e fas plana e plietosa
+en   bulldog
+he   בולדוג
+
+buldozer   nom
+Un trator potiosa con bandas erugin e un lama larga, vertical e curvida a la fronte, usada per move tera e detrito
+en   bulldozer
+fr   bulldozer
+he   דחפור, בולדוזר
+
+bulgur   nom
+Un comeda composada de trigo intera, secida pos boli partal, popular en Asia sude-ueste
+en   bulgur (food)
+fr   boulghour
+he   בורגול (מאכל)
+
+buliabes   nom
+Un sopa o ragu spisosa, conteninte pexes diversa, orijinante en Provensa
+en   bouillabaisse
+fr   bouillabaisse
+he   בויאבז (מרק)
+
+bulimia   nom
+Un maladia emosial en cual un person come tro multe, tipal segueda par depresa, vomiti o juna
+en   bulimia
+fr   boulimie
+he   בולימיה
+
+»  bulimica   ajetivo
+en   bulimic
+fr   boulimique
+he   בולימי
+
+»  bulimica   nom
+en   bulimic
+fr   boulimique
+he   בולימי
+
+bulion   nom
+Un licuida produida par coce lenta osos, carne, pexes o vejetales en acua, usada per prepara sopa o salsa; un licuida conteninte protenas e otra nurintes per cultiva baterias o conserva texedas
+en   bouillon, broth, stock, consommé
+fr   bouillon
+he   (בישול) ציר
+
+bulon   nom
+Un spino o bara metal, usada per junta cosas, tipal con un torca
+en   bolt (including nut)
+fr   boulon
+he   בורג (עם אום)
+
+»  bulon xef   nom
+en   kingpin (bolt, person)
+he   ציר ראשי (רכב); אדם חשוב בארגון
+
+»  buloni   verbo transitiva
+en   bolt
+fr   boulonner
+he   להבריג, לסגור עם בורג ואום
+
+bulto   nom
+Un infla cual contorse un surfas plana
+en   bulge, bump, lump, protuberance, burl, slub, gob, nub, nubbin
+fr   bosse
+he   בליטה, תפיחה, גבשושית
+
+»  bulteta   nom
+en   small bump, small lump, weal
+fr   bosse petite
+he   בליטה קטנה
+
+»  bulti   verbo nontransitiva
+en   bulge
+fr   se gonfler
+he   לבלוט, להתנפח
+
+»  bulti   verbo transitiva
+en   bulge
+he   לגרום לבליטה
+
+»  bultosa   ajetivo
+en   bumpy, lumpy
+fr   bossu, bosselé
+he   גבשושי, גושי
+
+buma   verbo nontransitiva
+Crese en modo esplodente
+en   boom (increase explosively)
+he   לגדול במהירות, לשגשג
+
+»  buma   nom
+en   boom
+fr   boom
+he   עלייה חדה, שגשוג
+
+»  buma de bebes   nom
+en   baby boom
+fr   baby boom
+he   עלייה חדה בקצב הילודה, בייבי בום
+
+»  buma economial   nom
+en   economic boom
+fr   boom économique
+he   שגשוג כלכלי
+
+»  Buma Grande   nom
+La crese rapida de la universo de sua state inisial de densia e temperatur estrema alta
+en   Big Bang
+fr   Big Bang
+he   המפץ הגדול
+
+bumerang   nom
+Un peso de lenio plata e curva cual pote es lansada e reveni tipal a la lansor, orijinal usada par australianes orijinal per xasa
+en   boomerang
+fr   boomerang
+he   בומרנג
+
+buncer   nom
+Un refujeria suteran e fortida, tipal usada en gera; un contenador o comparte usada per reteni combustables
+en   bunker, dugout
+fr   bunker
+he   בונקר, מיבצור
+
+buo   nom
+Un avia xasante e noturna, con oios grande, fas ronda, beco oncin e vose forte
+Strigidae
+en   owl
+fr   chouette, hibou
+he   ינשוף
+
+»  buo de neva   nom
+Bubo scandiaca
+en   snowy owl
+fr   harfang des neiges
+he   אוח השלג (ציפור)
+
+»  buo real   nom
+Bubo bubo
+en   Eurasian eagle owl
+fr   hibou grand-duc
+he   אוח (ציפור)
+
+»  buin   ajetivo
+en   owl-like
+he   ינשופי
+
+bur   nom
+Un materia grasosa e jala, creada par bate lete o crema, comeda sur pan e usada en cosini jeneral
+en   butter
+es   mantequilla
+fr   beurre
+he   חמאה
+
+»  bur de aracide   nom
+en   peanut butter
+es   crema de cacahuete
+fr   beurre de cacahuète, beurre d’arachide
+he   חמאת בוטנים
+
+»  buri   verbo transitiva
+en   butter
+fr   beurrer
+he   למרוח בחמאה
+
+»  burin   ajetivo
+en   buttery
+he   בעל מרקם כמו של חמאה
+
+»  burosa   ajetivo
+en   buttery
+he   חמאתי, שמכיל חמאה
+
+burca   nom
+Un roba longa e laxe, covrente la corpo e testa intera, portada par alga femes muslim estra casa
+en   burqa, burka, chadri (garment)
+fr   burqa
+he   בורקה
+
+Burcina Faso   nom
+Un pais sin costa en Africa ueste, a norde de Gana e a sude de Mali
+(capital: Ouagadougou)
+ca   Burkina Faso
+da   Burkina Faso
+de   Burkina Faso
+el   Μπουρκίνα Φάσο
+en   Burkina Faso
+eo   Burkino
+fr   Burkina Faso
+it   Burkina Faso
+he   בורקינה פאסו
+ja   ブルキナファソ
+nl   Burkina Faso
+pl   Burkina Faso
+pt   Burkina Faso
+ru   Буркина-Фасо
+
+»  burcinabe   ajetivo
+en   Burkinabé
+he   שקשור לבורקינה פאסו
+
+»  burcinabe   nom
+en   Burkinabé
+he   תושב בורקינה פאסו
+
+burcini   nom
+Un veste de nada, covrente la corpo intera estra fas, manos e pedes, portada par alga femes muslim
+en   burkini, burqini (swimsuit)
+he   בורקיני
+
+bure   nom
+Un dansa vivosa de Frans, simil a un gavota; (en baleto) un serie de pasetas rapida; un musica per esta dansas
+en   bourrée, bourée, borreia, borry, bore (dance, music)
+fr   bourrée
+he   בורה (ריקוד)
+
+Burgonia   nom
+Un rejion en Frans este-sentral; (istorial) un duxia de la mesma rejion e, plu temprana, un rena germanica
+ca   Borgonya
+da   Bourgogne
+de   Burgund
+el   Βουργουνδία
+en   Burgundy
+eo   Burgonjo
+es   Borgoña
+fr   Bourgogne
+it   Borgogna
+he   בורגונדי (איזור בצרפת)
+ja   ブルゴーニュ
+pl   Burgundia
+pt   Borgonha
+
+»  burgonia   ajetivo
+Con color profonda roja
+en   burgundy (color/colour)
+he   בורגונדי (צבע)
+
+»  burgonia   nom
+Un vino de Burgonia, tipal con esta color
+en   burgundy (wine)
+fr   bourgogne
+he   בורגונדי (יין)
+
+burgunda   ajetivo
+Pertinente a la popla germanica ci ia invade Galia de la este e ia fundi la rena Burgonia en la sentenio 5 ec, o a sua lingua germanica
+en   Burgundian
+fr   burgonde
+he   שקשור לבורגונדים (שבט עתיק)
+
+»  burgunda   nom
+en   Burgundian
+fr   Burgonde
+he   בורגונדים (שבט עתיק)
+
+buril   nom
+Un util peti per talia, formi e fora, xef usada en carpenta e grava, e par dentistes
+en   burr, burin, dental tool, engraving tool
+fr   burin
+he   חרט (כלי)
+
+burino   nom
+Un avia simil a un pluvial, con oios grande e plumas brun
+Burhinidae
+en   thick-knee, stone-curlew, dikkops (bird)
+fr   œdicnème
+he   כרוון (ציפור)
+
+burito   nom
+Un plato mexican, composada de un tortilia enrolada sirca un pleninte saborosa, tipal de favas o bove moleda o trinxada
+en   burrito
+fr   burrito
+he   בוריטו (מאכל)
+
+burjes   ajetivo
+Pertinente a la clase media, tipal con refere a valuas comersial o tradisional
+en   bourgeois, middle-class
+fr   bourgeois
+he   בורגני
+
+»  burjesi   verbo nontransitiva
+en   become middle-class, become gentrified
+he   להתברגן
+
+»  burjesi   verbo transitiva
+en   gentrify
+he   להפוך (שכונה או איזור) לבורגני
+
+»  burjesi   nom
+en   gentrification
+he   ג’נטריפיקציה, עילות
+
+»  burjesia   nom
+en   bourgeoisie, middle class
+fr   bourgeoisie
+he   בורגנות
+
+burla   verbo transitiva
+Provoca o defia (un person o animal) en modo insultante o despetosa
+en   taunt, tease, mock, jeer, deride, laugh at, heckle, lampoon, scoff
+fr   se moquer de
+he   ללעוג, ללגלג, להקניט, לקנטר, להגחיך
+
+»  burla   nom
+en   taunt, tease, jeer, mockery, ridicule, derision
+fr   moquerie
+he   לעג, לגלוג, הקנטה, קינטור, הגכחה
+
+»  burlable   ajetivo
+en   laughable, risible, ridiculous, ludicrous
+he   מגוחך, נלעג
+
+»  burlada   nom
+en   stooge
+he   (אדם) נלעג
+
+»  burlante   ajetivo
+en   taunting, mocking, derisive
+he   לועג, מלגלג, מקניט, עוקצני
+
+»  burleta   verbo transitiva
+Burla (algun) en modo amin
+en   rib, josh, banter, tease (good-naturedly)
+he   לעקוץ, להתל, להקניט (ברוח טובה)
+
+»  burleta   nom
+en   banter, persiflage
+he   התלוצצות, לצון, היתול, הקנטה (ברוח טובה)
+
+»  burlor   nom
+en   teaser, mocker, heckler, scoffer
+he   (אדם) לועג, מלגלג, מקניט, עוקץ
+
+Burma   nom
+Un otra nom per Miama
+→ Miama
+en   Burma, Myanmar
+he   בורמה, מיאנמר
+
+»  burman   ajetivo
+→ miama
+en   Burmese (person, language)
+he   בורמזי
+
+»  burman   nom
+en   Burmese (person, language)
+he   בורמזי
+
+buro   nom
+Un table con surfas orizonal o inclinada, tipal con caxetas, a cual on leje, scrive o labora
+en   desk, bureau (furniture)
+fr   bureau (meuble)
+he   שולחן (עבודה, כתיבה); דלפק; דסק
+
+burocrata   ajetivo
+Pertinente a un sistem de governa en cual la desides major es fada par ofisiores nonelejeda; (metafor) tendente usa prosedes tro formal e complicada
+en   bureaucratic
+fr   bureaucrate
+he   בירוקרטי
+
+»  burocrata   nom
+en   bureaucrat
+fr   bureaucrate
+he   בירוקרט
+
+»  burocratia   nom
+en   bureaucracy
+fr   bureaucratie
+he   בירוקרטיה
+
+bursa   nom
+(En anatomia) un saco o caveta sacin, plenida con licuida, tipal un cual redui la frica a un junta
+en   bursa (anatomy)
+fr   bourse
+he   (אנטומיה) אמתח
+
+bursite   nom
+Un inflama de un bursa, tipal en la jeno, codo o spala
+en   bursitis (medical)
+fr   hygroma, bursite
+he   בורסיטיס
+
+Burundi   nom
+Un pais en Africa sentral a sude de Ruanda e a la lado norde-este de la Lago Tanganyika
+(capital: Bujumbura)
+en   Burundi
+he   בורונדי
+
+»  burundes   ajetivo
+en   Burundian
+he   שקשור לבורונדי
+
+»  burundes   nom
+en   Burundian
+he   תושב בורונדי
+
+bus   nom
+Un veculo grande per transporta pasajores par stradas e vias, tipal seguente un curso fisada
+en   bus, coach
+fr   bus, autobus, car, autocar
+he   אוטובוס
+
+»  bus de dona sangue   nom
+en   bloodmobile
+he   ניידת דם
+
+»  busor   nom
+en   bus driver, coach driver
+he   נהג אוטובוס
+
+busino   nom
+Un molusco xasante con un conca pesosa e spiral
+Buccinidae
+en   whelk
+fr   bulot, buccin
+he   שבלול ימי
+
+busola   nom
+Un aparato con ago cual punta en dirije a la norde magnetal
+en   compass (for finding north)
+fr   boussole
+he   מצפן
+
+»  Busola   nom
+Un constela minor en la sielo sude
+en   Pyxis (constellation)
+fr   la Boussole
+he   מצפן (קבוצת כוכבים)
+
+bustier   nom
+Un veste o vesteta abrasante la tronco superior sin bretelas, per femes
+en   bustier
+fr   bustier
+he   בוסטייה (בגד)
+
+»  bustier tubo   nom
+Un bustier simple, de stofa elastica
+en   tube top, boob tube
+he   סטרפלס
+
+busto   nom
+Un sculta de la testa, spalas e peto de un person
+en   bust (sculpture)
+fr   buste (sculpture)
+he   פרוטומה (פסל של הראש והכתפיים)
+
+bustrofedon   ajetivo
+(Un testo) scriveda en dirijes alternante a cada linia
+en   boustrophedon
+he   בוסטרופידון (שינוי כיוון הכתיבה בכל שורה)
+
+»  bustrofedon   nom
+en   boustrophedon
+fr   boustrophédon
+he   בוסטרופידון (שינוי כיוון הכתיבה בכל שורה)
+
+but-   prefisa
+Nominte alcanos e otra idrocarbonos con cuatro atomes de carbono
+en   but- (chemistry)
+he   (קידומת טכנית) אלקן בעל 4 אטומי פחמן
+
+Butan   nom
+Un otra nom per Druciul
+→ Druciul
+en   Bhutan
+fr   Bhoutan
+he   בהוטן
+
+»  butan   ajetivo
+→ drucpa
+en   Bhutanese, Bhutanse
+he   בהוטני
+
+»  butan   nom
+en   Bhutanese, Bhutanse
+he   בהוטני
+
+butano   nom
+Un gas flamable de idrocarbono, un composante de petrolio e usada como un carburante
+en   butane
+fr   butane
+he   (כימיה) בוטאן
+
+buteo   nom
+Un avia xasante, distinguida par sua alas longa e puntida par cual el vola alta
+Buteoninae
+en   buzzard, buzzard-hawk, hawk
+fr   buse
+he   עקב (ציפור)
+
+butil   nom
+La alcil -C4H9, derivada de butano
+en   butyl (chemistry)
+he   (כימיה) בוטיל
+
+butirica   ajetivo
+en   butyric
+es   butírico
+he   (כימיה) בוטירי
+
+»  asida butirica   nom
+Un asida organica licuida, trovada en bur putrida
+en   butyric acid
+es   ácido butírico
+he   חומצה בוטירית
+
+bux   nom
+Un arboreta perene e lenta cresente de Europa, con folias oscur e briliante verde, tipal usada en sepes; la lenio dur de esta
+Buxus
+en   box tree, boxwood
+es   boj
+fr   buis
+he   אשכרוע (צמח)
+
+buxido   nom
+La codigo de onora e moralia de la samurais
+en   bushido (samurai code)
+es   bushido (código samurái)
+he   בושידו
+
+buzuci   nom
+Un strumento elinica con colo longa, simil a un mandolin
+en   bouzouki (musical instrument)
+es   buzuki (instrumento musical)
+fr   bouzouki
+he   בוזוקי (כלי נגינה)
+
+bzz   esclama
+Un sona zumbinte como lo fada par un abea
+en   buzz
+he   בזז (צליל זמזום)
+
+Columbia Brites   nom
+Un provinse en Canada ueste, bordante la Mar Pasifica e Alaska
+en   British Columbia
+he   קולומביה הבריטית

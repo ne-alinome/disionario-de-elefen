@@ -1,0 +1,1319 @@
+
+
+Disionario – Gramatica – Vici 13 julio 2018 html  +  28 desembre 2018 js
+Disionario de Elefen
+
+   
+
+ 
+
+Lingua:  
+
+    Trova parolas intera     Trova esata     Mostra imajes
+
+Aora disponable como un libro primida!
+
+Capitoles:   A B C D E F G H I J K L M N O P Q R S T U V W X Y Z   Tota
+111 articles trovada.  
+
+x   simbol   (dise ‘ex’)
+La letera 24 de la alfabeta roman
+en   x
+
+xa   nom
+La titulo de la re de alga paises en Asia sude e sentral
+en   shah (king)
+eo   ŝaho
+fr   chah, shah, schah
+
+xabeco   nom
+Un barcon de vela de la Mediteraneo, de la sentenio 18
+en   xebec, zebec (ship)
+
+xabli   nom
+Un vino blanca seca de Chablis en Frans este
+en   chablis (wine)
+
+xacal   nom
+Un can savaje con gamas longa, de Africa e Asia sude
+Canis aureus, Canis adustus, Canis mesomelas
+en   jackal
+eo   ŝakalo
+fr   chacal
+
+xace   verbo transitiva
+(En xace) menasa catura (la re)
+en   check (in chess)
+eo   ŝakigi
+fr   mettre en échec
+
+»  xace   nom
+Un jua per du persones sur un table de 64 cuadros negra e blanca; un situa en cual la re es menasada en esta jua
+da   skak
+de   Schach
+en   chess; check
+eo   ŝako
+es   ajedrez
+fr   échecs; échec
+it   scacchi
+nl   schaak
+pt   xadrez
+
+»  xace   esclama
+Diseda cuando on xace la re
+en   check
+eo   ŝak
+fr   échec au roi
+
+xacemata   verbo transitiva
+(En xace) vinse par catura (la re)
+en   checkmate
+eo   matigi
+fr   mater
+
+»  xacemata   nom
+en   checkmate, mate
+eo   mato
+fr   échec et mat, mat
+
+»  xacemata   esclama
+Diseda cuando on xacemata la re
+en   checkmate
+eo   ŝakmat
+fr   échec et mat
+
+xacuhatxi   nom
+Un flauta nion de bambu
+en   shakuhachi (flute)
+eo   ŝakuhaĉo
+fr   shakuhachi
+
+xaiote   nom
+Un vite de America tropical cual produi frutas verde e jusosa, con forma de pera e sabor de concombre; un de esta frutas
+Sechium edule
+en   chayote
+
+xal   nom
+Un stofa laxe, portada sur la spalas o ance sur la testa
+en   shawl (garment)
+eo   ŝalo
+fr   châle
+
+xale   nom
+Un caseta de lenio, tipal de la Alpes
+en   chalet (cottage)
+eo   ĉaledo
+fr   chalet
+
+xama   verbo nontransitiva
+(Insetos, persones, etc) move caososa como un grupo grande o densa
+en   swarm
+eo   svarmi
+fr   grouiller
+
+»  xama   nom
+en   swarm
+eo   svarmado; svarmo
+
+xaman   nom
+Un person sur ci on crede ce el es capas de comunica con spiritos per influe avenis mundal
+en   shaman, sangoma, witch doctor
+eo   ŝamano, sorĉkuracisto
+fr   chaman
+
+xambelan   nom
+(En istoria) un ofisior ci maneja la casa de un nobil
+en   chamberlain (officer)
+eo   ĉambelano
+fr   chambellan
+
+xamisen   nom
+Un luto nion con tre cordetas
+en   shamisen (musical instrument)
+eo   ŝamiseno
+
+xampania   nom
+Un vino bolante de uvas de la provinse Champagne en Frans
+en   champagne
+eo   ĉampano
+
+»  xampania multe seca   nom
+en   brut champagne
+
+xampinion   nom
+Un fungo protendente, tipal con talo e un cupola con laminas a sua fondo
+Agaricomycetes
+da   svamp, champignon
+de   Pilz
+en   mushroom, toadstool
+eo   ĉampinjono, fungo
+es   seta, hongo
+fr   champignon
+it   fungo
+nl   paddestoel
+pt   cogumelo, fungo
+
+»  xampinion venenosa   nom
+en   poisonous toadstool
+
+xampu   nom   (dise ‘xampú’)
+Un licuida usada per lava capeles
+en   shampoo
+eo   ŝampuo
+fr   shampoing
+
+»  xampi   verbo
+en   shampoo
+eo   ŝampui
+fr   shampouiner
+
+xamroc   nom
+Un spesie de trefolia, un simbol de Er
+Trifolium repens, Trifolium dubium
+en   shamrock
+eo   trifolieto
+
+xangtxi   nom
+Un jua xines simil a xace
+en   xiangqi, Chinese chess
+eo   ĉina ŝako
+fr   échecs chinois
+
+xantoma   nom
+Un nodulo jala sur la pel, causada par lipidos en la selulas
+en   xanthoma (medical)
+eo   ksantomo
+
+xantopsia   nom
+Un disturba medical en cual cosas videda aspeta jalin
+en   xanthopsia (medical)
+eo   xanthopsia
+
+xapa   nom
+Un strato magra de lenio, usada per decora un otra surfas
+en   veneer
+eo   plakaĵo, lignoplakaĵo
+fr   placage (de bois)
+
+»  xapi   verbo transitiva
+en   veneer
+eo   plaki, lignoplaki
+fr   plaquer (du bois)
+
+»  xapin   ajetivo
+en   hatlike
+
+xapo   nom
+Un veste per covre la testa; un paragraf de metadatos a la comensa de un fix, documento o paje
+ca   barret, capell
+da   hat
+de   Hut
+en   hat; header
+eo   ĉapelo; ĉapo
+es   sombrero, gorra, cachucha, gorro (cubierta más o menos suave para la cabeza)
+fr   chapeau
+it   cappello
+ja   帽子
+nl   hoed
+pt   chapéu, capuz, gorro
+ru   шапка
+
+»  xapo de cauboi   nom
+en   cowboy hat
+
+»  xapo de jornal   nom
+en   masthead
+
+»  xapo de letera   nom
+en   letterhead
+
+»  xapo de note   nom
+Un xapo portada en leto
+en   nightcap
+eo   noktoĉapo
+fr   bonnet de nuit
+
+»  xapo de paje   nom
+Un titulo a la comensa de cada paje
+en   header
+eo   paĝoĉapo, paĝkapo, supra paĝtitolo
+
+»  xapo de palia   nom
+en   straw hat, boater
+
+»  xapo de pelo   nom
+en   fur hat; bearskin
+
+»  xapo ornosa   nom
+en   headdress
+
+»  xapo saturnin   nom
+Un xapo sirculo con borda larga, portada par alga eglesores catolica
+en   saturn hat, cappello romano
+
+»  xapo silindre   nom
+Un xapo de om, alta e formal, con borda larga
+en   top hat
+eo   cilindra ĉapelo
+
+»  xaperia   nom
+en   hat shop, millinery
+eo   ĉapelejo
+fr   chapellerie
+
+»  xapeta   nom
+Un xapo mol e plata, sin borda ensircante, ma cisa con borda fronte
+en   cap, kepi, bonnet
+eo   ĉapeto
+
+»  xapeta academial   nom
+en   mortarboard
+
+»  xapeta de bani   nom
+en   bath cap, shower cap
+
+»  xapon   nom
+Cualce xapo casual con borda larga
+en   akubra, fedora, sombrero, cowboy hat, slouch hat
+
+»  xapor   nom
+en   hatter, hatmaker, milliner, haberdasher
+eo   ĉapelisto
+fr   chapelier
+
+xaria   nom
+La codigo moral de islam, incluinte leges relijial
+en   sharia (Islam)
+eo   ŝario
+
+xarif   nom
+Un desendente de Muhammad par sua fia Fatima
+en   sharif (Islam)
+
+xarlatan   nom
+Un frodor ci menti ce el es capas de alga cosa; un avia cantante simil a un turdo, con coda longa, alas corta e vose forte
+Timaliidae
+en   charlatan, mountebank; babbler (bird)
+eo   ĉarlatano; timaliedo
+fr   charlatan
+
+»  xarlatan medical   nom
+en   quack
+fr   charlatan
+
+xarleston   nom
+Un duple de simbales operada par pede; un dansa vivosa de la desenio de 1920
+en   hi-hat (cymbals); charleston (dance)
+eo   ĉarlestono
+ru   чарльстон (вид танца)
+
+xarnier   nom
+Un junta con du placas sur un ase comun, permetente la abri de un porte
+da   hængsel
+de   Angel (einer Tür)
+en   hinge
+eo   ĉarniro
+es   bisagra, gozne
+fr   charnière
+it   cardine
+nl   scharnier
+pt   dobradiça
+
+»  dexarnieri   verbo transitiva
+en   unhinge
+
+»  xarnieri   verbo transitiva
+en   hinge
+
+»  xarnierida   ajetivo
+en   hinged
+
+xarpe   nom
+Un banda larga de stofa portada sur la testa o sirca la colo
+en   scarf, stole, muffler
+eo   koltuko
+fr   écharpe
+
+»  xarpe de muni   nom
+en   bandolier
+
+»  xarpe de spada   nom
+en   baldric, sword belt
+
+»  xarpe de spala   nom
+en   shoulder belt
+
+»  xarpe de taie   nom
+Un banda de stofa portada sirca la taie
+en   cummerbund
+eo   skarpo
+fr   cummerbund
+
+»  xarpe medical   nom
+Un banda per suporta un braso ferida
+en   sling
+eo   skarpo
+fr   écharpe (pour un bras cassé)
+
+»  xarpe ofisial   nom
+Un banda de stofa diagonal portada de un spala a la anca oposada
+en   sash
+eo   balteo
+fr   écharpe officielle
+
+xasa   verbo transitiva
+Segue (un animal o person) per catura el
+da   jage, forfølge
+de   jagen
+en   chase, hunt, pursue, prey upon
+eo   ĉasi
+es   cazar, perseguir, buscar, dar caza a, seguir la pista de
+fr   chasser
+it   cacciare, inseguire
+nl   jagen
+pt   caçar
+
+»  xasa   nom
+en   chase, hunt, pursuit, predation
+eo   ĉaso
+fr   chasse
+
+»  xasa a via   verbo transitiva
+en   chase away
+
+»  xasa de balenas   nom
+en   whaling
+eo   balenĉasado
+fr   chasse à la baleine
+
+»  xasa de ereses   nom
+en   auto-da-fé
+
+»  xasa de sorsores   nom
+en   witch hunt
+
+»  xasa furtiva   verbo
+en   prowl
+
+»  xasa nonlegal   verbo transitiva
+en   poach
+fr   braconner
+
+»  xasa nonlegal   nom
+en   poaching
+fr   braconnage
+
+»  xasa testas   verbo
+en   headhunt
+
+»  xasante   ajetivo
+en   predatory
+
+»  xasante-coliente   ajetivo
+en   hunter-gatherer, hunting and gathering
+
+»  xasor   nom
+Un person ci xasa; un can ci aida un xasor umana
+en   hunter, predator; tracker; hound, hunting dog
+eo   ĉasisto, predanto; ĉashundo
+fr   chasseur; traqueur, traqueuse, pisteur; chien de chasse
+
+»  xasor-colior   nom
+en   hunter-gatherer
+fr   chasseur-cueilleur
+
+»  xasor de volpes   nom
+en   foxhound
+
+»  xasor nonlegal   nom
+en   poacher
+
+xasafem   nom, composada (verbo+nom)
+Un om promiscua
+en   womanizer/womaniser, philanderer, playboy, gigolo, lothario, romeo, rake, roué, wolf, ladies’ man
+eo   amorĉasanto
+fr   coureur de jupons
+
+xasatesta   nom, composada (verbo+nom)
+Un person ci identifia empleadas per ocupa postos en otra companias
+en   headhunter
+
+xasatorpedo   nom, composada (verbo+nom)
+Un barcon de gera, peti e rapida, tipal con rol defendente contra sumarinas e aviones
+en   destroyer (warship)
+
+xasi   nom
+La strutur sceletal de un veculo o otra ojeto artifis
+en   chassis, undercarriage
+eo   ĉasio
+fr   chassis
+
+Xciperia   nom
+Un pais en Europa sude-este
+(capital: Tirana)
+→ Albania
+en   Albania
+eo   Albanio, Albanujo
+fr   Albanie
+
+»  xcip   ajetivo
+→ albanian
+en   Albanian
+eo   albana
+fr   albanais
+
+»  xcip   nom
+en   Albanian (person, language)
+eo   albano, la albana
+fr   Albanais
+
+xec   nom
+La titulo de un xef arabi o erudita muslim
+en   sheik, sheikh, shaikh
+eo   ŝejko
+fr   cheik
+
+»  xecia   nom
+en   sheikdom, sheikhdom (post, period, area)
+eo   ŝejkeco
+fr   territoire régi par un cheik
+
+xece   nom
+Un paper cual comanda un move de mone entre du contas, usada per paia
+da   check
+de   Scheck
+en   check/cheque (money)
+eo   ĉeko
+es   cheque
+fr   chèque
+it   assegno (bancario)
+nl   cheque
+pt   cheque
+
+xecel   nom
+La unia de mone en Israel; un unia de mone antica en Filastin
+en   shekel (currency)
+eo   siklo
+
+xecer   ajetivo
+en   Shaker
+eo   ŝejkera
+
+»  xecer   nom
+en   Shaker
+eo   ŝejkero
+
+»  xecerisme   nom
+Un varia de cuecerisme fundida en 1747
+en   Shakerism (Christianity)
+eo   ŝejkerismo
+
+xef   ajetivo
+La plu importante; con grado la plu alta o estende la plu grande
+da   vigtig, primær, principiel
+de   Haupt-, Ober-, primär
+en   chief, main, primary, principal, foremost, premier, prime, key
+eo   ĉefa, precipa
+es   jefe, primario, principal, mayor, el más importante
+fr   principal, en chef
+it   principale
+nl   voornaamste, hoofd-
+
+»  xef   averbo
+Plu ca tota otra posibles; como sua parte o cualia la plu grande o importante
+‹ el bevi xef cafe; aira es xef composada de nitrojen ›
+ca   principalment
+de   hauptsächlich
+en   chiefly, mainly, mostly, primarily, principally, most importantly
+eo   ĉefe, precipe, plejparte
+es   sin falta
+fr   principalement
+ja   第一義に
+pt   principalmente
+ru   в принципе; в основном
+
+»  xef   nom
+ca   xef
+da   chef, leder
+de   Chef, Führer
+en   chief, leader, head, headman, chieftain, overlord, sachem
+eo   ĉefo
+es   jefe, lider, caudillo, cacique; chef
+fr   chef
+it   capo
+ja   シェフ
+nl   chef, hoofdman
+pt   chefe, diretor, comandante, lider
+ru   шеф-повар
+
+»  xef de cosina   nom
+en   chef
+eo   ĉefkuiristo
+fr   chef (cuisinier)
+
+»  xef de gang   nom
+en   ringleader
+
+»  xef de gera   nom
+en   war chief, warlord
+
+»  xef de governa   nom
+La person con posto dirijente la plu alta en un stato, tipal un ministro xef
+en   head of government
+fr   chef de gouvernement
+
+»  xef de orcestra   nom
+en   conductor, orchestra leader
+fr   chef d’orchestre
+
+»  xef de posteria   nom
+en   postmaster
+
+»  xef de securia   nom
+en   head of security, head of intelligence
+
+»  xef de sirco   nom
+en   ringmaster
+
+»  xef de stasion   nom
+en   station master
+fr   chef de gare
+
+»  xef de stato   nom
+La person con posto constitual la plu alta en un stato, como un presidente o monarca
+en   chief of state, head of state
+fr   chef d’État
+
+»  xef de table   nom
+en   head of the table; croupier
+
+»  xef sin potia   nom
+en   figurehead
+
+»  suxef   nom
+en   deputy head, second-in-command
+eo   vicĉefo
+
+»  xeferia   nom
+Un loca sentral per maneja un organiza
+en   headquarters, HQ
+eo   ĉefsidejo
+
+»  xefia   nom
+en   chiefdom, leadership, primacy
+
+xel   nom
+Roca deponeda, mol e delicata stratida, formida de fango e arjila solidida, e fasil fendable a blocos frajil
+en   shale (geology)
+
+xelo   nom
+Un strumento basa, simil a un violin grande, ma min grande ca un contrabaso
+en   cello, violoncello
+eo   violonĉelo
+fr   violoncelle
+
+»  xeliste   nom
+en   cellist, violoncellist
+
+xenil   nom
+Un cordeta o filo mexin e veludin, usada per vestes e tapetos e per decora mobilas
+en   chenille (yarn)
+
+xeno-   prefisa
+Stranjer
+en   xeno- (foreign)
+
+xenobiolojia   nom
+La studia de viventes posible sur otra planetas
+en   xenobiology
+
+»  xenobiolojiste   nom
+en   xenobiologist
+
+xenofilia   nom
+Un zelo per persones e cultures de otra paises
+en   xenophilia, xenophily
+
+»  xenofilica   ajetivo
+en   xenophilic
+
+»  xenofilica   nom
+en   xenophile
+
+xenofobia   nom
+Un antipatia estrema o nonrazonada contra persones de otra paises o cultures
+en   xenophobia
+eo   ksenofobio, fremdotimo
+
+»  xenofobica   ajetivo
+en   xenophobic
+eo   ksenofobia, fremdotima
+
+»  xenofobica   nom
+en   xenophobe
+eo   ksenofobo, fremdotimulo
+
+xenon   nom   «Xe»
+La elemento cimical con numero atomal 54, un gas
+en   xenon (chemistry)
+eo   ksenono
+fr   xénon
+
+xenoturbelido   nom
+Un membro de un jenero de vermes de mar con corpo multe simple
+Xenoturbellida
+en   xenoturbellid (worm)
+
+xerca   verbo transitiva
+Esplora o demanda per atenta trova o oteni (alga cosa)
+da   søge
+de   suchen
+en   seek, search for, look for, look up, quest after; ask for, solicit
+eo   serĉi
+es   buscar, escudriñar, examinar, registrar, localizar
+fr   chercher, rechercher
+it   cercare
+nl   zoeken
+pt   checar, examinar, conferir
+
+»  xerca   nom
+en   search, quest; manhunt
+eo   serĉo
+fr   recherche
+
+»  xerca furtiva   verbo
+en   snoop
+
+»  xerca per la posto   verbo
+en   headhunt (business)
+
+»  xerca rapida   verbo
+en   riffle, rifle
+
+»  xerca sieca   verbo
+Xerca par palpa en un loca oscur
+en   search blindly, grope
+
+»  xerca sua asendentes   verbo
+en   trace one’s ancestry, search for one’s ancestors
+
+»  nonxercada   ajetivo
+en   unsolicited
+
+»  xercada   ajetivo
+en   sought-after, wanted
+
+»  xercador   nom
+Un program cual xerca informas en pajes ueb o en bancos de datos
+en   search engine
+eo   serĉilo
+
+»  xercor   nom
+en   seeker, searcher, prospector
+eo   serĉanto
+fr   chercheur
+
+xercaemplea   nom, composada (verbo+nom)
+Un person nonempleada ci xerca un posto
+en   jobseeker
+
+xeres   nom
+Un vino fortida de uvas de Jerez en Espania
+en   sherry (wine)
+eo   ŝereo
+
+xerif   nom
+Un ofisior ci atende un contia (en maneras diversa en la paises); (en alga partes de la SUA) un polisior
+en   sheriff (officer)
+eo   ŝerifo
+
+xero-   prefisa
+Seca
+en   xero- (dry)
+
+xerofilia   nom
+La capasia de crese e reprodui en locas sin multe acua
+en   xerophilia
+
+»  xerofilica   ajetivo
+en   xerophilic
+
+»  xerofilica   nom
+en   xerophile, xerophyte
+
+xeroftalmia   nom
+Un disturba medical en cual la oios no pote produi larmas
+en   xerophthalmia (medical)
+eo   kseroftalmio
+
+xerografia   nom
+Un metodo de fotocopia, en cual un polvo adere a partes eletrical cargada de un surfas esposada a lus
+en   xerography, electrophotography
+eo   kserografio
+
+»  xerografial   ajetivo
+en   xerographic
+
+xerostomia   nom
+Un disturba medical en cual la boca es seca e sin saliva
+en   xerostomia (medical)
+
+xerpa   ajetivo
+Pertinente a un etnico de la rejion la plu montaniosa de Nepal
+en   Sherpa (person, language)
+
+»  xerpa   nom
+en   Sherpa (person, language)
+
+xevron   nom
+Un motif angulo simil a la letera V; un braseta angulo
+en   chevron, angle bracket
+eo   ĉevrono, angula krampo
+fr   chevron, crochet oblique
+
+»  xevronosa   ajetivo
+en   herringbone
+
+xi   nom   «Ξ ξ»
+La letera 14 de la alfabeta elinica
+en   xi (Greek letter)
+eo   ksi
+
+xia   ajetivo
+Pertinente a un de la du ramos xef de islam, en cual on rejeta la suna e regarda Ali como la califa prima
+en   Shia, Shiite, Shi’ite (Islam)
+eo   ŝijaisma
+
+»  xia   nom
+en   Shia, Shiite, Shi’ite (Islam)
+eo   ŝijaisto
+
+xiang   ajetivo
+en   Xiang, Hunanese (language)
+
+»  xiang   nom
+Un lingua parlada en la provinse Hunan en Jonguo
+en   Xiang, Hunanese (language)
+
+xiatsu   nom
+Un spesie de masaje nion
+en   shiatsu (massage)
+eo   japana fingromasaĝo
+
+xibolet   nom
+Un abitua o crede par cual on pote clasi un person
+en   shibboleth
+eo   ŝiboleto
+
+xice   nom
+Un enfante; (nonformal) un person
+en   child, kid, kiddie, kiddy, bairn, tyke; (colloquial) guy or gal (person)
+
+»  xica   nom
+Un enfante fema; (nonformal) un fem
+ca   noia
+da   pige
+de   Mädchen
+en   girl; wench; (colloquial) gal, lass, chick (woman)
+eo   knabino; injo, ulino
+es   muchacha, joven, chica, niña, moza
+fr   fille, jeune fille
+it   ragazza
+ja   女の子
+nl   meisje
+pt   menina, garota, jóvem
+ru   девушка
+
+»  xica de cor   nom
+La fema en un relata de ama ante sposi
+en   girlfriend
+eo   koramikino
+
+»  xica de jornales   nom
+en   newsgirl, papergirl
+
+»  xica masin   nom
+Un xica con conduis tradisional de un xico
+en   tomboy
+eo   knabulino, ĉjo-knabino
+
+»  xica minor   nom
+en   jailbait
+
+»  xica naive   nom
+en   ingenue
+
+»  xica noncortes   nom
+en   impudent girl, minx
+
+»  xica ruidosa   nom
+en   boisterous girl, hoyden
+
+»  xica vagante   nom
+en   street urchin, guttersnipe, gamine, ragamuffin
+eo   bubino
+
+»  xico   nom
+Un enfante mas; (nonformal) un om
+ca   xaval
+da   dreng
+de   Junge
+en   boy; (colloquial) guy, bloke, chap, fellow, geezer (man)
+eo   knabo; ulo
+es   muchacho, muchacho, joven, chico, niño, mozo
+fr   garçon
+it   ragazzo
+ja   男の子
+nl   jongen
+pt   menino, garoto, rapaz
+ru   мальчик
+
+»  xico de cor   nom
+La mas en un relata de ama ante sposi
+en   boyfriend
+eo   koramiko
+
+»  xico de jornales   nom
+en   newsboy, paperboy
+
+»  xico femin   nom
+Un xico con conduis tradisional de un xica
+en   sissy
+eo   knabinulo, ineca knabo
+
+»  xico vagante   nom
+en   street urchin, guttersnipe, gamin
+eo   bubo
+
+xicle   nom
+Un goma sudada par sapotas
+en   chicle (latex)
+eo   ĉiklo
+
+xicoria   nom
+Un planta con flores blu e un radis usada como un sustitua per cafe
+Cichorium intybus
+en   chicory, endive (plant)
+eo   amara cikorio
+fr   chicorée, endive
+
+xicungunia   nom
+Un maladia marcada par febre, causada par un virus transmeteda par moscitos; esta virus
+en   chikungunya (virus)
+
+xifon   nom
+Un stofa lejera e diafana, usual de seda o nilon
+en   chiffon (fabric)
+
+xilema   nom
+(En un planta vascular) un texeda cual porta acua e nurintes
+en   xylem (botany)
+eo   ksilemo
+
+xilia   verbo transitiva
+Cria alta e forte
+en   shriek, scream, screech
+eo   kriĉi, ŝirkrii
+
+»  xilia   nom
+en   shriek, scream, screech
+eo   kriĉo, ŝirkrio
+
+»  xiliante   ajetivo
+Produinte o semblante un xilia; (un color o motif) noncomfortosa forte
+en   screaming, shrieking; shrill, piercing, harsh, strident, screeching, raucous; garish, loud
+
+xiling   nom
+La unia de mone en paises diversa
+en   shilling, schilling (currency)
+eo   ŝilingo
+
+xilo-   prefisa
+Lenio
+en   xylo- (wood)
+
+xilofaje   ajetivo
+Cual come xef lenio
+en   xylophagous
+
+»  xilofaje   nom
+en   xylophage
+
+xilofon   nom
+Un strumento de percute con baras de lenio de longias diversa
+en   xylophone
+eo   ksilofono
+
+xilografia   nom
+Un metodo de primi en cual on siseli un imaje a un bloco de lenio
+en   xylography, woodcut printing
+eo   ksilografio, lignogravuro
+
+»  xilografial   ajetivo
+Pertinente a xilografia
+en   xylographic
+
+xilogram   nom
+Un imaje creada par xilografia
+en   xylograph, woodcut
+
+xilosa   nom
+Un zucar comun en plantas
+en   xylose (sugar)
+eo   ksilozo
+
+ximi   verbo nontransitiva
+Move osilante, de su a supra o de lado a lado, par moves peti e rapida
+en   shimmy, wiggle, waggle, jiggle
+
+»  ximi   verbo transitiva
+en   shimmy, wiggle, waggle, jiggle
+
+»  ximi   nom
+en   shimmy, wiggle, waggle, jiggle
+
+»  ximinte   ajetivo
+en   waggly, wiggly
+
+ximine   nom
+Un tubo vertical cual emete la fuma o gases de un foco, forno, macina, volcan o simil
+ca   xemeneia
+da   skorsten
+de   Schornstein
+en   chimney, smokestack; funnel; vent
+eo   kamentubo, fumtubo
+es   chimenea
+fr   cheminée
+it   camino
+ja   煙突
+nl   schoorsteen
+pt   chaminé
+ru   дымовая труба
+
+»  ximineria   nom
+La area su un ximine cual ensirca un foco; la alcova per la foco mesma
+da   pejs, ildsted, kamin
+de   Kamin, Herd
+en   hearth, hearthside, fireplace, ingle; grate
+eo   kameno; fajrujo
+es   hogar, fogón
+fr   cheminée; âtre
+it   caminetto
+nl   haard
+pt   lareira
+ru   камин
+
+ximpanze   nom
+Un primate, xef negra, con oreas grande
+Pan
+en   chimpanzee, chimp
+eo   ĉimpanzo
+fr   chimpanzé
+
+Xina   nom
+Un otra nom per Jonguo
+→ Jonguo
+en   China
+eo   Ĉinio, Ĉinujo
+fr   Chine
+
+»  Mar Xina Este   nom
+en   East China Sea
+
+»  Mar Xina Sude   nom
+en   South China Sea
+
+»  xines   ajetivo
+en   Chinese
+eo   ĉina
+fr   chinois
+
+»  xines   nom
+en   Chinese (person, language)
+eo   ĉino, la ĉina
+fr   Chinois
+
+xinion   nom
+Un enrola de capeles a retro de la testa de un fem
+en   chignon, bun (hair)
+eo   hartubero
+fr   chignon
+
+Xinjiang   nom
+Un provinse en Jonguo
+(capital: Urumqi)
+en   Xinjiang, Sinkiang (Chinese province)
+eo   Ŝinĝjango
+
+xinolojia   nom
+La studia de la lingua, istoria e politica de Jonguo
+en   sinology
+
+»  xinolojiste   nom
+en   sinologist
+
+xinto   nom
+La spiritalia nativa de Nion
+en   shinto (religion)
+eo   ŝintoismo
+
+»  xintoiste   ajetivo
+en   shintoistic
+
+»  xintoiste   nom
+en   shintoist
+
+xinxe   nom
+Un inseto de multe spesies de cual, jeneral, sua alas anterior es partal membranin e partal dur, ma sua alas posterior es intera membranin
+Hemiptera
+en   bug
+eo   cimo
+fr   punaise
+
+»  xinxe de acua   nom
+Un xinxe cual tende abita acua dulse
+Nepomorpha, Gerromorpha
+en   waterbug
+
+»  xinxe de leto   nom
+Un xinxe cual tende abita letos e suca la sangue umana
+Cimicidae
+en   bedbug
+eo   litocimo
+fr   punaise de lit
+
+»  xinxe focosa   nom
+Un xinxe comun, con color forte roja e negra
+Pyrrhocoris apterus
+en   firebug
+
+»  xinxe scermin   nom
+Un xinxe de cual sua torax ave tipal la forma de un scermo
+Pentatomomorpha
+en   shield bug, stinkbug
+eo   pentatomo
+
+xip   nom
+Un talia magra de patata, fritada e cracosa
+en   potato crisp (UK), potato chip (US)
+eo   terpomfloko, ĉipso
+fr   chips
+
+xiroco   nom
+Un venta mediteranean de orijina saharan
+en   sirocco (wind)
+eo   ŝiroko
+fr   sirocco, scirocco
+
+xirope   nom
+Un disolve viscosa de zucar en acua
+en   syrup
+eo   siropo
+fr   sirop
+
+»  xirope de asero   nom
+Un xirope preparada par ajunta zucar a sava de asero
+en   maple syrup
+eo   acersiropo
+fr   sirop d’érable
+
+»  xirope de granada   nom
+Un xirope preparada par ajunta zucar a jus de granada o un otra fruta
+en   grenadine
+eo   grenadino
+fr   grenadine
+
+xiste   nom
+Un roca mutada e particulosa, composada de stratos de minerales diversa, fendable a talias magra e ru
+en   schist (geology)
+
+xitace   nom
+Un fungo de Asia este
+Lentinula edodes
+en   shiitake (mushroom)
+eo   ŝitako
+
+xiva   nom
+(En iudisme) un periodo de sete dias de lamenta pos un funera
+en   shiva (Judaism)
+
+Xiva   nom
+(En induisme) un dio asosiada con la potias de destrui e reprodui
+en   Shiva (Hinduism)
+
+xixe   nom
+Un planta cultivada per sua semes ronda e jalin; un seme de esta
+Cicer arietinum
+en   chickpea
+eo   kikero
+fr   pois chiche
+
+xoca   verbo transitiva
+Fa ce (algun) senti turbada par un esperia subita, surprendente e nonplasente; (un ojeto movente) colpa nonintendeda (un otra cosa)
+en   shock, alarm, appal/appall, horrify; crash, collide, jolt, jar
+eo   ŝoki, konsterni, alarmi; kolizii kun, kraŝi kontraŭ
+fr   choquer; heurter, entrer en collision avec, s’écraser contre
+
+»  xoca   nom
+da   slag
+de   Schlag
+en   shock, shocker; jolt, blow of force, brunt; crash, collision
+eo   ŝoko; kolizio, kraŝo
+es   golpe, choque, sacudida, trancazo, porrazo
+fr   choc
+it   colpo
+nl   slag
+pt   golpe, choque, batida
+
+»  xoca de colo   nom
+en   whiplash
+
+»  antixocal   ajetivo
+Capas de resiste xocas
+en   antishock, shockproof
+eo   ŝokimuna
+
+»  xocada   ajetivo
+en   shocked, aghast, appalled, horrified
+eo   ŝokita, konsternita, hororigita
+
+»  xocante   ajetivo
+en   shocking, jarring, alarming, appalling, terrible, horrible, horrifying, horrific, horrendous
+eo   ŝokanta, konsterna, alarma, terura
+fr   choquant
+
+xocaoio   nom, composada (verbo+nom)
+Un construida o otra cosa estrema fea
+en   eyesore, monstrosity
+eo   okuldorno, okulŝokaĵo, malbelegaĵo
+
+xocolada   nom
+Un comeda de semes de cacau rostada e moleda
+ca   xocolata
+da   chokolade
+de   Schokolade
+el   σοκολάτα
+en   chocolate
+eo   ĉokolado
+es   chocolate
+fr   chocolat
+it   cioccolato
+nl   chocolade
+pl   czekolada
+pt   chocolate
+ru   шоколад
+
+»  xocolador   nom
+en   chocolatier
+eo   ĉokoladisto
+fr   chocolatier
+
+xogi   nom
+Un jua nion simil a xace
+en   shogi, Japanese chess
+eo   ŝogio, japana ŝako
+
+xogun   nom
+(En Nion feudal) un tirano erital
+en   shogun (tyrant)
+eo   ŝoguno
+
+xoji   nom
+Un porte nion con la forma de un grilia covreda con paper
+en   shoji (door)
+eo   ŝoĵio
+
+xova   nom
+Un avia en familia de corvo, con beco curvida a su e alas larga e rondin
+Pyrrhocorax
+en   chough (bird)
+
+»  xova becojala   nom
+Pyrrhocorax graculus
+en   yellow-billed chough
+fr   chocard à bec jaune
+
+»  xova becoroja   nom
+Pyrrhocorax pyrrhocorax
+en   red-billed chough
+fr   crave à bec rouge
+
+xucrute   nom
+Un plato deutx de col vinagrida e axida a picos
+en   sauerkraut (food)
+eo   acida brasiko, saŭrkraŭto
+fr   choucroute
+
+xufelborda   nom
+Un jua en cual on usa un baston per puia discos sur un surfas longa e marcada con goles
+en   shuffleboard, shovelboard (game)
+
+xuta   verbo transitiva
+Lansa (un misil, un bal, lava, etc) violente o par aparato; fa un foto o video de (un sujeto)
+da   skyde
+de   schiessen
+en   shoot, fire (missile), launch, fling, hurl, propel, drive; snap, take a photo of, shoot, capture
+eo   pafi; foti, filmi
+es   tirar, lanzar, echar, arrojar, disparar, fusilar, hacer fuego, dar un balazo
+fr   tirer, lancer; prendre en photo, tourner
+it   tirare
+nl   schieten
+pt   atirar, fusilar, disparar
+
+»  xuta   nom
+en   shot, shooting, gunshot
+eo   pafo, pafado
+
+»  xuta a platos   nom
+en   clay-pigeon shooting, skeet shooting
+
+»  xuta acaso   nom
+en   random shot, potshot
+
+»  xutada   nom
+en   shot, bullet, missile
+eo   pafaĵo, kuglo, misilo
+
+»  xutador   nom
+en   wood (golf club)
+
+»  xutador xef   nom
+en   driver (golf club)
+
+»  xutor   nom
+en   shooter, sniper
+eo   pafisto
+fr   tireur
+
+xux   esclama
+Demandante per silentia
+en   sh
+eo   ŝŝ, ĉit
+
+xuxa   verbo transitiva
+Dise cuieta, sin usa sua plias vosal; (stofas o folias movente) fa un sona simil; furni (un replica oblidada) a un ator
+en   whisper; prompt; rustle
+eo   flustri; suflori; susuri
+fr   chuchoter; souffler;froufrouter
+
+»  xuxa   nom
+en   whisper; prompt; rustle, rustling, froufrou
+eo   flustro; sufloro; susuro
+fr   chuchotement
+
+»  xuxor   nom
+en   whisperer; prompter
+
+xva   nom   «ə»
+Un vocal media e sentral; (en scrive ivri) un sinia vocal cual sembla un dupunto scriveda su un letera
+en   schwa (vowel); shva, shewa’ (Hebrew vowel sign)
+eo   ŝvao
+fr   schwa, chva
+
+Xvaben   nom
+Un rejion de Deutxland sude-ueste
+de   Schwaben
+en   Swabia (German region)
+
+»  xvabes   ajetivo
+en   Swabian

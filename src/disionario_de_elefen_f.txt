@@ -1,0 +1,4918 @@
+
+
+Disionario – Gramatica – Vici 13 julio 2018 html  +  28 desembre 2018 js
+Disionario de Elefen
+
+   
+
+ 
+
+Lingua:  
+
+    Trova parolas intera     Trova esata     Mostra imajes
+
+Aora disponable como un libro primida!
+
+Capitoles:   A B C D E F G H I J K L M N O P Q R S T U V W X Y Z   Tota
+396 articles trovada.  
+
+Burcina Faso   nom
+Un pais sin costa en Africa ueste, a norde de Gana e a sude de Mali
+(capital: Ouagadougou)
+ca   Burkina Faso
+da   Burkina Faso
+de   Burkina Faso
+el   Μπουρκίνα Φάσο
+en   Burkina Faso
+eo   Burkino
+fr   Burkina Faso
+it   Burkina Faso
+he   בורקינה פאסו
+ja   ブルキナファソ
+nl   Burkina Faso
+pl   Burkina Faso
+pt   Burkina Faso
+ru   Буркина-Фасо
+
+»  burcinabe   ajetivo
+en   Burkinabé
+he   שקשור לבורקינה פאסו
+
+»  burcinabe   nom
+en   Burkinabé
+he   תושב בורקינה פאסו
+
+f   simbol   (dise ‘ef’)
+La letera ses de la alfabeta roman; la nota cuatro de la scala diatonica de C major
+en   f
+fr   f
+
+fa   verbo transitiva
+Reali o partisipa en (un ata)
+nb   No usa "fa" per dise "crea" o "fabrica".
+en   do, perform; commit (crime); have (shower, dream, etc.); take (shower, photo, etc.); hold (event); play (game, role)
+fr   faire
+
+»  fa   nom
+en   doing, deed
+
+»  fa bon   verbo
+en   do well; do good
+
+»  fa ce   verbo
+‹ no fa ce me rie; la anunsia ia fa ce el roji ›
+en   cause (something to happen or become), make (something happen), render, turn
+
+»  desfa   verbo transitiva
+en   undo
+fr   défaire
+
+»  desfa   nom
+en   undoing
+
+»  fada   ajetivo
+en   done
+fr   fait
+
+»  fada   nom
+en   deed (past)
+fr   fait
+
+»  fada realida   nom
+en   fait accompli
+fr   fait accompli
+
+»  faor   nom
+en   doer
+fr   faiseur
+
+»  malfa   verbo transitiva
+en   do badly, bodge, botch, bungle, bumble, screw up, make a bad job of
+
+»  malfa   nom
+en   misfeed, bodge, botch
+
+»  malfaor   ajetivo
+en   bodger, botcher, bungler
+
+»  refa   verbo transitiva
+en   redo, recommit, do over, do again
+fr   refaire
+
+»  refa   nom
+en   redoing, do-over, retake
+
+fa   nom
+La nota cuatro de la scala de C major, F, en la sistem de solfejo
+en   fa (musical note)
+fr   fa
+
+fable   nom
+Un nara corta con sinifia moral, tipal per enfantes, con carateres como animales o fes
+en   fable, legend, folktale, fairy tale, children’s story
+fr   fable, légende, conte de fée
+
+»  fable moral   nom
+en   moral fable, apolog/apologue
+
+fabrica   verbo transitiva
+Construi (un ojeto fisical) par prepara e combina sua partes
+en   make, craft, fabricate, manufacture
+fr   fabriquer
+
+»  fabrica   nom
+en   fabrication, manufacture
+
+»  fabrica de vitro   nom
+en   glasswork
+
+»  fabrica par mano   nom
+en   handcraft, handicraft
+
+»  fabricada   ajetivo
+en   manufactured, fabricated, manmade
+fr   fabriqué
+
+»  fabricada   nom
+en   artifact
+fr   artefact
+
+»  fabricada a casa   ajetivo
+en   homemade
+
+»  fabriceria   nom
+en   factory, manufacturing plant, workshop
+fr   fabrique, usine, atelier
+
+»  fabriceria misera   nom
+en   sweatshop
+
+»  fabricor   nom
+en   manufacturer, fabricator, maker, wright
+fr   fabriquant
+
+»  fabricor de fusiles   nom
+en   gunsmith
+
+»  fabricor de rotas   nom
+en   wheelwright
+
+»  fabricor de vagones   nom
+en   wainwright
+
+»  ojeto fabricada   nom
+en   artifact
+fr   artefact
+
+»  prefabrica   verbo transitiva
+en   prefabricate
+fr   préfabriquer
+
+»  prefabrica   nom
+en   prefabrication, prefab
+
+»  prefabricada   ajetivo
+en   prefabricated, prefab
+fr   préfabriqué
+
+»  refabrica   verbo transitiva
+en   remake
+
+facir   nom
+Un astenor muslim o indu ci survive sola par carita
+en   fakir
+
+facocero   nom
+Un porco savaje de Africa sude, con dentones grande
+Phacochoerus
+en   warthog
+
+facula   nom
+Un area briliante a la surfas de la Sol, liada a la apare seguente de manxas solal en la mesma area; un manxa briliante a la surfas de un planeta
+en   facula (astronomy)
+
+fago-   prefisa
+Come
+en   phago- (eating)
+
+fagosite   nom
+Un tipo de selula en la corpo, capas de enclui e asorbe baterias e otra selulas e particulas peti
+en   phagocyte
+
+»  fagosital   ajetivo
+en   phagocytic
+
+fagositose   nom
+La consuma de baterias o otra materia par fagosites e amebas
+en   phagocytosis
+
+faia   nom
+Un arbor grande con cortex lisa e gris, folias briliante, e lenio dur e pal con fibres delicata
+Fagus
+en   beech
+fr   hêtre
+
+»  noza de faia   nom
+en   beechnut
+
+faiense   nom
+Seramica vitrin, tipal decorada
+en   faience
+fr   faïence
+
+fajita   nom
+Un plato mexican, composada de bandas de carne spisida, vejetales axida, e ceso raspada, enrolada en un tortilia mol e comun servida con crema asida
+en   fajita (food)
+
+falafel   nom
+Un bal fritada de xixes moleda o favas de visia, tradisional comeda en Asia sude-ueste
+en   falafel (food)
+es   falafel (comida)
+
+falanje   nom
+Un fola densa de soldatos, polisiores o simil; (en medica) un dito o diton de mano o pede
+en   phalanx (crowd); phalange (anatomy)
+fr   phalange
+
+falaropo   nom
+Un avia vadante e nadante, con beco reta e pedes lobosa
+Phalaropus
+en   phalarope (bird)
+
+falcon   nom
+Un avia xasante, con alas longa e puntida e un beco con protende dentin, cual catura predas par tufa de supra
+Falconinae
+en   hawk, falcon, kestrel, falconet
+fr   faucon
+
+»  falconor   nom
+en   falconer
+fr   fauconnier
+
+»  falconoria   nom
+en   falconry
+
+falda   nom
+Un veste esterna basa, liada sirca la taie e pendente sirca la gamas
+en   skirt, kilt
+fr   jupe
+
+»  falda de leto   nom
+en   valance
+
+»  falda scotes   nom
+en   kilt
+fr   kilt
+
+»  faldeta   nom
+en   petticoat, half-slip, underskirt
+fr   jupon
+
+»  faldon   nom
+en   apron; tail (coat)
+fr   tablier
+
+falesa   nom
+Un fas presipe de roca, tipal a borda de mar
+en   cliff
+fr   falaise
+
+fali   verbo transitiva
+No susede ateni (un resulta desirada); es rejetada par (un proba o intervisa)
+‹ el ia fali sua esaminas; tu fali comprende la problem ›
+en   fail (not succeed), fail to, flunk; fault (tennis)
+fr   rater, louper, manquer, faillir
+
+»  fali   nom
+en   failure, fault, flaw, failing, lapse; miss; (surfing) wipeout
+fr   ratage, manque, défaut
+
+»  fali de judi   nom
+en   lapse of judgement
+
+»  fali moral   nom
+en   moral failure, moral lapse
+
+»  fali paia   verbo
+en   fail to pay, default on payment
+fr   être en défaut de paiement
+
+»  fali para   verbo
+en   fail to stop, overshoot
+
+»  falinte   ajetivo
+en   failing
+
+»  nunca falinte   ajetivo
+en   infallible
+fr   infaillible
+
+»  sin fali   ajetivo
+en   faultless, impeccable
+
+falia   nom
+(En jeolojia) un rompe estendeda en un corpo de roca, marcada par un desloca relativa de stratos a cada lado de un plana spesifada
+ca   falla
+de   Verwerfung
+en   fault (geology)
+eo   faŭlto
+es   falla
+fr   faille
+it   faglia
+pt   falha
+
+»  falion   nom
+en   rift
+
+»  vale de falion   nom
+en   rift valley
+
+Falkland, Isolas   nom, plural
+Un teritorio brites composada de plu ca 100 isolas en la Mar Atlantica
+en   Falkland Islands
+es   Islas Malvinas
+fr   Îles Malouines
+
+falo   nom
+Un penis o simbol de penis, spesial si erijeda, tipal usada per simboli fertilia o la potia mas
+en   phallus
+es   falo
+fr   phallus
+
+»  falin   ajetivo
+en   phallic
+es   fálico
+fr   phallique
+
+falsa   ajetivo
+No coreta, no vera, erante; no sertida, no como lo pare
+en   wrong, false, incorrect, untrue, fake, fallacious, counterfeit, bogus, mock, faux, pseudo-
+fr   faux
+
+»  falsa   nom
+en   fake (thing)
+
+»  falsi   verbo nontransitiva
+en   become false; be faked
+
+»  falsi   verbo transitiva
+en   counterfeit, falsify, fake, forge (money, document)
+fr   falsifier, contrefaire, fausser
+
+»  falsi   nom
+en   falsification, forgery
+fr   falsification
+
+»  falsia   nom
+en   falseness, falsehood, untruth
+
+»  falsor   nom
+en   counterfeiter, forger
+fr   contrefacteur, falsificateur
+
+falseto   ajetivo
+(Un vose de cantor mas) nonormal alta
+en   falsetto
+fr   fausset
+
+»  falseto   nom
+en   falsetto
+
+falxe   nom
+Un util usada per corti sereales e erbas, con un lamina longa e curvida a la fini de un palo longa con un o du manicos corta
+en   scythe
+fr   faux
+
+»  falxeta   nom
+en   sickle
+fr   faucille
+
+»  falxi   verbo transitiva
+en   reap, mow, scythe
+fr   faucher
+
+»  falxor   nom
+en   reaper, harvestman
+fr   faucheur
+
+fama   nom
+La state de es bon conoseda o discuteda par multe persones, spesial per atenis notable
+en   fame, renown, stardom
+fr   renommée, célébrité
+
+»  famosa   ajetivo
+en   famous, noted, renowned, historic
+fr   fameux, célèbre
+
+»  famosa   nom
+en   famous person, celebrity, personality
+
+»  mal fama   nom
+en   infamy, notoriety
+fr   infamie, notoriété
+
+»  malfamosa   ajetivo
+en   infamous, notorious
+fr   infame, notoire, mal famé
+
+fame   ajetivo
+Sentinte o mostrante la nesesa de come
+en   hungry, ravenous, ravening
+fr   qui a faim, affamé
+
+»  fami   verbo nontransitiva
+en   starve, hunger, famish, go hungry
+fr   avoir faim, être affamé
+
+»  fami   verbo transitiva
+en   starve, make hungry
+
+»  famia   nom
+en   hunger
+fr   faim
+
+»  famion   nom
+en   famine
+fr   famine
+
+familia   nom
+Un grupo de persones composada de persones relatada par sangue o sposi, ci abita con lunlotra; cada de la cuatro grupos de cartas de jua
+en   family, household; suit (cards)
+es   familia
+fr   famille
+
+»  la familia Braun   espresa
+nb   On pote dise ance "la Braunes".
+en   the Brown family
+
+»  familia fusada   nom
+en   stepfamily, blended family
+
+»  familia real   nom
+en   royal family, royalty
+
+»  familial   ajetivo
+en   familial, familiar
+es   familiar
+fr   familial
+
+»  familian   nom
+en   family member
+
+»  familin   ajetivo
+en   familiar
+es   familiar
+fr   familier
+
+»  sufamilia   nom
+en   subfamily (biology)
+
+»  suprafamilia   nom
+en   superfamily (biology)
+
+fan   nom
+Un person con un interesa forte en un sporte, arte, etc; un person ci amira forte un ecipo de sporte o un person famosa
+en   fan, fanatic, aficionado
+es   fan (admirador), fanático, aficionado, enthusiast
+fr   fan
+
+»  fanes   nom, plural
+en   fans, fandom
+
+»  fania   nom
+en   fandom (quality)
+
+»  fanin   ajetivo
+en   fannish
+
+fandango   nom
+Un dansa vivosa de Espania per du persones, tipal acompaniada par castanietas o tambureta
+en   fandango (dance)
+
+fanfara   verbo nontransitiva
+Jua un melodia corta con strumentos como trompas, tipal per anunsia la ariva de un person importante
+en   sound a fanfare
+
+»  fanfara   nom
+en   fanfare
+fr   fanfare
+
+fango   nom
+Un materia mol e aderente, miscada de tera e acua
+en   mud, mire
+fr   boue, fange
+
+»  fango acuin   nom
+en   slurry
+
+»  fangi   verbo transitiva
+en   muddy
+
+»  fangosa   ajetivo
+en   muddy, turbid
+fr   boueux, fangeux
+
+»  fangosia   nom
+en   muddiness
+
+fantasia   verbo transitiva
+Imajina (un cosa cual on desira)
+en   fantasize/fantasise, daydream
+fr   rêver (éveillé), fantasmer
+
+»  fantasia   nom
+en   fantasy, daydream, reverie, woolgathering; escapism
+fr   fantaisie
+
+»  fantasial   ajetivo
+en   fanciful
+
+»  fantasin   ajetivo
+en   fantastic
+fr   fantastique
+
+»  fantasior   nom
+en   dreamer, daydreamer
+fr   rêveur
+
+fantasma   nom
+Un alusina de un person mor, tipal como un imaje neblosa
+en   ghost, phantom, specter/spectre, phantasm, spook, wraith
+fr   fantôme
+
+»  fantasma jemelin   nom
+en   doppelgänger
+
+»  fantasma turbosa   nom
+en   poltergeist
+
+»  fantasmin   ajetivo
+en   ghostly, spectral
+
+»  fantasmosa   ajetivo
+en   haunted, spooky
+fr   hanté
+
+farade   nom
+La unia internasional per mesura capasia eletrical
+en   farad (unit of capacitance)
+
+»  microfarade   nom
+en   microfarad
+
+faraon   nom
+Un renor en Egipte antica
+en   pharaoh
+es   faraón
+fr   pharaon
+
+farenhait   nom
+Un scala de temperatur en cual acua jela a 32° e boli a 212°
+→ grado
+en   Fahrenheit
+
+farfulia   verbo transitiva
+Pronunsia nonclar, como algun ci es enebriada o parla rapida a se
+en   mutter, mumble, slur
+
+»  farfulia   nom
+en   mutter, mumble, slur
+
+farina   nom
+Un polvo produida par mole gran, tipal trigo, e usada per produi pan, tortas e pasta
+en   flour, farina
+es   harina
+fr   farine
+
+»  farina de mais   nom
+en   cornflour, corn meal
+
+»  farinin   ajetivo
+en   floury, flourlike
+
+»  farinosa   ajetivo
+en   floury
+fr   farineux
+
+farinje   nom
+Un caveta membranosa pos la nas e boca, juntante los a la esofago
+en   pharynx
+
+»  farinjal   ajetivo
+en   pharyngeal
+
+»  farinjal   nom
+en   pharyngeal (consonant)
+
+»  farinjali   verbo nontransitiva
+en   pharyngealize
+
+»  farinjali   verbo transitiva
+en   pharyngealize
+
+»  farinje bocal   nom
+en   oropharynx
+
+»  farinje larinjal   nom
+en   laryngopharynx
+
+»  farinje nasal   nom
+en   nasopharynx
+
+farinjite   nom
+Un inflama de la farinje, causante dole de la garga
+en   pharyngitis
+es   faringitis
+
+fariseo   nom
+Un membro de un seta antica de iudisme, notada per adere sever a leges relijial; un person moraliste o ipocrita
+en   pharisee
+es   fariseo
+
+farmacodinamica   nom
+La ramo de farmacolojia cual studia la efetos de medisines e sua modos de ata en la corpo
+ca   farmacodinàmica
+en   pharmacodynamics
+es   farmacodinámica
+fr   pharmacodynamique
+
+farmacolojia   nom
+La ramo de medica cual studia la usas e efetos de drogas
+en   pharmacology
+
+»  farmacolojial   ajetivo
+en   pharmacological
+
+»  farmacolojiste   nom
+en   pharmacologist
+
+farmasia   nom
+Un boteca do on prepara o vende medisin
+en   pharmacy, chemist, drugstore, apothecary, dispensary
+fr   pharmacie
+
+»  farmasial   ajetivo
+en   pharmaceutical
+fr   pharmaceutique
+
+»  farmasiste   nom
+en   pharmacist, chemist, druggist, apothecary
+fr   pharmacien, apothicaire
+
+faro   nom
+Un tore o otra strutur prosima a un costa, con lampa alta e forte per gida barcones; un lampa a fronte de un veculo per lumina la via; cualce lampa o foco per sinia o gida
+en   lighthouse; beacon; headlight, headlamp
+fr   phare; fanal
+
+faro   nom
+Un jua de cartas en cual on aposta sur la ordina en cual la cartas va apare
+en   faro (card game)
+
+Faro, Isolas   nom, plural
+Un grupo de isolas en la Mar Atlantica norde, parteninte a Danmarc ma cuasi autonom
+en   Faroe Islands, Faeroe Islands
+
+»  faroisce   ajetivo
+en   Faroese, Faeroese
+
+»  faroisce   nom
+en   Faroese, Faeroese
+
+farsa   nom
+Un presenta comedial con carateres bruta o stupida e situas nonprobable o asurda
+en   farce, physical comedy, knockabout comedy, slapstick, burlesque, vaudeville, buffoonery
+fr   farce (comédie), charade
+
+»  farsin   ajetivo
+en   farcical
+
+farsi   ajetivo
+Pertinente a la lingua de Iran e otra rejiones, o la popla ci parla lo
+en   Farsi, Persian (person, language)
+fr   perse; persan
+
+»  farsi   nom
+en   Farsi, Persian (person, language)
+fr   Perse; persan
+
+fas   nom
+La parte fronte de la testa de un person, de la capeles asta la colo, o la parte simil de un animal; la lado de un moneta cual mostra la imaje de un person; la parte de un orolojo o aparato mesurante cual indica la ora o mesura
+en   face, physiognomy, visage; dial (watch, clock, compass); heads (coin)
+fr   visage, face; cadran (d’une montre, d’une boussole); face (d’une pièce de monnaie)
+
+»  a fas de   preposada
+en   opposite, facing
+fr   en face de
+
+»  con fas a fas con   preposada
+en   face to face with
+fr   face à face avec
+
+»  fasal   ajetivo
+en   facial
+
+»  faseta   nom
+en   facet, aspect
+fr   facette
+
+fasa   verbo transitiva
+Dirije sua fas o fronte a (un person o cosa)
+en   face
+fr   faire face à
+
+»  fasada   nom
+en   façade
+fr   façade
+
+»  fasada de boteca   nom
+en   storefront
+
+»  fasante   ajetivo
+en   opposite, facing; opposable (thumb)
+fr   faisant face à
+
+fase   verbo nontransitiva
+Pasa tra un serie de fases
+en   phase
+fr   phaser
+
+»  fase   nom
+Un periodo o grado en un prosede de cambia o developa; (en cimica) un forma de materia, como solida, licuida o gas; (en fisica) la relata tempal entre states o sicles seguente de un sistem osilante o repetente (como corente eletrical o ondas de lus o sona) e un otra sistem con cual lo es cisa sincrona
+en   phase
+fr   phase
+
+»  desfase   verbo nontransitiva
+en   be out of phase
+
+»  desfase de ora   nom
+en   jetlag
+fr   décalage horaire
+
+»  desfaseda   ajetivo
+en   out of phase
+fr   déphasé
+
+»  fasador   nom
+en   phaser
+fr   modulateur de phase
+
+»  interfase   nom
+en   interphase
+fr   interphase
+
+fasian   nom
+Un avia xasada grande con coda longa, nativa de Asia, de cual la mas ave plumas ostentosa
+Phasianinae
+en   pheasant
+fr   faisan
+
+»  fasian galin   nom
+Un avia xasada con corpo spesa e gamas plumosa, de cual la mas es plu colorosa ca la fema
+Tetraoninae
+en   grouse
+fr   tétra, gelinotte, lagopède
+
+fasil   ajetivo
+Fada o atenida sin multe labora; con poca problemes; movente en modo bela e refinada
+en   easy, effortless, straightforward; graceful (in movement)
+fr   facile, aisé
+
+»  fasil   averbo
+en   easily, gracefully, handily
+fr   facilement, aisément
+
+»  fasil aprendable   ajetivo
+en   easily learned, easy to learn
+
+»  fasili   verbo nontransitiva
+en   become easy, become easier
+
+»  fasili   verbo transitiva
+en   facilitate, ease, simplify
+fr   faciliter
+
+»  fasili   nom
+en   easing, facilitation
+fr   facilitation
+
+»  fasilia   nom
+en   facility, ease, easiness; grace (in movement)
+fr   facilité, aisance
+
+»  fasilinte   ajetivo
+en   facilitating, labor-saving/labour-saving
+
+fasimil   nom
+Un copia esata, tipal de materia scriveda o primida
+en   facsimile, exact reproduction
+fr   fac-similé
+
+fasina   verbo transitiva
+Atrae la atende e interesa de (algun) en modo nonresistable
+en   fascinate, intrigue, engross
+fr   fasciner
+
+»  fasina   nom
+en   fascination, allure
+fr   fascination
+
+»  fasinada   ajetivo
+en   fascinated, rapt
+
+»  fasinante   ajetivo
+en   fascinating, engrossing, riveting, compelling
+
+fasmido   nom
+Un inseto longa e magra cual sembla un basteta
+Phasmatodea
+en   stick insect, stick bug, walking stick
+fr   phasme
+
+fatiga   verbo transitiva
+Fa ce (algun) senti la nesesa de reposa, dormi o sesa labora
+en   tire, exhaust, fatigue
+fr   fatiguer
+
+»  fatiga   nom
+en   tiredness, exhaustion, weariness, lassitude
+fr   fatigue
+
+»  fatiga de oios   nom
+en   eyestrain
+
+»  fatigada   ajetivo
+en   tired, weary, exhausted, haggard, gaunt
+fr   fatigué
+
+»  fatigante   ajetivo
+en   tiring, arduous, backbreaking
+
+»  nonfatigable   ajetivo
+en   indefatigable, tireless
+fr   infatigable
+
+fato   nom
+Un sabe cual es serta e nondutable
+en   fact
+fr   fait
+
+»  fato suportante   nom
+en   supporting fact, evidence
+
+»  en fato   averbo
+en   in fact
+fr   en fait
+
+»  fatal   ajetivo
+en   factual
+fr   factuel
+
+»  la fato ce   nom
+en   the fact that
+fr   le fait que
+
+»  par fato   ajetivo
+en   de facto
+fr   de facto
+
+fator   nom
+Un fato o influe cual contribui a un resulta; un numero par cual un otra es esata dividable
+en   factor, coefficient
+fr   facteur
+
+»  fatori   verbo nontransitiva
+en   factorize/factorise
+
+»  fatori   verbo transitiva
+en   factorize/factorise
+
+»  refatori   verbo transitiva
+en   refactor (software)
+
+fatoral   nom
+La multiple de un intero spesifada e tota la interos positiva a su
+en   factorial
+fr   factorielle
+
+fatota   nom, composada (verbo+nom)
+Un empleada ci fa tota spesies de labora o repara
+en   factotum, handyman, jack of all trades
+fr   factotum
+
+fatua   nom
+Un deside par un autoria reconoseda sur un punto de lege muslim
+en   fatwa
+
+fatura   verbo transitiva
+Dona o envia un nota de la paia espetada de (algun) per un ben o servi
+en   bill, invoice, charge
+fr   facturer
+
+»  fatura   nom
+en   bill, invoice, statement, tab
+fr   facture
+
+»  fatura tro multe   verbo
+en   overcharge
+
+fauno   nom
+(En mitos roman) un de un clase de dios libidosa campanial, imajinada como un om con la oreas, cornos, gamas e coda de un capra
+en   faun (mythology)
+
+faustian   ajetivo
+Pertinente o simil a Faust, un astronomiste e necromansiste deutx sur cual un lejenda dise ce el ia vende sua spirito a la diablo
+en   Faustian
+
+fauvisme   nom
+Un stilo de depinta de la temprana de la sentenio 20, con color forte
+en   fauvism
+
+»  fauviste   ajetivo
+en   fauvist
+
+»  fauviste   nom
+en   fauvist
+
+fava   nom
+Un seme comable, tipal con forma de ren, cual crese en cascas longa sur alga plantas; un planta cual produi estas
+Phaseolus e otras
+en   bean (plant, seed)
+fr   haricot
+
+»  fava azuci   nom
+en   azuki bean, aduki, adzuki
+fr   haricot azuki
+
+»  fava blanca   nom
+en   white bean, navy bean, haricot bean
+fr   haricot blanc
+
+»  fava de Lima   nom
+en   lima bean
+fr   haricot de Lima
+
+»  fava de oio negra   nom
+en   black-eyed bean
+fr   cornille, dolique à oeil noir
+
+»  fava de visia   nom
+en   fava bean, garbanzo bean, broad bean
+fr   fève
+
+»  fava mung   nom
+en   mung bean
+fr   haricot mungo
+
+»  fava negra   nom
+en   black bean
+
+»  fava pintida   nom
+en   pinto bean
+
+»  fava roja   nom
+en   kidney bean, frijol
+fr   haricot rouge
+
+»  fava verde   nom
+en   green bean, snap bean
+fr   haricot vert
+
+»  favin   ajetivo
+en   beanlike, bean-shaped
+
+favo   nom
+Un strutur de selulas exagon, fabricada de sira par abeas per reserva miel e ovos; cualce strutur simil
+en   honeycomb
+fr   alvéole d’abeille
+
+favore   verbo transitiva
+Senti o mostra aproba o prefere per; (vestes) dona un bon aspeta a
+en   favor/favour, indulge, privilege; (garment) flatter
+fr   favoriser
+
+»  favore   nom
+en   favor/favour, indulgence, partiality; good turn
+fr   faveur
+
+»  favore divin   nom
+en   providence
+fr   providence
+
+»  fa un favore a   verbo
+en   do (someone) a favor/favour
+
+»  favorable   ajetivo
+en   favorable/favourable, opportune
+fr   favorable
+
+»  favoreda   ajetivo
+en   favorite/favourite, privileged
+fr   favorisé
+
+»  favoreda   nom
+en   favorite/favourite, privileged
+fr   favori
+
+»  favorente   ajetivo
+en   favoring/favouring, indulgent, partial, preferential; flattering (garment)
+fr   indulgent
+
+»  favorisme   nom
+en   favoritism/favouritism
+
+»  nonfavorable   ajetivo
+en   unfavorable/unfavourable
+
+»  nonfavoreda   nom
+en   underdog
+
+»  nonfavorente   ajetivo
+en   unflattering (garment)
+
+»  per favore   esclama
+en   please
+fr   s’il vous plait
+
+fax   nom
+Un imaje de un documento creada par scane eletronical e telecomunica
+en   fax
+fr   fax
+
+»  faxador   nom
+en   fax machine
+fr   télécopieur
+
+faxa   nom
+Un plance orizonal de lenio o otra materia, tipal usada per covre otra partes de un strutur
+en   fascia, planking, plating, horizontal band
+fr   planche, bandeau, placage
+
+»  faxon   nom
+en   beam, rafter, girder, joist
+fr   poutre
+
+»  faxon de cresta   nom
+en   ridgepole
+
+»  faxon I   nom
+en   I-beam
+fr   poutrelle en I
+
+»  faxon traversal   nom
+en   crossbeam
+
+faxisme   nom
+Un sistem de governa autoritar e nasionaliste
+en   fascism
+
+»  faxiste   ajetivo
+en   fascist
+
+»  faxiste   nom
+en   fascist
+
+faxo   nom
+Un colie de cosas liada con lunlotra; un colie de nervos, musculos o otra fibres paralel corente, prosima a lunlotra; (en Roma antica) un colie de palos liada, con un lamina de axa protendente, portada como un simbol de autoria
+en   bundle, sheaf, fasces, bale, fagot/faggot
+fr   fagot, liasse, ballot
+
+»  faxi   verbo nontransitiva
+en   become bundled
+
+»  faxi   verbo transitiva
+en   bundle
+
+fe   nom
+Un organisme mital, con forma de un umana peti con potias majiosa
+en   fairy, faerie
+fr   fée
+
+»  fe de aira   nom
+en   sylph
+
+»  fe de mar   nom
+Un organisme mital, con testa e tronco umana e coda de pex
+en   mermaid, merman
+fr   sirène
+
+»  fein   ajetivo
+en   fairylike, fey
+fr   féerique
+
+fea   ajetivo
+Nonplasente o repulsante, tipal par sua aspeta
+en   ugly, unsightly, grotesque
+fr   laid
+
+»  fea   nom
+en   ugly person
+
+»  fei   verbo nontransitiva   (dise ‘feï’)
+en   become ugly
+fr   s’enlaidir
+
+»  fei   verbo transitiva
+en   make ugly, uglify
+fr   enlaidir
+
+»  feia   nom   (dise ‘feya’)
+en   ugliness
+fr   laideur
+
+»  xocante fea   ajetivo
+en   shockingly ugly, hideous
+fr   hideux
+
+febre   nom
+Un temperatur nonormal alta de la corpo, tipal con trema, dole de testa, e cisa delirio
+en   fever
+fr   fièvre
+
+»  antifebral   nom
+Un medisin per redui febre
+en   antipyretic
+
+»  febrosa   ajetivo
+en   fevered, feverish, febrile
+fr   fiévreux
+
+febrero   nom
+La mense du de la calendario gregorian
+en   February
+eo   februaro
+fr   février
+
+fece   nom
+Materia escreteda de la intestines
+en   feces/faeces, dung, excrement, turd
+
+»  fecal   ajetivo
+en   fecal/faecal
+
+»  feci   verbo transitiva
+en   defecate
+
+»  feci   nom
+en   defecation
+
+federa   verbo nontransitiva
+(Un cuantia de statos o organizas) formi un unia ma reteni alga autonomia interna
+en   federate, confederate
+
+»  federa   nom
+en   federation, confederacy, confederation (action, result)
+
+»  federada   ajetivo
+en   federated
+
+»  federal   ajetivo
+en   federal
+
+»  federalisme   nom
+en   federalism
+
+»  federaliste   ajetivo
+en   federalist, federalistic
+
+»  federaliste   nom
+en   federalist
+
+fejoa   nom
+Un arboreta o arbor peti perene; la fruta verde e comable de esta
+Acca sellowiana
+en   feijoa (tree, fruit)
+
+felatio   nom
+La ata de stimula la jenitales de un om con lingua o labios
+en   fellatio
+
+»  fa felatio   verbo
+en   perform fellatio, fellate
+
+feldspato   nom
+Un mineral comun, tipal esistente como cristales pal o sin color
+en   feldspar (mineral)
+
+felido   nom
+Un membro de la familia de mamales cual inclui gatos
+Felidae
+en   felid, feline
+
+felis   ajetivo
+Sentinte o mostrante plaser, contentia o otimisme
+en   cheerful, cheery, happy, jolly, jocund, glad
+
+»  felisi   verbo nontransitiva
+en   cheer up, perk up, hearten, gladden
+
+»  felisi   verbo transitiva
+en   cheer up, perk up, hearten, gladden
+
+»  felisi   nom
+en   uplift
+
+»  felisia   nom
+en   cheerfulness, cheeriness, happiness
+
+»  felisinte   ajetivo
+en   heartening, heartwarming
+
+»  nonfelis   ajetivo
+en   unhappy, cheerless
+
+»  nonfelisia   nom
+en   unhappiness, cheerlessness
+
+»  vive en felisia   verbo
+en   live in happiness, live happily
+
+feltro   nom
+Un tipo de stofa fabricada par rola e presa lana, o otra materia simil, umidinte o caldinte lo afin la fibres adere a lunlotra e crea un surfas lisa
+en   felt
+
+»  feltri   verbo transitiva
+en   full (material)
+
+»  feltrin   ajetivo
+en   feltlike
+
+fem   nom
+Un umana fema adulte; (nonformal) un sposa
+en   woman; (colloquial) wife
+
+»  fem de cabare   nom
+en   showgirl
+
+»  fem de carera   nom
+en   career woman
+
+»  fem de casa   nom
+en   housewife, homemaker, stay-at-home mom
+
+»  fem de corte   nom
+en   female courtier
+
+»  fem de mundo   nom
+en   female socialite
+
+»  fem de neva   nom
+en   snowwoman
+
+»  fem de strada   nom
+en   streetwalker
+
+»  fem joven   nom
+en   young woman; lass, lassie; maiden, damsel, wench
+
+»  fem odiosa   nom
+en   shrew, harridan
+
+»  fem servinte   nom
+en   handmaid, handmaiden
+
+»  bonfem   nom
+en   nice woman, nice lady, good-natured woman
+
+»  femia   nom
+en   womanhood, femaleness
+
+»  femin   ajetivo
+en   feminine, effeminate, femme, girlish, womanish
+
+»  feminia   nom
+en   femininity
+
+»  femisme   nom
+en   feminism
+
+»  femiste   nom
+en   feminist
+
+»  suprafem   nom
+en   superwoman
+
+fema   ajetivo
+De la seso cual pote produi ovos o pari enfantes
+en   female
+
+»  fema   nom
+en   female
+
+»  femi   verbo nontransitiva
+en   feminize/feminise
+
+»  femi   verbo transitiva
+en   feminize/feminise
+
+»  femi   nom
+en   feminization/feminisation
+
+femor   nom
+La oso de un coxa, con juntas a la anca e jeno
+en   femur, thighbone
+
+»  femoral   ajetivo
+en   femoral
+
+fende   verbo nontransitiva
+Divide fortiosa (alga cosa) a du partes
+en   split, cleave
+
+»  fende   nom
+en   split, fission, schism
+
+»  fendador   nom
+en   splitter (device)
+
+»  fendor   nom
+en   splitter (person)
+
+fenetra   nom
+Un abri en un mur o teto, covreda con vitro o otra materia transparente
+en   window
+
+»  fenetra colorida   nom
+en   stained-glass window
+
+»  fenetra de alcovo   nom
+en   bay window, bow window, oriel
+
+»  fenetra de bileta   nom
+en   ticket window
+
+»  fenetra de esibi   nom
+en   display window, store window, shop window
+fr   vitrine
+
+»  fenetra de rede   nom
+en   screen window
+
+»  fenetra de teto   nom
+en   skylight
+
+»  fenetra xarnierida   nom
+en   casement window
+
+»  fenetreta   nom
+en   porthole
+
+fenilalanina   nom
+Un aminoasida comun en protenas de plantas, e un nurinte esensal per vertebratos
+en   phenylalanine (amino acid)
+
+fenilcetonuria   nom
+Un noncapasia erital de metaboli fenilalanina
+en   phenylketonuria (medical)
+
+Fenisia   nom
+Un pais antica a la costa de la Mar Mediteraneo
+en   Phoenicia
+
+»  fenisia   ajetivo
+en   Phoenician
+
+»  fenisia   nom
+en   Phoenician
+
+fenix   nom
+Un avia mital cual ia vive tra sentenios en la deserto de Arabia, pos cual lo ia rejoveni se par arde per comensa un otra sicle de vive
+en   phoenix
+
+»  Fenix   nom
+Un constela en la sielo sude
+en   Phoenix (constellation)
+
+feno   nom
+Erba cual on ia falxi e seci per usa como comeda de bestias
+en   hay
+
+»  feneria   nom
+en   hayloft
+
+»  fenor   nom
+en   haymaker
+
+fenobarbital   nom
+Un medisin usada per trata epilesia e ansia
+en   fenobarbital, fenobarbitone (drug)
+
+fenol   nom
+Un composada cimical con un grupo idrosil direta liada a un anelo de benzen; un solida cristal, blanca e venenosa, derivada de catran de carbon, tipal diluida per es usada como un desinfetante
+en   phenol (substance)
+
+fenolftalein   nom
+Un cimical usada per indica asidas e alcalines, o como un paraconstipa
+en   phenolphthalein (substance)
+
+fenomeno   nom
+Un fato o situa oservable, spesial si sua esplica no es clar; un person, cosa o aveni multe notable; (en filosofia) la ojeto de la persepi de un person; lo cual la sensas o la mente nota
+en   phenomenon
+
+»  fenomenolojia   nom
+en   phenomenology
+
+fenotipo   nom
+La cualias oservable de un organisme individua, resultante de la interata de sua jenotipo con la ambiente
+en   phenotype
+
+feri   verbo transitiva
+Causa dana fisical a (algun)
+en   wound, injure, harm, hurt, maim
+fr   blesser
+
+»  feri   nom
+en   wound, injury
+fr   blessure
+
+»  autoferi   verbo transitiva
+en   self-harm
+
+»  autoferi   nom
+en   self-harm, self-injury
+
+»  ferable   ajetivo
+en   vulnerable
+fr   vulnérable
+
+»  ferida   ajetivo
+en   wounded, injured, hurt
+fr   blessé
+
+»  ferida   nom
+en   casualty
+fr   blessé
+
+»  ferinte   ajetivo
+en   wounding, injurious, detrimental
+
+»  nonferable   ajetivo
+en   invulnerable
+
+»  nonferida   ajetivo
+en   unhurt, unharmed, uninjured, unscathed
+
+feria   nom
+Un colie de cioscos de vendores e divertis per la popla; un esibi per promove benes spesifada
+en   fairground, fair, fete; trade fair
+fr   foire
+
+ferica   ajetivo
+Pertinente a fero con valentia tre
+en   ferric
+
+fermenta   verbo nontransitiva
+Deveni descomposada par baterias, fermento o otra microbios, tipal causante caldia e bola; (bir, vino e otra bevidas alcolosa) deveni produida par la cambia de zucares a etanol
+en   ferment
+fr   fermenter
+
+»  fermenta   nom
+en   fermentation
+fr   fermentation
+
+»  fermentante   nom
+en   leaven, leavening agent
+fr   ferment
+
+»  fermentante natural   nom
+en   levain
+
+»  fermentante nural   nom
+en   nutritional yeast
+
+»  fermentosa   ajetivo
+en   yeasty
+
+»  nonfermentada   ajetivo
+en   unleavened
+
+fermento   nom
+Un fungo microscopial, composada de selulas oval cual reprodui par broti e es capas de converti zucar a alcol e diosido de carbono
+en   yeast
+fr   levure
+
+fermio   nom   «Fm»
+La elemento cimical con numero atomal 100, un metal radioativa
+en   fermium (element)
+
+fero   nom   «Fe»
+La elemento cimical con numero atomal 26; un metal dur, forte, magnetal e arjentin gris, multe usada como un materia per construi e fabrica; un baston de golf con testa metal
+en   iron
+fr   fer
+
+»  fero calda   nom
+Un util con fondo plana de aser caldida, usada per lisi stofas
+en   iron, flat iron (for pressing)
+fr   fer à repasser
+
+»  fero de cavalo   nom
+en   horseshoe
+fr   fer à cheval
+
+»  fero de golf   nom
+en   golfing iron
+
+»  fero de marca   nom
+en   branding iron
+fr   fer rouge
+
+»  fero forjada   nom
+en   wrought iron
+fr   fer forgé
+
+»  fero moldida   nom
+en   cast iron
+fr   fonte
+
+»  fero ondin   nom
+en   corrugated iron
+fr   tôle ondulée
+
+»  fero per solda   nom
+en   soldering iron
+fr   fer à souder
+
+»  ferosa   ajetivo
+en   ferrous, full of iron
+fr   ferreux
+
+»  sin fero   nom
+en   unshod
+
+feromagnetal   ajetivo
+Fasil magnetida, como fero
+en   ferromagnetic
+
+feromon   nom
+Un materia cimical produida e emeteda a la ambiente par un animal, afetante la condui o fisiolojia de otras de sua spesie
+en   pheromone
+
+ferose   ajetivo
+Combatosa a grado savaje e asustante
+en   fierce, ferocious
+fr   féroce
+
+»  ferosia   nom
+en   fierceness, ferocity
+
+ferovia   nom   (dise ‘ferovía’)
+Un via de reles de fero sur cual trenes vade
+en   railway, railroad, railroad track
+fr   chemin de fer
+
+»  ferovia streta   nom
+en   narrow-gauge railway
+fr   voie étroite
+
+»  ferovia xef   nom
+en   mainline
+
+»  ferovial   ajetivo
+en   rail, railway, railroad
+
+»  ferovior   nom
+en   railroad worker, railway worker, railwayman
+fr   cheminot
+
+fertil   ajetivo
+(Tera) capas de produi multe cultivadas; (un seme o ovo) capas de deveni un individua nova; (un person, animal o planta) capas de consepi enfantes o produi semes; (un person o situa) fasil jenerante ideas nova; (en fisica, de materia nucleal) capas de deveni fendable par la catura de neutrones
+en   fertile, fruitful, fecund
+fr   fertile, fécond
+
+»  fertilable   ajetivo
+en   fertilizable/fertilisable
+fr   fertilisable, fécondable
+
+»  fertili   verbo nontransitiva
+en   fertilize/fertilise
+fr   fertiliser, féconder
+
+»  fertili   verbo transitiva
+en   fertilize/fertilise
+
+»  fertili en vitro   nom
+en   in vitro fertilization/fertilisation
+fr   fécondation in vitro
+
+»  fertilia   nom
+en   fertility
+fr   fertilité, fécondité
+
+»  fertilinte   ajetivo
+en   fertilizing/fertilising
+
+»  fertilinte   nom
+en   fertilizer/fertiliser
+fr   fertilisant
+
+»  fertilinte organica   nom
+en   organic fertilizer/fertiliser, compost
+
+»  nonfertil   ajetivo
+en   infertile, sterile, barren
+
+»  nonfertilia   nom
+en   infertility
+
+ferula   nom
+Un banda de materia rijida, usada per suporta e restrinje un oso rompeda
+en   splint (medical)
+fr   attelle
+
+festa   nom
+Un dia de recrea cuando la popla no labora; un dia de selebra, tipal relijiosa
+en   holiday, festival
+fr   fête
+
+»  festa de asende   nom
+en   Ascension Day
+
+»  festa de grasia   nom
+en   Thanksgiving Day
+
+»  festa de la Tera   nom
+en   Earth Day
+
+»  festa de labora   nom
+en   Labour Day
+fr   Fête du Travail
+
+»  festa de madres   nom
+en   Mother’s Day
+fr   Fête des Mères
+
+»  festa de padres   nom
+en   Father’s Day
+fr   Fête des Pères
+
+»  festa de Res   nom
+en   Epiphany
+fr   Fête des Rois, Épiphanie
+
+»  festa de Valentin   nom
+en   Valentine’s Day
+fr   Saint Valentin
+
+»  festa de veteranes   nom
+en   Veterans Day
+
+»  festa nasional   nom
+en   national holiday, public holiday, bank holiday
+fr   fête nationale
+
+»  festi   verbo transitiva
+en   celebrate
+
+»  festin   ajetivo
+en   festive
+fr   festif
+
+festuca   nom
+Un erba perene e comun con folias streta
+Festuca, Vulpia
+en   fescue (plant)
+
+fesur   nom
+Un abri longa e magra, tipal la resulta de fende; (en anatomia) un ranur con esta forma, como un spasio entre plias de la serebro; (metafor) un ambigua o manca esplotable en un lege o regula
+en   crack, fissure, cleft, chink, crevice, crevasse, breach, gap; loophole
+fr   fissure
+
+»  fesuri   verbo nontransitiva
+en   crack
+fr   (se) fissurer
+
+»  fesuri   verbo transitiva
+en   crack
+
+feta   nom
+Un ceso blanca e salosa elinica, preparada de lete de oveas o capras
+en   feta (cheese)
+
+fetix   nom
+Un ojeto adorada per sua potia majiosa o car on imajina ce un spirito abita lo; un dedica tro intensa e nonrazonada a alga cosa; un forma de desira sesal en cual la sasia es liada a grado nonormal con un ojeto spesifada, como un parte de la corpo o un veste
+en   fetish; charm, juju
+fr   fétiche
+
+»  fetixi   verbo nontransitiva
+en   fetishize/fetishise
+
+»  fetixi   verbo transitiva
+en   fetishize/fetishise
+
+»  fetixi   nom
+en   fetishization/fetishisation
+
+»  fetixisme   nom
+en   fetishism
+fr   fétichisme
+
+»  fetixiste   nom
+en   fetishist
+fr   fétichiste
+
+feto   nom
+La enfante de un mamal ante nase; un bebe umana ante sua nase, ma a plu ca oto semanas pos consepi
+en   fetus/foetus
+fr   foetus
+
+»  fetal   ajetivo
+en   fetal/foetal
+fr   foetal
+
+fetutxine   nom
+Pasta en la forma de sintas
+en   fettuccine (pasta)
+
+feudo   nom
+Un imobila tenida con la esije de servi a un nobil plu alta
+en   fief, fiefdom, feudal estate, feudal manor
+fr   fief
+
+»  feudal   ajetivo
+en   feudal
+fr   féodal
+
+»  feudalisme   nom
+en   feudalism
+fr   féodalisme
+
+fez   nom
+Un xapo cono con culmina plana, tipal roja con borla negra a supra
+en   fez (hat)
+
+fi   nom   «Φ φ»
+La letera 21 de la alfabeta elinica
+en   phi (Greek letter)
+
+fiasco   nom
+Un aveni cual fali completa, spesial en modo riable o vergoniosa
+en   fiasco, flop, debacle
+fr   fiasco
+
+»  fa un fiasco   verbo
+en   flop, fail humiliatingly
+fr   faire un fiasco
+
+fibia   nom
+Un retangulo plata de metal o plastica con un spino xarnierida, usada per junta la finis de un sintur o simil
+en   buckle
+
+»  desfibi   verbo transitiva
+en   unbuckle
+
+»  fibi   verbo transitiva
+en   buckle
+
+fibre   nom
+Un filo o fileta de cual un texeda vejetal, materia mineral o stofa es composada; un strutur simil cual formi un parte de la texeda de un corpo animal o umana; materia nondijestable en comedas vejetal cual aida la pasaje tra la intestines
+en   fiber/fibre, thread, filament; roughage
+fr   fibre
+
+»  fibre de vitro   nom
+en   glass fiber/fibre, fiberglass/fibreglass
+fr   fibre de verre
+
+»  fibre otical   nom
+en   optical fiber/fibre
+fr   fibre optique
+
+»  fibrosa   ajetivo
+en   fibrous, fibroid
+fr   fibreux
+
+fibroblasto   nom
+Un selula en texeda juntante, cual sintese colajenes e otra fibres
+en   fibroblast (biology)
+
+fibrose   nom
+La spesi e sicatrisi de texedas juntante, tipal causada par un feri
+en   fibrosis
+
+»  fibrose sistal   nom
+Un maladia erital cual afeta la glandes esocrin, causante la bloci de dutos diversa de la corpo e tipal ance la infeta de la pulmones
+en   cystic fibrosis
+
+fibrosite   nom
+Un varia de un fibroblasto cual es nonativa
+en   fibrocyte (biology)
+
+fibula   nom
+La oso la plu esterna de la du osos entre la jeno e la talo en umanas, o la parte simil en otra animales; (en arceolojia) un brox o fisador
+en   fibula (anatomy, brooch)
+fr   péroné
+
+ficolojia   nom
+La studia de alges
+en   phycology
+
+»  ficolojiste   nom
+en   phycologist
+
+fida   verbo transitiva
+Crede ce on pote depende de la capasia o veria de (un person o cosa)
+en   trust, rely on, have faith in, be confident in
+fr   avoir confiance en
+
+»  fida   nom
+en   faith, faithfulness, allegiance, loyalty, fidelity; trust, reliance, confidence
+fr   confiance, foi
+
+»  fida algun   verbo
+en   trust someone, have faith in someone
+
+»  fida jurada   nom
+en   fealty
+
+»  autofida   nom
+en   self-confidence, morale, assertiveness, aplomb
+
+»  autofidante   ajetivo
+en   self-confident, assertive, self-assured; smug
+
+»  de fida alta   ajetivo
+en   high-fidelity, hi-fi
+
+»  desfida   verbo transitiva
+en   distrust, mistrust
+fr   se méfier de
+
+»  fidable   ajetivo
+en   trustworthy, reliable, responsible, dependable
+fr   fiable, de confiance
+
+»  fidada   ajetivo
+en   trusted
+
+»  fidalia   nom
+en   reliability
+
+»  fidante   ajetivo
+en   trusting, confident
+fr   confiant
+
+»  fidiste   nom
+en   loyalist
+
+»  fidosa   ajetivo
+en   faithful, loyal, stalwart, true, true-blue
+fr   fidèle, loyal
+
+»  nonfida   nom
+en   unfaithfulness, disloyalty
+
+»  nonfidable   ajetivo
+en   untrustworthy, unreliable, undependable, irresponsible, erratic, feckless
+
+»  nonfidosa   ajetivo
+en   unfaithful, disloyal
+fr   infidèle, déloyal
+
+»  tro fidante   ajetivo
+en   overconfident
+fr   trop confiant
+
+fidusia   nom
+Un relata legal en cual un person fidada posese un propria per la benefica de un otra person o grupo
+en   trust (legal arrangement)
+fr   fiducie
+
+»  fidusial   ajetivo
+en   fiduciary
+fr   fiduciaire
+
+»  fidusieria   nom
+en   trust company
+fr   société fiduciaire
+
+»  fidusior   nom
+en   fiduciary, depositary, trustee (money, property)
+fr   fiduciaire, détenteur
+
+»  reserva fidusial   nom
+en   trust fund
+fr   patrimoine fiduciaire
+
+fie   nom
+Un person en relata a sua jenitores
+en   child, offspring, son or daughter
+
+»  fie de batiza   nom
+en   godchild
+
+»  fia   nom
+Un person fema en relata a sua jenitores; un enfante fema
+en   daughter
+fr   fille
+
+»  fia de batiza   nom
+en   goddaughter
+fr   filleule
+
+»  fia par sposi   nom
+en   daughter-in-law
+fr   belle-fille (épouse d’un fils), bru
+
+»  estrafia   nom
+en   stepdaughter
+fr   belle-fille (fille d’un conjoint)
+
+»  estrafie   nom
+en   stepchild
+
+»  estrafio   nom
+en   stepson
+fr   beau-fils (fils d’un conjoint)
+
+»  fial   ajetivo
+en   filial
+fr   filial
+
+»  fieta   nom
+en   baby son, baby daughter, little one
+
+»  fio   nom
+Un person mas en relata a sua jenitores; un enfante mas
+en   son
+fr   fils
+
+»  fio de batiza   nom
+en   godson
+fr   filleul
+
+»  fio de puta   nom
+en   (insult) bastard, whoreson
+
+»  fio par sposi   nom
+en   son-in-law
+fr   gendre
+
+fife   nom
+Un flauta peti e xiliante, usada prima en bandes militar
+en   fife (flute)
+
+figato   nom
+Un organo grande en la adomen de vertebratos cual partisipa en multe prosedes metabolal, incluinte aida converti produidas de dijesta a materias usosa per la corpo
+en   liver
+fr   foie
+
+»  figato grasosa   nom
+en   foie gras
+fr   foie gras
+
+figo   nom
+Un arbor cual produi figas
+Ficus
+en   fig (tree)
+fr   figuier
+
+»  figa   nom
+Un fruta mol con forma de pera, pulpa oscur e dulse, e multe semes peti
+en   fig (fruit)
+fr   figue
+
+»  figa bangla   nom
+en   banyan
+
+figur   nom
+La forma de corpo de un person; un representa de un person o animal en desinia o sculta
+en   figure
+fr   figure
+
+»  figur de proa   nom
+en   figurehead
+fr   figure de proue
+
+Fiji   nom
+Un otra nom per Viti
+→ Viti
+en   Fiji
+
+»  fijian   ajetivo
+en   Fijian
+
+»  fijian   nom
+en   Fijian
+
+filantrope   ajetivo
+(Un person o organiza) contribuinte a la bonstate de otras, spesial par dona mone
+en   philanthropic
+
+»  filantropia   nom
+en   philanthropy
+
+»  filantropiste   nom
+en   philanthropist
+
+filarmonial   ajetivo
+Simfonial, usada en la nomes de alga orcestras
+en   philharmonic
+
+Filastin   nom
+Un teritorio autonom en Asia ueste a la costa de la Mar Mediteraneo
+(capital: Ieruxalim)
+en   Palestine
+
+»  filastini   ajetivo
+en   Palestinian
+
+»  filastini   nom
+en   Palestinian
+
+filatelia   nom
+La studia e colie de selos postal
+en   philately
+
+»  filateliste   nom
+en   philatelist
+
+filepita   nom
+Un avia perxinte de Madagasicara, en familia de pita
+Philepitta
+en   asity (bird)
+
+filete   verbo transitiva
+Estrae la osos de (un peso de carne), tipal de prosima a la lombo o costela
+en   filet/fillet
+
+»  filete   nom
+en   filet/fillet, sirloin
+
+»  filete de bove   nom
+en   filet mignon, tenderloin
+
+filigrana   nom
+Un obra ornosa de filos metal (tipal de oro o arjento), formida como dentela o traseria; un marca pal en paper cual deveni vidable cuando on teni la paper ante lus
+en   filigree; watermark
+
+filipino   ajetivo
+Pertinente a la popla de la Pilipinas o sua lingua nasional derivada de tagalog
+en   Filipino
+
+»  filipino   nom
+en   Filipino
+
+filis   nom
+Un planta con folias plumin ma sin flores, cual reprodui par sporas
+Pteridophyta
+en   fern
+
+»  filis aletin   nom
+Pteridium
+en   bracken
+
+»  filisin   ajetivo
+en   fernlike
+
+filma   verbo transitiva
+Rejistra (un aveni) como fotos movente
+en   film
+
+»  filma   nom
+en   film, movie
+
+»  filma atestante   nom
+en   documentary
+
+»  filma composada   nom
+en   montage
+
+»  filma de novas   nom
+en   newsreel
+
+»  filma de teror   nom
+en   horror movie, slasher
+
+»  filma de viaja   nom
+en   travelog/travelogue
+
+»  filmeta   nom
+en   short film, short
+
+filmografia   nom
+Un lista de filmas par un ator o dirijor, o sur un tema spesifada
+en   filmography
+
+filo   nom
+Un estende longa e multe magra de lana, coton, nilon o simil, usada per cose o texe; un cosa simil usada per pexa; un cosa simil de metal; un linia de persones, tipal espetante
+en   thread, wire; line (fishing); queue, line, line-up, file
+
+»  filo de brode   nom
+en   embroidery thread, crewel
+
+»  filo de dentes   nom
+en   dental floss
+
+»  filo de lana   nom
+en   yarn
+
+»  filo de plomo   nom
+en   plumb line
+
+»  filo lamosa   nom
+en   razor wire
+
+»  filo metal   nom
+en   wire
+
+»  filo spinosa   nom
+en   barbed wire, barb wire
+
+»  fileta   nom
+en   filament (including of stamen); thread (screw, bolt, nut)
+
+»  filetador   nom
+en   threader
+
+»  filetador fema   nom
+en   die, spinner, pipe threader
+
+»  filetador mas   nom
+en   tap, pipe threader
+
+»  fili   verbo nontransitiva
+en   become threaded; line up, queue, form a queue, file
+
+»  fili   verbo transitiva
+nb   "Fili" sinifia e "aplica un filo a (alga cosa)" e "fa ce (alga cosa) deveni un filo".
+en   thread (needle, beads, etc.); wire (electronics); spin (thread)
+
+»  fili   nom
+en   wiring
+
+»  fili sua dentes   verbo
+en   floss
+
+»  filin   ajetivo
+en   wiry, threadlike
+
+»  refili   verbo transitiva
+en   rewire
+
+»  sin filo   ajetivo
+en   wireless, cordless
+
+filo   nom
+Un categoria tasonomial supra un clase e su un rena
+en   phylum
+
+»  sufilo   nom
+en   subphylum
+
+»  suprafilo   nom
+en   superphylum
+
+filo-   prefisa
+Ama de
+en   philo- (love)
+
+filojenese   nom
+La developa e diversi evolual de un spesie o grupo de organismes, o de un cualia spesifada de un organisme
+en   phylogenesis, phylogeny
+
+filojenetica   nom
+La ramo de biolojia cual studia filojenese
+en   phylogenetics, phylogeny
+
+»  filojenetical   ajetivo
+en   phylogenetic
+
+filolojia   nom
+La studia de la strutur e developa de parolas o linguas; la studia de un lingua en documentos scriveda
+en   philology
+
+»  filolojiste   nom
+en   philologist
+
+filosofia   nom
+La studia de la natur fundal de sabe, realia, esiste, moralia e belia; un sistem spesifada de esta studia; la studia de la fundas de un ramo de sabe o esperia; un teoria o disposa de un person o organiza, usada como un prinsipe gidante per condui
+en   philosophy, ideology
+
+»  filosofia de lege   nom
+en   jurisprudence
+
+»  filosofi   verbo transitiva
+en   philosophize/philosophise
+
+»  filosofial   ajetivo
+en   philosophical
+
+»  filosofiste   nom
+en   philosopher
+
+filozon   nom
+Un membro de un clado de organismes cual inclui animales e sua relatadas uniselulal la plu prosima, ma esclui fungos e mesomisetozones
+en   filozoon (pl. filozoa) (organism)
+
+filtro   nom
+Un aparato forosa per sutrae nonpures de un licuida o gas
+en   filter
+
+»  filtri   verbo transitiva
+en   filter, seep, percolate; filter out, screen out
+
+»  filtri   nom
+en   filtration
+
+»  filtrida   ajetivo
+en   filtered
+
+»  filtrida   nom
+en   filtrate
+
+»  nonfiltrida   ajetivo
+en   unfiltered
+
+finansia   verbo transitiva
+Suporta (un emprende) con mone
+en   finance, fund, defray
+
+»  finansia   nom
+en   finance
+
+»  finansia matematical   nom
+en   mathematical finance
+
+»  finansial   ajetivo
+en   financial, fiscal
+
+»  finansior   nom
+en   financier
+
+»  refinansia   verbo transitiva
+en   refinance
+
+fini   verbo nontransitiva
+Completi; para; no continua
+en   finish, conclude, end, stop, expire, terminate
+
+»  fini   verbo transitiva
+en   finish, conclude, end, stop, expire, terminate
+
+»  fini   nom
+en   finish, end, ending, conclusion, expiration; tip, extremity; terminus
+
+»  fini de linia   nom
+en   linefeed (character)
+
+»  fini de relata   nom
+en   breakup
+
+»  fini de semana   nom
+en   weekend
+
+»  fini la scola   nom
+en   finish school, leave school
+
+»  fini un negosia   verbo
+en   cut a deal
+
+»  a fini   averbo
+en   at last, finally, eventually
+
+»  a fini de   preposada
+en   at the end of
+
+»  es a fini de fa   verbo
+en   have just done
+
+»  final   ajetivo
+en   last, final, hindmost
+
+»  final   averbo
+en   finally, at last, in the end
+
+»  final   nom
+en   final, finale
+
+»  finaliste   nom
+en   finalist (competitor)
+
+»  fininte   ajetivo
+en   finishing, terminating, ending
+
+»  nonfininte   ajetivo
+en   unending, endless, interminable
+
+»  semifinal   nom
+en   semifinal, semi
+
+»  sin fini   ajetivo
+en   endless, unending
+
+»  sin fini   averbo
+en   endlessly
+
+finica   ajetivo
+Pertinente a la linguas uralica como suomi e esti
+en   Finnic
+
+finita   ajetivo
+Con limitas o bordas; no estendente sin fini
+en   finite, bounded
+
+finitiva   ajetivo
+(Un verbo) cual ave un sujeto (espresada o implicada) e pote funsiona como la verbo xef de un proposa major
+en   finite (grammar)
+
+»  nonfinitiva   ajetivo
+en   non-finite
+
+finje   verbo transitiva
+Ata o parla en un modo cual presenta (un cosa falsa) como vera; imita (un cualia o person)
+‹ el ia finje dormi; el ia finje ce el dormi; el ia finje un maladia; el ia finje sua padre ›
+en   pretend, act, fake, feign, bluff; pose as, impersonate; affect, assume, purport
+
+»  finje   nom
+en   pretense/pretence, bluff, impersonation, feint, sham, act
+
+»  finje superioria   espresa
+en   condescend, patronize/patronise, talk down to, look down on, look down one’s nose at, put on airs
+
+»  finje un maladia   verbo
+en   malinger, fake an illness
+
+»  finjente   ajetivo
+en   fake, phoney
+
+»  finjor   nom
+en   pretender, usurper, fake, faker, phoney, fraud, imposter, impostor, impersonator, poser, ringer
+
+»  finjor de maladia   nom
+en   malingerer, skiver
+
+»  finjosa   ajetivo
+en   pretentious, affected, effete
+
+»  nonfinjosa   ajetivo
+en   unpretentious, naive
+
+Finland   nom
+Un otra nom per Suomi
+→ Suomi
+en   Finland
+
+»  finsce   ajetivo
+→ suomi
+en   Finnish
+
+»  finsce   nom
+en   Finn
+
+finoio   nom
+Un planta bonodorosa de Europa con flores jala, en familia de persil
+Foeniculum
+en   fennel
+
+»  finoio de mar   nom
+Crithmum maritimum
+en   samphire
+
+fiordo   nom
+Un baieta magra, longa e profonda de la mar entre falesas alta, tipal formida par la sumerji de un vale glasial
+en   fjord, fiord
+
+fiorentin   ajetivo
+(Dialeto, cosini, etc) de la site Firenze en Italia
+en   Florentine
+
+firma   ajetivo
+Con strutur solida o secur; no movente o no deviante de un curso
+en   firm, still, steady, steadfast, stationary, immobile, non-motile
+
+»  sta firma   verbo
+en   stand to attention
+
+fisa   verbo transitiva
+Junta o clui secur; garda (datos) par copia los a un loca plu permanente
+en   attach, fasten, fix, clasp, latch, belay; stick, jam, lodge; save (data)
+
+»  fisa con regarda   verbo
+en   stare at, rubberneck
+
+»  desfisa   verbo transitiva
+en   unfasten, detach, unlatch, undo, dislodge, remove
+
+»  desfisa   nom
+en   detachment, removal
+
+»  desfisable   ajetivo
+en   detachable, removable
+
+»  desfisada   ajetivo
+en   detached
+
+»  deveni fisada   ajetivo
+en   get stuck
+
+»  fisable   ajetivo
+en   fastenable, fixable
+
+»  fisada   ajetivo
+en   fixed, firm, stuck; sedentary, sessile (zoology, anthropology)
+
+»  fisador   nom
+en   fastener, clasp, hasp, catch, latch
+
+»  fisante   ajetivo
+en   fixing, fixative
+
+»  fisante   nom
+en   fixative
+
+»  nonfisada   ajetivo
+en   unfixed, loose
+
+fisacable   nom
+Un banda de plastica, con dentes peti a un fini cual on fisa tra un buco a la otra per lia cosas, tipal cables eletrical
+en   cable tie, zip tie, zap strap
+
+fisalia   nom
+Un cnidario colonial flotante con tentaculos venenosa
+Physalia physalis
+en   Portuguese man-of-war (organism)
+
+fiscorno   nom
+Un strumento de venta cual sembla un trompeta ma sona como un trompon
+en   fiscorn (musical instrument)
+
+fisica   nom
+La siensa cual studia la natur e cualias de sustantia e enerjia; la cualias fisical de alga cosa
+en   physics
+
+»  fisica cuantal   nom
+en   quantum physics
+
+»  fisica matematical   nom
+en   mathematical physics
+
+»  fisical   ajetivo
+en   physical
+
+»  fisiciste   nom
+en   physicist
+
+fisiolojia   nom
+La ramo de biolojia cual studia la funsiona normal de organismes e sua partes; la modo en cual un organisme o sua partes funsiona
+en   physiology
+
+»  fisiolojial   ajetivo
+en   physiological
+
+»  fisiolojiste   nom
+en   physiologist
+
+fision   nom
+La ata de divide o fende alga cosa a du o plu partes; (en biolojia) reprodui par divide de selulas; (en fisica) la fende de un nucleo
+en   fission
+
+»  fisionable   ajetivo
+en   fissionable, fissile
+
+»  fisioni   verbo nontransitiva
+en   undergo fission
+
+fistula   nom
+Un pasaje nonormal o creada par sirurjia, entre la interna vacua de un organo e la surfas de la corpo, o entre du organos
+en   fistula (medical)
+
+fitocimica   nom
+La ramo de cimica cual studia plantas e sua produidas
+en   phytochemistry
+
+fix   nom
+Un carta o foto arcivida; un documento, program, colie de datos o simil, tenida en un computador su un nom identifiante; un peso de metal o plastica cual representa mone en juas de fortuna e transporta publica
+en   index card, file card, slip, fiche; file (software); token (counter representing money); chip (gambling)
+
+»  fix PDF   nom
+en   PDF file
+
+»  fixador   nom
+en   filer, file manager (software)
+
+flajelo   nom
+Un banda de cuoro o peso de corda juntada a un manico, usada per bate un person o animal; un filo simil usada par baterias e otra microbios per nada
+en   whip, flagellum
+
+»  autoflajelor   nom
+en   flagellant
+
+»  flajeli   verbo transitiva
+en   whip, beat, flagellate, flog
+
+»  flajeli   nom
+en   flagellation
+
+flama   nom
+Un masa calda e briliante de gas ensendeda cual es jenerada par un cosa ardente
+en   flame
+
+»  flamable   ajetivo
+en   flammable, inflammable
+
+»  flami   verbo nontransitiva
+en   flame, flame up
+
+»  flami   verbo transitiva
+en   inflame (feelings)
+
+»  flaminte   ajetivo
+en   flaming, on fire, aflame, afire; flambé; inflammatory (provocative)
+
+»  flamosa   ajetivo
+en   flaming
+
+»  nonflamable   ajetivo
+en   non-flammable
+
+»  retroflami   verbo nontransitiva
+en   backfire
+
+flamenco   nom
+Un stilo de musica de Espania, con gitar e canta, e la dansa stimulante cual acompania lo
+en   flamenco (dance, music)
+
+flamingo   nom
+Un avia vadante grande con plumas rosa o oscur roja, gamas e colo longa, e beco oncin
+Phoenicopterus
+en   flamingo
+
+Flandre   nom
+Un rejion de Europa norde-ueste, aora divideda entre Nederland, Beljia e Frans, en cual on parla o ia parla nederlandes
+en   Flanders
+fr   Flandre
+nl   Vlaanderen
+
+»  flames   ajetivo
+en   Flemish (person, language)
+fr   flamande
+nl   Vlaams
+
+»  flames   nom
+en   Fleming
+
+flanela   nom
+Un stofa texeda suave e feltrida, tipal de lana o coton
+en   flannel (material)
+
+flanje   nom
+Un borda plata cual protende de un ojeto per forti lo, junta lo, o (a un rota) manteni contata con un rel
+en   flange
+
+flasida   ajetivo
+(Un parte de corpo) mol e laxe pendente; (un planta) pendente o nonelastica par causa de seci
+en   flaccid, flabby, limp
+
+flatule   verbo transitiva
+Relasa (gas) de la ano
+en   break wind, fart
+
+»  flatule   nom
+en   flatulence, farting, wind
+
+»  flatulente   ajetivo
+en   flatulent
+
+flauta   nom
+Un strumento de venta composada de un tubo de lenio o metal, con bucos cual on tapi par ditos o teclas
+en   flute, pipe
+
+»  flauta de Pan   nom
+Un strumento de lenio cual sembla un serie de flautas peti, ordinada par longia e juada par sofla supra sua abris
+en   panpipe, panpipes, pan flute, syrinx
+
+»  flauta dulse   nom
+Un flauta de lenio sin claves, juada como un sibileta
+en   recorder
+
+»  flautiste   nom
+en   flautist, flutist, piper
+
+flax   ajetivo
+(Un aparato) funsionante en modo subita e rapida
+en   extremely quick, quick as a flash
+
+»  flax   nom
+Un apare corta de un lus briliante, como produida par lampo o un camera
+en   flash of light
+
+»  flaxador   nom
+en   flash (camera)
+
+»  flaxi   verbo nontransitiva
+en   flash
+
+»  flaxi   verbo transitiva
+en   flash
+
+flebite   nom
+Un inflama de la mures de un vena
+en   phlebitis (medical)
+
+»  flebitica   ajetivo
+en   phlebitic
+
+flebotomia   nom
+La abri sirurjial de un vena, per estrae sangue o introdui acua, medisin, nurintes o otra licuidas
+en   phlebotomy
+
+»  flebotomiste   nom
+en   phlebotomist
+
+flerovio   nom   «Fl»
+La elemento cimical con numero atomal 114
+en   flerovium (element)
+
+flexa   nom
+Un basto, agu a la fronte e con plumas o simil a la retro, xutada de un arco como un arma o per sporte
+en   arrow
+
+»  Flexa   nom
+Un constela en la sielo norde
+en   Sagitta (constellation)
+
+»  flexin   ajetivo
+en   arrowlike, arrow-shaped
+
+»  flexor   nom
+en   fletcher
+
+flexador   nom
+Un musculo de cual sua contrae curvi un membro o otra parte de la corpo
+en   flexor (muscle)
+
+flexe   verbo transitiva
+Curvi (un membro o junta); fa ce (un musculo) protende par contrae lo
+en   flex (limb, muscle)
+
+»  flexe   nom
+en   flection, flexion
+
+»  flexable   ajetivo
+Capas de curvi; fasil cambiable per responde a situas nova
+en   flexible, supple, bendy, limber, pliable, pliant; versatile, protean
+fr   souple
+
+»  flexablia   nom
+en   flexibility
+
+flirta   verbo nontransitiva
+Condui en modo intendeda per atrae sesal algun; finje un atrae per algun
+en   flirt
+
+»  flirta   nom
+en   flirtation
+
+»  flirta con   espresa
+en   flirt with, chat up
+
+»  flirtante   ajetivo
+en   flirtatious, flirty, saucy, fresh, coquettish
+
+»  flirtor   nom
+en   flirt, coquette
+
+floco   nom
+Un peso peti, plata e magra de un cosa, tipal rompeda de un otra; un peso de petra dur, usada como un util par umanas preistorial
+en   flake, floccule
+
+»  floco de mais   nom
+en   cornflake
+
+»  floco de neva   nom
+en   snowflake
+
+»  flocosa   ajetivo
+en   flaky
+
+floema   nom
+La texeda vascular en plantas cual transporta zucar e otra produidas a su de la folias
+en   phloem (botany)
+
+flor   nom
+La parte de un planta cual conteni la semes, tipal ensircada par petales e sepales colorosa
+en   flower, bloom, blossom
+
+»  flor de boton   nom
+en   boutonnière, buttonhole
+
+»  flor de pascua   nom
+en   poinsettia
+
+»  desflori   verbo transitiva
+en   deflower
+
+»  floreria   nom
+en   florist (shop)
+
+»  floreta   nom
+en   floret
+
+»  flori   verbo nontransitiva
+en   flower, flourish, bloom, blossom; prosper, thrive
+
+»  florin   ajetivo
+en   flowerlike
+
+»  florin   nom
+en   florin, guilder
+
+»  floriste   nom
+en   florist
+
+»  florosa   ajetivo
+en   flowery, floral (design)
+
+Flores   nom
+Un isola en Indonesia
+en   Flores (island)
+
+»  Mar Flores   nom
+Un mar a norde de Flores
+en   Flores Sea
+
+Florida   nom
+Un stato en la SUA sude-este, con un penisola cual estende en la Mar Atlantica e la Golfo Mexico
+en   Florida (US state)
+
+»  Streta Florida   nom
+Un streta entre Florida e Cuba
+en   Florida Strait
+
+flota   verbo nontransitiva
+Reposa o move sur un licuida sin afonda; es libre suspendeda en un licuida o gas
+en   float
+
+»  flota   nom
+Un ata de flota; un ojeto vacua o inflada per aida flota; un boia peti usada per pexores; un strutur su un avion de mar cual permete ce lo enaira de sur acua
+en   flotation, floatation; float
+
+»  flota en aira   verbo nontransitiva
+en   hover, levitate
+
+»  fenetra flotante   nom
+en   popup window
+
+»  flotante   ajetivo
+en   floating, buoyant, afloat
+
+»  flotante   nom
+en   flotsam
+
+flotila   nom
+Un grupo de barcones o otra veculos cual viaja o es poseseda en junta
+en   fleet (ships or other vehicles)
+
+flox   nom
+Un planta peti de America Norde cual ave tipal grupos densa de flores bonodorosa e colorosa
+Phlox
+en   phlox (plant)
+
+flue   verbo nontransitiva
+(Un licuida, gas o eletrica) move continuante en un corente; (datos, tipal audio o video) es continuante transmeteda en la interede
+en   flow, stream, course
+
+»  flue   verbo transitiva
+en   flow, stream; feed (into a machine)
+
+»  flue   nom
+en   flow; flux; stream (data), feed (news, software)
+
+»  flue de aira   nom
+en   airflow
+
+»  flue de fango   nom
+en   mudslide
+
+»  autoflue   verbo nontransitiva
+en   word-wrap
+
+»  autoflue   verbo transitiva
+en   word-wrap
+
+»  autoflue   nom
+en   word wrap
+
+»  con la flue   averbo
+en   downstream, downriver
+
+»  contra la flue   averbo
+en   upstream, upriver
+
+»  fluente   ajetivo
+en   flowing, fluent, fluid
+
+»  fluente   nom
+en   fluid
+
+»  flueta   verbo nontransitiva
+en   dribble, trickle
+
+»  flueta   verbo transitiva
+en   dribble, trickle
+
+»  flueta   nom
+en   dribble, trickle
+
+»  flueta de aira   nom
+en   draft/draught
+
+»  nonfluente   ajetivo
+en   non-fluent, faltering, broken, halting (speech)
+
+»  reflue   nom
+en   reflux (chemistry)
+
+»  supraflue   verbo nontransitiva
+en   overflow
+
+»  supraflue   nom
+en   overflow, run-off
+
+»  suprafluente   ajetivo
+en   superfluous, excessive
+
+fluor   nom   «F»
+La elemento cimical con numero atomal 9, un gas pal jala e venenosa cual scalda la pel si on toca lo
+en   fluorine
+
+»  fluori   verbo transitiva
+en   fluorinate
+
+fluorese   verbo nontransitiva
+(Un materia) brilia par radia emeteda cuando lo es colpada par raios X o lus ultravioleta
+en   fluoresce
+
+»  fluorese   nom
+en   fluorescence
+
+»  fluoresente   ajetivo
+en   fluorescent
+
+fluorido   nom
+Un composada de fluor con un otra elemento o grupos
+en   fluoride
+
+»  fluorido de sodio   nom
+en   sodium fluoride; fluoride (in water or toothpaste)
+
+fluorita   nom
+Un mineral composada de fluorido de calsio
+en   fluorite
+
+fluorocarbono   nom
+Un composada formida par sustitui atomes de fluor per un o plu de la atomes de idrojen en un idrocarbono
+en   fluorocarbon
+
+fluoroscopio   nom
+Un strumento con scermo fluoresente per regarda imajes de raio X
+en   fluoroscope
+
+flutua   verbo nontransitiva
+(Un cuantia) leva e cade nonperiodal
+en   fluctuate
+
+»  flutuante   ajetivo
+en   fluctuating, remittent
+
+»  nonflutuante   ajetivo
+en   unremittent
+
+fo   nom
+Un sopa de bulion de bove, spises e talietas con talias magra de bove o gal, orijinante en Vietnam
+en   pho (soup)
+
+fobia   nom
+Un teme estrema o nonrazonada de alga cosa
+en   phobia
+
+»  -fobia   sufisa, nom
+Teme
+en   -phobia (fear)
+
+»  fobica   ajetivo
+en   phobic
+
+»  -fobica   sufisa, ajetivo
+en   -phobic
+
+»  -fobica   sufisa, nom
+en   -phobe
+
+foca   verbo nontransitiva
+Deveni consentrada como un raio agu de lus o enerjia; deveni capas de vide clar; (un person) atende forte con sua mente
+en   focus (light, energy, attention)
+
+»  foca   verbo transitiva
+en   focus (light, energy, attention)
+
+»  foca   nom
+en   focus; centerpiece/centrepiece
+
+»  focada   ajetivo
+en   focused, in focus
+
+»  focal   ajetivo
+en   focal
+
+»  nonfocada   ajetivo
+en   unfocused, out of focus
+
+foca   nom
+Un mamal con corpo idrodinamical ci come pexes e reveni a tera per reposa o reprodui
+Phocidae, Otariidae
+en   seal (animal)
+
+focatxia   nom
+Un pan italian, preparada con fermento e olio de oliva e saborida con erbas
+en   focaccia (bread)
+
+foco   nom
+Un arde o combusta, en cual materias combina cimical con osijen de la aira e emete tipal lus, caldia e fuma; un emosia forte e apena controlable
+en   fire; passion
+
+»  foco de festa   nom
+en   bonfire (celebratory)
+
+»  foco de jardin   nom
+en   bonfire (of rubbish)
+
+»  foco fol   nom
+en   will-o’-the-wisp, ignis fatuus
+
+»  focador   nom
+en   lighter; torch
+
+»  focon   nom
+Un foco grande cual destrui multe tera o propria
+en   blaze, conflagration
+
+»  focon savaje   nom
+en   wildfire, grass fire, forest fire
+
+»  focos artal   nom, plural
+en   fireworks
+
+»  focosa   ajetivo
+en   fiery, passionate, sensual
+
+fode   verbo transitiva
+(Nonformal) copula con (algun)
+en   (colloquial) fuck, screw, shag, bonk, lay (have sex with)
+
+»  fodeda   ajetivo
+en   fucking (colloquial intensifier)
+
+fol   ajetivo
+Sin bon judi, nonsaja; asurda
+en   foolish, silly, crazy, idiotic, daft, dotty, fatuous, inane, madcap
+
+»  fol   nom
+en   fool, dupe, imbecile, idiot, loony, moron, nincompoop, numpty, airhead, bimbo, chump, twit, goon
+
+»  folia   nom
+en   silliness, foolishness, madness, folly
+
+fola   nom
+Un cuantia grande de persones colieda, tipal en modo nonorganizada
+en   crowd, throng, concourse
+
+»  foleta   nom
+en   scrum
+
+»  foli   verbo transitiva
+en   crowd, pack, clutter, huddle
+
+»  folida   ajetivo
+en   crowded, packed, cluttered
+
+»  suprafoli   verbo transitiva
+en   overcrowd
+
+»  suprafolida   ajetivo
+en   overcrowded
+
+folclor   nom
+La credes, costumes e naras tradisional de un comunia, pasada de un jenera a la seguente; un colie de credes popular de un loca, popla o ocupa
+en   folklore, lore
+
+folia   nom
+Un parte plata de un planta, tipal verde, juntada a un talo o tronceta, e capas de fotosintese; un peso de paper o otra materia multe magra
+en   leaf, blade (grass), frond; leaf, sheet (paper)
+
+»  folia avisante   nom
+en   handbill, flyer
+
+»  folia cascadente de stilo   nom
+en   cascading stylesheet
+ru   CSS, каскадные таблицы стилей (термин в веб-программировании; язык описания внешнего вида документа, написанного с использованием языка разметки)
+
+»  folia de stilo   nom
+en   stylesheet
+ru   Файл стилей (Файл, содержащий указания на то, как следует отображать данные, переданные сервером браузеру)
+
+»  desfoli   verbo transitiva
+en   exfoliate, defoliate, shed skin
+
+»  desfoli   nom
+en   exfoliation, shedding of skin
+
+»  desfolinte   nom
+en   exfoliant, defoliant
+
+»  folias   nom, plural
+en   leaves, foliage
+
+»  folieta   nom
+en   leaflet, handout
+
+»  folin   ajetivo
+en   leaflike
+
+»  folin   nom
+en   phyllo, filo (pastry)
+
+»  foliosa   ajetivo
+en   leafy
+
+foliculo   nom
+Un saco, caveta o glande peti, spesial lo cual ensirca la radis de un capel
+en   follicle
+
+folio   nom
+Un libro de paper per desinia; un colie de documentos sur un person, aveni o sujeto spesifada; un libro fabricada de paper pliada o de pajes grande
+en   sketchbook, dossier, binder; folio (book size)
+
+»  folio de calcula   nom
+en   spreadsheet
+
+fonda   nom
+Un arma simple, fabricada de un banda o anelo de cuoro o stofa, usada per lansa petras o otra misiles peti
+en   sling, catapult (weapon)
+
+»  fondeta   nom
+en   slingshot
+
+fonde   verbo nontransitiva
+Deveni licuida par caldi
+en   melt, smelt
+
+»  fonde nucleal   nom
+en   nuclear meltdown
+
+»  fondable   ajetivo
+en   meltable, fusible
+
+»  fondable   nom
+en   fuse (electric)
+
+»  fondador   nom
+en   smelter
+
+»  fondeda   ajetivo
+en   molten
+
+»  fonderia   nom
+en   foundry
+
+fondo   nom
+La surfas la plu basa de un cosa; la parte de un sena o imaje cual es tipal plu distante de la regardor e cual formi un ambiente per la atores o ojetos xef; la situa esistente cuando alga cosa aveni
+en   bottom, underside, floor (of sea); background, backdrop
+
+»  en la fondo   ajetivo
+en   background, backdrop, in the background, as the backdrop
+
+»  fondo de flores   nom
+en   flowerbed
+
+»  fondo de mar   nom
+en   seabed, sea floor, ocean bottom, ocean floor
+
+»  fondo de pede   nom
+en   sole
+
+»  fondo de rio   nom
+en   river bottom, river bed
+
+»  fondo de semes   nom
+en   seedbed
+
+»  fondal   ajetivo
+en   background, backing
+
+fondu   nom
+Un plato composada de pesos peti de pan o otra comedas cual es sumerjida en salsa, olio, bulion o xocolada calda
+en   fondue
+
+fonem   nom
+Cada de la unias de sona persepal distinguable en un lingua spesifada
+en   phoneme
+
+»  fonemal   ajetivo
+en   phonemic
+
+fonetica   nom
+La studia e clasi de sonas de parla
+en   phonetics
+
+»  fonetica oreal   nom
+en   auditory phonetics
+
+»  fonetical   ajetivo
+en   phonetic
+
+fono-   prefisa
+Sona
+en   phono-
+
+fonograf   nom
+Un macina cual permete oia la sonas rejistrada sur un disco de plastica
+en   phonograph, gramophone, record player
+
+fonolojia   nom
+La ramo de linguistica cual studia la sistemes de sona de un lingua o linguas jeneral
+en   phonology
+
+»  fonolojial   ajetivo
+en   phonological
+
+fonotatica   nom
+La studia de la regulas de ordina fonemes en un lingua
+en   phonotactics
+
+fontanel   nom
+La spasio entre la osos de la cranio de un feto o bebe, do la osi e sutures no es completida
+en   fontanelle (anatomy)
+
+fonte   nom
+Un loca do acua o olio emerji de su la tera; un strutur ornal de cual jetas de acua es pompida en la aira; la orijina de alga cosa
+en   fountain, fount, fountainhead, spring, well, source
+
+»  fonte de inca   nom
+en   inkwell
+
+»  fonte de potia   nom
+en   power source, power supply
+
+»  fonte de revenu   nom
+en   source of income, moneymaker, earner
+
+»  fonte de rio   nom
+en   headwater
+
+»  fonti   verbo nontransitiva
+en   spring, well, originate
+
+»  fontosa   ajetivo
+en   original (work, idea)
+
+fontina   nom
+Un ceso italian e pal jala
+en   fontina (cheese)
+
+fora   verbo transitiva
+Crea un buco en o tra (alga cosa), usante un aparato jirante
+en   drill, bore
+
+»  fora   nom
+Un ata de fora; un buco forada tra un cosa
+en   hole
+
+»  forador   nom
+en   drill (tool)
+
+»  forador arcin   nom
+en   bow drill
+
+»  forador colonin   nom
+en   drill press
+
+»  forador de mano   nom
+en   hand drill
+
+»  forador engranada   nom
+en   breast drill, eggbeater drill
+
+»  forador percusente   nom
+en   hammer drill
+
+»  forador puiable   nom
+en   push drill
+
+»  forosa   ajetivo
+en   porous
+
+»  punto de forador   nom
+en   drill bit
+
+foraje   verbo transitiva
+Xerca (comedas o furnis) en un area
+en   forage, scavenge, rummage
+
+»  forajor   nom
+en   scavenger
+
+forame   nom
+Un abri, boca o pasaje, tipal en un oso
+en   foramen (anatomy)
+
+force   nom
+Un util con du o plu dentes agu, usada per leva comedas a la boca o per teni los pos talia los; un util simil, usada per escava o leva cosas en un jardin o cultiveria; un punto do un curso divide a du partes
+en   fork
+
+»  force de ajusta   nom
+en   tuning fork
+
+»  force de ferovia   nom
+en   points, switch
+
+»  forci   verbo nontransitiva
+en   fork, bifurcate
+
+»  forci   verbo transitiva
+en   fork, bifurcate
+
+»  forci   nom
+en   fork, bifurcation, crotch
+
+»  forcin   ajetivo
+en   forklike, fork-shaped, forked
+
+»  forcon   nom
+en   pitchfork
+
+»  forcor   nom
+en   forker
+
+»  forcor de ferovia   nom
+en   pointsman, switchman
+
+fore   verbo transitiva
+Covre la surfas interna de (un veste o contenador) con un strato de materia diferente
+en   line
+
+»  fore   nom
+en   (internal) lining
+
+forense   ajetivo
+Pertinente a la usa de siensa en investiga un crimin; pertinente a cortes legal
+en   forensic
+
+»  forensia   nom
+en   forensics
+
+foresta   nom
+Un area grande, xef covreda con arbores e subosce
+en   forest, large wood
+
+»  foresta orijinal   nom
+en   virgin forest
+
+»  foresta pluvosa   nom
+en   rainforest
+
+»  cultiva de foresta   nom
+en   forestry
+
+»  desforesti   verbo transitiva
+en   deforest
+
+»  desforesti   nom
+en   deforestation, forest clearance
+
+»  foresti   verbo transitiva
+en   forest
+
+»  forestor   nom
+en   forester
+
+»  forestosa   ajetivo
+en   forested, wooded
+
+»  reforesti   verbo transitiva
+en   reforest
+
+forja   verbo transitiva
+Fabrica o formi (un ojeto metal) par caldi lo en un foco o forno e bate o marteli lo
+en   forge (metal)
+
+»  forjeria   nom
+en   forge, smithy
+
+»  forjor   nom
+en   smith, blacksmith
+
+forma   nom
+La aspeta de la contorno de un cosa en du o tre dimensiones; la posa de la partes de un cosa; la fortia e sania de la corpo de un person; la regulas de condui en sosia cortes
+en   form, shape, format, formation
+
+»  -forma   sufisa, ajetivo
+Con forma de
+en   -form
+
+»  forma completa   nom
+en   full form, expansion (of abbreviation)
+
+»  forma de corpo   nom
+en   body shape, physique
+
+»  forma de onda   nom
+en   waveform
+
+»  bon forma   nom
+en   well-formedness; fitness (physical)
+
+»  bonformida   ajetivo
+en   well-formed
+
+»  con forma de   preposada
+en   with the shape of, shaped like
+
+»  de forma duple   ajetivo
+en   dual-format
+
+»  desformi   verbo nontransitiva
+en   deform, buckle
+
+»  desformi   verbo transitiva
+en   deform, buckle
+
+»  desformi   nom
+en   deformation, deformity
+
+»  en bon forma   ajetivo
+en   in good shape, fit (physically)
+
+»  en forma de   preposada
+en   in the form of, taking the form of
+
+»  formable   ajetivo
+en   formable, ductile
+
+»  formi   verbo nontransitiva
+en   form, shape
+
+»  formi   verbo transitiva
+en   form, shape
+
+»  formi   nom
+en   forming, formation
+
+»  forminte   ajetivo
+en   forming, formative
+
+»  formosa   ajetivo
+en   full-figured, buxom, curvaceous, voluptuous, rubenesque, zaftig
+
+»  malformi   verbo nontransitiva
+en   deform, disfigure
+
+»  malformi   verbo transitiva
+en   deform, disfigure
+
+»  malformi   nom
+en   deformation, malformation
+
+»  malformida   ajetivo
+en   deformed, malformed, misshapen, grotesque
+
+»  sin forma   ajetivo
+en   without form, formless, amorphous
+
+formal   ajetivo
+Fada seguente la regulas de tradision o cortesia
+en   formal, by the book, pro forma; solemn, prim; smart, dressy
+
+»  formalia   nom
+en   formality
+
+»  nonformal   ajetivo
+en   informal
+
+»  nonformalia   nom
+en   informality
+
+formaldehido   nom
+Un gas malodorosa sin color en un disolve, produida par osidi metanol
+en   formaldehyde
+
+formalin   nom
+Un solve de formaldehido en acua, usada como un conservante per esemplos biolojial
+en   formalin (substance)
+
+formato   nom
+La forma o strutur de un libro, filma, fix o simil
+en   format
+
+»  formati   verbo transitiva
+en   format
+
+»  reformati   verbo transitiva
+en   reformat
+
+formica   nom
+Un inseto peti, comun con picador, cual abita tipal en colonias sosial con un o plu reas reproduinte
+Formicidae
+en   ant
+
+»  formicosa   ajetivo
+en   tingling, tingly, prickly, feeling pins and needles
+
+formica   nom
+Un lamina de plastica dur, usada per surfases de portes, tables de cosina, etc
+en   formica (plastic)
+
+formicaleon   nom
+Un inseto cual sembla un libela, de cual la larvas construi cavetas cono per trapi formicas e otra predas
+Myrmeleontidae
+en   antlion (insect)
+
+formicor   nom
+Un mamal ci come formicas e termites, con beco longa e lingua aderosa; un avia insetivor con gamas longa e coda corta, trovada en la forestas tropical de America Sude
+Vermilingua ; Thamnophilidae
+en   anteater; antbird
+
+formula   verbo transitiva
+Crea (un proposa o stratejia) en modo metodosa; espresa (un idea) en modo sistemosa e esata
+en   formulate
+
+»  formula   nom
+Un ata de formula; un relata matematical espresada en simboles; un metodo esata per ateni alga cosa; (en gramatica) un serie corta de parolas cual formi un unia consetal e es tipal un parte de un proposa
+en   formula, formulation; phrase (grammar)
+
+»  formula ajetivin   nom
+Un formula de cual sua nucleo es un ajetivo
+en   adjective phrase
+
+»  formula de loda   nom
+en   doxology
+
+»  formula de preposada   nom
+Un formula nomin cual es introduida par un preposada
+en   preposition phrase
+
+»  formula nomin   nom
+Un formula de cual sua nucleo es un nom
+en   noun phrase
+
+»  formula verbin   nom
+Un formula de cual sua nucleo es un verbo
+en   verb phrase
+
+»  formulin   ajetivo
+en   formulaic
+
+»  reformula   verbo transitiva
+en   reformulate
+
+formulario   nom
+Un serie de demandas, tipal primida e con respondes elejable, per colie informa
+en   form (to fill), questionnaire
+
+forno   nom
+Un comparte encluida per coce o caldi comedas o seramicas
+en   oven
+
+»  Forno   nom
+Un constela en la sielo sude
+en   Fornax (constellation)
+
+»  forni   verbo transitiva
+en   bake, cook (in oven)
+
+»  forni   nom
+en   baking
+
+»  fornida   ajetivo
+en   baked
+
+»  fornida   nom
+en   bake, baked food
+
+»  forno de microonda   nom
+en   microwave oven
+
+»  fornon   nom
+en   furnace, kiln
+
+»  fornor   nom
+Un person ci forni pan; un avia peti de la tropicos de America, de cual alga membros construi nidos de fango cual sembla fornos
+Furnariidae
+en   baker; ovenbird, woodcreeper
+
+foro   nom
+Un loca, tipal en la interede, do on pote intercambia ideas e opinas sur un tema spesifada; (en sites roman antica) un plaza publica per comersia e debate
+en   forum
+
+foromanica   ajetivo
+(Un person) ci posta comentas frecuente a un foro spesifada
+en   forumite
+
+»  foromanica   nom
+en   forumite, regular commenter
+
+foronido   nom
+Un membro de un filo de animales de mar cual usa un lofofora per filtri sua comedas, e construi tubos vertical de citina per suporta e proteje
+Phoronida
+en   phoronid (organism)
+
+forsa   verbo transitiva
+Fa ce (algun) fa alga cosa contra sua vole; fa ce (un regula, imposta, multa, etc) es obedida o paiada
+en   force (strongly or physically), enforce, coerce, necessitate, compel; impose (something), inflict, levy, wreak
+
+»  forsa   nom
+en   coercion
+
+»  forsa a via   verbo
+en   drive away, force back, repel, ward off
+
+»  forsa se   verbo
+en   exert oneself
+
+»  forsada   ajetivo
+en   forced, compulsory
+
+forsitia   nom
+Un arboreta eurasian, de cual sua flores briliante jala apare en primavera, ante la folias
+Forsythia
+en   forsythia (plant)
+
+forte   ajetivo
+Con la potia nesesada per move cosas pesosa o fa otra taxes difisil; capas de fa un ata spesifada en modo bon e potiosa; capas de resiste; difisil per para o restrinje; multe intensa; produinte multe ruido
+en   strong, robust, sturdy, burly, formidable; loud, vehement, forte, stentorian, booming, vociferous, punchy
+
+»  forte   averbo
+en   strongly, robustly; loudly, vehemently
+
+»  forte   nom
+en   force (including in physics)
+
+»  forte de aira   nom
+en   air force (military)
+
+»  forte nonresistable   nom
+en   overwhelming force, juggernaut
+
+»  fortador   nom
+en   amplifier
+
+»  fortes militar   nom, plural
+en   armed forces
+
+»  forti   verbo nontransitiva
+en   strengthen, fortify, reinforce, potentiate; consolidate
+
+»  forti   verbo transitiva
+en   strengthen, fortify, reinforce, potentiate; consolidate
+
+»  forti   nom
+en   strengthening, consolidation
+
+»  fortia   nom
+en   strength, force, effort, exertion, fortitude, brawn
+
+»  fortia de vive   nom
+en   life force, life energy, vital force, élan vital
+
+»  fortiosa   ajetivo
+en   forceful, forcible
+
+»  multe forte   ajetivo
+en   very strong; very loud, fortissimo
+
+»  nonforte   ajetivo
+en   insubstantial
+
+»  prefortador   nom
+en   preamplifier, preamp
+
+fortres   nom
+Un construida o vila forte e bon protejeda, tipal con intendes militar
+en   fortress, blockhouse, fort, fortification, stronghold, keep
+
+»  fortres de site   nom
+en   citadel
+
+fortuna   nom
+La acasia, o bon o mal, regardada como un potia esterna cual afeta la condui de umanas
+en   fortune, chance, fate, destiny, lot, luck
+
+»  bon fortuna   nom
+en   good luck
+
+»  bon fortuna nonespetada   nom
+en   windfall
+
+»  fortunosa   ajetivo
+en   lucky, fortunate, auspicious, fortuitous
+
+»  fortunosa   averbo
+en   fortunately
+
+»  mal fortuna   nom
+en   bad luck, misfortune, mishap, unfortunate occurrence, accident, adversity, woe
+
+»  nonfortunosa   ajetivo
+en   unlucky, unfortunate, inauspicious, hapless, lamentable, poor, underprivileged
+
+»  nonfortunosa   nom
+en   underdog
+
+fosena   nom
+Un balena peti e multe intelijente, con dentes, un beco nonagu e ronda, e un pina dorsal triangulo
+Phocoenidae
+en   porpoise
+
+fosfato   nom
+Un sal o ester de asida de fosfor
+en   phosphate (chemistry)
+
+fosfolipido   ajetivo
+Parteninte a la clase de lipidos de cual sua molecula conteni un grupo de fosfato
+en   phospholipid (chemistry)
+
+fosfor   nom   «P (phosphorus)»
+La elemento cimical con numero atomal 15, un nonmetal combustable e venenosa; un basteta de lenio o carton cual fini con un composada cual ensende cuando on frica lo contra un surfas ru, usada per inisia un foco
+en   phosphorus (element); match, matchstick
+
+fosforese   verbo nontransitiva
+Emete lus o radia sin combusta o caldia persepable
+en   phosphoresce
+
+»  fosforesente   ajetivo
+en   phosphorescent
+
+fosil   nom
+La restas o impresa de un organisme preistorial, petrida o moldida en petra
+en   fossil
+
+»  fosili   verbo nontransitiva
+en   fossilize/fossilise
+
+»  fosili   verbo transitiva
+en   fossilize/fossilise
+
+»  fosili   nom
+en   fossilization/fossilisation
+
+foso   nom
+Un canal magra escavada en la tera, tipal longo un via o a la borda de un campo e usada per drena; un canal simil sirca un castel; un escavada magra usada per proteje soldatos en un gera; un depresa en un oso
+en   ditch, trench, moat; fossa (anatomy)
+
+»  foseta   nom
+en   rut, wheel track
+
+»  foson   nom
+en   gully, ravine, arroyo
+
+fostrot   nom
+Un dansa de balo simil a un valsa, ma con tempo 4/4; un peso de musica scriveda per esta dansa
+en   foxtrot (dance, music)
+
+foto   nom
+Un imaje creada par usa un camera
+en   photo, photograph, shot, snapshot, still
+
+»  foto airal   nom
+en   aerial photograph
+
+»  foto distante   nom
+en   long shot
+
+»  foto personal   nom
+en   portrait
+
+»  foto pos aresta   nom
+en   mugshot
+
+»  foto prosima   nom
+en   closeup
+
+»  fa un foto   nom
+en   take a photo
+
+foto-   prefisa
+Lus o fotografia
+en   photo- (light, photography)
+
+fotocimical   ajetivo
+Pertinente a o causada par la ativia cimical de lus
+en   photochemical
+
+fotocopia   verbo transitiva
+Fa un copia de (un documento fisical), usante la efeto de lus sur un surfas spesial preparada
+en   photocopy, xerox
+
+»  fotocopia   nom
+en   photocopy
+
+fotografia   nom
+La arte e siensa de usa cameras e crea fotos
+en   photography
+
+»  fotografia a intervales   nom
+en   timelapse photography
+
+»  fotografia prosima   nom
+en   closeup photography, macro photography
+
+»  fotografi   verbo transitiva
+en   photograph
+
+»  fotografial   ajetivo
+en   photographic
+
+»  fotografiste   nom
+en   photographer
+
+fotograva   nom
+Un imaje produida par grava un foto a un placa metal
+en   photogravure, heliogravure
+
+fotojen   ajetivo
+(Un person, etc) aspeta atraente o bela en fotos o filma; (en biolojia) (un organisme o texeda) produinte o emetente lus
+en   photogenic
+
+fotojornalisme   nom
+La arte o pratica de comunica novas par fotos, spesial en jornales
+en   photojournalism
+
+»  fotojornaliste   ajetivo
+en   photojournalistic
+
+»  fotojornaliste   nom
+en   photojournalist
+
+fotomanica   ajetivo
+Zelosa sur fotografia
+en   enthusiastic about photography
+
+»  fotomanica   nom
+en   shutterbug, photography enthusiast
+
+foton   nom
+Un particula representante un cuanto de lus o otra radia eletromagnetal
+en   photon
+
+fotonica   nom
+en   Photonics
+
+fotorealisme   nom
+La arte de crea desinias o depintas tan detaliosa e realin como fotos, tipal de vive comun
+en   photorealism
+
+»  fotorealiste   ajetivo
+en   photorealistic
+
+»  fotorealiste   nom
+en   photorealist
+
+fotoresetador   nom
+Un selula o organo cual responde a lus
+en   photoreceptor
+
+fotoselula   nom
+Un aparato cual jenera eletrica cuando lo reseta lus
+en   photocell, photoelectric cell
+
+fotosensante   ajetivo
+Respondente a lus en modo cimical o eletrical
+en   photosensitive
+
+fotosintese   verbo transitiva
+La prosede par cual plantas verde e alga otra organismes usa lus per sintese nurintes de diosido de carbono e acua, con osijen como un suproduida
+en   photosynthesize
+
+»  fotosintese   nom
+en   photosynthesis
+
+fototrof   ajetivo
+(Un organisme) usante enerjia de lus per sintese composadas organica per nuri se
+en   phototrophic (biology)
+
+»  fototrof   nom
+en   phototroph
+
+»  fototrofia   nom
+en   phototrophia
+
+fototropo   ajetivo
+(Un planta) turnante en responde a lus
+en   phototropic (botany)
+
+»  fototropia   nom
+en   phototropism
+
+fotovoltaica   ajetivo
+Pertinente a la produi de corentes eletrical a la junta de du sustantias esposada a lus
+en   photovoltaic
+
+»  efeto fotovoltaica   nom
+en   photovoltaic effect
+
+»  enerjia solal fotovoltaica   nom
+en   photovoltaics
+
+»  selula fotovoltaica   nom
+en   photovoltaic cell
+
+fovea   nom
+Un depresa peti en la retina do la capasia de vide es la plu agu
+en   fovea (anatomy)
+
+Foxe   nom   (dise ‘focs’)
+en   Foxe
+
+»  Baia Foxe   nom
+Un baia a sude de la Isola Baffin
+en   Foxe Basin
+
+»  Streta Foxe   nom
+Un streta entre la Baia Foxe e la Baia Hudson
+en   Foxe Channel
+
+fractur   nom
+Un stilo deutx de leteras gotica
+en   fraktur (lettering)
+
+frajil   ajetivo
+Fasil per rompe, dana o destrui; no forte o durante
+en   fragile, frail, brittle, delicate, sensitive, flimsy, frangible, labile, easily damaged
+
+»  frajilia   nom
+en   fragility
+
+Fram, Streta   nom
+Un streta entre Calalitnunat e Svalbard, un parte de la Mar Atlantica
+en   Fram Strait
+
+frambosa   nom
+Un planta en familia de mora e rubo; la fruta mol e comable de esta, composada de un grupo de bacas peti e rojin ros
+Rubus
+en   raspberry
+
+franc   nom
+La unia de mone en Suiz, Lictenstain e multe paises african, e istorial en Frans
+en   franc (currency)
+
+franca   ajetivo
+Onesta e direta en parla o scrive; sinsera e no desemblante en condui o apare
+en   frank, direct, candid, outspoken, plainspoken, outright, explicit, vocal; straightforward
+
+»  francia   nom
+en   frankness, directness
+
+francamason   nom
+Un membro de un ordina internasional instituida per amia e aida mutua, cual inclui rituos secreta
+en   freemason, mason
+
+»  francamasonisme   nom
+en   freemasonry, masonry
+
+francisia   nom
+Un autoria donada par un governa o compania a un person o grupo per partisipa en un comersia spesifada
+en   franchise (commercial)
+
+franco   ajetivo
+Pertinente a la popla e lingua de un tribu germanica ci ia concista Galia en la sentenio 6
+en   Frankish
+
+»  franco   nom
+en   Frank
+
+franje   nom
+Un borda ornal de fibres laxe, torseda o composada de borlas; un stilo de capeles con un borda laxe pendente sur la fronte
+en   fringe (border); bangs, fringe (hairstyle)
+
+Frans   nom
+Un pais en Europa ueste con un costa a la Mar Atlantica e un otra a la Mar Mediteraneo
+(capital: Paris)
+en   France
+es   Francia
+
+»  franses   ajetivo
+en   French (person, language)
+es   francés
+
+»  franses   nom
+en   French (person, language)
+es   francés
+
+fransio   nom   «Fr»
+La elemento cimical con numero atomal 87
+en   francium (element)
+es   francio
+
+fransiscan   ajetivo
+Pertinente a un ordina de monces catolica, fundida en 1209 par San Fransisco de Assisi
+en   Franciscan
+es   franciscano
+
+»  fransiscan   nom
+en   Franciscan
+es   franciscano
+
+frase   nom
+Un colie de parolas, tipal con sujeto e predica, espresante un declara, demanda, esclama o comanda, composada de un proposa xef e cisa proposas suordinada; (en musica) un grupo de notas forminte un unia distinguida en un peso plu longa
+en   sentence; phrase (music)
+
+fraseolojia   nom
+Un modo de espresa, spesial si asosiada con un parlor o scrivor spesifada
+en   phraseology
+es   fraseología
+
+frate   nom
+Un umana mas en relata a otra enfantes de sua jenitores; un tipo de monce
+en   brother; friar
+
+»  frate par sposi   nom
+en   brother-in-law
+
+»  duifrate   nom
+en   half-brother
+
+»  estrafrate   nom
+en   stepbrother
+
+»  frateria   nom
+en   brotherhood, fraternity (organization/organisation)
+
+»  frates   nom, plural
+en   brothers, brethren
+
+»  frateta   nom
+en   younger brother
+
+»  fratia   nom
+en   brotherhood, brotherliness, fraternity (quality)
+
+»  fratin   ajetivo
+en   brotherly, fraternal
+
+»  fraton   nom
+en   older brother
+
+fratiside   verbo transitiva
+Mata (sua propre frate)
+en   commit fratricide
+
+»  fratiside   nom
+en   fratricide (action)
+
+»  fratisidor   nom
+en   fratricide (person)
+
+frato   nom
+Un parte peti, rompeda o separada de alga cosa; un estraeda de un testo; (en matematica) un cuantia cual no es un intero, como 1/2 o 3,142
+en   fraction; fragment, shard; snippet, clip, clipping
+
+»  frato agu   nom
+en   sharp fragment, shard
+
+»  frato seramica   nom
+en   potsherd
+
+»  desfrati   verbo nontransitiva
+(Un fix de computador) deveni min fratida par la recombina fisical de sua partes
+en   defragment
+
+»  desfrati   verbo transitiva
+en   defragment
+
+»  desfrati   nom
+en   defragmentation
+
+»  fratal   ajetivo
+en   fractional, fractal
+
+»  frati   verbo nontransitiva
+en   fracture, fragment, shatter, crack
+
+»  frati   verbo transitiva
+en   fracture, fragment, shatter, crack
+
+»  frati   nom
+en   fragmentation, fracture
+
+»  fratos   nom, plural
+en   fragments, shrapnel, smithereens
+
+frecuente   ajetivo
+Aveninte o fada a multe veses, en multe casos, o en serie rapida; (un person) fante alga cosa a multe veses o abitual; (cosas en un serie) situada con distantia corta entre lunlotra
+en   frequent, occurring often
+
+»  frecuente   averbo
+en   frequently, often, oftentimes
+
+»  frecuenti   verbo nontransitiva
+en   become frequent
+
+»  frecuenti   verbo transitiva
+en   make frequent
+
+»  frecuentia   nom
+en   frequency
+
+»  frecuentia de orolojo   nom
+en   clock speed, clock rate
+
+»  frecuentia estrema alta   nom
+en   UHF
+
+»  frecuentia multe alta   nom
+en   VHF
+
+»  nonfrecuente   ajetivo
+en   infrequent, occasional
+
+fregate   nom
+Un avia de mar tropical con plumas oscur, alas longa e magra, coda forcin, e beco longa e oncin
+Fregatidae, Fregata
+en   frigatebird
+
+fregate   nom
+Un barcon de gera de grado su la plu grande
+en   frigate, full-rigged ship
+fr   frégate
+
+freno   nom
+Un aparato per para o lenti un veculo movente; un aparato cual limita o preveni la libria de move
+en   brake, restraint (device)
+
+»  freno de mano   nom
+en   handbrake
+
+»  freni   verbo transitiva
+en   brake, restrain, hold back, immobilize/immobilise
+
+»  frenor   nom
+en   brakeman
+
+»  nonfrenida   ajetivo
+en   unrestrained, rampant
+
+frenolojia   nom
+La pratica pasada de determina cualias mental par studia la forma de la cranio
+en   phrenology
+
+»  frenolojiste   nom
+en   phrenologist
+
+freon   nom
+Un airosol composada de clorofluorocarbonos
+en   freon
+
+fresa   nom
+Un planta cultivada per sua frutas; la fruta mol, dulse e roja de esta, con surfas puntosa con semes
+Fragaria
+en   strawberry
+
+fresca   ajetivo
+Pur, limpa, clar, noncontaminada; (la aira) alga fria, donante un senti de enerjia; nova, corente, moderna
+en   fresh, cool; new, up to date
+
+»  frescador   nom
+en   air conditioner, air conditioning, air-con
+
+»  fresci   verbo nontransitiva
+en   freshen
+
+»  fresci   verbo transitiva
+en   freshen
+
+»  nonfresca   ajetivo
+en   stale
+
+»  refresci   verbo nontransitiva
+en   refresh, invigorate, reinvigorate, enliven, vivify; update
+
+»  refresci   verbo transitiva
+en   refresh, invigorate, reinvigorate, enliven, vivify; update
+
+»  refresci   nom
+en   refresh, refresher; update
+
+fresco   nom
+Un depinta rapida, creada con acuarela sur jeso moiada sur un mur o sofito; esta metodo de depinta, usada en la eda de la romanes antica e en Italia en la Renase
+en   fresco (art)
+
+fresia   nom
+Un planta peti de Africa sude en familia de iris, con flores tubo, bonodorosa e colorosa
+Freesia
+en   freesia (plant)
+
+fresno   nom
+Un arbor con cortex arjentin gris e folias composada
+Fraxinus
+en   ash (tree)
+
+freta   verbo nontransitiva
+Move o ata en modo rapida e ansiosa, tipal per no ariva o fini tarda
+en   hurry, hasten, rush, scurry, scamper
+
+»  freta   verbo transitiva
+en   hurry, rush, hustle
+
+»  freta   nom
+en   haste, rush, hustle
+
+»  fretada   ajetivo
+en   rushed, hurried
+
+»  fretante   ajetivo
+en   hurrying, hasty, cursory; impetuous, hot-headed, hare-brained
+
+»  fretor   nom
+en   hurrier, hothead
+
+»  fretosa   ajetivo
+en   impulsive, reckless, heedless, slapdash
+
+»  fretosia   nom
+en   impulsiveness, recklessness
+
+»  no freta   verbo
+en   take your time, do not rush, do not hurry
+
+freudisme   nom
+La metodos de psicoanalise creada par Sigmund Freud, un dotor osteraices
+en   Freudianism
+
+»  freudiste   ajetivo
+en   Freudian
+
+fria   ajetivo
+Con temperatur relativa basa, spesial en compara con la temperatur de la corpo umana
+en   cold, chilly, frigid, dank, inclement; frappé
+
+»  fria   nom
+en   cold
+
+»  fri   verbo nontransitiva
+en   cool, chill, refrigerate
+
+»  fri   verbo transitiva
+en   cool, chill, refrigerate
+
+»  fri   nom
+en   refrigeration
+
+»  fri par venta   nom
+en   windchill
+
+»  friador   nom
+en   refrigerator, fridge
+
+»  frida   ajetivo
+en   cooled, chilled, refrigerated
+
+»  frinte   nom
+en   coolant, refrigerant
+
+friacua   nom, composada (verbo+nom)
+Un furnador de acua frida per bevi
+en   water cooler
+
+frica   verbo transitiva
+Erode, caldi, irita o limpi par frota
+en   abrade, scour, cause friction, rub against
+
+»  frica   nom
+en   friction, abrasion; rubdown
+
+»  fricante   ajetivo
+en   fricative
+
+»  fricante   nom
+en   fricative (consonant)
+
+»  fricante ladal   nom
+en   lateral fricative
+
+»  fricosa   ajetivo
+en   abrasive
+
+fricase   nom
+Un plato de carne taliada en salsa blanca e densa
+en   fricassee (food)
+
+Frigia   nom
+Un rejion antica en Anatolia, cual ia ateni sua apico de potia en la sentenio 8 aec su Re Midas
+en   Phrygia
+eo   Frigio
+es   Frigia
+
+»  frigian   ajetivo
+en   Phrygian
+
+fringilo   nom
+Un pinson eurasian, tipal con alas e coda oscur e xapeta bluin
+Fringilla
+en   chaffinch (bird)
+
+frisbi   nom
+Un disco concava de plastica, flotada tra la aira como un diverti o sporte
+en   frisbee
+
+Frisland   nom
+Un provinse en Nederland norde
+en   Frisia, Friesland
+es   Frisia
+
+»  frisce   ajetivo
+en   Frisian
+
+»  frisce   nom
+en   Frisian (person, language)
+
+friso   nom
+Un faxa larga, tipal decorada, sur un mur e prosima a la sofito; la parte sentral de un entablamento
+en   frieze
+
+frita   verbo transitiva
+Coce (comedas) en gras o olio calda
+en   fry
+
+»  frita en uoc   verbo transitiva
+en   stir-fry
+
+»  fritada   ajetivo
+en   fried
+
+»  fritadas   nom, plural
+en   chips (UK), fries, French fries
+
+»  fritador   nom
+en   fryer
+
+»  fritin   ajetivo
+en   crackly (recording)
+
+»  refrita   verbo transitiva
+en   refry
+
+froda   verbo transitiva
+Usa enganas per priva (algun) de mone o posesedas
+en   defraud, cheat, embezzle, misappropriate, swindle, finagle, grift, gyp, hoodwink
+
+»  froda   nom
+en   fraud, con, trick, rip-off, scam, bunco, bunko, flimflam; corruption, embezzlement, misappropriation
+
+»  frodante   ajetivo
+en   fraudulent, corrupt, sleazy
+
+»  frodor   nom
+en   fraud, fraudster, cheater, swindler, phoney, con man, con artist, grifter, huckster, hustler, mountebank
+
+fronsi   verbo transitiva
+Fisa la plias de (un stofa o veste) par cose; (un person) plieta sua fronte per espresa desaproba o confonde
+en   gather (fabric)
+
+»  fronsi   nom
+en   gather (fabric)
+
+»  fronsi sua suprasiles   verbo
+en   frown, scowl
+
+»  fronsida   ajetivo
+en   gathered
+
+»  fronsida   nom
+en   frill, ruche, ruffle, furbelow
+
+»  fronsosa   ajetivo
+en   frilly, ruffled, froufrou
+
+fronte   ajetivo
+(Un parte) a la lado xef o prima videda o usada de un cosa; anterior
+en   front, forward, fore, advance
+
+»  fronte   nom
+La parte fronte de un cosa o sena; la parte de la fas supra la suprasiles
+en   front; forehead, brow; foreground
+
+»  fronte de acua   nom
+en   waterfront
+
+»  fronte de batalia   nom
+en   battlefront
+
+»  fronte de lago   nom
+en   lakeside
+
+»  fronte de mar   nom
+en   seafront, beachfront
+
+»  fronte de rio   nom
+en   riverside
+
+»  fronte meteorolojial   nom
+en   weather front
+
+»  a fronte   averbo
+en   forward, ahead
+
+»  a fronte de   preposada
+en   at the front of, in front of, ahead of
+
+»  en fronte de   preposada
+en   inside the front of, into the front of
+
+»  fronti   verbo transitiva
+Veni con fas a fas con (un enemi o problem)
+en   confront, face, tackle (enemy, problem)
+
+»  fronti   nom
+en   confrontation, faceoff, showdown
+
+»  fronti corajosa   verbo transitiva
+en   brave, bravely face
+
+»  frontinte   ajetivo
+en   facing, confronting
+
+»  fronton   nom
+La parte alta e triangulo de un mur a la fini de un teto, o de la fronte de un construida clasica; un baldacin protendente supra la entra de un construida
+en   gable; pediment; marquee, awning
+
+»  lobe fronte   nom
+en   frontal lobe
+
+»  oso fronte   nom
+en   frontal bone
+
+frontera   nom
+Un linia cual separa du paises; la limita estrema de tera poplada, ultra cual es tera savaje; un limita simil de cualce cosa, indicada par un cambia de state o cualias
+en   frontier, front line, limit, border, borderline, borderland, boundary, bound
+
+»  fronteri   verbo transitiva
+en   bound, form the boundary of
+
+»  fronteror   nom
+en   frontiersman
+
+frontispis   nom
+Un desinia cual fasa la paje de titulo de un libro; (en arciteta) la fas xef de un construida, spesial un entra decorada
+en   frontispiece (publishing, architecture)
+
+frota   verbo transitiva
+Move un mano, un tela o otra cosa de asi a ala sur la surfas de (alga cosa) con presa firma
+en   rub, scrub, wipe, smear
+
+»  frotador   nom
+en   wiper
+
+»  frotador de paraventa   nom
+en   windshield wiper, windscreen wiper
+
+frugal   ajetivo
+Cauta en spende mone o usa comedas o otra benes
+en   frugal, thrifty, economical, parsimonious, budget-conscious
+
+»  es frugal   verbo
+en   be frugal, economize/economise, scrimp, skimp
+
+»  frugalia   nom
+en   frugality, frugalness, thrift, thriftiness, parsimony
+
+frustra   verbo transitiva
+Turba (algun) par preveni el de continua sua condui normal o de ateni sua gol
+en   vex, frustrate, exasperate
+
+»  frustra   nom
+en   frustration, vexation, exasperation
+
+»  frustrante   ajetivo
+en   frustrating, vexing, exasperating, vexatious
+
+fruta   nom
+Un parte de un arbor o otra planta cual conteni semes, tipal dulse, pulposa e comable
+en   fruit
+
+»  fruta axida a picos   nom
+en   mincemeat
+
+»  fruta confetida   nom
+en   candied fruit
+
+»  fruta de pan   nom
+en   breadfruit
+
+»  fruta de rosa   nom
+en   rose hip
+
+»  fruta en xirope   nom
+en   compote
+
+»  fruta sitrica   nom
+en   citrus fruit
+
+»  frutas   nom, plural
+en   fruit, fruits
+
+»  fruteria   nom
+en   fruiterer’s, greengrocer’s (shop)
+
+»  fruti   verbo nontransitiva
+en   fruit, bear fruit
+
+»  frutor   nom
+en   fruiterer, greengrocer (person)
+
+»  frutosa   ajetivo
+en   fruity, fruitful, prolific
+
+frutosa   nom
+Un zucar tipal trovada en frutas e miel
+en   fructose (sugar)
+
+fu   esclama
+Espresante fatiga o lejeri pos frustra
+en   phew, whew
+
+fuca   nom
+Un alge brun grande, tipal con tronceta longa e dur e un folia larga divideda a bandas
+Laminariales, Fucales
+en   kelp
+
+fucsia   ajetivo
+Con color forte e purpurin roja, como la sepales tipal de la planta fucsia
+en   fuchsia (color/colour)
+
+»  fucsia   nom
+Un arboreta con flores tubo pendente, tipal con du colores contrastante
+Fuchsia
+en   fuchsia (flower)
+
+fufu   nom
+Pasta preparada de manioca o plantano bolida e maxada, un comeda major en partes de Africa ueste e sentral
+en   fufu (food)
+
+fuga   nom
+(En musica) un composada contrapuntal en cual la melodia corte de un parte es adotada par otra partes e developada par entretexe; (en psicolojia) un state o periodo de perde de conose de sua propre identia, tipal con un fuji de sua ambientes normal
+en   fugue (music, psychology)
+
+»  fugal   ajetivo
+en   fugal
+
+fugu   nom
+Un pex con corpo spesa, tipal con pel spinosa, cual infla se como un balon cuando menasada
+Tetraodontidae
+en   pufferfish, blowfish
+
+fuji   verbo nontransitiva
+Vade a via de un person, loca o situa perilosa
+en   flee, run away, escape, bolt, scram
+
+»  fuji   verbo transitiva
+en   rout, put to flight
+
+»  fuji   nom
+en   flight, escape, getaway
+
+»  fuji en manada   verbo
+en   stampede
+
+»  fuji furtiva   verbo
+en   slip away, sneak away, abscond, skedaddle
+
+»  fuji per sposi   verbo
+en   elope
+
+»  fujor   nom
+en   fugitive, runaway
+
+fulcro   nom
+La punto sur cual un lever resta o pivote
+en   fulcrum, pivot
+
+fulgoro   nom
+Un inseto peti e comun cual suca plantas e salta cuando disturbada
+Fulgoromorpha
+en   planthopper (insect)
+
+fuma   nom
+Un suspende vidable de carbono o otra particulas en la aira, tipal emeteda de un cosa ardente; un cuantia de gas cual odori forte o es perilosa si enspirada
+en   smoke, fume
+
+»  fumeria   nom
+en   smokehouse/smokery
+
+»  fumi   verbo nontransitiva
+en   smoke (emit smoke), smolder/smoulder
+
+»  fumi   verbo transitiva
+en   smoke (tobacco); smoke, preserve with smoke (food)
+
+»  fumor   nom
+en   smoker
+
+»  fumosa   ajetivo
+en   smoky, smokey
+
+»  nonfumor   nom
+en   non-smoker
+
+»  sin fuma   ajetivo
+en   smokeless
+
+fumaria   nom
+Un planta de la mundo vea, con spigas de flores peti e rosa o blanca, e folias gris con divides delicata
+Fumaria
+en   fumitory, fumiter (plant)
+
+fumiga   verbo transitiva
+Aplica la fumas de alga cimicales a (un area) per desinfeta lo o elimina animales nosiva
+en   fumigate
+
+»  fumiga   nom
+en   fumigation
+
+func   ajetivo
+Pertinente a un moda de musica de dansa, fundida sur elementos de blus e sol, con ritmo cual asentua forte la pulsa prima de cada mesura
+en   funk (music)
+
+»  func   nom
+en   funk (music)
+
+»  funcosa   ajetivo
+en   funky
+
+funda   nom
+La parte de un construida, otra ojeto o idea cual suporta la otra partes; un organiza tipal constituida par un dona, como un universia, sentro de rexerca o asosia carital
+en   base, basis, foundation, substrate, rudiment; foundation, establishment (organization/organisation)
+
+»  funda de solo   nom
+en   subfloor
+
+»  es la funda de   verbo
+en   be the basis of, underlie
+
+»  fundal   ajetivo
+en   basic, fundamental, elementary, rudimentary, underlying, primal; basal
+
+»  fundalisme   nom
+en   fundamentalism
+
+»  fundaliste   ajetivo
+en   fundamentalist
+
+»  fundaliste   nom
+en   fundamentalist
+
+»  fundi   verbo transitiva
+en   found, establish; base (something on); entrench, intrench, instill/instil
+
+»  fundi   nom
+en   foundation, establishment (action)
+
+»  fundor   nom
+en   founder
+
+»  sin funda   ajetivo
+en   baseless, groundless, unfounded
+
+Fundy, Baia   nom
+Un baia entre Scotia Nova e Brunswick Nova
+en   Bay of Fundy
+
+funera   nom
+La rituos onorante un person mor, tipal incluinte entera o seni de la corpo
+en   funeral
+
+»  funeral   ajetivo
+en   funereal, funeral, funerary
+
+»  funereria   nom
+en   funeral parlor/parlour, undertaker’s
+
+»  funeror   nom
+en   mortician, undertaker
+
+fungiside   nom
+Un cimical cual destrui fungos
+en   fungicide
+
+fungo   nom
+Cada de un rena de organismes primitiva cual nuri se con materia organica e reprodui par sporas
+Fungi
+en   fungus
+
+»  fungo de lenio   nom
+en   dry rot
+
+»  antifungal   ajetivo
+en   antifungal
+
+»  antifungal   nom
+Un medisin per mata fungos
+en   antifungal
+
+»  fungal   ajetivo
+en   fungal
+
+funicular   ajetivo
+(Un ferovia) operada par cordones, con vagones asendente e desendente en ecuilibra
+en   funicular
+
+»  funicular   nom
+en   funicular, cliff railway
+
+funsiona   verbo nontransitiva
+(Un person o cosa) fa sua rol en la modo espetada
+→ opera
+en   function, operate, work
+
+»  funsiona   nom
+en   function, functioning, operation; function (mathematics, software)
+
+»  funsiona ondal   nom
+en   wave function
+
+»  funsional   ajetivo
+en   functional (of a function)
+
+»  funsionalisme   nom
+en   functionalism
+
+»  funsionaliste   ajetivo
+en   functionalist, functionalistic
+
+»  funsionaliste   nom
+en   functionalist
+
+»  funsionante   ajetivo
+en   functioning, functioning
+
+»  malfunsiona   verbo nontransitiva
+en   malfunction, go wrong
+
+»  malfunsiona   nom
+en   malfunction
+
+»  malfunsionante   ajetivo
+en   malfunctioning, dysfunctional
+
+fura   verbo transitiva
+Prende (la propria de un otra) sin permete o direto legal e sin la intende de redona lo
+en   steal, purloin, nick, filch, pilfer, swipe; kidnap
+
+»  fura   nom
+en   theft, robbery, larceny, heist
+
+»  fura de   verbo
+en   steal from, rob, burglarize/burgle
+
+»  fura de enfantes   nom
+en   kidnap, kidnapping (children)
+
+»  fura de identia   nom
+en   identity theft
+
+»  fura de persones   nom
+en   kidnap, kidnapping
+
+»  fureta   verbo transitiva
+en   pilfer
+
+»  fureta   nom
+en   pilferage
+
+»  furor   nom
+en   thief, robber, burglar, larcenist; kidnapper
+
+»  furor acasiste   nom
+en   opportunist thief, looter
+
+»  furor de bestias   nom
+en   rustler
+
+»  furor de caxas secur   nom
+en   safecracker
+
+furabolsa   nom, composada (verbo+nom)
+Un person ci fura de poxes o sacos
+en   pickpocket
+
+furaboteca   nom, composada (verbo+nom)
+Un person ci fura benes de un boteca, finjente ce el es un cliente
+en   shoplifter
+
+furacasa   nom, composada (verbo+nom)
+Un person ci fura de un casa, tipal entrante par forsa
+en   burglar
+
+furcula   nom
+Un oso forcin entre la colo e peto de un avia
+en   wishbone, furcula
+
+furgon   nom
+Un veculo caxin e covreda, simil a un camion peti, usada per transporta persones o benes
+en   van
+
+»  furgoneta   nom
+en   people carrier, minivan, MPV
+
+furia   verbo nontransitiva
+Deveni estrema coler e cisa violente
+en   be furious, be enraged, go berserk, run amok, rampage
+
+»  furia   verbo transitiva
+en   infuriate, enrage
+
+»  furia   nom
+en   fury, rage, apoplexy
+
+»  furia publica   nom
+en   furore, outcry
+
+»  furiosa   ajetivo
+en   furious, livid, raging, enraged, apoplectic, berserk
+
+furlan   ajetivo
+Pertinente a la popla de un area de Europa aora divideda entre Slovenia e Italia norde-este, o a sua lingua romanica
+en   Furlan, Friulian (person, language)
+
+»  furlan   nom
+en   Furlan, Friulian (person, language)
+
+furlong   nom
+Un oti de milia, 201 metres, un distantia comun en corsas de cavalos
+en   furlong (unit of length)
+
+furni   verbo transitiva
+Fa ce (un materia o informa nesesada o desirada) es disponable a un person o loca
+‹ furni acua a la vileta ›
+en   supply, provide, furnish, yield, equip, dispense, issue, purvey, render
+
+»  furni   nom
+en   supply, provision, yield
+
+»  furni la come   verbo
+en   cater
+
+»  furni nonvolente   verbo
+en   reluctantly provide, cough up
+
+»  furnador   nom
+en   dispenser (machine)
+
+»  furnis   nom, plural
+en   supplies, provisions, material, material resources
+
+»  furnis de scrive   nom, plural
+en   writing materials
+
+»  furnor   nom
+en   supplier, provider, purveyor
+
+»  furnor de come   nom
+en   caterer
+
+»  furnor de servi   nom
+en   service provider, public utility
+
+»  furnor esterna   nom
+en   third-party supplier
+
+»  refurni   verbo transitiva
+en   resupply
+
+furon   nom
+Un mamal eurasian, simil a un mustela, con pelo oscur brun e un masca plu oscur longo la oios; un varia de esta, tipal brun o albino, domada e retenida como animal de casa
+Mustela putorius
+en   ferret, polecat
+
+furtiva   ajetivo
+Atentante evita es persepida par otras, tipal par causa de culpablia o teme de puni
+en   stealthy, shifty, sneaky
+
+»  furtiva   averbo
+en   stealthily, by stealth
+
+»  furtiva   nom
+en   lurker, prowler
+
+»  furtivia   nom
+en   stealth, stealthiness, shiftiness, sneakiness
+
+»  nonfurtiva   ajetivo
+en   open, blatant, flagrant, overt
+
+fusa   verbo nontransitiva
+(Cosas) combina completa, e cisa gradal, per formi un sola cosa
+en   fuse, meld, merge, coalesce, blend
+
+»  fusa   verbo transitiva
+Fa ce (cosas) fusa; junta (du partes metal) par fonde la surfases ante presa o marteli los
+en   fuse, merge, blend; weld
+
+»  fusa   nom
+en   fusion, merger
+
+»  fusable   ajetivo
+en   fusible
+
+fusil   nom
+Un arma composada de un tubo metal de cual baletas o otra misiles es propulsada par un esplode
+en   gun, rifle, firearm
+
+»  fusil de antecarga   nom
+en   muzzleloader
+
+»  fusil de ataca   nom
+en   assault rifle
+
+»  fusil de mano   nom
+en   handgun, sidearm, pistol, revolver
+
+»  fusil de retrocarga   nom
+en   breechloader
+
+»  fusil de sintil   nom
+en   flintlock
+
+»  fusil de suber   nom
+en   popgun
+
+»  fusil de xasa   nom
+en   shotgun, rifle
+
+»  fusili   verbo transitiva
+en   shoot (with a rifle)
+
+»  fusili   nom
+en   shooting, shootout
+
+»  fusilor   nom
+en   marksman, gunman, rifleman, sharpshooter; fusilier
+
+fuso   nom
+Un palo ronda e magra con finis diminuida, usada per torse e enrola filos de un masa de lana o simil; un spino cual porta la bobin de un macina de fili
+en   spindle
+
+»  fusin   ajetivo
+en   spindle-shaped, fusiform
+
+fustan   nom
+Un sarja densa e durante
+en   fustian (fabric)
+
+fusuma   nom
+Un panel liscable, usada como un dividente o porte entre sales en casas nion tradisional
+en   fusuma (screen)
+
+futbal   nom
+Un sporte juada par du ecipos de 11 juores, con un bal sfera cual no juor estra la golores pote toca par braso o mano; cualce de la varias de esta jua
+en   football, soccer
+
+»  futbal american   nom
+en   American football, gridiron football
+
+»  futbalor   nom
+en   footballer, football player, soccer player
+
+futil   ajetivo
+(Un ata) sin resulta usosa
+en   futile, fruitless, hopeless, pointless, vain, fatuous; fond (hope)
+
+»  futil   averbo
+en   in vain, to no avail
+
+»  futilia   nom
+en   futility, fruitlessness
+
+futon   nom
+Un materas nion, desenrolada sur la solo per usa como leto; un tipo de sofa basa cual on desplia per usa como leto
+en   futon (mattress)
+
+futur   ajetivo
+A un tempo plu tarda ca la momento de parla o scrive
+en   future, forthcoming, to come, -to-be, subsequent, eventual, prospective
+
+»  futur   nom
+en   future, posterity
+
+»  en la futur   averbo
+en   in the future, subsequently
+
+»  en la futur distante   averbo
+en   in the distant future, eventually
+
+»  futuriste   nom
+en   futurist
+
+futurolojia   nom
+La predise sistemosa de la futur, tipal par estrapola tendes presente
+en   futurology
+
+»  futurolojiste   nom
+en   futurologist
+
+Guian Franses   nom
+Un pais en America Sude norde, governada par Frans
+en   French Guiana
+
+»  guianes   ajetivo
+en   Guianan, French Guianan
+
+»  guianes   nom
+en   Guianan, French Guianan

@@ -1,0 +1,4094 @@
+
+Disionario – Gramatica – Vici 13 julio 2018 html  +  28 desembre 2018 js
+Disionario de Elefen
+
+   
+
+ 
+
+Lingua:  
+
+    Trova parolas intera     Trova esata     Mostra imajes
+
+Aora disponable como un libro primida!
+
+Capitoles:   A B C D E F G H I J K L M N O P Q R S T U V W X Y Z   Tota
+243 articles trovada.  
+
+v   simbol   (dise ‘ve’)
+La letera 22 de la alfabeta roman
+en   v
+
+v   corti
+Vide
+en   see
+
+v   corti
+Volum
+en   vol.
+
+va   averbo, preverbal
+Usada direta ante un verbo finita per indica ce esta refere a un aveni futur
+‹ me va aida tu; me ia dise ce me va aida tu ›
+en   (indicating that a finite verb is in the future tense) will, shall
+
+vacanse   verbo nontransitiva
+Un periodo estendeda de recrea, spesial a distantia de la propre casa
+en   vacation, holiday, be on leave, go on leave
+es   estar de vacaciones
+fr   être en vacances
+
+»  vacanse   nom
+en   vacation, holiday, leave, getaway
+es   vacaciones
+fr   vacances
+
+»  vacanseria   nom
+en   vacation spot, resort
+
+»  vacansor   nom
+en   vacationer, holidaymaker, holiday traveler/traveller
+fr   vacancier
+
+vacua   ajetivo
+Conteninte no cosa; no plenida o abitada; sin elementos; (en matematica) avente o asosiada con la valua zero
+ca   buit
+da   tom
+de   leer
+en   empty, hollow, null, void, vacuous
+eo   malplena
+es   vacío
+fr   vide
+it   vuoto
+ja   空の
+nl   leeg
+pt   vazio
+ru   пустой
+
+»  vacua   nom
+da   vakum
+de   Vakuum
+en   vacancy, void; vacuum
+eo   vakuo
+es   vacío
+fr   (un) vide, (le) vide
+it   vuoto
+nl   vacuum, het luchtledige
+pt   vácuo
+
+»  suvacua   ajetivo
+en   vacuum-sealed
+fr   sous vide
+
+»  vacui   verbo nontransitiva
+ca   buidar
+de   leeren
+en   empty
+eo   malpleniĝi
+es   vaciar
+fr   vider, évacuer, effacer
+ja   空ける
+pt   esvaziar
+ru   высыпать, опорожнять
+
+»  vacui   verbo transitiva
+en   empty, evacuate, flush; clear, wipe, erase
+es   vaciar
+
+»  vacui   nom
+en   emptying, evacuation
+fr   vidage, évacuation, effacement
+
+»  vacuia   nom
+en   emptiness, vacuity
+
+»  vacuida   ajetivo
+en   emptied, vacant
+
+vacuol   nom
+Un caveta o vesicula en la sitoplasma de un selula, encluida par un membrana e tipal conteninte licuida; un caveta en un texeda, tipal en texeda de nervos par causa de un maladia
+en   vacuole (biology)
+fr   vacuole (biologie)
+
+vada   verbo nontransitiva
+Pasea tra acua o otra licuida o materia mol; (un animal) nada con brasis corta e rapida
+en   wade, paddle
+fr   patauger
+
+»  vaderia   nom
+en   paddling pool, wading pool
+fr   pataugeoire
+
+vade   verbo nontransitiva
+Move de un loca a un otra; funsiona
+ca   anar
+da   gå
+de   gehen, fahren
+en   go; (system) work, function
+eo   iri, veturi
+es   ir, andar
+fr   aller
+it   andare
+ja   行く
+nl   gaan
+pt   ir
+ru   идти
+
+»  vade   esclama
+en   go, let’s go, come on, giddy-up
+
+»  vade a   verbo
+en   go to, attend (regularly)
+
+»  vade a fa   verbo
+en   be just about to do, be just on the point of doing
+
+»  vade en dirije a   verbo
+en   go towards, head for, make for
+
+»  vade par auto   verbo
+en   go by car
+
+»  vade par pasea   verbo
+en   go by foot
+
+»  vade per compra   verbo
+en   go shopping
+
+»  vade per pasea   verbo
+en   go for a walk
+
+»  vade per vide   verbo
+en   go and see, go to see
+
+»  vade sur sua via   verbo
+en   make one’s way
+
+»  vade sur un via   verbo
+en   take a road, travel a path
+
+»  vade tro rapida   verbo
+en   speed, commit a speeding offense/offence
+
+»  como lo vade?   espresa
+en   how are you?, how’s it going?
+fr   comment ça va ?
+
+»  revade   verbo nontransitiva
+en   go back, return
+
+»  revade   nom
+en   return
+
+vado   nom
+Un loca en un rio o rieta do la acua es tan nonprofonda ce on pote traversa par pede o en veculo
+en   ford, crossing
+
+»  vadi   verbo transitiva
+en   ford, cross
+
+vaga   verbo nontransitiva
+Vade sin intende o dirije clar; regarda libros o benes en modo osiosa
+da   drive, vandre
+de   treiben, wandern
+en   wander, roam, rove, ramble, traipse, drift, digress, mill around, perambulate; browse (books, goods)
+eo   vagi
+es   vagar, errar, ir a la deriva, flotar, dejarse llevar, vagabundear
+fr   errer
+it   vagare
+nl   dwalen
+pt   vagar, vaguear, estar a deriva
+
+»  vaga   nom
+en   wandering, digression
+
+»  vaga depresada   verbo
+en   mope about
+
+»  vaga furtiva   verbo
+en   prowl
+
+»  vagador   nom
+Un veculo telecomandada per esplora estrateran
+en   rover (vehicle)
+
+»  vagante   ajetivo
+en   wandering, adrift, errant; itinerant, mobile, peripatetic; stray (animal); crooked (shape); discursive, rambling
+
+»  vagisme   nom
+en   nomadism
+
+»  vagiste   nom
+en   nomad
+
+»  vagor   nom
+en   wanderer, drifter, rambler, itinerant
+
+vagabon   nom
+Un person ci vaga de un loca a un otra sin propre casa o emplea
+en   vagabond, vagrant, hobo, bum, tramp
+fr   vagabond
+
+»  vagabon enebriada   nom
+en   wino
+
+»  vagabonia   nom
+en   vagrancy
+
+vago   nom
+Cada de la duple des de nervos cranial, furninte a organos de la peto e adomen
+en   vagus (anatomy)
+
+vagon   nom
+Un veculo pesosa con rotas ma sin motor, tipal covreda, tirada par cavalos o otra animales grande, o par un camion o locomotiva
+ca   vagó
+da   køretøj vogn, køretøj
+de   Wagon, Karren
+en   wagon, wain; coach, car, carriage (of train); trailer (of truck)
+eo   vagono
+es   carreta, carro, carreta, carretón, carruaje, coche, vagón
+fr   wagon, chariot
+it   vagone vettura, vagone, carro
+ja   ワゴン
+nl   wagon
+pt   vagão carro, vagão
+ru   вагон
+
+»  vagon de bagaje   nom
+en   baggage car
+
+»  vagon de carga   nom
+en   freight wagon, boxcar
+
+»  vagon de dormi   nom
+en   sleeping car, sleeper
+
+»  vagon final   nom
+en   caboose
+
+»  vagon restorante   nom
+en   dining car, restaurant car
+
+»  vagonor   nom
+en   wagoner, teamster, wagon driver
+
+vajina   nom
+La tubo musculosa de la jenitales esterna a la colo de la utero en femes e la plu de mamales fema
+da   vagina
+de   Scheide
+en   vagina
+eo   vagino
+es   vagina
+fr   vagin
+it   vagina
+nl   vagina
+pt   vagina
+
+»  vajinal   ajetivo
+en   vaginal
+fr   vaginal
+
+vajinite   nom
+Un inflama de la vajina
+en   vaginitis (medical)
+
+vajraiana   ajetivo
+Un ramo de budisme de Bod e Mongol e otra partes de Asia este-sentral
+en   Vajrayana (Buddhism)
+
+Valahia   nom
+Un rena pasada en Europa sude-este, entre la Rio Danubio e la Alpes de Transilvania
+de   Walachei
+en   Wallachia (Romanian region)
+es   Valaquia (región rumana)
+fr   Valachie (région roumaine)
+it   Valacchia (regione romena)
+ja   ワラキア
+nl   Walachije
+pt   Valáquia
+ru   Валахия
+
+»  valah   ajetivo
+en   Vlach, Wallachian
+
+»  valah   nom
+en   Vlach, Wallachian
+
+Valhala   nom
+(En mitos norsce antica) la pais de la dios e de gerores onorada ci mori en gera
+en   Valhalla
+
+valciria   nom
+(En mitos norsce antica) un de la femes ci condui gerores matada a Valhala
+en   Valkyrie (mythology)
+
+vale   nom
+Un rejion de tera basa entre colinas o montes, tipal con un rio o rieta
+ca   vall
+da   dal
+de   Tal
+en   valley, vale, dale
+eo   valo
+es   valle
+fr   vallée
+it   valle, vallata
+ja   谷
+nl   vallei
+pt   vale
+ru   долина
+
+»  a vale   averbo
+en   down, downhill, downstream, downward, downwards
+
+»  valeta   nom
+en   dell, glen
+
+Valensia   nom
+Un site a la costa este de Espania
+en   Valencia
+
+»  Comunia Valensian   nom
+en   Valencian Community
+
+»  Provinse Valensia   nom
+en   Province of Valencia
+
+valente   ajetivo
+Pertinente a la eletrones en o disponable a un lia cimical; (en jenetica) composada de un cuantia spesifada de cromosomas
+en   valent
+
+»  valentia   nom
+en   valence, valency
+fr   valence
+
+valeriana   nom
+Un planta, tipal con grupos de flores peti rosa o blanca, valuada per sua cualias medical
+Valeriana officinalis
+en   valerian (plant)
+fr   valériane
+
+valga   ajetivo
+Un malformi marcada par un desloca de un parte de un membro a via de la linia media
+en   valgus (medical)
+
+»  valga   nom
+en   valgus (medical)
+
+valida   ajetivo
+(Un razona) bon fundida en lojica o fatos; (un acorda) legal asetable; (un bileta, conta, etc) ancora ativa
+en   valid, well-founded, cogent; current, in effect
+fr   valide, en cours de validité
+
+»  desvalidi   verbo nontransitiva
+en   expire
+
+»  desvalidi   verbo transitiva
+en   invalidate, debunk
+
+»  desvalidi   nom
+en   expiration
+
+»  desvalidida   ajetivo
+en   expired, out of date
+
+»  nonvalida   ajetivo
+en   invalid, spurious
+
+»  validi   verbo nontransitiva
+en   validate, ratify, endorse, certify, notarize/notarise, probate
+fr   valider, ratifier, certifier
+
+»  validi   verbo transitiva
+en   validate, ratify, endorse, certify, notarize/notarise, probate
+
+»  validi   nom
+en   validation, ratification, endorsement, certification, probate
+
+»  validia   nom
+en   validity
+
+valis   nom
+Un caxa con manico e covrente xarnierida, usada per porta vestes e otra poseses personal
+ca   maleta
+de   Koffer
+en   suitcase, valise
+eo   valizo
+es   maleta
+fr   valise
+ja   スーツケース
+pt   maleta, valise
+ru   чемодан
+
+»  valiseta   nom
+en   carry-on suitcase, handheld luggage
+fr   mallette
+
+»  valison   nom
+en   trunk, portmanteau
+fr   malle
+
+valsa   verbo nontransitiva
+Un dansa en tempo truple per du persones ci jira ritmosa en move sirca la solo; un musica per esta
+en   waltz
+fr   valser
+
+»  valsa   nom
+en   waltz
+fr   valse
+
+valua   verbo transitiva
+Crede ce (algun o alga cosa) es importante o beneficante; ave un opina alta de; estima la valua o custa de (alga cosa)
+en   value, prize
+fr   apprécier, donner du prix à
+
+»  valua   nom
+da   værdi
+de   Wert
+en   value, worth, merit; equity, stock (financial)
+eo   valoro
+es   valor, valía, mérito, precio, estima, aprecio
+fr   valeur
+it   valore
+nl   waarde
+pt   valor
+
+»  desvalua   verbo transitiva
+en   devalue, belittle, disparage, denigrate, deprecate, depreciate, trivialize/trivialise, vilify
+fr   déprécier, dévaluer
+
+»  desvalua   nom
+en   devaluation, deprecation, depreciation
+fr   dévaluation, dépréciation
+
+»  es valuada   verbo
+en   be worth, be valuable, have value
+fr   valoir
+
+»  la plu valuada   ajetivo
+en   most valuable, inestimable
+
+»  sin valua   ajetivo
+en   worthless, valueless, pissant
+
+»  supravalua   verbo transitiva
+en   overrate, overvalue
+
+»  suvalua   verbo transitiva
+en   underappreciate, underrate, undervalue
+
+»  valuada   ajetivo
+en   worthy, valued, valuable, meritorious, fine
+
+»  valuadas   nom, plural
+en   valuables, riches
+fr   richesses
+
+»  valuosa   ajetivo
+en   valuable, precious
+fr   précieux
+
+»  valuosas   nom, plural
+en   valuables, riches
+fr   richesses
+
+valva   nom
+Un aparato per controla la flue de un licuida tra un tubo o duto; un parte de un strumento de venta cual on depresa o turna per entra aira a tubos diversa per cambia la notas disponable
+en   valve; tap, faucet, spigot
+fr   valve, robinet
+
+»  valva de banio   nom
+en   bath tap, bath faucet
+
+»  valva de securia   nom
+en   safety valve
+
+vampir   nom
+Un umana mital cual bevi sangue umana, vive sola a note, e pote cambia se a un cirotero
+en   vampire
+fr   vampire
+
+vana   ajetivo
+Con un opina tro alta de sua propre aspeta, capasia o valua
+en   vain, conceited
+fr   prétentieux, fat, vain
+
+»  vania   nom
+en   vanity
+fr   vanité, fatuité
+
+vanadio   nom   «V»
+La elemento cimical con numero atomal 23, usada per fabrica aser aliada
+en   vanadium (element)
+fr   vanadium
+
+vandal   ajetivo
+Pertinente a un popla antica ci ia saca Roma en 455, o a sua lingua germanica
+en   Vandalic
+fr   vandale
+
+»  vandal   nom
+Un criminor ci dana o destrui propria publica o privata
+en   Vandal (ancient tribe); vandal, hooligan
+fr   Vandale
+
+»  vandali   verbo transitiva
+en   vandalize/vandalise
+
+»  vandalisme   nom
+Un ata de destrui o dana posesedas publica o privata
+en   vandalism
+fr   vandalisme
+
+vanelo   nom
+Un avia grande en familia de caradrio, con plumas negra e blanca e vose forte
+Vanellinae
+en   lapwing (bird)
+fr   vanneau
+
+vanga   nom
+Un avia cantante de Madagasicara, simil a un lanio
+Vangidae
+en   vanga (bird)
+
+vangarda   ajetivo
+Con ideas nova, noncomun o esperimental, spesial en la artes
+en   avant-garde, vanguard, cutting-edge, latest
+fr   d’avant-garde
+
+vanilia   nom
+Un planta tropical e trepante con flores bonodorosa e frutas longa e cascin; la materia otenida de la fruta de esta, o artifis produida, usada per sabori comedas dulse o dona un bon odor a preparadas cosmetica
+Vanilla
+en   vanilla (plant, flavor/flavour)
+fr   vanille
+
+vanilina   nom
+Un composada bonodorosa en vanilia
+en   vanillin (substance)
+
+vano   nom
+Un aparato, tipal pliable e formida como un parte de un sirculo, tenida en la mano e brandida per move la aira e fresci la person ci teni lo
+en   fan (handheld)
+eo   ventumilo
+fr   éventail
+
+»  vani   verbo transitiva
+en   fan
+fr   éventer
+
+»  vanin   ajetivo
+en   fanlike, fan-shaped
+
+vanta   verbo transitiva
+Parla con orgulo e egosia suprafluente de (sua atenis, posesedas, capasias, familia o asosias)
+en   boast, brag
+fr   se vanter
+
+»  vanta   nom
+en   boast, brag
+fr   vantardise
+
+»  vanta a se   verbo
+en   gloat, revel
+fr   jubiler, exulter
+
+»  vantor   nom
+en   boaster, braggart, loudmouth, show-off
+fr   fanfaron
+
+»  vantosa   ajetivo
+en   boastful
+fr   vantard
+
+vantaje   nom
+Un situa o cualia cual pone algun un situa superior o beneficada
+en   advantage (including tennis), privilege, benefit, lead
+fr   avantage, privilège
+
+»  con nonvantaje   ajetivo
+en   disadvantaged, handicapped
+fr   désavantagé
+
+»  nonvantaje   nom
+en   disadvantage, handicap (including golf), demerit, drawback
+fr   désavantage, handicap
+
+»  vantaji   verbo transitiva
+en   advantage, privilege, benefit
+
+»  vantajosa   ajetivo
+en   advantageous, opportune
+fr   avantageux
+
+Vanuatu   nom
+Un pais composada de un grupo de isolas en la Mar Pasifica sude-ueste
+(capital: Port Vila)
+en   Vanuatu
+
+»  vanuatu   ajetivo
+en   Vanuatuan
+
+»  vanuatu   nom
+en   Vanuatuan
+
+vapor   nom
+Un materia difusada o suspendeda en la aira, tipal si lo es normal licuida o solida, como acua
+da   damp, tåge
+de   Dampf, Dunst
+en   vapor/vapour, mist, steam
+eo   vaporo
+es   vapor, niebla, neblina, llovizna
+fr   vapeur
+it   vapore
+nl   stoom, damp, nevel, mist
+pt   vapor, neblina
+
+»  vapor nosiva   nom
+en   toxic mist, fumes
+
+»  vaporador   nom
+en   vaporizer/vaporiser, nebulizer/nebuliser, evaporator, steamer
+fr   vaporiseur, vaporisateur, nébuliseur
+
+»  vapori   verbo nontransitiva
+da   fordampe, fordufte
+de   verdunsten
+en   evaporate, vaporize/vaporise; steam (turn to steam)
+eo   vaporiĝi
+es   evaporarse, vaporizarse
+fr   s’évaporer
+it   evaporare
+nl   verdampen
+pt   evaporarse
+
+»  vapori   verbo transitiva
+en   evaporate, vaporize/vaporise; steam (apply steam to)
+
+»  vapori   nom
+en   evaporation
+
+»  vaporosa   ajetivo
+en   steamy, misty, misted
+fr   vaporeux
+
+vara   ajetivo
+en   varus (medical)
+
+»  vara   nom
+Un malformi marcada par la desloca de un parte de un membro en dirije a la linia media
+en   varus (medical)
+
+varano   nom
+Un lezardo de la tropicos de la mundo vea, con colo longa, testa magra, lingua duida, talones forte e corpo corta
+Varanus
+en   monitor lizard
+fr   varan
+
+varia   verbo nontransitiva
+(Membros de un clase) difere par sua grandia, cuantia, grado o natur
+da   skifte, bytte
+de   verändern
+en   vary, range
+eo   varii
+es   cambiar, variar, alterarse
+fr   varier
+it   cambiare
+nl   veranderen
+pt   mudar, alterar
+
+»  varia   verbo transitiva
+en   vary, range
+
+»  varia   nom
+en   variation, variety, variance, vagary; version, variant; (in mathematics) manifold
+fr   variation, variété, version
+
+»  varia diferensiable   nom
+en   differentiable manifold
+
+»  varia elejeda   nom
+en   cultivar
+
+»  nonvariable   ajetivo
+en   invariable
+fr   invariable
+
+»  nonvariablia   nom
+en   invariability
+fr   invariabilité
+
+»  variable   ajetivo
+en   variable
+fr   variable
+
+»  variable   nom
+en   variable
+
+»  variada   ajetivo
+en   varied, variegated
+fr   varié
+
+»  varial   ajetivo
+en   varietal
+
+»  variosa   ajetivo
+→ diversa
+en   various, several, diverse, sundry
+fr   divers
+
+varicosa   ajetivo
+(Un vena) inflada, torseda e longida par mal sirculi
+en   varicose (medical)
+
+variola   nom
+Un maladia comunicable virusal, con febre e pustulas cual causa tipal sicatrises permanente
+en   smallpox
+fr   variole
+
+varisela   nom
+Un maladia comunicable, xef de enfantes, con febre e pustulas prurinte cual buli e crosti final
+en   chickenpox
+fr   varicelle
+
+vasal   nom
+(En un sistem feudal) un person ci reseta la teni de un area de tera, ma con constrinje de onora e obedi
+en   vassal, liege (feudal)
+fr   vassal
+
+»  vasalia   nom
+en   vassalage
+fr   vassalité
+
+vascular   ajetivo
+Pertinente a un duto de la corpo, tipal un ci porta la sangue; (en botanica) pertinente a la texedas de un planta cual porta acua, sava e nuri
+en   vascular
+fr   vasculaire
+
+vasculite   nom
+Un inflama de la dutos de sangue
+en   vasculitis (medical)
+fr   vascularite
+
+vasectomia   nom
+Un sirurjia per talia la spermidutos de un om per preveni consepi
+en   vasectomy (surgery)
+
+vasila   verbo nontransitiva
+Alterna o esita entre du o plu opinas, elejes o atas
+en   vacillate, hesitate (between two choices), waver, falter, equivocate, prevaricate, teeter
+
+»  vasila   nom
+en   vacillation, hesitation, indecision
+
+»  nonvasilante   ajetivo
+en   resolute, decisive
+
+»  vasilante   ajetivo
+en   vacillating, hesitant, indecisive, irresolute, half-hearted
+
+vasin   nom
+Un materia usada per stimula la produi de anticorpos e dona imunia contra maladias, preparada de la causa de la maladia, sua produidas o un sustitua sinteseda, tratada per ata como un antijen sin causa la maladia
+en   vaccine
+fr   vaccin
+
+»  nonvasinida   ajetivo
+en   unvaccinated
+
+»  vasini   verbo transitiva
+en   vaccinate, inoculate
+fr   vacciner
+
+»  vasini   nom
+en   vaccination, inoculation
+fr   vaccination
+
+vasinia   nom
+Un de un grupo de arboretas peti en familia de erica; un baca de esta, tipal comable
+Vaccinium
+en   bilberry, blueberry, huckleberry, cranberry
+fr   airelle
+
+»  vasinia blu   nom
+Vaccinium
+en   blueberry, bilberry, huckleberry
+fr   myrtille, bleuet
+
+»  vasinia de montania   nom
+Vaccinium vitis-idaea
+en   lingonberry
+fr   airelle rouge
+
+»  vasinia roja   nom
+Vaccinium oxycoccos
+en   cranberry
+fr   canneberge
+
+vaso   nom
+Un contenador, tipal ronda o silindre, de seramica o metal, tipal usada per reteni o cosini
+ca   vas, pot
+da   potte
+de   Gefäß, Topf
+en   vase, pot, vessel, urn
+eo   vazo
+es   olla, pote, puchero, cacharro, bacín, tiesto, maceta
+fr   pot, vase, urne
+it   pentola
+ja   ポット
+nl   pot, kan
+pt   pote, jarro, vaso
+ru   горшок
+
+»  vaso de cafe   nom
+ca   cafetera
+de   Kaffekanne
+en   coffeepot
+eo   kafkruĉo
+es   cafetera
+fr   cafetière
+ja   コーヒーポット
+pt   bule de café
+ru   кофейник
+
+»  vaso de flores   nom
+en   flower vase
+
+»  vaso de losa   nom
+en   earthenware pot, crock
+
+»  vaso de note   nom
+en   chamberpot, potty
+fr   pot de chambre
+
+»  vaso de peper   nom
+en   pepperpot
+fr   poivrière
+
+»  vaso de pexes   nom
+en   fishbowl
+
+»  vaso de sal   nom
+en   salt cellar, saltbox
+fr   salière
+
+»  vaso de sputa   nom
+en   spittoon
+
+»  vaso de te   nom
+ca   tetera
+de   Teekanne
+en   teapot
+eo   tekruĉo
+es   tetera
+fr   théière
+ja   ティーポット
+pt   bule de chá
+ru   заварочный чайник
+
+»  vasia   nom
+en   pottery
+fr   (la) poterie
+
+»  vason   nom
+en   toilet, toilet bowl, lavatory, loo; commode, potty
+fr   cuvette de toilette
+
+»  vason urinal   nom
+en   urinal
+fr   urinal
+
+»  vasor   nom
+en   potter
+fr   potier
+
+vasoconstrinje   verbo transitiva
+Constrinje (dutos sangual) par leva de presa sangual
+en   vasoconstrict
+
+»  vasoconstrinjente   nom
+en   vasoconstrictor, vasopressor
+
+vasodilata   verbo transitiva
+Dilata (dutos sangual) per diminui la presa sangual
+en   vasodilate
+
+»  vasodilatante   nom
+en   vasodilator
+
+vasopresina   nom
+Un ormon de la ipofise cual regula la reteni de acua par la renes e alti la presa de sangue
+en   vasopressin
+fr   vasopressine
+
+vasta   ajetivo
+De un estende, cuantia o influe multe grande
+en   vast, huge, widespread, large-scale, far-reaching
+fr   vaste
+
+»  vasta   averbo
+en   vastly, widely
+
+»  vasti   verbo nontransitiva
+en   become vast, extend hugely, become widespread, spread far and wide
+
+»  vasti   verbo transitiva
+en   promulgate, spread far and wide
+
+»  vastia   nom
+en   vastness
+
+vasto   nom
+La area plana entre la taie e jenos de un person sentante; la parte de un veste cual covre esta
+en   lap (anatomy)
+
+vate   nom
+La unia internasional per mesura potia
+en   watt (unit of power)
+fr   watt
+
+»  cilovate   nom
+en   kilowatt
+fr   kilowatt
+
+»  vatia   nom
+en   wattage
+
+vatican   ajetivo
+en   Vatican
+
+»  Site Vatican   nom
+Un stato autonom en Roma cual es la sentro de governa de la Eglesa Catolica Roman
+en   Vatican City
+
+vea   ajetivo
+Ja vivente tra un tempo longa; no joven; construida o fabricada en la pasada distante; xef o sola pertinente a la pasada, spesial la pasada distante
+da   gammel
+de   alt
+en   old, elderly
+eo   maljuna, malnova
+es   viejo, añejo, antiguo
+fr   vieux
+it   vecchio, anziano
+nl   oud
+pt   velho, antigo, ancião
+
+»  vea   nom
+en   old person; elder
+fr   (un) vieux
+
+»  deveni tro vea per   verbo
+en   outgrow
+
+»  la plu vea   ajetivo
+en   oldest, eldest
+
+»  plu vea   ajetivo
+en   older, elder
+
+»  vei   verbo nontransitiva   (dise ‘veï’)
+en   grow old, age
+fr   vieillir
+
+»  vei   verbo transitiva
+en   age
+fr   vieillir
+
+»  veia   nom   (dise ‘veya’)
+en   old age
+fr   vieillesse
+
+veber   nom
+La unia internasional per mesura la flue magnetal
+en   weber (unit of magnetic flux)
+
+veculo   nom
+Un cosa usada per transporta persones o benes
+da   køretøj, vogn
+de   Fahrzug
+en   vehicle
+eo   veturilo
+es   vehículo
+fr   véhicule
+it   veicolo
+nl   voertuig
+pt   veículo
+
+»  veculo acual   nom
+en   watercraft
+
+»  veculo de motor   nom
+en   motor vehicle
+
+»  veculo funeral   nom
+en   hearse
+fr   corbillard
+
+»  veculo madrin   nom
+en   mothership
+
+»  veculo spasial   nom
+en   spacecraft
+fr   vaisseau spatial
+
+»  veculal   ajetivo
+en   vehicular
+
+veda   nom
+La scrivedas santa la plu antica en induisme, scriveda en sanscrito e conteninte imnos, filosofia e gidas per rituos
+en   Veda (scripture)
+
+»  vedal   ajetivo
+en   Vedic
+
+vedanta   nom
+Un de la ses filosofias ortodox en induisme, fundida sur la testos la plu antica
+en   vedanta (Hinduism)
+
+»  vedantal   ajetivo
+en   vedantic
+
+vegan   ajetivo
+(Un person) ci no come o usa produidas animal
+en   vegan
+
+»  vegan   nom
+en   vegan
+
+»  veganisme   nom
+en   veganism
+
+vejetal   ajetivo
+Un planta o parte de un planta usada per come
+en   vegetable, vegetative
+
+»  vejetal   nom
+da   grøntsag
+de   Gemüse
+en   vegetable
+eo   legomo
+es   vegetal, legumbre, verdura, hortaliza
+fr   légume
+it   vegetale
+nl   groente
+pt   legume
+
+»  vejetales cru   nom, plural
+en   raw vegetables, crudités
+
+»  vejetali   verbo nontransitiva
+en   vegetate
+
+»  vejetalisme   nom
+en   vegetarianism
+
+»  vejetaliste   nom
+en   vegetarian
+
+vela   nom
+Un peso de materia estendeda sur un masto per usa la venta per propulsa un barco o otra veculo; un aparato cual catura la venta a un braso de un molin
+da   sejl
+de   Segel
+en   sail
+eo   velo
+es   vela (de barco)
+fr   (une) voile
+it   vela
+nl   zeil
+pt   vela
+
+»  vela cuadro   nom
+en   square sail
+
+»  vela latina   nom
+en   lateen
+
+»  vela xef   nom
+en   mainsail
+
+»  Velas   nom, plural
+en   Vela (constellation)
+fr   la Voile
+
+»  veleta   nom
+en   vane (pushed by wind or water)
+fr   pale
+
+»  velin   ajetivo
+en   sail-like
+
+velcro   nom
+Un fisador per vestes o otra cosas, composada de du bandas de plastica, la un covreda con anelos pico e la otra covreda con oncas pico
+en   velcro
+fr   velcro
+
+»  de velcro   ajetivo
+en   (made of) velcro
+
+velia   verbo nontransitiva
+Emerji de dormi
+ca   despertar, desvetllar
+de   wecken
+en   waken, awaken, wake up
+eo   veki
+es   despertar
+fr   se réveiller
+ja   目覚める
+pt   acordar, despertar
+ru   просыпаться
+
+»  velia   verbo transitiva
+en   waken, awaken, wake up, arouse, rouse, roust
+
+»  revelia   verbo nontransitiva
+en   reawaken
+
+»  revelia   verbo transitiva
+en   reawaken
+
+»  veliada   ajetivo
+da   vågen
+de   wach
+en   awake, wakeful
+eo   veka
+es   despierto, alerta
+fr   réveillé
+it   sveglio
+nl   wakker
+pt   acordado
+
+»  veliador   nom
+ca   despertador
+de   Wecker
+en   alarm clock
+eo   vekhorloĝo
+fr   réveil
+ja   目覚まし時計
+pt   despertador
+ru   будильник
+
+velo   nom
+Un peso de stofa delicata, usada par femes per proteje o asconde la fas; un cosa simil cual asconde, desembla o oscuri alga cosa
+da   slør
+de   Schleier
+en   veil
+eo   vualo
+es   velo
+fr   (un) voile
+it   velo
+nl   sluier
+pt   véu
+
+»  desveli   verbo transitiva
+en   unveil
+fr   dévoiler
+
+»  desveli   nom
+en   unveiling
+fr   dévoilement
+
+»  veli   verbo transitiva
+en   veil, shroud, enshroud
+fr   voiler
+
+»  velida   ajetivo
+en   veiled
+fr   voilé
+
+velo   nom
+Un membrana cual covre o oscuri partal un otra strutur; la palato mol, pd la parte de la sofito de la boca la plu prosima a la uvula
+en   velum, soft palate (anatomy)
+fr   le voile du palais
+
+»  velal   ajetivo
+en   velar
+fr   vélaire
+
+»  velal   nom
+en   velar
+
+»  velali   verbo nontransitiva
+en   velarize/velarise
+fr   vélariser
+
+»  velali   verbo transitiva
+en   velarize/velarise
+
+velosiraptor   nom
+Un dinosauro carnivor peti de la cretasica, capas de core rapida
+Velociraptor
+en   velociraptor, raptor (dinosaur)
+
+veluda   nom
+Un stofa de seda, coton o nilon, streta texeda, con pelo densa e corta a un lado
+en   velvet, velour
+fr   velours
+
+»  veluda costelin   nom
+en   corduroy
+fr   velours côtelé
+
+»  veludin   ajetivo
+en   velvety
+fr   velouté
+
+»  veludin   nom
+en   velveteen
+
+vena   nom
+Cada de la dutos de sangue cual transporta xef la sangue sin multe osijen a la cor; un strato magra de roca cual difere de sua ambiente
+da   vene
+de   Vene
+en   vein (anatomy); lode (geology)
+eo   vejno
+es   vena
+fr   veine
+it   vena
+nl   ader
+pt   veia
+
+»  vena cava   nom
+en   vena cava
+fr   veine cave
+
+»  vena jugulal   nom
+en   jugular vein
+fr   veine jugulaire
+
+»  estrae la vena de   verbo
+en   devein
+
+»  venal   ajetivo
+en   venous (of veins)
+
+»  venas   nom, plural
+en   veins; grain (rock)
+
+»  veneta   nom
+en   venule (anatomy)
+fr   veinule
+
+vende   verbo transitiva
+Intercambia (alga cosa) per mone; reserva un cuantia de (alga cosa) per intercambia futur
+ca   vendre
+da   sælge
+de   verkaufen
+en   sell, market, retail, peddle
+es   vender
+fr   vendre
+it   vendere
+ja   売る
+nl   verkopen
+pt   vender
+ru   продавать
+
+»  vende   nom
+en   sale; disposal
+fr   vente
+
+»  vende a mercato   verbo
+en   market
+
+»  vende major   nom
+en   wholesale
+
+»  vende nonlegal   verbo
+en   sell illegally, bootleg
+
+»  vende per tro poca   verbo
+en   undercharge
+
+»  vende plu barata ca   verbo
+en   undercut
+
+»  vende tota   verbo
+en   sell out
+
+»  bonvendeda   ajetivo
+en   bestselling
+
+»  bonvendeda   nom
+en   bestseller (book, author)
+
+»  per vende   ajetivo
+en   for sale
+fr   à vendre
+
+»  revende   verbo transitiva
+en   resell
+fr   revendre
+
+»  revende   nom
+en   resale
+fr   revente
+
+»  revendor   nom
+en   resaler
+fr   revendeur
+
+»  vendable   ajetivo
+en   sellable, saleable, marketable
+
+»  vendador   nom
+en   vending machine
+
+»  venderia   nom
+en   dealership, marketplace
+
+»  vendor   nom
+en   vendor, seller, clerk, dealer, salesperson, salesman, saleswoman, sales clerk
+fr   vendeur
+
+»  vendor de drogas   nom
+en   drug seller, drug dealer, drug pusher
+
+»  vendor de libros   nom
+en   bookseller
+fr   libraire
+
+»  vendor de pex   nom
+en   fishmonger
+fr   poissonnier
+
+»  vendor major   nom
+en   wholesaler
+fr   grossiste
+
+»  vendor minor   nom
+en   retailer
+fr   détaillant
+
+»  vendor vagante   nom
+en   peddler, pedlar, hawker
+
+»  vendoria   nom
+en   salesmanship
+
+vendeta   nom
+Un disputa en cual la familia de un person matada atenta venja par mata la mator o sua familia; un disputa seria e estendeda contra algun
+en   vendetta, feud
+fr   vendetta
+
+venena   nom
+Un materia cimical o organica cual, cuando introduida en un organisme, feri o mori lo
+da   gift
+de   Gift
+en   poison, toxin, venom
+eo   veneno
+es   veneno, toxina, ponzoña
+fr   poison, venin
+it   veleno
+nl   vergif
+pt   veneno, toxina
+
+»  antivenenal   nom
+Un medisin per combate la efetos de venena
+en   antivenom
+
+»  desveneni   verbo transitiva
+en   detox, detoxify
+
+»  nonvenenosa   ajetivo
+en   non-toxic, non-poisonous, atoxic
+
+»  veneni   verbo transitiva
+en   poison
+fr   empoisonner
+
+»  venenosa   ajetivo
+en   poisonous, toxic, venomous
+fr   vénéneux
+
+venerdi   nom
+La dia entre jovedi e saturdi en cada semana
+ca   divendres
+de   Freitag
+en   Friday
+eo   vendredo
+es   viernes
+fr   vendredi
+ja   金曜日
+pt   sexta-feira
+ru   пятница
+
+»  venerdi santa   nom
+en   Good Friday
+
+Veneto   nom
+Un rejion en Italia norde-este cual inclui la site Venezia
+en   Veneto, Venetia (Italian region)
+
+Venezia   nom
+Un site en Italia norde-este, locada a lado de un lagon de la Mar Adriatica
+en   Venice
+fr   Venise
+
+Venezuela   nom
+Un pais a la costa norde de America Sude, a lado de la Mar Caribe
+(capital: Caracas)
+en   Venezuela
+
+»  Golfo Venezuela   nom
+Un golfo a norde de Venezuela
+en   Gulf of Venezuela
+
+»  venezuelan   ajetivo
+en   Venezuelan
+
+»  venezuelan   nom
+en   Venezuelan
+
+veni   verbo nontransitiva
+Move o viaja a o en un loca cual es prosima a o conoseda par la parlor; ariva a un loca spesifada
+ca   venir
+da   komme, ankomme
+de   kommen
+en   come, arrive
+eo   veni
+es   venir, llegar, arribar
+fr   venir
+it   venire
+ja   来る
+nl   komen
+pt   vir, chegar
+ru   приходить
+
+»  veni   verbo transitiva
+en   summon, fetch, bring
+
+»  veni   nom
+en   coming, arrival
+fr   venue
+
+»  veni de   verbo
+en   come from, originate from; (have) just
+
+»  veni per vide   verbo
+en   come and see, come to see
+fr   venir voir
+
+»  bonveni   verbo transitiva
+en   welcome
+
+»  bonveni   nom
+en   welcome
+fr   bienvenue
+
+»  bonveni   esclama
+en   welcome
+
+»  bonvenida   ajetivo
+en   welcome
+
+»  bonveninte   ajetivo
+en   welcoming, hospitable
+
+»  en la semana veninte   averbo
+en   next week
+
+»  me veni de dise   verbo
+en   I have just said, I just said (a moment ago)
+fr   je viens de dire
+
+»  nonbonvenida   ajetivo
+en   unwelcome
+
+»  nonbonveninte   ajetivo
+en   unwelcoming, inhospitable
+
+»  pos la du menses veninte   averbo
+en   in two months’ time
+
+»  reveni   verbo nontransitiva
+ca   tornar
+de   zurückkommen, zurückkehren
+en   come back, return, recur
+eo   reveni
+es   volver
+fr   revenir
+ja   帰る
+pt   voltar, retornar
+ru   возвращаться
+
+»  reveni   nom
+en   comeback, return
+
+»  reveni a casa   nom
+en   homecoming
+
+»  reveni de caro   nom
+en   carriage return (character)
+
+»  reveninte   ajetivo
+en   recurring
+
+»  veninte   ajetivo
+en   coming, to come, future, next; inbound
+fr   qui vient
+
+venipuntur   nom
+Un tecnica medical per estrae sangue o introdui medisin a la corpo
+en   venipuncture (medical)
+
+venja   verbo transitiva
+Feri o dana (algun) como un responde a (un feri o dana resetada)
+‹ me venja mea ami per la mata par mea enemi; me venja la mata de mea ami par mea enemi; me venja contra mea enemi ›
+en   avenge, get even
+fr   venger
+
+»  venja   nom
+da   hævn
+de   Rache
+en   vengeance, revenge, retaliation, retribution, vendetta, payback, reprisal
+eo   venĝo
+es   venganza, desquite
+fr   vengeance, revanche
+it   vendetta
+nl   wraak
+pt   vingança
+
+»  venja se   verbo
+‹ me venja me per la desonora ›
+en   avenge oneself, get revenge, get one’s own back, get even, retaliate
+fr   se venger, prendre une revanche
+
+»  entrevenjante   ajetivo
+en   tit-for-tat
+
+»  venjor   nom
+en   avenger
+fr   vengeur
+
+»  venjosa   ajetivo
+en   vengeful, vindictive
+
+venseo   nom
+Un avia insetivor con alas longa e magra, capas de vola rapida
+Apodidae
+en   swift (bird)
+fr   martinet
+
+venta   verbo nontransitiva
+(Aira) move, creante un corente de aira
+en   blow, be windy
+fr   venter
+
+»  venta   nom
+ca   vent
+da   vind
+de   Wind
+en   wind
+eo   vento
+es   viento
+fr   vent
+it   vento
+ja   風
+nl   wind
+pt   vento
+ru   ветер
+
+»  venta de retro   nom
+en   tailwind
+
+»  venta fasante   nom
+en   headwind
+
+»  venta norde-este   nom
+en   northeasterly wind, northeaster
+
+»  venta sude-ueste   nom
+en   southwesterly wind, southwester
+
+»  con la venta   ajetivo
+en   downwind, leeward
+fr   sous le vent
+
+»  contra la venta   ajetivo
+en   upwind, windward
+fr   au vent
+
+»  supraventa   ajetivo
+en   upwind, windward
+
+»  suventa   ajetivo
+en   downwind, lee, leeward
+
+»  ventador   nom
+ca   ventilador
+da   ventilator, fan
+de   Fächer, Ventilator
+en   fan, ventilator
+eo   ventumilo
+es   ventilador, abanico, aventador
+fr   ventilateur
+it   ventilatore
+ja   扇風機
+nl   waaier
+pt   ventilador
+ru   вентилятор
+
+»  venteta   nom
+en   breeze, zephyr
+fr   brise, zéphyr
+
+»  ventetosa   ajetivo
+en   breezy, drafty/draughty
+
+»  venti   verbo transitiva
+en   ventilate, fan, winnow
+fr   ventiler
+
+»  venti   nom
+en   ventilation
+fr   ventilation
+
+»  venton   nom
+en   gale
+fr   bourrasque
+
+»  venton de neva   nom
+en   blizzard
+
+»  ventosa   ajetivo
+en   windy, gusty, blowy
+fr   venteux
+
+ventosa   nom
+Un organo plata o concava cual permete ce un animal adere a un surfas par suca; un aparato simil cual pote adere a un surfas
+en   sucker (anatomy, rubber cup)
+fr   ventouse
+
+»  ventosin   ajetivo
+en   suckerlike
+
+ventre   nom
+La fronte de la adomen
+en   belly, midriff, front, tummy, gut
+fr   ventre
+
+»  desventri   verbo transitiva
+en   disembowel, gut, eviscerate
+fr   éventrer
+
+»  suventre   nom
+en   underbelly
+
+»  ventral   ajetivo
+en   ventral, of the belly, of the front
+fr   ventral
+
+»  ventron   nom
+en   paunch, potbelly, beer belly
+
+ventriculo   nom
+Un caveta en un organo, spesial cada de la du cavetas xef de la cor, o cada de la cuatro cavetas de la serebro
+en   ventricle (anatomy)
+fr   ventricule
+
+ventrilocuo   nom
+Un person ci pote parla en un modo cual pare veni de un otra loca, tipal de un pupa con boca movable
+en   ventriloquist
+fr   ventriloque
+
+»  ventrilocuia   nom
+en   ventriloquy, ventriloquism
+
+venturi   nom
+Un peso corta de tubo magra entre sesiones plu larga, per mesura la rapidia de flue o per suca
+en   venturi (tube)
+
+Venus   nom   «♀»
+(En mitos) un diva, adorada como la diva de ama en Roma antica; (en astronomia) la planeta du de la Sol, vidable tipal ante la leva de sol (comun nomida la stela de matina) o pos la reposa de sol (comun nomida la stela de sera)
+en   Venus (mythology, planet)
+fr   Vénus
+
+vera   ajetivo
+Acordante con fatos o realia
+da   rigtig, aktuel
+de   wahr
+en   true, real, actual, authentic, genuine, veracious, veritable
+eo   vera
+es   real, verdadero, legítimo, actual, existente, cierto, veraz, verdídico, fiel, legítimo, correcto, exacto, preciso
+fr   vrai, réel, authentique
+it   vero, reale
+nl   waar
+pt   real, verdadeiro, certo, correto, veraz, verídico
+
+»  vera   averbo
+da   helt, fuldt
+de   ganz, wirklich, echt
+en   very, truly, really, actually, indeed, in fact, seriously, sincerely, at all, whatsoever
+eo   vere
+es   enteramente, completamente, muy, del todo
+fr   vraiment, réellement
+it   completamente, realmente
+nl   helemaal, vrij, juist, werkelijk
+pt   inteiramente, completamente, muito, bastante
+
+»  vera   esclama
+en   indeed, true
+
+»  vera   nom
+en   true thing, truth, truism
+
+»  vera lo ia aveni   espresa
+en   it did happen (emphatic)
+
+»  vera me desira aida   espresa
+en   I do want to help (emphatic)
+
+»  vera no   averbo
+en   not at all
+fr   vraiment pas
+
+»  vera no cosa   nom
+en   nothing at all, none at all
+fr   rien du tout
+
+»  en vera no modo   averbo
+en   in no way at all, in no way whatsoever
+fr   en aucune manière
+
+»  nonvera   nom
+en   untrue thing, untruth
+
+»  nonveria   nom
+en   untruth, untrueness
+
+»  veria   nom
+en   truth, trueness, veracity, verity
+fr   vérité
+
+veranda   nom
+Un plataforma con teto a la lado de un casa, a la nivel de tera
+ca   veranda
+de   Veranda
+en   veranda, porch
+es   porche
+fr   véranda
+ja   ベランダ
+pt   varanda, entrada, pórtico
+ru   веранда
+
+verbena   nom
+Un planta erbin con grupos de flores briliante
+Verbena
+en   verbena, vervain (plant)
+fr   verveine
+
+verbo   nom
+Un parola usada per descrive un ata, state o aveni, e cual pote es la parte major de la predica de un frase
+en   verb
+fr   verbe
+
+»  preverbal   ajetivo
+en   preverbal (grammar)
+
+»  preverbal   nom
+en   preverbal (grammar)
+
+»  verbal   ajetivo
+Pertinente a o derivada de un verbo
+en   verbal
+
+»  verbin   ajetivo
+Usada en un modo simil a un verbo
+en   verbal
+
+verde   ajetivo
+Con color entre blu e jala en la spetro
+da   grøn
+de   grün
+en   green; verdant
+fr   vert
+it   verde
+nl   groen
+pt   verde
+
+»  verde   nom
+en   green; greenery, verdure; green (golf)
+
+»  verde de cupre   nom
+en   verdigris
+fr   verdegris
+
+»  verdi   verbo nontransitiva
+en   turn green
+fr   devenir vert
+
+»  verdi   verbo transitiva
+en   turn green
+
+»  verdin   ajetivo
+en   greenish
+fr   verdâtre
+
+verdeta   nom
+Un pinson eurasian con plumas verde e jala
+Chloris
+en   greenfinch
+fr   verdier
+
+verdin   nom
+Un avia cantante de Asia sude e sude-este con plumas xef verde e un beco negra
+Chloropsis
+en   leafbird
+fr   verdin
+
+verga   nom
+Un palo longa, perpendicular a un masto de un barcon, cual suporta un vela cuadro
+en   yardarm (for sail)
+
+vergonia   verbo nontransitiva
+Senti embarasada o culpable per sua atas, cualias o asosias
+en   be ashamed, feel shame
+eo   honti
+fr   avoir honte
+
+»  vergonia   verbo transitiva
+en   shame, humiliate
+fr   faire honte
+
+»  vergonia   nom
+da   skam
+de   Schande, Scham
+en   shame, humiliation
+eo   honto
+es   vergüenza, deshonra
+fr   honte
+it   vergogna
+nl   schaamte, schande
+pt   vergonha
+
+»  sin vergonia   ajetivo
+en   shameless, brazen, impenitent, unashamed
+fr   sans vergogne
+
+»  vergoniante   ajetivo
+en   ashamed
+
+»  vergoniosa   ajetivo
+en   shameful
+fr   honteux
+
+verje   verbo nontransitiva
+(Un ojeto movente) cambia sua dirije
+‹ acel auto no ia indica ce lo va verje a destra ›
+→ turna
+en   turn, verge, veer, swerve, yaw (change direction while moving)
+fr   tourner, virer
+
+»  verje   verbo transitiva
+en   turn, swerve
+
+»  verje   nom
+en   turn, swerve
+
+»  verje contra la venta   verbo
+en   tack
+
+»  verje U   nom
+en   U-turn
+fr   virage en épingle à cheveux
+
+»  per cada verje   ajetivo
+en   turn by turn (navigation)
+
+verme   nom
+Un de multe varias de animales nonvertebrato con corpos longa, magra e mol e sin gamas
+da   orm
+de   Wurm
+en   worm
+eo   vermo
+es   gusano, lombriz
+fr   ver
+it   verme
+nl   worm
+pt   verme, lesma, minhoca, lombriga
+
+»  verme de orea   nom
+Un canta o melodia cual repete constante se en la mente
+en   earworm
+
+»  verme de tera   nom
+Lumbricina
+en   earthworm
+fr   ver de terre
+
+»  verme plata   nom
+Platyhelminthes
+en   flatworm, platyhelminth
+fr   ver plat, plathelminthe
+
+»  verme ronda   nom
+Nematoda
+en   roundworm, nematode
+fr   ver rond, nematode
+
+»  desvermi   verbo transitiva
+en   deworm, worm, drench
+
+»  vermi   verbo nontransitiva
+en   worm (move like a worm)
+fr   se tortiller comme un ver
+
+»  vermin   ajetivo
+en   wormlike, vermiform
+fr   vermiforme, vermiculaire
+
+vermiculita   nom
+Un mineral jala o brun, usada per isoli o como un media cual reteni umidia per plantas cresente
+en   vermiculite
+
+vermitxeli   nom
+Pasta formida como cordetas longa e magra
+en   vermicelli (food)
+fr   vermicelle
+
+Vermont   nom
+Un stato en la SUA norde-este, bordante Canada
+en   Vermont (US state)
+
+vermute   nom
+Un vino roja o blanca, saborida con erbas bonodorosa, xef preparada en Frans e Italia e usada en cocteles
+en   vermouth (wine)
+
+vernis   nom
+Resina disolveda en licuida per aplica a lenio, metal o otra materias per formi un surfas dur, clar e briliante cuando lo es seca; un materia vitrin fusada a la surfas de seramica; un licuida como lete o olio bateda, usada per formi un strato briliante a comedas
+en   varnish; glaze
+fr   vernis
+
+»  vernis acuin   nom
+en   shellac
+
+»  vernis de ungia   nom
+en   nail varnish, nail polish
+
+»  vernisi   verbo transitiva
+en   varnish; glaze
+fr   vernir; vernisser
+
+versa   verbo nontransitiva
+(Un licuida) flue rapida e continuante, tipal de un contenador; move rapida de vertical a un angulo plu orizonal
+da   hælde (vand)
+de   giessen
+en   pour, tip
+eo   verŝi
+es   vertir, vaciar, servir, hacer fluir
+fr   verser
+it   versare
+nl   gieten
+pt   verter, derramar
+
+»  versa   verbo transitiva
+en   pour, tip
+
+»  malversa   verbo nontransitiva
+en   spill, upset, tip over
+fr   renverser
+
+»  malversa   verbo transitiva
+en   spill, upset, tip over
+
+vertebra   nom
+Cada de la osos serial cual forma la spina dorsal e tra cual la medula spinal pasa
+en   vertebra
+fr   vertèbre
+
+»  vertebral   ajetivo
+en   vertebral
+fr   vertébral
+
+vertebrato   ajetivo
+en   vertebrate
+fr   vertébré
+
+»  vertebrato   nom
+Un animal en un grupo grande, marcada par la posese de un spina dorsal, incluinte mamales, avias, retiles, amfibios e pexes
+Vertebrata
+en   vertebrate
+
+»  nonvertebrato   ajetivo
+en   invertebrate, spineless
+fr   invertébré
+
+»  nonvertebrato   nom
+en   invertebrate
+
+vertical   ajetivo
+A un angulo de 90° de un plana orizonal; (un paje o scermo) plu alta ca larga
+da   vertikal
+de   senkrecht
+en   vertical, upright; portrait (orientation)
+eo   vertikala
+es   vertical
+fr   vertical
+it   verticale
+nl   verticaal
+pt   vertical
+
+vertigo   nom
+La sensa de jira e perde la ecuilibra, asosiada con regarda a su de un altia grande, o causada par un maladia de la orea interna
+en   vertigo, dizziness, lightheadedness
+fr   vertige
+
+»  vertigosa   ajetivo
+en   dizzy, giddy, light-headed
+fr   pris de vertige
+
+veruca   nom
+Un crese dur ma no canserosa sur la pel, causada par un virus; cualce crese sur la pel de un animal o la surfas de un planta
+en   wart, verruca
+fr   verrue
+
+»  verucosa   ajetivo
+en   warty
+fr   verruqueux
+
+ves   nom
+Cada de la tempos a cual un cosa repetente aveni; cada de la tempos a cual un juor ata en un jua
+→ tempo
+da   gang, tilfælde, begivenhed
+de   Mal
+en   occasion, time, instance; turn (in a game), iteration
+eo   fojo
+es   vez, tiempo, ocasión, instancia, iteración
+fr   fois
+it   volta
+nl   maal, keer
+pt   vez
+
+»  a multe veses   averbo
+en   frequently, often, oftentimes, usually
+fr   souvent
+
+»  a no ves   averbo
+en   on no occasion, at no time
+fr   jamais
+
+»  a poca veses   averbo
+en   rarely, seldom, only occasionally
+fr   rarement
+
+»  a un ves   averbo
+ca   una vegada
+de   einmal
+en   once, one time
+eo   unufoje
+es   una vez
+fr   une fois
+ja   一度
+pt   uma vez
+ru   один раз
+
+»  a un ves o un otra   averbo
+en   at one time or another, sooner or later
+fr   une fois ou une autre
+
+»  a un ves pasada   averbo
+en   once upon a time
+fr   il était une fois
+
+»  a veses   averbo
+en   at times, sometimes; from time to time, now and then, now and again, on occasion, occasionally
+fr   parfois
+
+»  a veses rara   averbo
+en   rarely, seldom, only occasionally
+fr   rarement
+
+»  de ves a ves   averbo
+en   from time to time, now and then, now and again, on occasion, occasionally
+fr   de temps en temps
+
+»  du a cada ves   espresa
+en   two at a time
+fr   deux à chaque fois
+
+»  no a esta ves   averbo
+en   not this time
+fr   pas cette fois-ci
+
+vesica   nom
+Un saco membranosa en cual urina es colieda per escrete; un saco simil de otra contenidas
+en   bladder (anatomy)
+fr   vessie
+
+»  vesica bilal   nom
+en   gall bladder
+fr   vésicule biliaire
+
+vesicula   nom
+Un saco o caveta plenida con aira o licuida, tipal en la corpo de un animal
+en   vesicle (anatomy)
+fr   vésicule
+
+vespa   nom
+Un inseto sosial con alas, taie magra e picador
+Hymenoptera, Apocrita
+en   wasp, hornet
+fr   guêpe, frelon
+
+»  vespa parasital   nom
+en   parasitic wasp
+fr   guêpe parasite
+
+»  vespin   ajetivo
+en   waspish, waspy
+
+vestal   nom
+Un prete fema de la relijio roman antica, ci ia debe resta virjin per la 30 anios de sua servi
+en   Vestal, Vestal Virgin
+
+veste   nom
+Un cosa usada per covre la corpo, tipal de stofa, cuoro o pelo
+da   klædningsstykke
+de   Gewand
+en   garment, piece of clothing
+eo   vestaĵo
+es   vestido, traje, vestuario, ropa
+fr   vêtement
+it   indumento
+nl   kledingstuk
+pt   hábito, roupa, peça de roupa
+
+»  veste alta   nom
+en   top, upper garment
+fr   vêtement pour le haut
+
+»  veste basa   nom
+en   bottom, lower garment
+fr   vêtement pour le bas
+
+»  veste de nada   nom
+en   swimming costume, swimsuit, bathing costume, bathing suit
+fr   maillot de bain
+
+»  veste de sumerjor   nom
+en   wetsuit
+fr   combinaison étanche
+
+»  veste de tomba   nom
+en   shroud
+eo   mortotuko
+
+»  veste desprendeda   nom
+en   castoff
+
+»  veste etnical   nom
+en   traditional costume, national dress
+fr   costume traditionnel, folklorique
+
+»  veste spasial   nom
+en   spacesuit
+fr   combinaison spatiale
+
+»  bonvestida   ajetivo
+en   well-dressed, smart, dapper, debonair, rakish
+
+»  desvesti   verbo transitiva
+en   undress, disrobe
+fr   dévêtir, déshabiller
+
+»  malvestida   ajetivo
+en   badly dressed, poorly dressed
+
+»  nonconveninte vestida   ajetivo
+en   inappropriately dressed, underdressed
+fr   mal habillé
+
+»  revesti   verbo transitiva
+en   reclothe; recoat
+fr   rhabiller, revêtir
+
+»  revesti   nom
+en   recoat, fresh coat (of paint)
+fr   revêtement
+
+»  tro calda vestida   ajetivo
+en   dressed too warmly, overdressed
+fr   habillé trop chaudement
+
+»  tro formal vestida   ajetivo
+en   dressed too formally, overdressed
+fr   habillé de façon trop formelle
+
+»  tro ostentosa vestida   ajetivo
+en   dressed too ostentatiously, overdressed
+fr   habillé de façon trop ostentatoire
+
+»  vesteria   nom
+en   dressing room, changing room, fitting room; vestry; cloakroom, hatcheck
+fr   vestiaire
+
+»  vestes   nom, plural
+ca   roba
+de   Kleidung, Klamotten
+en   clothes, clothing, costume, outfit, dress, apparel, attire, garb, raiment
+eo   vestoj
+es   ropa
+fr   vêtements
+ja   服
+pt   roupa
+ru   одежда
+
+»  vestes de enfantes   nom, plural
+en   childrenswear
+
+»  vestes de femes   nom, plural
+en   womenswear
+
+»  vestes de nada   nom
+en   swimwear
+
+»  vestes de omes   nom, plural
+en   menswear
+
+»  vestes fantasin   nom, plural
+en   costume, fancy dress, getup
+fr   costume de déguisement
+
+»  vestes pronto   nom, plural
+en   ready-to-wear clothing, pret-à-porter clothing
+fr   prêt-à-porter
+
+»  vesteta   nom
+en   undergarment
+fr   sous-vêtement
+
+»  vestetas   nom, plural
+en   underclothes, undergarments, underwear
+fr   sous-vêtements
+
+»  vesti   verbo transitiva
+ca   vestir
+de   anziehen
+en   clothe, dress (including wound); coat (with paint, etc.)
+eo   vesti
+es   vestir
+fr   habiller, vêtir; passer une couche (de peinture)
+ja   着る、着飾る
+pt   vestir
+ru   одевать
+
+»  vesti   nom
+en   coat, coating (paint, etc.)
+fr   habillage; passage de couche
+
+»  vestida   ajetivo
+en   clothed, dressed, clad, suited
+
+»  veston   nom
+en   suit, formal attire
+
+vestibulo   nom
+Un caveta o spasio peti a la comensa de un canal anatomial, per esemplo de la labirinto de la orea interna, la larinje, e la aorta
+en   vestibule
+
+»  vestibulal   ajetivo
+Pertinente a la sensa de ecuilibra e move en la orea interna
+en   vestibular
+
+vestijio   nom
+Un indica restante de alga cosa cual desapare o no esiste plu; un peso pico de alga cosa
+en   vestige
+fr   vestige
+
+»  vestijial   ajetivo
+en   vestigial
+fr   vestigial
+
+veteran   ajetivo
+Un person ci ia esperia longa un campo spesifada; un person ci ia servi militar
+en   veteran, vet
+fr   vétéran
+
+»  veteran   nom
+en   veteran, vet
+
+veterinar   ajetivo
+Pertinente a la maladias, feris e trata medical de animales
+en   veterinary
+
+»  dotor veterinar   nom
+en   veterinarian, vet
+
+»  medica veterinar   nom
+en   veterinary medicine
+
+veto   nom
+Un direto ofisial per rejeta un deside de otras, tipal de un lejeria
+en   veto
+
+»  veti   verbo transitiva
+Usa un veto contra
+en   veto
+
+vetor   nom
+Un cuantia con no sola grandia ma ance un dirije, tipal indicante la loca spasial de un punto en relata con un otra; un matris con sola un linia o colona
+en   vector, one-dimensional array; array (software)
+fr   vecteur
+
+»  vetor de asosia   nom
+en   associative array (software)
+
+»  vetoral   ajetivo
+en   vector
+
+vetulicola   nom
+Un jenero de animales peti de la cambrian
+Vetulicola
+en   vetulicola (ancient animal)
+
+via   nom
+Un tereno usada o creada per vade o viaja, como un rua, strada, etc
+ca   via
+da   rute, sti, kurs, måde
+de   Bahn, Weg
+en   way, avenue, route, course, path, approach
+es   ruta, camino, curso, rumbo, via, itinerario, paso, pasaje, senda, sendero, vereda, trayectoria
+fr   voie, chemin, route, itinéraire
+it   via, passaggio, strada
+ja   ハイウェイ
+nl   weg, route
+pt   via, rota, caminho, curso
+ru   путь, дорожка
+
+»  via de rola   nom
+en   taxiway (airport)
+
+»  Via Letin   nom
+en   Milky Way (astronomy)
+fr   Voie Lactée
+
+»  via levada   nom
+en   causeway
+fr   chaussée
+
+»  via navigable   nom
+en   waterway
+fr   voie navigable
+
+»  via ondante   nom
+en   roller coaster
+
+»  via periferial   nom
+en   beltway, ringroad, orbital
+
+»  via rapida   nom
+en   quick route, shortcut
+fr   raccourci
+
+»  via reta   nom
+en   straight, straightaway
+
+»  via xef   nom
+en   main road, highway, freeway, throughway, thruway
+fr   voie principale
+
+»  a via   averbo
+en   (go, throw, put) away, (saw) off, (throw) out
+fr   au loin
+
+»  a via de   preposada
+en   away from
+eo   for de
+
+»  a via de vias   ajetivo
+en   in the middle of nowhere, in the back of beyond
+eo   meze de nenie
+
+»  a via de vias comun   ajetivo
+en   off the beaten track
+
+»  en via   averbo
+en   on the way, en route
+eo   survoje
+fr   en route
+
+»  suvia   nom   (dise ‘suvía’)
+en   underpass
+
+viable   ajetivo
+en   viable
+
+»  viablia   nom
+en   viability
+
+viaduto   nom
+Un spesie de ponte longa, tipal con un serie de arcos, par cual un via o ferovia traversa un vale, un otra tera basa, o un otra via o ferovia
+en   viaduct; overpass, flyover
+fr   viaduc
+
+viaja   verbo nontransitiva
+Vade, tipal tra un distantia longa
+ca   viatjar
+da   rejse, ride, køre
+de   reisen
+en   travel
+eo   vojaĝi
+es   viajar
+fr   voyager
+it   viaggiare
+ja   旅する
+nl   rijden
+pt   viajar
+ru   путешествовать
+
+»  viaja   nom
+de   Fahrt
+en   journey, trip, voyage, drive
+eo   vojaĝo
+es   viaje, jornada, travesía, recorrido, jira
+fr   voyage
+it   viaggio
+nl   reis
+pt   viagem, jornanda
+
+»  viaja dial   verbo
+en   commute
+fr   faire la navette
+
+»  viaja dial   nom
+en   commute
+fr   navette
+
+»  viaja per plaser   verbo
+en   cruise
+
+»  viaja per plaser   nom
+en   cruise
+
+»  viaja tra la mundo   nom
+en   world travel
+fr   voyage à travers le monde
+
+»  viaja tra la ueb   verbo
+en   surf the net
+fr   surfer, naviguer sur le web
+
+»  viaja tra tempo   nom
+en   time travel
+fr   voyage à travers le temps
+
+»  viaja vagante   verbo
+en   wend one’s way
+
+»  viajor   nom
+ca   viatger
+de   Reisender
+en   traveler/traveller, voyager, passenger, wayfarer
+eo   vojaĝanto
+es   viajero
+fr   voyageur
+ja   旅人
+pt   viajante
+ru   путешественник
+
+»  viajor de mar   nom
+en   seafarer
+
+»  viajor dial   nom
+en   commuter
+
+»  viajor tra la mundo   nom
+en   world traveler/traveller, globetrotter
+
+»  viajor tra tempo   nom
+en   time traveler/traveller
+
+viajamania   nom
+Un desira forte per viaja
+en   wanderlust, urge to travel
+
+»  viajamanica   ajetivo
+en   globetrotting, habitually traveling/travelling
+
+»  viajamanica   nom
+en   globetrotter, habitual traveler/traveller
+fr   globetrotter
+
+vibra   verbo nontransitiva
+Move continuante e rapida de asi a ala; un (sona) varia rapida en tono; (lumina) cambia rapida sua brilia
+en   vibrate, thrill; flicker (lights); trill (sound)
+fr   vibrer, palpiter, clignoter
+
+»  vibra   verbo transitiva
+en   vibrate, trill, twang
+
+»  vibra   nom
+en   vibration, frisson, twang, vibrato, trill
+fr   vibration
+
+»  vibrador   nom
+en   vibrator, buzzer
+fr   vibreur
+
+»  vibrante   ajetivo
+en   vibrating, thrilling; flickering (lights); trilled
+fr   vibrant, palpitant, clignotant
+
+»  vibrante   nom
+en   trill (consonant)
+
+vibrafon   nom
+Un strumento de percute, con un serie de baras metal supra tubos resonante e vibrante
+en   vibraphone (musical instrument)
+
+vibrisa   nom
+Un capel longa e estendeda, cresente de la fas o beco de multe mamales; un filo simil cual crese de la boca o beco de un pex
+en   whisker; barb, barbel (of fish)
+fr   vibrisse
+
+»  vibrisin   ajetivo
+en   whiskerlike
+
+viburno   nom
+Un arboreta con grupos plata o ronda de flores blanca e peti
+Viburnum
+en   viburnum (plant)
+fr   viorne
+
+vici   nom
+Un loca ueb cual permete ce sua usores edita sua contenidas e strutur
+nb   La parola veni de "wiki" en hawaian, do W es pronunsiada como W o V. Alga linguas usa la spele "vici", ma no lingua usa la spele "uici".
+en   wiki
+fr   wiki
+
+vicing   ajetivo
+Cualce de la piratas e mercatores de Scandinavia ci ia ataca e coloni multe partes de Europa entre 700 e 1100
+en   Viking
+fr   Viking
+
+»  vicing   nom
+en   Viking
+
+Vicipedia   nom
+Un ensiclopedia grande enlinia, con forma de un vici internasional
+en   Wikipedia
+fr   Wikipedia
+
+Victoria   nom
+en   Victoria
+
+»  Lago Victoria   nom
+La lago la plu grande en Africa, en Uganda e Tanzania e bordante Cenia, drenada par la Rio Nilo
+en   Lake Victoria
+
+victorian   ajetivo
+Pertinente a la rena de Rea Victoria de Britan, incluinte la valuas, modas, arte, etc de la periodo
+en   Victorian
+fr   victorien
+
+vicunia   nom
+Un relatada de la liama, abitante la montanias alta de America Sude e valuada per sua lana sedin
+Vicugna vicugna
+en   vicuña (animal)
+fr   vigogne
+
+vide   verbo transitiva
+Persepi (alga cosa) par la oios; regarda (un filma, sporte, etc); comprende pos investiga o pensa
+ca   veure
+da   se
+de   sehen
+en   see (including discover, understand), sight, witness; watch (film, sport)
+eo   vidi
+es   ver (mirar, observar)
+fr   voir
+it   vedere
+ja   見る
+nl   zien
+pt   ver
+ru   видеть
+
+»  vide   nom
+en   sight, vision, eyesight
+fr   vue, vision
+
+»  vide   esclama
+en   see, look
+
+»  vide tunelin   nom
+en   tunnel vision
+
+»  asta revide   esclama
+en   bye, goodbye, see you
+fr   au revoir
+he   להתראות
+
+»  desvide   verbo transitiva
+en   unsee
+
+»  fasil vidable   ajetivo
+en   salient, conspicuous
+fr   saillant
+
+»  no vide   verbo
+en   miss, not see
+
+»  nonprevidable   ajetivo
+en   unforeseeable
+fr   imprévisible
+
+»  nonprevideda   ajetivo
+en   unforeseen, unexpected
+
+»  nonsupravideda   ajetivo
+en   unsupervised
+
+»  nonvidable   ajetivo
+en   invisible
+fr   invisible
+
+»  nonvidablia   nom
+en   invisibility
+fr   invisibilité
+
+»  nonvideda   ajetivo
+en   unseen, unwitnessed
+
+»  partal vidente   ajetivo
+en   partially sighted
+
+»  previdable   ajetivo
+en   foreseeable
+fr   prévisible
+
+»  previde   verbo transitiva
+en   foresee, expect, anticipate, preview
+fr   prévoir, anticiper
+
+»  previde   nom
+en   preview, expectation, anticipation, foresight; advance showing, prevue
+fr   prévision, anticipation
+
+»  prevideta   nom
+en   trailer, trail (film, TV)
+
+»  previdor   nom
+en   seer, visionary
+fr   voyant, visionnaire
+
+»  revide   verbo transitiva
+en   see again
+fr   revoir
+
+»  revide   nom
+en   seeing again
+fr   révision
+
+»  supravide   verbo transitiva
+en   supervise, oversee, look over
+fr   superviser
+
+»  supravide   nom
+en   supervision, overseeing, oversight
+fr   supervision
+
+»  supravidor   nom
+en   supervisor, overseer, superintendent, chaperone
+fr   superviseur
+
+»  supravidor de carga   nom
+en   cargo supervisor, supercargo
+
+»  (tu) vide   esclama
+en   you see (filler)
+fr   tu vois
+
+»  vidable   ajetivo
+en   visible; macroscopic
+fr   visible; macroscopique
+
+»  vidablia   nom
+en   visibility
+
+»  vidador   nom
+en   viewer (machine); viewfinder; sight (gun)
+fr   visionneuse
+
+»  vidal   ajetivo
+en   visual
+fr   visuel
+
+»  vidente   ajetivo
+en   seeing, sighted
+
+»  videta   verbo transitiva
+en   glimpse, peek, peep, pry
+fr   jeter un coup d’oeil
+
+»  videta   nom
+en   glimpse, peek, peep, pry
+fr   coup d’oeil
+
+»  videta acaso   verbo
+en   glimpse
+
+»  videta acaso   nom
+en   glimpse
+
+»  videta secreta   verbo
+en   peek
+
+»  videta secreta   nom
+en   peek
+
+video   ajetivo
+Pertinente a la rejistra, reprodui o difusa de imajes vidal movente
+en   video
+fr   vidéo
+
+»  video   nom
+en   video
+fr   vidéo
+
+»  video par comanda   nom
+en   video on demand
+fr   vidéo à la demande
+
+»  videador   nom
+en   video recorder, video player, VCR, DVD player
+fr   lecteur vidéo, enregistreur vidéo
+
+vidua   ajetivo
+(Un person) de ci sua spos es mor
+en   widowed
+fr   veuf
+
+»  vidua   nom
+en   widow, widower
+fr   veuf, veuve
+
+»  vidui   verbo nontransitiva
+en   become widowed
+fr   devenir veuf ou veuve
+
+vidua   nom
+Un texor african, de cual la mas ave un dorso negra e un coda negra e multe longa, usada per cortea en vola
+Vidua
+en   indigobird, whydah
+fr   Vidua
+
+Vietnam   nom
+Un pais en Asia sude-este, a lado de la Mar Xina Sude
+(capital: Hanoi)
+en   Vietnam
+
+»  viet   ajetivo
+en   Vietnamese (person, language)
+
+»  viet   nom
+en   Vietnamese (person, language)
+
+vijila   verbo transitiva
+Regarda o oserva (alga cosa) con atende, tipal per un tempo longa, per nota problemes o peril
+en   watch, be vigilant, be alert, keep an eye on, monitor
+fr   être vigilant à, surveiller
+
+»  vijila   nom
+en   watch, vigil, vigilance, surveillance, stakeout
+fr   veille, vigilance, surveillance
+
+»  vijila de tota santas   nom
+en   Halloween, All Hallows’ Eve, All Saints’ Eve
+
+»  es vijilante   verbo
+en   be vigilant, watch out, keep a lookout
+fr   être vigilant
+
+»  vijilante   ajetivo
+da   vågen
+de   wachsam
+en   vigilant, alert, watchful, hawk-eyed
+es   alerta, vigilante, atento
+fr   vigilant, alerte
+it   attento
+nl   waakzaam, paraat
+pt   vigilante, atento, alerta
+
+»  vijilor   nom
+en   sentinel, watchman, lookout, proctor
+fr   veilleur, sentinelle
+
+»  vijilor estralegal   nom
+en   vigilante
+
+vil   ajetivo
+(Un person) multe nonplasente, sin prinsipes moral
+en   vile, loathsome, depraved, ignoble, fiendish
+
+»  vil   nom
+en   villain, scoundrel, crook, con man, miscreant, evildoer, malfeasant, culprit, wrongdoer, reprobate, rogue, scoundrel, fiend
+
+»  vilia   nom
+en   vice, villainy, depravity
+
+vila   nom
+Un urbe con nom, bordas definida e governa local, min grande ca un site
+en   town
+eo   urbo
+fr   ville
+
+»  vila bumante   nom
+en   boomtown
+
+»  vila de nase   nom
+en   birthtown, hometown
+
+»  vila de universia   nom
+en   campus
+
+»  vila provinsal   nom
+en   backwater, boondocks
+
+»  vilan   nom
+en   townsman, townswoman, townsperson, townie
+
+»  vileta   nom
+Un grupo de casas e construidas relatada en la campania
+da   by, landsby
+de   Dorf
+en   village
+eo   vilaĝo
+es   aldea, villa, pueblo, pueblito, caserío
+fr   village
+it   villaggio
+nl   dorp
+pt   vila, aldeia, aldeamento, pequena cidade
+
+»  vileta noncorporada   nom
+en   unincorporated village, hamlet
+
+»  viletan   nom
+en   villager
+
+vilo   nom
+Cada de multe protendes pico e longida sur un surfas; un estende peti e ditin de la fore de la intestin magra
+en   villus (pl. villi) (anatomy)
+
+vim   nom
+Bastetas pliable, tipal de salse, trensada o texeda per fabrica cosas como mobilas e sestos
+en   wicker, wattle (twigs)
+
+vina   nom
+Un strumento de cordetas de Barat
+en   veena (musical instrument)
+
+vinagra   nom
+Un licuida con sabor asida, produida par fermenta licuidas alcolosa diluida, tipal vino, bir o sidra, e usada como un spise o marininte
+ca   vinagre
+da   edike
+de   Essig
+en   vinegar
+es   vinagre
+fr   vinaigre
+it   aceto
+ja   酢
+nl   azijn
+pt   vinagre
+ru   уксус
+
+»  vinagreta   nom
+Un salsa per salada, composada de olio, vinagra e spises
+en   vinaigrette
+
+»  vinagri   verbo transitiva
+en   marinate in vinegar, marinade, pickle
+
+»  vinagrida   ajetivo
+en   pickled
+
+vinca   nom
+Un planta basa de la mundo vea con flores plana e tipal blu, con sinco petales
+Vinca
+en   vinca, periwinkle (plant)
+
+vinieta   nom
+Un desinia o descrive peti
+en   vignette, decorative symbol
+
+vinil   nom
+Un resina sinteseda o plastica de clorido de polivinil o polimer simil, usada per paper de mur e per discos de fonograf
+en   vinyl
+
+»  polivinil   nom
+en   polyvinyl chloride, PVC
+
+»  polivinil cuorin   nom
+en   naugahyde
+
+vino   nom
+Un bevida alcolosa produida par fermenta jus de uvas
+ca   vi
+da   vin
+de   Wein
+en   wine
+es   vino
+fr   vin
+it   vino
+ja   ワイン
+nl   wijn
+pt   vinho
+ru   вино
+
+»  vino bolante   nom
+en   sparkling wine
+
+»  vino calda   nom
+en   mulled wine, wassail
+
+»  vino fortida   nom
+en   fortified wine
+
+»  vendor de vinos   nom
+en   wine merchant, vintner
+
+»  vineria   nom
+en   winery
+
+»  vinor   nom
+en   winemaker, vintner
+
+vinofilia   nom
+Un ama de vino
+en   enophilia/oenophilia (love of wine)
+
+»  vinofilica   nom
+en   enophile/oenophile
+
+vinolojia   nom
+La studia de vinos
+en   enology/oenology
+
+vinse   verbo transitiva
+Causa un defeta a (algun) en un batalia o otra concurso
+en   beat, defeat, vanquish, surmount, overcome, subdue, trounce; win, be victorious
+
+»  vinse   nom
+en   victory, triumph
+
+»  vinse inondante   nom
+en   landslide victory
+
+»  vinse sin valua   nom
+en   Pyrrhic victory
+
+»  nonvinsable   ajetivo
+en   invincible, insurmountable, insuperable
+
+»  nonvinseda   ajetivo
+en   unbeaten, undefeated
+
+»  vinsable   ajetivo
+en   vincible
+
+»  vinsal   ajetivo
+en   triumphal
+
+»  vinseda   ajetivo
+en   vanquished, defeated
+
+»  vinseda   nom
+en   vanquished, defeated
+
+»  vinsente   ajetivo
+en   victorious, triumphant
+
+»  vinsisme   nom
+en   triumphalism
+
+»  vinsor   nom
+en   victor, conqueror, winner
+
+viola   nom
+Un strumento de cordetas, plu grande ca un violin ma min grande ca un xelo
+en   viola
+
+»  viola de rota   nom
+en   hurdy-gurdy, wheel fiddle
+
+»  viola vertical   nom
+en   viol, viola de gamba
+
+»  violiste   nom
+en   violist
+
+viole   verbo transitiva
+Fali segue (un regula o lege); fali respeta (la pas, privatia o diretos de algun); trata (algun o alga cosa santa) sin respeta; ataca sesal (algun)
+en   violate, infringe, break (rule, law), transgress, defile, desecrate; rape, ravish
+
+»  viole   nom
+en   violation, infringement, infraction, transgression, aggression; rape (sexual assault)
+
+»  viole de patenta   nom
+en   patent infringement
+
+»  nonviolable   ajetivo
+en   inviolable, sacrosanct
+
+»  nonviolente   ajetivo
+en   non-violent
+
+»  violente   ajetivo
+da   voldsom
+de   gewalttätig
+en   violent, harsh, aggressive, militant
+es   violento, agresivo, tosco, áspero
+fr   violent
+it   violento
+nl   gewelddadig
+pt   violento, agressivo
+
+»  violente   nom
+en   brute, thug, roughneck
+
+»  violentia   nom
+en   violence
+
+»  violentia familial   nom
+en   domestic violence, domestic abuse
+
+»  violor   nom
+en   violator; rapist
+
+violeta   ajetivo
+Con color bluin purpur
+en   violet (color/colour)
+
+»  violeta   nom
+Un planta erbin con flores purpur, blu o blanca
+Viola
+en   violet (plant)
+
+violin   nom
+Un strumento de cordetas, juada con arco
+en   violin, fiddle
+
+»  violiniste   nom
+en   violinist, fiddler
+
+vipera   nom
+Un serpente venenosa con dentones grande e xarnierida
+Viperidae
+en   viper, adder, asp
+
+vireo   nom
+Un avia cantante peti de America, tipal con dorso verde o gris e peto jala o blanca
+Vireonidae
+en   vireo (bird)
+
+Virginia   nom   (dise ‘verdjinia’)
+Un stato en la SUA este, bordante la Mar Atlantica
+en   Virginia (US state)
+
+»  Virginia Ueste   nom
+Un stato en la SUA
+en   West Virginia (US state)
+
+virgula   nom
+Un marca de puntua cual indica un pausa entre partes de un frase, separa cosas en un lista, o indica la comensa de la parte fratal de un cuantia scriveda con dijitos
+en   comma
+
+»  de virgula flotante   nom
+en   floating-point (number)
+
+»  virgula desimal   nom
+en   decimal point
+
+virjin   ajetivo
+(Un person) ci no ia copula e ia fa no otra relatas sesal; (metafor) naive, sin esperia
+en   virginal, sexually innocent, chaste
+
+»  virjin   nom
+en   virgin, maiden
+
+»  Virjin   nom   «♍»
+en   Virgo (constellation)
+
+»  virjinia   nom
+en   virginity, chastity
+
+»  Isolas Virjin   nom, plural
+Un grupo de isolas en la Mar Caribe norde-este, governada par la SUA e la Rena Unida
+en   Virgin Islands
+
+»  Isolas Virjin Brites   nom, plural
+en   British Virgin Islands
+
+virola   nom
+Un arbor de la foresta tropical de America Sude, relatada a la muscada
+Virola
+en   virola (tree)
+
+virolojia   nom
+La ramo de biolojia cual studias viruses
+en   virology
+
+»  virolojiste   nom
+en   virologist
+
+virtua   nom
+Un condui o cualia cual mostra bon moralia
+en   virtue, purity, decency, innocence, righteousness, rectitude
+
+»  virtuosa   ajetivo
+en   virtuous, pure, decent, innocent, righteous
+
+»  virtuosia   nom
+en   decency, righteousness, probity
+
+virtual   ajetivo
+Sin esiste fisical ma creada par programes per pare real
+en   virtual
+
+virus   nom
+Un organisme infetante, tipal composada de un molecula de asida nucleal en un covrente de protena, capas de copia se sola en la selulas vivente de un ospitor; (en informatica) un program, tipal malvolente, cual es capas de copia se
+da   virus
+de   Virus
+en   virus
+es   virus
+fr   virus
+it   virus
+nl   virus
+pt   vírus
+
+»  virus de imunodebilia umana   nom
+en   human immunodeficiency virus, HIV
+
+»  antivirusal   ajetivo
+(Un medisin) per combate viruses; (un program) capas de deteta e elimina viruses de computador
+en   antiviral; antivirus (software)
+he   אנטיווירוס; תוכנת אנטיווירוס
+
+»  virusal   ajetivo
+en   viral (of viruses)
+
+vis-   prefisa, nom
+Ajuntada a un nom de posto per nomi la suordinada direta seguente
+‹ visre ›
+en   vice-, deputy (added to nouns denoting official jobs)
+
+visa   nom
+Un validi sur un pasaporto cual indica ce on permete ce la posesor entra a, sorti de, o resta en un nasion per un periodo spesifada
+en   visa (for travel)
+
+Visayas, Mar   nom
+Un mar interna de la Pilipinas, a este de Panai
+en   Visayan Sea
+
+viscio   nom
+Un planta parasital cual crese sur pomos, cuercos o otra arbores e porta bacas blanca en la inverno
+Viscum
+en   mistletoe
+
+viscosa   ajetivo
+(Un licuida) aderosa o no libre fluente
+da   klistret, tyktflydende, klæbrig
+de   klebrig, zähflüssig
+en   viscous, thick, sticky, gooey, goopy, gloopy
+es   pegajoso, adherente, viscoso, denso, grueso, espeso
+fr   poisseux, visqueux
+it   appiccicoso, denso, viscoso
+nl   kleverig, taai, visceus
+pt   pegajoso, aderente, viscoso, denso, grosso, espesso
+
+»  viscosia   nom
+en   viscosity, thickness, stickiness, consistency
+
+vise   nom
+Un peso de metal corta, magra e silindre con fileta elica, usada per junta un cosa a un otra, con un punto agu o un torca
+da   skrue
+de   Schraube
+en   screw (fastener); bolt (for nut)
+eo   ŝraŭbo
+es   tornillo
+fr   vis
+it   vite
+nl   schroef
+pt   parafuso
+
+»  vise crusin   nom
+en   crosshead screw, Phillips screw
+
+»  vise cuadro   nom
+en   square screw, square bolt
+
+»  vise de Allen   nom
+en   Allen screw, Allen bolt
+
+»  vise esagon   nom
+en   hex-cap screw, hex-cap bolt
+
+»  vise nonfininte   nom
+en   wormgear
+
+»  vise per lenio   nom
+en   wood screw
+
+»  vise per metal   nom
+en   metal screw
+
+»  vise ranurida   nom
+en   slot screw
+
+»  desvisi   verbo transitiva
+en   unscrew
+
+»  visi   verbo transitiva
+en   screw, bolt
+
+visera   nom
+La organos interna en la cavetas major de la corpo, spesial los en la adomen
+en   viscera, guts (treated as a mass noun)
+
+»  viseral   ajetivo
+en   visceral
+
+visia   nom
+Un planta erbin e trepante en familia de piso
+Vicia
+en   vetch, tare (plant)
+
+visiera   nom
+Un borda firma a la fronte de un xapeta; la parte movable de un elmo cual pote covre la fas; un scermo per proteje la oios de lus intensa, como en un auto
+en   visor
+
+visigoto   ajetivo
+Pertinente a un ramo de la gotos ci ia invade la Impero Roman entre 200 e 500, e ia rena multe de Espania asta 711
+en   Visigothic
+
+»  visigoto   nom
+en   Visigoth
+
+visina   ajetivo
+Prosima abitante; situada a lado de un otra cosa
+en   neighboring/neighbouring, adjoining, adjacent
+
+»  visina   nom
+en   neighbor/neighbour
+
+»  visineria   nom
+en   neighborhood/neighbourhood
+
+»  visineria de lata   nom
+en   shanty town, squatter camp
+
+»  visineria misera   nom
+en   slum
+
+»  visineria rica   nom
+en   rich neighborhood/neighbourhood, uptown
+
+»  visinia   nom
+en   vicinity
+
+visita   verbo transitiva
+Vade per encontra sosial (algun) e pasa tempo con el; (un invitada o turiste) resta tempora con (algun) o a (un loca)
+ca   visitar
+da   besøge
+de   besuchen
+en   visit
+es   visitar
+fr   visiter
+it   visitare
+ja   訪ねる
+nl   bezoeken
+pt   visitar
+ru   посещать
+
+»  visita   nom
+en   visit, stopover, call
+fr   visite
+
+»  cuantia de visitores   nom
+en   number of visitors, attendance
+
+»  revisita   verbo transitiva
+en   revisit
+
+»  visitor   nom
+en   visitor; guest, boarder (hotel)
+
+»  visitor invitada   nom
+en   guest
+
+vison   nom
+Un mamal carnivor peti, semiacual e nativa de America Norde e Eurasia, valuada per sua pelo
+Mustela vison, Mustela lutreola
+en   mink (animal)
+
+vista   nom
+Un vide bela, tipal un sena natural regardada de un punto spesifada; la cualias estetical de un area de tera
+ca   vista
+de   Sicht, Aussicht
+en   view, sight, vista, prospect, landscape, scenery
+es   vista
+fr   vue
+ja   景観
+pt   vista, panorama
+ru   вид, панорама
+
+»  vista airal   nom
+en   bird’s-eye view
+
+»  vista de mar   nom
+en   seascape
+
+»  vista de mundo   nom
+en   world view, Weltanschauung
+
+»  vista jeneral   nom
+en   overview (of topic)
+
+»  vista ladal   nom
+en   sideview
+
+»  con vista bela   ajetivo
+en   scenic
+
+»  en vista de   preposada
+en   in sight of
+
+»  estra vista   averbo
+en   out of sight
+
+»  retrovista   nom
+en   rear view
+
+»  ultra vista   averbo
+en   out of sight
+
+vitamina   nom
+Cada de un grupo de composadas organica cual es esensal per la nuri e crese normal, e cual es nesesada en cuantias peti car los no pote es sinteseda par la corpo
+en   vitamin
+
+»  vitamina C   nom
+en   vitamin C, ascorbic acid
+
+vite   nom
+Un planta trepante en familia de uvo; un planta simil de otra familias
+en   vine
+
+»  viteria   nom
+en   vineyard
+
+»  viteta   nom
+en   tendril
+
+vitelo   nom
+La parte jala de la interna de un ovo de un avia; la parte corespondente en la ovo o larva de tota vertebratos e alga nonvertebratos
+en   yolk
+
+Viti   nom
+Un pais en la Mar Pasifica sude, composada de plu ca 800 isolas
+(capital: Suva)
+→ Fiji
+en   Fiji
+
+»  viti   ajetivo
+en   Fijian
+
+»  viti   nom
+en   Fijian
+
+vitiligo   nom
+Un maladia en cual partes de la pel perde sua pigmento, causante areas blanca
+en   vitiligo (medical)
+
+vitim   nom
+Un person o otra organisme danada, ferida o matada par un crimin, asidente o otra aveni o ata; un person ci es frodada o enganada
+en   victim, casualty, prey
+
+»  sin vitim   ajetivo
+en   victimless
+
+»  vitimi   verbo nontransitiva
+en   become a victim, fall prey (to), fall foul (of)
+
+»  vitimi   verbo transitiva
+en   victimize/victimise
+
+vitriol   nom
+Critica cruel e amarga
+en   vitriol
+
+»  vitriolosa   ajetivo
+en   vitriolic
+
+vitro   nom
+Un materia dur e frajil, tipal transparente o diafana, creada par fusa arena con carbonato de sodio e calce e fresci rapida; un contenador de esta materia, usada per bevi; un plata peti de esta materia, usada per porta cosas cual on regarda con microscopio
+ca   got, vas
+da   glas
+de   Glas
+en   glass (substance, container); slide (microscope)
+es   cristal, vidrio, vaso
+fr   verre
+it   vetro
+ja   グラス
+nl   glas
+pt   vidro, copo
+ru   бокал, стакан
+
+»  vitro acrilica   nom
+en   perspex, plexiglass, lucite, polymethyl methacrylate, poly
+
+»  vitro colorida   nom
+en   stained glass
+
+»  vitro de coniac   nom
+en   brandy glass, snifter
+
+»  vitro de fenetra   nom
+en   window pane
+
+»  vitro de forno   nom
+en   pyrex
+
+»  vitro de vino   nom
+en   wine glass
+eo   vinglaso
+fr   verre à vin
+
+»  en vitro   ajetivo
+en   in vitro
+
+»  vitreta   nom
+en   shotglass; shot (drink)
+
+»  vitri   verbo nontransitiva
+en   vitrify
+
+»  vitri   verbo transitiva
+en   vitrify; glaze (window)
+
+»  vitri   nom
+en   vitrification
+
+»  vitrin   ajetivo
+en   glassy, glazed, vitreous
+
+»  vitror   nom
+en   glazier
+
+»  vitros   nom, plural
+en   glasses, stemware
+
+viu   corti
+Virus de imunodebilia umana
+en   HIV
+
+vive   verbo nontransitiva
+Esiste como un individua biolojial; no es mor
+ca   viure
+da   leve
+en   live, be alive
+es   vivir
+fr   vivre
+it   essere vivo, essere in vita
+ja   生きる
+nl   leven
+pt   viver, estar vivo
+ru   жить
+
+»  vive   verbo transitiva
+en   cause to live, keep alive
+
+»  vive   nom
+da   liv
+de   Leben
+en   life
+es   vida
+fr   vie
+it   vita
+pt   vida
+
+»  vive intera   nom
+en   lifetime, lifespan
+
+»  vive la re   esclama
+en   long live the king
+
+»  vive plu longa ca   verbo
+en   outlive
+
+»  vive pos mori   nom
+en   life after death, afterlife, hereafter
+
+»  de vive intera   ajetivo
+en   lifelong
+
+»  duivive   nom
+La tempo en cual la radioativia de un isotopo spesifada diminui a un dui de sua valua orijinal
+en   half-life
+
+»  en vive   ajetivo
+en   in vivo
+
+»  provival   ajetivo
+en   pro-life
+
+»  revive   verbo nontransitiva
+en   live again, come back to life
+
+»  revive   verbo transitiva
+en   revive, resuscitate, resurrect, revitalize, relive
+
+»  revive   nom
+en   revival, resuscitation, resurrection, revitalization/revitalisation
+
+»  vivente   ajetivo
+da   levende, livlig
+de   lebendig
+en   alive, live, living
+es   vivo, viviente, activo
+fr   vivant
+it   vivente, vivo
+nl   levend
+pt   vivo, ativo, vivente
+
+»  vivente   nom
+en   creature, organism, lifeform
+
+»  viventes savaje   nom
+en   wildlife
+
+»  viveria   nom
+en   nursery (for plants)
+
+»  vivin   ajetivo
+en   lifelike, vivid
+
+»  vivosa   ajetivo
+en   lively, vivacious, vital, jaunty, spry, spirited, full of life; allegro (music)
+
+»  vivosa   nom
+en   lively person, swinger (socaliser)
+
+»  vivosia   nom
+en   liveliness, vitality, esprit, spiritedness
+
+viverna   nom
+Un dragon con alas, du gamas e un coda spinosa
+en   wyvern (mythology)
+
+vivipari   verbo nontransitiva
+Pari enfantes vivente, e no de un ovo cual separa de la corpo de la madre; (un planta) reprodui de un broto cuando ancora liada a la planta orijinal
+en   be viviparous (give birth to live offspring)
+
+»  viviparia   nom
+en   vivipary
+
+»  viviparinte   ajetivo
+en   viviparous
+
+vivisesioni   verbo transitiva
+Fa sirurjia sur un animal vivente per rexerca siensal
+en   vivisect
+
+»  vivisesioni   nom
+en   vivisection
+
+vixisuaz   nom
+Un pure fria de patatas, poros e crema, orijinante en Frans
+en   vichyssoise (soup)
+fr   vichyssoise
+
+Vixnu   nom
+Un de la tre dios suprema en induisme, tipal regardada como la conservor
+en   Vishnu (Hinduism)
+
+vizir   nom
+Un ofisior alta en alga paises muslim
+en   vizir, vizier (officer)
+
+vocabulo   nom
+La colie de parolas en un lingua o campo spesifada; la parolas conoseda par un individua
+da   vokabularium
+de   Wortschatz
+en   vocabulary, lexicon
+es   vocabulario
+fr   vocabulaire
+it   vocabolario, lessico
+nl   woordenschat, vocabulaire
+pt   vocabulário, léxico
+
+»  vocabulal   ajetivo
+en   lexical
+
+vocal   ajetivo
+Pertinente a un sona de parla produida par un formi relativa abrida de la curso de vose, con vibra de la plias vosal ma sin frica oiable, cual es un unia de la sistem de sonas de un lingua e formi la nucleo de un silaba
+en   vocalic
+
+»  vocal   nom
+da   vokal
+de   Selbstlaut, Vokal
+en   vowel
+es   vocal
+fr   voyelle
+it   vocale
+nl   klinker
+pt   vogal
+
+»  vocal abrida   nom
+en   open vowel
+
+»  vocal cluida   nom
+en   close vowel
+
+»  vocal fronte   nom
+en   front vowel
+
+»  vocal media   nom
+en   mid vowel
+
+»  vocal media abrida   nom
+en   open-mid vowel
+
+»  vocal media cluida   nom
+en   close-mid vowel
+
+»  vocal plata   nom
+en   unrounded vowel
+
+»  vocal retro   nom
+en   back vowel
+
+»  vocal ronda   nom
+en   rounded vowel
+
+»  vocal sentral   nom
+en   central vowel
+
+»  vocali   verbo nontransitiva
+en   vocalize/vocalise (as vowel)
+
+»  vocali   verbo transitiva
+en   vocalize/vocalise (as vowel)
+
+vocativa   ajetivo
+en   vocative (grammar)
+
+»  vocativa   nom
+Un caso gramatical cual indica la person a ci on dirije sua parolas
+en   vocative (grammar)
+
+vodca   nom
+Un bevida alcolosa, orijinal de Rusia, preparada par distila segal, trigo o patatas
+en   vodka (drink)
+
+vodevil   ajetivo
+Pertinente a un tipo de presenta popular en la temprana de la sentenio 20, composada de canta, dansa, comedia vulgar e a veses striptisa
+en   vaudeville, burlesque
+
+»  vodevil   nom
+en   vaudeville, burlesque
+
+voior   nom
+Un person ci deriva plaser sesal de oserva otras cuando los es nuda o copulante; un person ci deriva plaser de oserva la dole o angusa de otras
+en   voyeur
+
+»  voiorisme   nom
+en   voyeurism
+
+vola   verbo nontransitiva
+Move tra la aira como un avia, avion, misil, bal, etc
+ca   volar
+da   flyve
+de   fliegen
+en   fly
+es   volar
+fr   voler
+it   volare
+ja   飛ぶ
+nl   vliegen
+pt   voar
+ru   лететь
+
+»  vola   verbo transitiva
+en   fly
+
+»  vola   nom
+en   flight
+
+»  vola alta   verbo
+en   soar
+
+»  vola scemida   nom
+en   scheduled flight
+
+»  vola spasial   nom
+en   spaceflight
+
+»  volador   nom
+en   aircraft, flying machine
+
+»  volante   nom
+en   shuttlecock
+
+»  voleta   verbo nontransitiva
+en   flutter, go fluttering past
+
+»  volor   nom
+en   flyer; aviator, pilot
+
+volante   nom
+Un rota usada per dirije un veculo
+ca   volant
+de   Lenkrad
+en   steering wheel
+es   volante
+fr   volant
+ja   ハンドル
+pt   volante
+ru   рулевое колесо
+
+volatil   ajetivo
+(Un materia) fasil vaporinte a temperatures normal; tendente cambia sua natur en modo nonpredisable
+en   volatile, mercurial
+
+»  nonvolatil   ajetivo
+en   non-volatile
+
+»  volatilia   nom
+en   volatility
+
+volcan   nom
+Un monte o colina, tipal cono, con un crater o ximine tra cual lava, rocas, vapor calda e gas pote es ejetada
+da   vulkan
+de   Vulkan
+en   volcano
+es   volcán
+fr   volcan
+it   vulcano
+nl   vulkaan
+pt   vulcão
+
+»  volcanal   ajetivo
+en   volcanic
+
+volcanolojia   nom
+La siensa de volcanes
+en   volcanology
+
+»  volcanolojiste   nom
+en   volcanologist
+
+vole   verbo transitiva
+Intende seria (un ata); desira posese o fa (alga cosa)
+ca   voler
+da   ønske, begære, vil, ville
+de   werden, würde, wollen, wünschen
+en   want, wish, desire, intend, will
+es   desear, querer, anhelar, ansiar, necesitar
+fr   vouloir
+it   volere, desiderare
+ja   欲する
+nl   wil, zou, wilde, wou, willen, verlangen
+pt   querer, desejar
+ru   хотеть
+
+»  vole   nom
+en   will, volition, intention; discretion
+
+»  vole dise   verbo
+en   mean, intend to say
+
+»  vole ferin   nom
+en   iron will
+
+»  vole sabe   verbo
+en   wonder, want to know, would like to know
+
+»  a sua vole   averbo
+en   at one’s discretion
+
+»  a vole   averbo
+en   at will
+
+»  bon voles   nom, plural
+en   best wishes
+
+»  bonvole   nom
+en   good will, goodwill, benevolence
+
+»  bonvolente   ajetivo
+en   benevolent, magnanimous, beneficent
+
+»  bonvolor   nom
+en   volunteer
+
+»  es un bonvolor   verbo
+en   volunteer
+
+»  malvole   nom
+en   ill will, malice, malevolence, maliciousness, malignance, malignancy, acrimony
+
+»  malvolente   ajetivo
+en   malicious, malevolent, malign, malignant, sinister, evil, wicked, dastardly, mean-spirited, virulent
+
+»  nonvolente   ajetivo
+en   unwilling, reluctant, indisposed
+
+»  ta vole   verbo
+Espresante cortes un desira o un ofre
+‹ me ta vole du biletas, per favore; me ta vole aida, ma me es ja ocupada ›
+en   would like to (polite)
+
+»  voleda   ajetivo
+en   willed, voluntary, deliberate, intended, intentional
+
+»  volente   ajetivo
+en   willing (actor); deliberate, intentional
+
+»  volente   averbo
+en   willingly, voluntarily, deliberately, intentionally, on purpose
+
+»  volente o nonvolente   averbo
+en   willy-nilly, like it or not
+
+volea   verbo transitiva
+(En sportes) colpa (la bal) ante cuando lo toca la tera
+en   volley
+
+»  volea   nom
+en   volley
+
+volibal   nom
+Un jua de du ecipos en cual on usa sua manos per colpa un bal supra un rede alta e cade lo a la lado de la otra ecipo
+en   volleyball
+
+volpe   nom
+Un mamal carnivor en familia de can, con beco puntida e coda brosin, notada per sua astutia
+Vulpes
+da   ræv
+de   Fuchs
+en   fox
+es   zorro
+fr   renard
+it   volpe
+nl   vos
+pt   raposa
+
+»  volpe fema   nom
+en   vixen
+
+»  Volpe   nom
+en   Vulpecula (constellation)
+
+»  volpal   ajetivo
+en   vulpine
+
+»  volpin   ajetivo
+en   foxlike, vulpine
+
+volta   verbo nontransitiva
+(Un person) turna se tra la aira o sur la tera per fini sur sua pedes, como un jinasta o par acaso
+en   somersault, flip, go head over heels, tumble, topple
+
+»  volta   verbo transitiva
+en   flip, send head over heels
+
+»  volta   nom
+en   somersault
+
+»  volta ladal   nom
+en   cartwheel
+
+»  volta par mano   nom
+en   handspring, cartwheel
+
+»  voltor   nom
+en   tumbler (acrobat)
+
+volta   nom
+Un teto con forma de un arco o serie de arcos, tipal en un eglesa o otra construida grande
+en   vault (ceiling)
+
+voltaica   ajetivo
+Pertinente a eletrica produida par ativia cimical en un pila
+en   voltaic
+
+volte   nom
+La unia internasional de fortia de eletromotiva
+en   volt (unit of electromotive force)
+
+»  cuantia de voltes   nom
+en   voltage
+
+volum   nom
+La cuantia de spasio ocupada par alga cosa, o encluida par un contenador; la grado de fortia de un sona; cada de la libros en un serie
+en   volume (capacity, loudness, book)
+
+»  volumosa   ajetivo
+en   voluminous
+
+volunta   nom
+La capasia par cual un person deside e comensa ata o freni se de ata; la capasia de intende
+en   will, willpower
+
+»  volunta libre   nom
+en   free will
+
+volvox   nom
+Un vivente uniselulal cual formi colonias pico e sfera
+en   volvox (organism)
+
+vomita   nom
+Materia ejetada de la stomaco tra la boca
+da   kaste op
+de   sich erbrechen
+en   vomit, sick, puke
+es   vomitar, deponer
+fr   vomir
+it   vomitare
+nl   braken, overgeven, kotsen
+pt   vomitar
+
+»  vomiti   verbo transitiva
+en   vomit, be sick, throw up, puke, retch, regurgitate, disgorge
+
+»  vomiti   nom
+en   regurgitation
+
+vortis   nom
+Un masa jirante de aira o licuida
+en   vortex, whirlpool, maelstrom
+
+»  vortis de venta   nom
+en   whirlwind
+
+»  vortiseta   nom
+en   eddy
+
+vos   pronom
+Usada par un parlor per refere a la du o plu persones a ci el dirije sua parolas
+ca   vosaltres, vos, us
+da   De
+de   Sie, euch
+en   you (plural), you all, ye
+es   vosotros, ustedes
+fr   vous
+it   voi, vi
+ja   あなたたち
+nl   jullie, U, Uw
+pt   vós, vos
+ru   вы
+
+»  la vosa   pronom
+en   yours
+
+»  vosa   determinante
+ca   vostre
+de   euer
+en   your (plural)
+es   vuestro
+fr   votre, vos
+it   vostro
+ja   あなたたちの
+pt   vosso
+
+vose   nom
+La sona produida en la larinje e emeteda tra la boca cuando un person parla o canta; la capasia de produi esta; la stilo distinguinte de un autor o testo; un forma par cual un verbo indica como sua sujeto relata a la ata
+da   stemme
+de   Stimme
+en   voice; articulation
+es   voz, habla
+fr   voix
+it   voce
+nl   stem
+pt   voz
+
+»  vose ativa   nom
+en   active voice
+
+»  vose nasal   nom
+en   nasal voice, twang
+
+»  vose pasiva   nom
+en   passive voice
+
+»  a vose   averbo
+en   aloud, out loud
+
+»  vosal   ajetivo
+en   vocal (of the voice)
+
+»  vosi   verbo transitiva
+en   voice, utter, vocalize/vocalise, verbalize/verbalise, give voice to
+
+»  vosi   nom
+en   utterance, vocalism, vocalization/vocalisation
+
+vota   verbo nontransitiva
+Indica formal un eleje entre du o plu persones o atas posible
+da   stemme, vælge
+de   wählen
+en   vote
+es   votar, elegir
+fr   voter, élire
+it   votare, eleggere
+nl   stemmen, verkiezen
+pt   votar, sufragar, elejer
+
+»  vota   nom
+de   Abstimmung
+en   vote (individual’s, overall process); ballot, election, poll, voting
+
+»  vota direta   nom
+en   plebiscite
+
+»  vota jeneral   nom
+en   general election
+
+»  vota per   verbo
+en   vote for
+
+»  vota spesial   nom
+en   special election, by-election
+
+»  vota vacua   nom
+en   spoiled vote, spoilt vote, null vote
+
+»  ante vota   ajetivo
+en   pre-election
+
+»  caxa de vota   nom
+en   ballot box
+
+»  ofisior de vota   nom
+en   returning officer
+
+»  paper de vota   nom
+en   ballot paper
+
+»  voteria   nom
+en   polling place, polling station; voting booth
+
+»  votor   nom
+en   voter
+
+»  votores   nom, plural
+en   voters, electorate
+
+vudu   nom
+Un relijio de alga persones de la Isolas de Caribe e la SUA sude, composada de elementos de rituos catolica e rituos tradisional de Africa, tipal incluinte la usa de sorsoria e posese par spiritos
+en   voodoo (religion)
+
+vulcani   verbo transitiva
+Duri (cauxo o materia simil) par trata lo con sulfur a temperatur alta
+en   vulcanize
+
+vulgar   ajetivo
+Sin sofistica; referente a seso o otra funsionas fundal de la corpo en modo ofendente
+en   vulgar, indecent, improper, naughty, bawdy, crude, foul-mouthed, rabelaisian, ribald, off-color/off-colour
+
+»  vulgaria   nom
+en   vulgarity
+
+vultur   nom
+Un avia grande con testa e colo calva, ci come tipal caronia
+Aegypiinae, Cathartidae
+en   vulture
+
+vulva   nom
+La jenitales esterna de un fema
+en   vulva (anatomy)
+
