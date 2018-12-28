@@ -1,0 +1,3926 @@
+
+Disionario – Gramatica – Vici 13 julio 2018 html  +  28 desembre 2018 js
+Disionario de Elefen
+
+   
+
+ 
+
+Lingua:  
+
+    Trova parolas intera     Trova esata     Mostra imajes
+
+Aora disponable como un libro primida!
+
+Capitoles:   A B C D E F G H I J K L M N O P Q R S T U V W X Y Z   Tota
+403 articles trovada.  
+
+i   simbol   (dise ‘i’)
+La letera nove de la alfabeta roman, e sua nom
+en   i
+es   i
+
+i   esclama
+Espresante un teme subita
+en   eek
+
+ia   averbo, preverbal
+Usada direta ante un verbo finita per indica ce esta refere a un situa pasada
+‹ me ia espera ce tu es asi ›
+en   (indicating that a finite verb is in the past tense) -ed, did (happen), have (happened)
+eo   -is
+
+»  ia ta   averbo, preverbal
+Usada direta ante un verbo finita per indica ce esta refere a un situa nonreal cual ta es pasada si lo ta es real
+‹ si me ta sabe acel, me no ia ta parla ›
+en   would have (past hypothetical)
+eo   -intus
+
+i-aa   esclama
+Un sona forte e desacordante como lo fada par un asino o mulo
+en   eeyore, hee haw, bray
+
+iac   nom
+Un mamal grande en familia de bove, de Asia sentral
+Bos grunniens, Bos mutus
+en   yak
+eo   gruntbovo, poefago
+
+Iaman   nom
+Un pais en Asia sude-ueste
+(capital: Sana)
+en   Yemen
+eo   Jemeno
+es   Yemen
+
+»  iamani   ajetivo
+en   Yemeni
+
+»  iamani   nom
+en   Yemeni
+
+iambo   nom
+(En poesia) un serie de du silabas de cual la prima es corta o nonasentuada e la seguente es longa o asentuada
+en   iamb, iambus (poetry)
+eo   jambo
+
+»  iambal   ajetivo
+en   iambic
+eo   jamba
+
+ianci   ajetivo
+(Demotica) un abitor de la SUA, o (plu esata) sua statos norde-este
+en   (colloquial) Yankee (American)
+eo   jankia
+es   yanqui
+
+»  ianci   nom
+en   (colloquial) Yankee (American)
+eo   jankio
+es   yanqui
+
+iang   nom
+(En filosofia xines) la prinsipe ativa mas de la universo
+en   yang (philosophy)
+eo   jango
+
+iard   nom
+Un unia de longia nonmetral, egal a 36 ditones o 0,9144 metres
+en   yard (unit of length)
+
+iate   nom
+Un barcon de grandia media, con o sin velas e cabina, usada per corsa o viaja per plaser
+en   yacht; cruiser (pleasure boat)
+eo   jakto
+es   yate
+fr   yacht
+
+»  iator   nom
+en   yachtsman, yachtswoman
+eo   jaktisto
+
+iatrojen   ajetivo
+Pertinente a un disturba medical causada par un mediciste
+en   iatrogenic (caused by doctors)
+
+Iaue   nom
+Un forma de la nom ivri de Dio, usada en la Biblia
+en   Yahweh
+
+Iberia   nom
+La penisola de Europa sude-ueste cual conteni Espania e Portugal
+en   Iberia
+eo   Iberio, Iberujo
+es   Iberia
+
+»  iberian   ajetivo
+en   Iberian
+es   ibérico
+
+»  iberian   nom
+en   Iberian
+es   ibérico
+
+ibex   nom
+Un capra savaje de montania, con barba e cornos longa e spesa
+Capra ibex
+en   ibex (goat)
+eo   ibekso
+es   íbice
+
+ibis   nom
+Un avia vadante con gamas longa, colo longa, e beco longa e curvida
+Threskiornithinae
+en   ibis (bird)
+eo   ibiso
+es   ibis
+
+ibisco   nom
+Un planta grande en familia de malva, con flores briliante colorida
+Hibiscus
+en   hibiscus (plant)
+eo   hibisko
+es   hibisco
+
+ibride   ajetivo
+Composada de partes miscada; con jenitores de du spesies diferente
+en   hybrid, crossbred, mongrel
+eo   hibrida
+
+»  ibride   nom
+en   hybrid, crossbreed, mongrel
+eo   hibrido
+
+»  ibridi   verbo nontransitiva
+en   hybridize/hybridise, crossbreed
+eo   hibridiĝi
+
+»  ibridi   verbo transitiva
+en   hybridize/hybridise, crossbreed
+
+»  ibridi   nom
+en   hybridization/hybridisation
+eo   hibridiĝo; hibridigo
+
+ica   verbo nontransitiva
+Fa nonvolente un spasma de la diaframa, subita cluinte la glote con un sona tipal
+en   hiccup, hiccough
+eo   singulti
+
+»  ica   nom
+Un ata de ica
+en   hiccup
+eo   singulto
+
+icebana   nom
+La arte nion de ordina creosa flores taliada
+en   ikebana (flower arrangement)
+
+icon   nom
+Un depinta santa; un person o ojeto adorada; un imaje peti cual representa un program o util
+en   icon
+eo   ikono; piktogramo
+
+»  iconin   ajetivo
+Onorada como un icon
+en   iconic
+eo   ikoneca
+
+iconoclasia   nom
+La ata de ataca o rejeta la credes e valuas tradisional; la destrui o rejeta de imajes relijiosa
+en   iconoclasm
+
+»  iconoclasiste   ajetivo
+en   iconoclastic
+
+»  iconoclasiste   nom
+en   iconoclast
+
+icor   nom
+(En mitos elinica) la sangue de la dios; un suda de sangue e pus
+en   ichor (mythology, medical)
+
+icosaedro   ajetivo
+(Un ojeto) solida con dudes fases plana
+en   icosahedral
+
+»  icosaedro   nom
+en   icosahedron
+
+ictiolojia   nom
+La ramo de zolojia cual studia pexes
+en   ichthyology
+
+»  ictiolojiste   nom
+en   ichthyologist
+
+ictiosauro   nom
+Un retil maral e estinguida de la mesozoica, cual sembla un delfin
+Ichthyosauria
+en   ichthyosaur, ichthyosaurus
+
+id   nom
+(En la teoria psicoanalisal de Freud) la parte de la mente cual conteni la instintos e memorias represada
+en   id (psychology)
+eo   ĝio
+
+Idaho   nom   (dise ‘aídaho’)
+Un stato en la SUA norde-ueste
+en   Idaho (US state)
+
+idea   nom
+Un pensa, conseta, opina, crede o intende
+en   idea, concept, issue, notion
+eo   ideo
+
+»  ideas   nom, plural
+en   ideas
+
+»  ideas asetada   nom, plural
+en   received wisdom
+
+ideal   ajetivo
+Desirada o perfeta, ma comun esistente sola en la imajina
+en   ideal
+eo   ideala
+
+»  ideal   nom
+en   ideal
+eo   idealo
+
+»  ideali   verbo nontransitiva
+Deveni ideal
+en   idealize/idealise
+eo   idealiĝi
+
+»  ideali   verbo transitiva
+en   idealize/idealise
+eo   idealigi
+
+»  ideali   nom
+Un ata de ideali
+en   idealization/idealisation
+eo   idealiĝo; idealigo
+
+»  idealia   nom
+en   ideality
+eo   idealeco
+
+»  idealisme   nom
+Un crede cual inclui la espera ce la ideal es realable; un filosofia cual sujesta ce tota realia es nonmaterial
+en   idealism
+eo   idealismo
+
+»  idealiste   ajetivo
+en   idealistic, quixotic
+eo   idealisma
+
+»  idealiste   nom
+en   idealist
+eo   idealisto
+
+identia   nom
+La fato de es lo cual on es, e la cualias (incluinte la nom) cual distingui on de otras
+en   identity, ID
+eo   identeco
+
+»  identia de jenero   nom
+en   gender identity
+
+»  identia sesal   nom
+en   sexual identity
+
+»  autoidentia   nom
+en   self-identity
+
+identica   ajetivo
+Simil en tota detalias; esata la mesma
+en   identical
+eo   identa
+
+identifia   verbo transitiva
+Trova o indica la identia de; indica la identia de (la usor) cuando on comensa usa un program
+en   identify, designate
+
+»  identifia   nom
+en   identification, designation
+
+»  desidentifia   verbo transitiva
+en   deidentify
+
+»  desidentifia se   verbo transitiva
+en   deidentify oneself, log out (software)
+eo   elsaluti, adiaŭi
+
+»  identifia se   verbo
+en   identify oneself, log in (software)
+eo   ensaluti, saluti
+
+»  identifiable   ajetivo
+en   identifiable
+
+»  identifiada   ajetivo
+en   identified, designated; logged in (software)
+
+»  identifiante   nom
+en   identifier
+
+»  malidentifia   verbo transitiva
+en   misidentify
+
+ideogram   nom
+Un sinia scriveda cual simboli un idea sin indica la pronunsia
+en   ideogram, ideograph
+
+ideolojia   nom
+Un sistem de ideas e ideales
+en   ideology
+eo   ideologio
+
+»  ideolojial   ajetivo
+en   ideological
+
+»  ideolojiste   nom
+en   ideologist
+
+ides   ajetivo
+Pertinente a un lingua relatada a deutx, parlada par iudis en multe partes de la mundo
+en   Yiddish
+eo   jida
+
+»  ides   nom
+en   Yiddish
+eo   jido, la judgermana
+
+idilio   nom
+Un sena o loca pasosa, felis o depintin, tipal presentada en un poesia
+en   idyll
+eo   idilio
+
+»  idilin   ajetivo
+en   idyllic
+eo   idilia
+
+idiografia   nom
+La studia o descovre de fatos siensal, contrastada con leges jeneral
+en   idiography
+
+»  idiografial   ajetivo
+en   idiographic
+
+idiom   nom
+Un espresa con sinifia no deduable de sua parolas composante
+en   idiom
+eo   idiotismo
+
+»  idiomal   ajetivo
+en   idiomatic
+
+idiopatia   nom
+Un maladia o sindrom cual comensa spontan o de cual sua causa no es conoseda
+en   idiopathy
+
+»  idiopatica   ajetivo
+en   idiopathic
+
+idol   nom
+Un imaje de un dio o diva usada como un ojeto de adora
+en   idol; heartthrob
+eo   idolo
+
+»  idoli   verbo nontransitiva
+en   be idolized/idolised
+eo   idoliĝi
+
+»  idoli   verbo transitiva
+en   idolize
+eo   idoligi
+
+»  idoli   nom
+en   idolatry
+eo   idoligo
+
+»  idolinte   ajetivo
+en   idolatrous
+
+»  idolor   nom
+en   idolater, idol worshiper/worshipper
+
+idra   nom
+Un cnidario pico de acua dulse, con corpo troncetin e un anelo de tentaculos sirca sua boca
+Hydra
+en   hydra (organism)
+
+»  Idra   nom
+(En mitos elinica) un serpente con multe testas cual recrese si on talia los a via
+en   Hydra (mythology)
+
+»  Idra   nom
+La constela la plu grande
+en   Hydra (constellation)
+eo   Hidro
+
+»  Idra Mas   nom
+Un constela peti en la sielo sude
+en   Hydrus (constellation)
+eo   Virhidro
+
+idrante   nom
+Un tubo vertical de acua, con un boceta a cual on pote lia un mangera per combate focos
+en   hydrant, fire hydrant, fire plug
+
+idrata   verbo nontransitiva
+Asorbe o combina con acua
+en   hydrate, moisturize
+eo   hidratiĝi
+
+»  idrata   verbo transitiva
+en   hydrate, moisturize
+
+»  idrata   nom
+en   hydration
+eo   hidratiĝo; hidratigo
+
+»  desidrata   verbo nontransitiva
+Perde un cuantia grande de acua
+en   dehydrate
+eo   senakviĝi, malhidratiĝi
+
+»  desidrata   nom
+en   dehydration
+eo   senakviĝo, malhidratiĝo; senakvigo, malhidratigo
+
+»  idratador   nom
+en   hydrator
+
+»  idratante   ajetivo
+en   moisturizing/moisturising
+
+»  idratante   nom
+Un sustantia cual fa ce la pel deveni min seca
+en   moisturizer/moisturiser
+
+»  reidrata   verbo nontransitiva   (dise ‘reïdrata’)
+en   rehydrate
+
+»  reidrata   verbo transitiva
+en   rehydrate
+
+idraulica   nom
+La ramo de siensa e tecnolojia cual studia la move de licuidas tra tubos e canales
+en   hydraulics
+
+»  idraulical   ajetivo
+en   hydraulic
+
+idro-   prefisa
+Acua
+en   hydro- (water)
+
+idrocarbono   nom
+Un composada de idrojen e carbono, como cualce de los cual es la composantes xef de petrolio
+en   hydrocarbon
+
+»  idrocarbonal   ajetivo
+en   hydrocarbon
+
+idroclorica   ajetivo
+en   hydrochloric
+
+»  asida idroclorica   nom
+Un disolve forte asida de clorido de idrojen en acua
+en   hydrochloric acid
+
+idroclorido   nom
+Un composada de un alcalin organica con asida idroclorica
+en   hydrochloride
+
+idrodinamica   nom
+La studia de la cualias de acua e otra licuidas movente, e spesial la interata entre la acua e corpos solida cual move tra lo
+en   hydrodynamics
+
+»  idrodinamical   ajetivo
+en   hydrodynamic; streamlined
+
+idroeletrica   nom
+Eletrica jenerada par enerjia idraulical
+en   hydroelectricity
+
+»  idroeletrical   ajetivo
+en   hydroelectric
+
+idrofilia   nom
+La tende per misca con acua, disolve en lo, o deveni moiada par lo
+en   hydrophilia
+
+»  idrofilica   ajetivo
+Con la cualias de idrofilia
+en   hydrophilic
+
+»  idrofilica   nom
+Un cosa o organisme idrofilica
+en   hydrophile
+
+idrofobia   nom
+Un teme estrema o nonrazonada de acua
+en   hydrophobia
+
+»  idrofobica   ajetivo
+Con la cualias de idrofobia
+en   hydrophobic
+
+»  idrofobica   nom
+Un person idrofobica
+en   hydrophobe
+
+idrografia   nom
+La siensa de mesura e mapa acuas grande, como mares, lagos e rios
+en   hydrography
+
+»  idrografial   ajetivo
+en   hydrographical
+
+»  idrografiste   nom
+en   hydrographer
+
+idrojen   nom   «H (hydrogen)»
+La elemento cimical con numero atomal 1, un gas sin color o odor, multe flamable
+en   hydrogen
+eo   hidrogeno
+
+idrolise   verbo transitiva
+Rompe (un composada) par un reata cimical con acua
+en   hydrolyze/hydrolyse
+eo   hidrolizi
+
+»  idrolise   nom
+en   hydrolysis
+eo   hidrolizo
+
+idrolojia   nom
+La studia de la cualias e moves de la acua de la Tera
+en   hydrology
+
+»  idrolojiste   nom
+en   hydrologist
+
+idromel   nom
+Un bevida alcolosa, de miel fermentada e acua
+en   mead (drink)
+
+idroplana   nom
+Un barco de motor con veletas per leva se e crese sua rapidia
+en   hydrofoil
+
+idroponia   nom
+La crese de plantas en arena, calculos o licuida, con nurintes ma sin tera
+en   hydroponics
+
+»  idroponial   ajetivo
+en   hydroponic
+
+idrosa   ajetivo
+Conteninte acua como un composante
+en   hydrous
+
+»  nonidrosa   ajetivo
+en   anhydrous
+
+idrosefalia   nom
+Un maladia en cual licuida serebrospinal colie en la serebro, tipal en enfantes, cual grandi la testa e pote dana la serebro
+en   hydrocephalus, water on the brain
+
+»  idrosefalica   ajetivo
+en   hydrocephalic
+
+idrosfera   nom
+La colie de lagos, mares e otra acuas sur la surfas de la Tera
+en   hydrosphere
+
+idrosido   nom
+Un composada metal cual conteni la ion OH^- o la grupo -OH
+en   hydroxide
+
+»  idrosido de potasio   nom
+en   potassium hydroxide, caustic potash, lye
+
+»  idrosido de sodio   nom
+en   sodium hydroxide, caustic soda, lye
+
+idrosil   ajetivo
+De o pertinente a la radis -OH, en alcoles e multe otra composadas organica
+en   hydroxyl (chemistry)
+
+idrostatica   nom
+Un ramo de mecanica cual studia la ecuilibra de licuidas e la presa aplicada par licuida reposante
+en   hydrostatics
+
+»  idrostatical   ajetivo
+en   hydrostatic
+
+idroterapia   nom
+La usa de eserses en un pisina per trata artrite o paralise partal
+en   hydrotherapy
+
+idrotermal   ajetivo
+Pertinente a la ativia de acua a la crosta de la Tera
+en   hydrothermal
+
+idrozon   nom
+Un membro de un clase de cnidarios cual inclui idras e fisalias
+en   hydrozoon (pl. hydrozoa) (organism)
+
+ie   esclama
+Corajinte o aprobante
+en   yeah, yay
+
+iena   nom
+Un mamal canin, con crinera erijeda e gamas anterior plu longa ca la posteriores
+Hyaenidae
+en   hyena
+eo   hieno
+
+»  ienin   ajetivo
+en   hyena-like
+
+ier   averbo
+A la dia ante oji
+en   yesterday
+eo   hieraŭ
+
+»  ier   nom
+en   yesterday
+eo   hieraŭ, hieraŭo
+
+»  a la dia ante ier   averbo
+en   the day before yesterday
+eo   antaŭhieraŭ
+
+ierarcia   nom
+Un sistem de organiza cual representa persones o cosas como relativa superior, inferior o egal, en acorda con sua state o grado
+en   hierarchy
+eo   hierarkio
+
+»  ierarcial   ajetivo
+en   hierarchic, hierarchical
+eo   hierarkia
+
+ieratica   ajetivo
+Pertinente a pretes, spesial los de Egipte antica; pertinente a la scrive cuasi ieroglifal de Egipte antica; pertinente a un stilo de arte de Egipte e Elas antica cual segue metodos relijiosa
+en   hieratic (writing, art)
+
+Ierevan   nom
+La site capital de Haiastan
+en   Yerevan
+
+ieroglifo   nom
+Un imaje stilida cual representa un parola o sona, como los usada per scrive en Egipte antica e otra locas
+en   hieroglyph
+eo   hieroglifo
+
+»  ieroglifal   ajetivo
+en   hieroglyphic
+eo   hieroglifa
+
+Ieruxalim   nom
+Un site cual e Israel e Filastin reclama como sua capital
+en   Jerusalem
+
+ieti   nom
+Un primate lejendal sur cual on dise ce lo abita en Himalaia
+en   yeti
+
+ifen   nom   «-»
+Un linia orizonal corta, usada per junta parolas cual indica un sinifia combinada, o per divide un parola entre du linias de testo
+→ sinia de junta
+en   hyphen
+
+»  ifenable   ajetivo
+en   hyphenatable
+
+»  ifeni   verbo transitiva
+en   hyphenate
+
+»  ifeni   nom
+en   hyphenation
+
+iftar   nom
+Un come comeda par muslimes pos la reposa de sol en ramadan
+en   iftar (meal)
+
+iglu   nom
+Un casa cupolin de inuites, tipal construida con blocos de neva solida
+en   igloo
+
+iguana   nom
+Un lezardo grande e verdin de America tropical, con cresta spinosa sur la dorso
+Iguana
+en   iguana
+
+iguanodon   nom
+Un dinosauro erbivor e partal bipede de la temprana de la cretasica, con coda larga e rijida e diton spinin
+Iguanodon
+en   iguanodon
+
+iii   esclama
+Un sona alta como lo fada par un cavalo
+en   neigh, whinny (horse)
+eo   hen
+
+i-i-i   esclama
+Un sona alta como lo fada par un simia
+en   ee-ee-ee, ook (monkey)
+
+iin   nom
+(En filosofia xines) la prinsipe pasiva fema de la universo
+en   yin (philosophy)
+eo   jino
+
+iin-iang   nom
+(En filosofia xines) la interdepende de fortes oposada en la mundo natural
+en   yin-yang
+eo   jino-jango, jinjango
+
+ijenia   nom
+La states o praticas cual aida la manteni de sania e la preveni de maladias, tipal par limpia
+en   hygiene, sanitation
+eo   higieno
+
+»  ijeni   verbo transitiva
+en   sanitize/sanitise
+eo   higienigi, purigi
+
+»  ijenial   ajetivo
+en   hygienic, sanitary
+eo   higiena
+
+»  ijeninte   nom
+en   sanitizer/sanitiser
+
+»  ijeniste   nom
+en   hygienist
+
+»  nonijenial   ajetivo
+en   unsanitary
+
+ilario   ajetivo
+Estrema divertinte e comica
+en   hilarious, uproarious
+eo   ridiga
+
+»  ilaria   nom
+La cualia de un cosa ilario; la felisia ruidosa cual lo causa
+en   hilarity, mirth
+eo   ridigeco, gajegeco
+
+ileo   nom
+La parte tre de la intestin magra
+en   ileum (anatomy)
+eo   ileo
+
+ilex   nom
+Un arboreta perene, con bacas roja e folias spinosa de verde oscur
+Ilex
+en   holly
+eo   ilekso
+
+Iliada   nom
+Un poesia epica en elinica antica sur la Gera Troian, tradisional atribuida a Homero
+en   Iliad (poem)
+eo   Iliado
+
+ilio   nom
+La oso grande e larga cual formi la parte superior de cada dui de la pelvis
+en   ilium (anatomy)
+eo   ilio
+
+Ilio   nom
+Un nom antica de la site Troia
+→ Troia
+en   Ilium, Ilion (ancient Troy)
+eo   Iliono
+
+Iliria   nom
+Un rejion antica longo la costa este de la Mar Adriatica
+en   Illyria
+
+»  ilirian   ajetivo
+en   Illyrian
+
+Illinois   nom   (dise ‘ilinoí’)
+Un stato en la SUA norde-sentral
+en   Illinois (US state)
+
+ilote   nom
+Un membro de un clase de campanianes feudal en Sparta antica, con grado entre sclavos e sitadanes
+en   helot (social class)
+
+ilude   verbo transitiva
+Fa ce (algun) ave un crede o persepi falsa; engana (algun)
+en   delude
+eo   iluzii, trompi
+
+»  ilude   nom
+en   delusion, illusion, figment
+eo   iluzio
+
+»  ilude de grandiosia   nom
+en   delusion of grandeur
+
+»  ilude de paranoia   nom
+en   delusion of paranoia
+
+»  ilude de vide   nom
+en   optical illusion, visual illusion
+eo   vidiluzio
+
+»  desilude   verbo transitiva
+Fa ce (algun) perde un ilude, comun en modo deludente
+en   disillusion
+eo   seniluziigi
+
+»  desilude   nom
+en   disillusionment
+eo   seniluziigo
+
+»  iludente   ajetivo
+en   illusive, illusory
+
+»  iludiste   nom
+en   illusionist
+
+im-   prefisa
+En, a en
+en   im- (in, into)
+
+im-   prefisa
+No, non-
+en   im- (not)
+
+imago   nom
+La forma final developada de un inseto, tipal con alas; (en psicolojia de Jung) un imaje nonconsensa e idealida cual influe la condui
+en   imago (biology, psychology)
+
+imaje   nom
+Un representa vidal, real o mental de un person o cosa, como un sculta, depinta, desinia o foto; cada de la fotos individua en un serie cual formi un video
+en   image, picture, depiction, graphic, illustration, painting, drawing, photo; frame (movie)
+eo   figuro, bildo
+
+»  imaje esajerada   nom
+en   caricature
+
+»  imaje matrisin   nom
+en   bitmap image, raster image
+eo   rastruma bildo
+
+»  imaje vetoral   nom
+en   vector image, vector graphic
+
+»  imajes   nom, plural
+en   images, imagery
+
+»  imajeta   nom
+Un varia reduida de un imaje, como en catalogos de imajes
+en   thumbnail image
+
+»  imaji   verbo nontransitiva
+en   appear as an image
+eo   bildiĝi
+
+»  imaji   verbo transitiva
+en   image, picture, depict, illustrate
+eo   bildigi
+
+»  imaji   nom
+La crea de imajes, spesial en siensa
+en   imaging
+
+»  imajin   ajetivo
+en   pictorial
+
+»  imajor   nom
+en   illustrator
+
+»  posimaje   nom
+en   afterimage
+
+imajina   verbo transitiva
+Conseti o formi un imaje mental de (un cosa)
+en   imagine, fancy, ideate, visualize/visualise; dream up, think up, think of, come up with, hit on
+eo   imagi
+
+»  imajina   nom
+en   imagination, ideation
+eo   imago, imagipovo
+
+»  imajinable   ajetivo
+en   imaginable, conceivable
+
+»  imajinal   ajetivo
+Esistente sola en la imajina
+en   imaginary (including number), fictional, fictitious, fanciful, chimeric, chimerical
+eo   imaga, fantazia, fikcia, ĥimera
+
+»  imajinosa   ajetivo
+en   imaginative
+
+»  nonimajinable   ajetivo
+en   unimaginable, inconceivable, unfathomable
+
+imam   nom
+Un person ci gida preas en un mascita
+en   imam (Islam)
+
+imantico   nom
+Un avia vadante con beco longa, plumas negra e blanca, e gamas longa e rojin
+Himantopus
+en   stilt (bird)
+eo   himantopo
+
+imen   nom
+Un membrana cual clui partal la abri de la vajina, de cual sua presentia es tradisional tratada como sinia de virjinia
+en   hymen, maidenhead (anatomy)
+eo   himeno
+
+imita   verbo transitiva
+Copia la model de (alga cosa); fa ce sua propre modo de condui o parla sembla lo de (un otra person)
+en   imitate, mimic, emulate, impersonate
+eo   imiti
+
+»  imita   nom
+en   imitation, mimicry, emulation, impersonation
+eo   imito, imitado
+
+»  imitador   nom
+en   emulator (software)
+
+»  imitor   nom
+en   impressionist, mimic, impersonator
+eo   imitanto, imitisto
+
+»  nonimitable   ajetivo
+en   inimitable
+
+imno   nom
+Un canta o poesia formal de loda
+en   hymn, anthem, paean
+eo   himno
+
+imobila   nom
+Un propria nonmovable, tipal un construida e la tera ensircante
+nb   "Imobila" es un nom contable.
+en   property, premises, piece of real estate, homestead, realty
+eo   domhavaĵo, terhavaĵo
+
+»  con imobila   ajetivo
+en   propertied, landed
+
+impala   nom
+Un antilope de Africa este e sude, con moves refinada e cornos curva como un lira
+Aepyceros melampus
+en   impala (antelope)
+eo   impalo
+
+impasto   nom
+La tecnica de aplica un pinta tan densa ce lo protende de un surfas
+en   impasto (painting technique)
+
+impedi   verbo transitiva
+Bloci (un person o cosa) per retarda o para el o lo
+en   impede, hinder, prevent, hamper, deter, preclude, thwart; obstruct, block, congest, be in the way
+eo   malhelpi, obstrukci
+
+»  impedi   nom
+en   blockade, obstacle, congestion, obstruction, impediment, hindrance
+eo   malhelpo, obstrukco
+
+»  impedida   ajetivo
+en   congested
+eo   obstrukcita, ŝtopita
+
+»  impedinte   ajetivo
+en   impeding, hindering, inimical
+
+»  nonimpedida   ajetivo
+en   unimpeded, unhindered, unobstructed, undeterred
+
+impenia   verbo transitiva
+Lasa (un ojeto) en la posese de un prestor per garantia la mone prestada
+en   pawn, hock
+eo   lombardi
+
+»  impenieria   nom
+en   pawnshop
+eo   lombardejo
+
+»  impenior   nom
+en   pawnbroker
+eo   lombardisto
+
+impero   nom
+Un grupo grande de statos o paises su un autoria suprema
+en   empire
+eo   imperio
+
+»  imperal   ajetivo
+en   imperial
+eo   imperia
+
+»  imperalisme   nom
+en   imperialism
+
+»  imperaliste   ajetivo
+en   imperialist
+
+»  imperor   nom
+en   emperor
+eo   imperiestro
+
+»  imperoresa   nom
+en   empress
+eo   imperiestrino
+
+impetigo   nom
+Un infeta baterial e comunicable de pel, causante pustulas e ulseras jala e crostida
+en   impetigo (medical)
+
+implanta   verbo transitiva
+Introdui (un cosa) en la corpo de un organisme, tipal par sirurjia
+en   implant
+eo   enplanti
+
+»  implanta   nom
+en   implantation
+eo   enplanto
+
+»  implantada   ajetivo
+en   implanted
+eo   enplantita
+
+»  implantada   nom
+en   implant
+eo   enplantaĵo
+
+implica   verbo transitiva
+(Un fato) sujesta la veria de (un otra fato) en segue lojical; mostra la envolve de (algun) en un crimin
+en   imply, entail; implicate, incriminate
+eo   implici, impliki
+
+»  implica   nom
+en   implication, incrimination
+eo   implico; impliko
+
+»  implicada   ajetivo
+en   implied, implicit, default, tacit
+eo   implicita
+
+»  implicada   nom
+en   default value
+eo   implicita valoro
+
+»  par implica   averbo
+en   by default
+
+implode   verbo nontransitiva
+Colasa violente a en se
+en   implode
+eo   implodi, enfali
+
+»  implode   verbo transitiva
+en   implode
+
+»  implode   nom
+en   implosion
+eo   implodo
+
+»  implodente   ajetivo
+en   implosive
+
+importa   verbo nontransitiva
+Es valuada per sua influe o efeto profonda
+en   be important, matter, have import, have significance
+eo   gravi
+
+»  importa   nom
+en   importance, significance; salience, prominence
+eo   graveco
+
+»  importante   ajetivo
+Valuada per sua influe o efeto profonda
+en   important, significant, momentous; salient, prominent, consequential
+eo   grava
+
+»  lo no importa   esclama
+en   it’s not important, never mind, whatever
+eo   ne gravas
+
+»  nonimportante   ajetivo
+en   unimportant, insignificant, trite, trivial, inconsequential
+eo   malgrava, negrava
+
+»  suprema importante   ajetivo
+en   paramount
+
+imposta   verbo transitiva
+(Un governa) comanda ce un sitadan o comersia contribui a la stato un parte de (sua propre revenu) o la custa de (alga benes o servis)
+en   tax
+eo   imposti
+
+»  imposta   nom
+en   tax, taxation
+eo   imposto
+
+»  imposta de ben   nom
+en   duty, goods tax
+
+»  imposta de corpora   nom
+en   corporate tax
+
+»  imposta de duana   nom
+en   imports tax, border tax, customs duty
+
+»  imposta de emporta   nom
+en   imports tax, border tax, customs duty
+
+»  imposta de erita   nom
+en   inheritance tax
+
+»  imposta de imobila   nom
+en   property tax
+
+»  imposta de revenu   nom
+en   income tax
+
+»  imposta de valua ajuntada   nom
+en   value-added tax, VAT
+eo   aldonvalora imposto, AVI
+
+»  imposta de vende   nom
+en   sales tax
+
+»  imposta interna   nom
+en   inland tax, excise
+
+»  imposta regresante   nom
+en   regressive tax
+
+»  imposta tro multe   verbo
+en   overtax
+
+»  impostable   ajetivo
+en   taxable
+eo   impostita
+
+»  impostor   nom
+en   taxman, publican
+
+»  nonimpostable   ajetivo
+en   untaxable
+
+»  sin imposta   ajetivo
+en   taxfree
+eo   senimposta
+
+»  surimposta   verbo transitiva
+Imposta plu (alga cosa ja impostada)
+en   surtax
+eo   superimposti
+
+»  surimposta   nom
+en   surtax
+eo   superimposto
+
+impresa   verbo transitiva
+Fa (un marca o desinia) sur un cosa par presa; fa un efeto a la sensas o mente de (algun); fa ce (algun) senti amira o respeta
+en   impress, imprint, emboss, stamp; make an impression, come across (as); instil, inculcate
+eo   stampi, impresi, imponi
+
+»  impresa   nom
+en   impression, imprint
+eo   premsigno
+
+»  impresa de dito   nom
+en   fingerprint (imprint)
+eo   fingrospuro
+
+»  impresa de diton   nom
+en   thumbprint (imprint)
+
+»  impresa de pede   nom
+en   footprint
+eo   piedmarko, piedspuro
+
+»  impresa de ungula   nom
+en   hoofprint, hoofmark
+
+»  impresable   ajetivo
+en   impressionable
+eo   impresiĝema
+
+»  impresablia   nom
+en   impressionability
+eo   impresiĝemo
+
+»  impresador   nom
+en   stamp
+eo   stampilo
+
+»  impresante   ajetivo
+en   impressive, sonorous
+eo   impresa; impona
+
+»  impresisme   nom
+Un stilo de depinta artal cual catura la impresa vidal de un sena en la lus de un momento definida
+en   Impressionism (art)
+eo   impresionismo
+
+»  impresiste   nom
+en   Impressionist
+eo   impresionisto
+
+»  nonimpresada   ajetivo
+en   unimpressed, blasé, indifferent
+eo   indiferenta
+
+»  posimpresa   nom
+en   afterimage, afterimpression
+
+improvisa   verbo transitiva
+Crea e presenta (un obra) en modo spontan o sin prepara; construi (un cosa) de la materias cual es acaso disponable
+en   improvise, extemporize, ad-lib; jam; cobble together
+eo   improvizi; marmeladi
+
+»  improvisa   nom
+en   improvisation, extemporization, ad-lib
+eo   improvizo
+
+»  improvisada   ajetivo
+en   improvised, impromptu, extemporary, extemporaneous, freeform, ad-lib
+eo   improvizita
+
+impulsa   verbo transitiva
+(Un forsa corta e subita) causa la move de (un cosa) o un ata instintosa de (un person)
+en   impel
+eo   impulsi
+
+»  impulsa   nom
+Un ata de impulsa, o la forsa cual fa lo
+en   impulse, impulsion, impetus
+eo   impulso
+
+imune   ajetivo
+Protejeda contra la efetos de (un venena, infeta, obliga, etc)
+en   immune, unsusceptible
+eo   imuna
+
+»  autoimune   ajetivo   (dise ‘autoïmune’)
+Pertinente a maladias causada par anticorpos contra sustantias natural presente en un corpo
+en   autoimmune
+
+»  autoimunia   nom
+en   autoimmunity
+
+»  imuni   verbo nontransitiva
+en   become immune, develop immunity
+
+»  imuni   verbo transitiva
+en   immunize/immunise
+
+»  imuni   nom
+en   immunization/immunisation
+
+»  imunia   nom
+en   immunity
+eo   imuneco
+
+»  imunial   ajetivo
+en   immune (of the immune system)
+
+»  sistem imunial   nom
+en   immune system
+
+imunodebil   ajetivo
+en   immunodeficient
+
+»  imunodebilia   nom
+Un fali de la sistem imunial de proteje la corpo contra infeta, causada par la manca de un prosede o sustantia
+en   immunodeficiency, immune deficiency
+
+imunoglobulina   nom
+Cada de un clase de protenas cual funsiona como anticorpos en la sistem imunial de un organisme
+en   immunoglobulin
+
+imunojen   ajetivo
+Capas de crea un responde imunial
+en   immunogenic
+
+»  imunojen   nom
+en   immunogen
+
+imunolojia   nom
+La ramo de medica e biolojia cual studia imunia
+en   immunology
+
+»  imunolojiste   nom
+en   immunologist
+
+imunosupresante   ajetivo
+en   immunosuppressive
+
+»  imunosupresante   nom
+Un medisin cual supresa la ativia de la sistem imunial
+en   immunosuppressant
+
+imunoterapia   nom
+La trata o preveni de maladias par stimula respondes imunial
+en   immunotherapy
+
+in-   prefisa
+En, a en
+en   in- (in, into)
+
+in-   prefisa
+No, non-
+en   in- (not)
+
+inata   ajetivo
+(Un capasia) ja fundida en la natur jenetical, tal ce un organisme no nesesa aprende lo
+en   innate
+eo   denaska
+
+»  inatisme   nom
+La teoria ce capasias mental es inata
+en   innatism
+
+»  inatiste   nom
+en   innatist
+
+inca   nom
+Un licuida colorida usada per scrive, desinia o primi
+en   ink
+eo   inko
+
+»  inci   verbo transitiva
+en   ink (apply ink to)
+eo   inki
+
+inca   ajetivo
+Pertinente a un popla ci ia abita en la Andes sentral ante la concista espaniol en la sentenio 16
+en   Incan
+
+»  inca   nom
+en   Inca
+
+incandese   verbo nontransitiva
+Es tan calda ce lo brilia
+en   incandesce, glow, be white-hot
+eo   inkandeski, blankbrili
+
+»  incandese   verbo transitiva
+en   make incandescent
+
+»  incandese   nom
+en   incandescence
+eo   inkandesko
+
+»  incandesente   ajetivo
+en   incandescent, white-hot
+eo   inkandeska, blankbrila
+
+incarne   verbo nontransitiva
+(Un dio o spirito) apare fisical como un umana o animal
+en   incarnate
+eo   enkarniĝi, enkorpiĝi
+
+»  incarne   nom
+en   incarnation
+eo   enkarniĝo, enkorpiĝo
+
+»  reincarne   verbo nontransitiva   (dise ‘reïncarne’)
+en   reincarnate
+eo   reenkarniĝi
+
+»  reincarne   nom
+en   reincarnation, transmigration
+eo   reenkarniĝo
+
+inclina   verbo nontransitiva
+Apoia o verje a via de un plana o dirije, tipal la vertical o la orizonal; curvi sua testa o corpo alta como un sinia formal de saluta, respeta o vergonia
+en   incline, slope, tip; bow (bend respectfully)
+eo   kliniĝi; riverenci
+
+»  inclina   verbo transitiva
+en   incline, slope, tip; bow (bend respectfully)
+
+»  inclina   nom
+en   bow
+eo   riverenco
+
+»  inclina sua testa   espresa
+en   nod one’s head
+eo   kapsigni
+
+»  inclinada   ajetivo
+en   inclined, sloped, sloping
+eo   dekliva
+
+»  inclinada   nom
+Un surfas de cual un lado es plu alta ca la otra
+en   incline, slope, bank
+eo   deklivo
+
+inclui   verbo transitiva
+Conteni como un de sua partes o membros
+en   include, subsume, encompass
+eo   inkluzivi
+
+»  inclui   nom
+en   inclusion
+eo   inkluzivo
+
+»  inclui partal   verbo transitiva
+en   overlap, partially include
+eo   interkovri
+
+»  incluinte   ajetivo
+en   including, inclusive
+eo   inkluziva
+
+»  incluinte   preposada
+en   including, inclusive of
+
+»  incluinte tota   averbo
+en   including everything, all-inclusive, all-in
+
+inco   nom
+Un bloco pesosa de aser o fero sur cual on marteli e formi metal; un oso en la orea media, con forma simil, cual transmete vibras entre la martel e la stribo
+en   anvil; incus (anatomy)
+eo   amboso; inkudo, amboso
+
+incoativa   ajetivo
+Pertinente a un verbo, o un aspeta de verbo, cual espresa la comensa de un ata
+en   inchoative
+
+incore   verbo transitiva
+Reseta o esperia (un cosa nondesirada o nonplasente) par causa de sua propre condui o atas
+en   incur (punishment)
+
+incuba   verbo transitiva
+(Un avia) senta sur (ovos) per manteni sua temperatur e causa la emerji de la avietas; manteni selulas, baterias, embrios, etc, a bon temperatur per developa; developa lenta (un maladia comunicable) sin sintomes persepable
+en   incubate, cause to hatch
+eo   kovi
+
+»  incuba   nom
+en   incubation
+eo   kovado
+
+»  incubador   nom
+en   incubator
+
+»  incuberia   nom
+en   hatchery
+
+incubo   nom
+Un demon mas mital ci copula con femes dorminte
+en   incubus
+eo   inkubo
+
+incuisisio   nom
+Un periodo longa e intensa de demanda o investiga; (en istoria medieval) la organiza de judores catolica ci ia tortura persones per supresa la eresia
+en   inquisition
+eo   inkvizicio
+
+»  incuisisior   nom
+en   inquisitor
+
+indente   verbo transitiva
+Fa un impresa en (un surfas plana), danante o taliante lo; largi la marjin de (un linia o bloco de testo)
+en   dent, nick, nock; indent
+eo   entranĉi, noĉi; enŝovi, krommarĝeni
+
+»  indente   nom
+en   dent, nick, nock, notch; indent, indentation
+eo   entranĉo, noĉo; krommarĝeno
+
+»  indente de jena   nom
+en   dimple
+eo   vangokaveto
+
+»  indente de surie   nom
+Un depresa peti en la carne de jena cual formi cuando algun surie
+en   dimple
+eo   vangokaveto
+
+»  contraindente   verbo transitiva
+Largi la marjin de cada linia de (un bloco de testo) con eseta de la prima
+en   apply a hanging indent to
+eo   negative krommarĝeni
+
+»  contraindente   nom
+en   hanging indent
+
+»  desindente   verbo transitiva
+Redui la marjin de (un linia o bloco de testo)
+en   unindent, outdent
+eo   elŝovi
+
+India   nom
+Un otra nom per Barat
+→ Barat
+en   India
+eo   Barato, Hinda Unio
+
+»  indian   ajetivo
+→ barati
+en   Indian
+eo   barata, hinda
+
+»  indian   nom
+en   Indian
+eo   baratano, hindo
+
+»  Indian   nom
+Un constela de la sielo sude
+en   Indus (constellation)
+eo   Indiano
+
+»  Mar Indian   nom
+La mar grande a sude de Barat, entre Africa e Australia
+en   Indian Ocean
+eo   Hinda Oceano
+
+»  Indias Este   nom, plural
+(Istorial) la isolas de Asia sude-este de cual Indonesia es aora composada
+en   East Indies
+eo   Indonezio
+
+»  Indias Ueste   nom, plural
+La cadena de isolas cual estende de Florida a America Sude, entre la Mar Caribe e la Mar Atlantica
+en   West Indies
+eo   Antiloj, Karibio, Karibujo
+
+Indiana   nom
+Un stato en la SUA norde-sentral
+en   Indiana (US state)
+
+indica   verbo transitiva
+Mostra; (un sinia o sintom) implica; (un strumento) declara (un mesura)
+en   indicate, point to, denote, read, register; bookmark, earmark
+eo   indiki
+
+»  indica   nom
+en   indication; clue, evidence; sign, trace; harbinger, portent, omen; reading
+eo   indiko; antaŭsigno
+
+»  indica de ora   nom
+en   timestamp
+
+»  indica la ora de   verbo
+en   timestamp
+
+»  indica e clica   verbo transitiva
+en   point and click
+
+»  indicador   nom
+La parte de un strumento cual mostra un mesura; un ojeto usada per nota un loca, per esemplo sur un mapa o en un libro
+en   indicator, dial, readout; hand (clock, compass); marker; bookmark
+eo   indikilo; markilo; legosigno
+
+»  indicador de venta   nom
+Un strumento cual indica la dirije de la venta, tipal decorante la punto la plu alta de un construida
+en   weathervane, weathercock
+eo   ventomontrilo
+fr   girouette
+
+»  indicante   ajetivo
+en   indicating, pointing, ostensive
+
+»  indicas de vive   nom, plural
+en   signs of life, life signs, indications of life
+eo   vivsignoj, vivindikoj
+
+»  indiceta   verbo transitiva
+Indica sutil o nondireta
+en   hint
+eo   sugesti
+
+»  indiceta   nom
+en   hint, clue, slight indication
+eo   sugesti
+
+»  mal indica   nom
+en   bad omen, evil omen
+eo   vesigno
+
+indicativa   ajetivo
+Pertinente a un moda de verbos cual espresa declaras simple de fatos
+en   indicative (grammar)
+
+»  indicativa   nom
+en   indicative (grammar)
+
+indigo   ajetivo
+Con color entre blu e violeta
+en   indigo
+
+indio   nom   «In»
+La elemento cimical con numero atomal 49, un metal mol e arjentin blanca
+en   indium (element)
+
+indise   verbo transitiva
+Rejistra (un cosa) par lia lo con un numero cual identifia lo en un serie
+en   index
+
+»  indise   nom
+en   index
+eo   indico
+
+»  suindise   nom
+Un indise scriveda min grande e plu basa ca la testo acompaniante
+en   subscript
+eo   suba indico
+
+»  supraindise   nom   (dise ‘supraïndise’)
+Un indise scriveda min grande e plu alta ca la testo acompaniante
+en   superscript
+eo   supra indico
+
+individua   ajetivo
+Un, unica, distinguida, autonom, nondependente, solitar, isolida
+en   individual, particular
+
+»  individua   averbo
+en   individually, one by one
+
+»  individua   nom
+en   individual
+
+»  individual   ajetivo
+en   individual (pertaining to an individual)
+
+»  individualia   nom
+en   individuality
+
+»  individualisme   nom
+en   individualism
+
+»  individualiste   ajetivo
+en   individualist
+
+»  individualiste   nom
+en   individualist
+
+Indo, Rio   nom
+Un rio en Asia sude cual comensa en Bod, traversa Kashmir e Pacistan, e fini en la Mar Arabian
+en   Indus River
+
+indoarian   ajetivo
+De o pertinente a la familia de linguas indoiranian parlada en Asia sude, e a la poplas corespondente
+en   Indo-Aryan, Indic
+
+indoeuropean   ajetivo
+De o pertinente a la familia de linguas parlada tra multe de Europa e Asia sude, e a la poplas corespondente
+en   Indo-European, Aryan
+
+»  indoeuropean   nom
+en   Indo-European, Aryan
+
+indoiranian   ajetivo
+De o pertinente a la familia de linguas indoeuropean parlada en Asia sude e sude-ueste, e a la poplas corespondente
+en   Indo-Iranian
+
+»  indoiranian   nom
+en   Indo-Iranian
+
+Indonesia   nom
+Un pais en Asia sude-este composada de multe isolas
+en   Indonesia
+
+»  indonesian   ajetivo
+en   Indonesian
+
+»  indonesian   nom
+en   Indonesian
+
+Indoxina   nom
+La penisola de Asia sude-este, incluinte Miama, Tai, Malaisia, Lau, Camputxa e Vietnam
+en   Indochina
+
+indri   nom
+Un lemur grande, con coda corta, de Madagasicara
+Indriidae
+en   indri, woolly lemur
+
+indu   ajetivo
+De o pertinente a induisme, un relijio e tradision cultural de Asia sude
+en   Hindu
+
+»  indu   nom
+en   Hindu
+
+»  induisme   nom
+en   Hinduism
+
+»  induiste   ajetivo
+en   Hindu
+
+»  induiste   nom
+en   Hindu
+
+indui   verbo transitiva
+Introdui (algun) a un rol o organiza en modo formal; susede convinse (algun) a fa alga cosa; (en medica) fa ce un nase comensa par metodos artifis, tipal par medisin; (en lojica) deriva un lege jeneral par considera casos individua; (un corpo prosima e eletrical o magnetal) produi un state eletrical o magnetal
+en   induce, induct, inaugurate, swear in
+
+»  indui   nom
+en   induction, inductance; inauguration
+
+»  indui magnetal   nom
+en   magnetic induction, magnetic flux density
+
+»  induinte   ajetivo
+en   inductive, inaugural
+fr   inductif
+
+industani   ajetivo
+Un grupo de dialetos parlada en Barat norde-ueste e Pacistan, en familia de linguas indoeuropean
+en   Hindustani
+
+industria   nom
+Ativia economial cual trata la prosede de materias cru e la fabrica de benes en fabricerias
+en   industry
+
+»  industri   verbo transitiva
+en   industrialize/industrialise
+
+»  industri   nom
+en   industrialization/industrialisation
+
+»  industrial   ajetivo
+en   industrial
+
+»  industrialiste   nom
+en   industrialist
+
+»  nonindustrial   ajetivo
+en   non-industrial
+
+inere   verbo nontransitiva
+Esiste esensal o permanente (en alga cosa)
+en   inhere (be an essential or permanent feature)
+
+»  ave la inere de   verbo
+en   inherently have, consist in
+
+»  inerente   ajetivo
+en   inherent, immanent
+
+inerte   ajetivo
+Sin la capas o fortia per move; nonativa
+en   inert, inactive, quiescent
+
+»  inertia   nom
+en   inertia, quiescence
+
+»  inertial   ajetivo
+en   inertial
+
+inerva   verbo transitiva
+Furni nervos a (un organo o parte de corpo)
+en   innervate
+
+»  inerva   nom
+en   innervation
+
+infantria   nom
+Soldatos de pede
+en   infantry
+
+»  infantria de marina   nom
+en   marines, marine corps
+
+»  infantrior   nom
+en   infantryman, infantry soldier, foot soldier
+
+»  infantrior de marina   nom
+en   marine
+
+infarta   verbo nontransitiva
+(Un area peti de texeda) mori par manca de sangue, tipal par causa de un trombo o embolo
+en   infarct (die through lack of blood)
+
+»  infarta   nom
+en   infarction
+
+»  infarta miocardial   nom
+en   myocardial infarction, heart attack
+
+inferior   ajetivo
+Plu basa en grado, ordina, state o cualia; (en anatomia) plu basa en loca
+en   inferior, second-rate, substandard, tacky
+
+»  inferior   nom
+en   inferior, minion, stooge
+
+»  inferiori   verbo nontransitiva
+en   subordinate
+
+»  inferiori   verbo transitiva
+en   subordinate
+
+»  inferiori   nom
+en   subordination
+
+»  inferioria   nom
+en   inferiority
+
+infesta   verbo transitiva
+Ataca, turba o es presente en (un loca, person o animal), ostinosa o en cuantia grande; (un fantasma) apare frecuente en (un loca)
+en   infest; haunt
+
+»  infesta   nom
+en   infestation; haunting
+
+»  desinfesta   verbo transitiva
+en   weed; exorcise
+
+»  desinfestante   ajetivo
+en   weeding
+
+»  desinfestante   nom
+en   weedkiller
+
+»  infestada   ajetivo
+en   infested, haunted
+
+infeta   verbo transitiva
+Afeta (un person, organisme, selula, etc) con un organisme cual causa maladia; contamina (aira, acua, etc) con organismes nosiva; afeta (un computador) con un virus
+en   infect
+
+»  infeta   nom
+en   infection
+
+»  infeta ajuntada   nom
+en   secondary infection
+
+»  infeta de palpebra   nom
+en   stye
+
+»  desinfeta   verbo transitiva
+en   disinfect
+
+»  desinfetante   ajetivo
+en   disinfecting, disinfectant
+
+»  desinfetante   nom
+en   disinfectant
+
+»  desinfetante de boca   nom
+en   mouthwash
+
+»  infetante   ajetivo
+en   infectious, contagious, virulent
+
+infiltra   verbo transitiva
+Entra a o ateni asede (un loca, organiza, computador, etc) en modo secreta e gradal, spesial per ateni informa secreta; (en medica) (un tumor, selula o simil) estende o invade (un organo o texeda); (un licuida) permea (alga cosa) par filtri
+en   infiltrate
+
+»  infiltra   nom
+en   infiltration
+
+infinita   ajetivo   «∞»
+Sin limita, sin fini, en spasio, tempo, estende o grandia; no mesurable o calculable; plu grande ca cualce cuantia o numero; capas de continua sin limita
+en   infinite, boundless, unbounded
+
+»  infinita peti   ajetivo
+en   infinitesimal
+
+»  infinitia   nom
+en   infinity
+
+infinitim   nom
+Un cuantia nonmesurable peti
+en   infinitesimal
+
+»  infinitimal   ajetivo
+en   infinitesimal
+
+infinitiva   ajetivo
+Un forma nonfinitiva de un verbo, con o sin infleta distinguinte
+en   infinitive
+
+»  infinitiva   nom
+en   infinitive
+
+infisa   verbo transitiva
+Introdui firma (un cosa) en un otra cosa; introdui (un morfem) en la corpo de un parola
+en   infix; ingrain
+
+»  infisa   nom
+en   infix
+
+»  infisada   ajetivo
+en   infixed; ingrained
+
+infla   verbo nontransitiva
+Pleni (un balon, numatico o otra strutur cresable) con aira o otra gas per estende lo; crese (un cosa) con un cuantia grande o suprafluente
+en   inflate, distend, swell, bloat, billow, puff up
+
+»  infla   verbo transitiva
+en   inflate, distend, swell, bloat, billow, puff up
+
+»  infla   nom
+en   inflation (including economic), swelling, bloat, distension
+
+»  inflable   ajetivo
+en   inflatable
+
+»  inflable   nom
+en   inflatable
+
+»  inflada   ajetivo
+en   inflated, swollen, bloated, puffy, puffed-up, tumescent, turgid; pudgy; bouffant; exorbitant
+
+inflama   verbo nontransitiva
+Lumina con flamas; provoca o crese (sentis forte, como coler) en algun; causa un infeta en cual un parte de la corpo deveni roja, calda e comun dolosa
+en   inflame
+
+»  inflama   verbo transitiva
+en   inflame
+
+»  inflama   nom
+en   inflammation
+
+»  antiinflamante   ajetivo
+en   anti-inflammatory
+
+»  antiinflamante   nom
+en   anti-inflammatory
+
+»  antiinflamante nonsteroidal   nom
+en   NSAID, non-steroidal anti-inflammatory drug
+
+»  inflamante   ajetivo
+en   inflammatory
+
+infleta   verbo transitiva
+Cambia la tono de vose per espresa umor o emosia; (en gramatica) cambia la forma de un parola per espresa un rol o cualia gramatical, tipal tempo, modo, person, cuantia, caso o seso
+en   inflect
+
+»  infleta   nom
+en   inflection
+
+influe   verbo transitiva
+Es capas de afeta la natur, developa o condui de un person o cosa
+en   influence, have influence over, affect, sway
+
+»  influe   nom
+en   influence
+
+»  influable   ajetivo
+en   amenable, suggestible
+
+»  influablia   nom
+en   suggestibility
+
+»  influente   ajetivo
+en   influential, seminal
+
+infografia   nom
+Imajes produida par computadores; la arte e siensa de produi estas
+en   computer graphics, CGI
+
+informa   verbo transitiva
+Dona a (algun) fatos o descrives importante o nesesada
+en   inform, tell, apprise, acquaint
+
+»  informa   nom
+en   information, info, lowdown, tattle; intelligence (gathered), intel
+
+»  informa contra   verbo
+en   inform on, rat on, sneak on, snitch on
+
+»  informa fondal   nom
+en   background information
+
+»  informa secreta   nom
+en   classified information
+
+»  informada   ajetivo
+en   informed, apprised, privy
+
+»  informor   nom
+en   informer, informant, stool pigeon, stoolie
+
+»  informosa   ajetivo
+en   informative
+
+»  malinforma   verbo transitiva
+en   misinform
+
+»  noninformada   ajetivo
+en   uninformed
+
+»  reinforma   verbo transitiva   (dise ‘reïnforma’)
+en   reacquaint
+
+informatica   nom
+La studia de prosede informa per reteni e reprende lo; la studia de la prinsipes e usa de computadores
+en   information science, computer science
+
+infotecnolojia   nom
+La studia o usa de sistemes (spesial computadores e telecomunica) per reteni, reprende e envia informa
+en   information technology, IT, ICT
+
+infra-   prefisa
+Su, a su, a basa
+en   infra- (below)
+
+infraordina   nom
+Un categoria tasonomial su un suordina
+en   infraorder
+
+infraroja   ajetivo
+(Radia eletromagnetal) con longia de ondas apena plu grande ca lo de la fini roja de la spetro de lus vidable, ma min ca lo de microondas
+en   infrared
+
+»  infraroja   nom
+en   infrared
+
+infrastrutur   nom
+La strutures fundal nesesada per la funsiona de un sosia o emprendes (construidas, vias, transportas, sentros eletrical, etc)
+en   infrastructure
+
+infusa   verbo transitiva
+Empapa (te, erbas, etc) en licuida per estrae la sabor o cualias saninte
+en   infuse, brew (tea, coffee)
+
+»  infusa   nom
+en   infusion, brew
+
+ingrediente   nom
+Un cosa cual on combina con otra cosas per produi un comeda; un parte o elemento nesesada per produi alga cosa
+en   ingredient
+
+inguin   nom
+La area entre la adomen e un coxa; (en arciteta) la borda curva formida par du voltas crusante
+en   groin, crotch, crutch
+
+»  inguinal   ajetivo
+en   inguinal
+
+Inguxetia   nom
+Un republica autonom en Caucaso en Rusia sude-ueste
+en   Ingushetia
+
+»  ingux   ajetivo
+en   Ingush (person, language)
+
+»  ingux   nom
+en   Ingush (person, language)
+
+inibi   verbo transitiva
+Retarda o preveni un prosede fisiolojial o reata cimical; redui la ativia de (un enzima o otra ajente)
+en   inhibit (process, reaction)
+
+»  inibador   nom
+en   inhibitor
+
+»  inibador spesifada de recatura serotonina   nom
+en   selective serotonin reuptake inhibitor (SSRI)
+
+»  inibador de recatura serotonina e norepinefina   nom
+en   serotonin–norepinephrine reuptake inhibitor (SNRI)
+
+»  inibador de monoamina osidasal   nom
+en   monoamine oxidase inhibitor (MAOI)
+
+iniora   verbo transitiva
+Refusa intendente nota o reconose (un person o cosa); no considera (un cosa importante); (en lege) rejeta (un condena) como sin funda
+en   ignore, flout, disregard, snub
+
+»  iniorable   ajetivo
+en   negligible
+
+»  iniorada   ajetivo
+en   ignored, unheeded, unregarded, disregarded
+
+»  inioror   nom
+en   ignorer
+
+»  inioror de lege   nom
+en   lawbreaker, scofflaw
+
+inisia   verbo transitiva
+Fa ce (un ata o prosede) comensa
+en   initiate, start, ignite, kickstart; take the initiative; boot (software), initialize/initialise
+
+»  inisia   nom
+en   initiation, ignition; booting, bootstrapping
+
+»  inisia duple   verbo
+en   dual-boot (software)
+
+»  inisia multiple   verbo
+en   multiboot (software)
+
+»  inisia pronto   nom
+en   instant-on
+
+»  inisiador   nom
+en   starter, ignition (for engine)
+
+»  inisial   ajetivo
+en   initial, leading, opening, preliminary, precursory; default, startup; inchoate
+
+»  inisial   averbo
+en   initially; by default
+
+»  inisial   nom
+en   initial (letter); default; preliminary, prelim
+
+»  inisiales ornal   nom, plural
+en   monogram
+
+»  inisior   nom
+en   initiator, starter (person)
+
+»  reinisia   verbo transitiva   (dise ‘reïnisia’)
+en   restart, reset, reboot
+
+»  reinisia   nom
+en   restart, reset, reboot
+
+injenia   verbo transitiva
+Desinia e fabrica (un macina o strutur)
+en   engineer
+
+»  injenia   nom
+en   ingenuity, engineering
+
+»  injenior   nom
+en   engineer
+
+»  injenior de sona   nom
+en   sound engineer
+
+»  injeniosa   ajetivo
+en   ingenious
+
+injeta   verbo transitiva
+Forsa (un licuida, spesial un droga o vasin) a en la corpo de un person o animal con un siringa o otra aparato
+en   inject; mainline
+
+»  injeta   nom
+en   injection
+
+inonda   verbo transitiva
+Covre o sumerji (un loca) con acua; (metafor) fa ce (algun) ave tro multe de un cosa, tipal problemes o labora
+en   inundate, flood, drown; overwhelm, overpower
+
+»  inonda   nom
+en   inundation, flood
+
+»  inonda de informa   nom
+en   information overload
+
+»  inonda de mercato   nom
+en   dumping (economic)
+
+»  inondada   ajetivo
+en   inundated, flooded, awash
+
+»  inondada con lus   ajetivo
+en   floodlit
+
+»  inondante   ajetivo
+en   inundating, overwhelming
+
+»  mori par inonda   verbo
+en   drown, be drowned
+
+»  mori par inonda   nom
+en   drowning
+
+inosente   ajetivo
+No intendente causa dole o sufri o otra problemes
+en   innocent (not intending harm)
+
+inova   verbo transitiva
+Introdui metodos, ideas o produidas nova
+en   innovate
+
+»  inova   nom
+en   innovation
+
+»  inovor   nom
+en   innovator
+
+»  inovosa   ajetivo
+en   innovative, promethean
+
+insenso   nom
+Un resina, spise o otra cosa cual on arde per la odor plasente cual lo produi
+en   incense
+
+inserta   verbo transitiva
+Pone (un basteta o jerme) en un ranur en la tronco o talo de un planta vivente; (en medica) transplanta sirurjial (un peso de texeda vivente); pone (un cosa) per formi un parte de un cosa plu grande
+en   graft; insert, inset
+
+»  inserta   nom
+en   graft; insert, inset
+
+»  inserta de oso   nom
+en   bone graft
+
+»  inserta de pel   nom
+en   skin graft
+
+insesto   nom
+Seso entre persones clasida como tro prosima relatada per sposi; la crimin de copula con un jenitor, enfante, conaseda o otra relatada prosima
+en   incest
+
+»  insestal   ajetivo
+en   incestuous
+
+insetiside   nom
+Un materia usada per mata insetos
+en   insecticide
+
+insetivor   ajetivo
+(Un organisme) cual come insetos
+en   insectivorous
+
+»  insetivor   nom
+en   insectivore
+
+inseto   nom
+Un artropodo peti con ses gamas e tipal un o du duples de alas
+Insecta
+en   insect
+
+insinia   nom
+Un marca distinguinte de alga cosa, tipal un state en un forte militar o otra organiza
+en   insignia, badge
+
+»  insinia de libro   nom
+en   bookplate, exlibris
+
+insinua   verbo transitiva
+Sujesta (un cosa mal o culpable) en modo nondireta e nonplasente
+en   insinuate, intimate
+
+»  insinua   nom
+en   insinuation, intimation, innuendo
+
+insiste   verbo transitiva
+Declara forte (ce alga cosa es vera) o demanda forte (ce on fa alga cosa), no asetante un refusa
+en   insist
+
+»  insiste   nom
+en   insistence
+
+»  insistente   ajetivo
+en   insistent, pushy
+
+insonia   nom
+La noncapasia abitual de dormi
+en   insomnia
+
+»  insonica   ajetivo
+en   insomniac
+
+»  insonica   nom
+en   insomniac
+
+inspira   verbo transitiva
+Fa ce (algun) ave la motiva o capasia per fa o senti alga cosa, tipal positiva
+en   inspire, arouse (interest, action)
+
+»  inspira   nom
+en   inspiration
+
+»  inspirante   ajetivo
+en   inspiring, inspirational
+
+»  inspiror   nom
+en   luminary
+
+instala   verbo transitiva
+Pone o fisa (macinas o aparatos) per usa; carga un computador con (un program); pone (algun) en un rol de autoria, tipal con rituo
+en   install; ensconce
+
+»  instala   nom
+en   installation
+
+»  desinstala   verbo transitiva
+en   uninstall, deinstall
+
+»  reinstala   verbo transitiva   (dise ‘reïnstala’)
+en   reinstall
+
+instinto   nom
+Un propensa inata de condui en un animal; un modo de ata o pensa natural o intuinte; un capasia natural
+en   instinct
+
+»  instintosa   ajetivo
+en   instinctive, instinctual
+
+»  senti instintosa   nom
+en   gut feeling
+
+institui   verbo transitiva
+Fundi o comensa (un program, sistem o organiza, o un person en un rol)
+en   institute, establish, set up
+
+»  institui   nom
+en   institution (action)
+
+»  institual   ajetivo
+en   institutional
+
+»  instituida   nom
+Un organiza per ateni goles en arte, siensa, instrui o aida
+en   institute, institution, establishment (organization/organisation)
+
+»  reinstitui   verbo transitiva   (dise ‘reïnstitui’)
+en   re-establish
+
+instrui   verbo transitiva
+Mostra o esplica a (un person o animal) como on fa alga cosa
+‹ instrui algun sur la regulas ›
+→ ensenia
+en   instruct, teach, brief, train (including animals)
+
+»  instrui   nom
+en   instruction, teaching, training, tuition, howto, brief, briefing
+
+»  autoinstruida   ajetivo   (dise ‘autoïnstruida’)
+en   self-taught, autodidact
+
+»  instrual   ajetivo
+en   instructional
+
+»  instruida   ajetivo
+en   instructed, trained
+
+»  instruinte   ajetivo
+en   instructive, instructional, educational, didactic
+
+»  instruor   nom
+en   instructor, trainer, coach, docent
+
+»  noninstruable   ajetivo
+en   untrainable, ineducable
+
+»  noninstruida   ajetivo
+en   untrained, unskilled
+
+»  reinstrui   verbo transitiva   (dise ‘reïnstrui’)
+en   retrain
+
+insulina   nom
+Un ormon produida par la pancreas cual regula la cuantia de glucosa en la sangue
+en   insulin
+
+insulta   verbo transitiva
+Parla a o trata (algun) con despeta o desrespeta
+en   insult, vituperate
+
+»  insulta   nom
+en   insult, invective, putdown
+
+intalio   nom
+Un desinia taliada o gravada en un cosa
+en   intaglio (art technique)
+
+intarsia   verbo transitiva
+Decora (un mobila o simil) con pesos peti de lenio colorida o otra materia
+en   inlay
+
+»  intarsia   nom
+en   intarsia, inlay, marquetry
+
+intata   ajetivo
+No danada o descapasida; en bon state completa
+en   intact
+
+integra   verbo nontransitiva
+(Un cosa) combina con un otra afin los deveni un unia intera
+en   integrate
+
+»  integra   verbo transitiva
+Combina; (en matematica) trova la integral de
+en   integrate
+
+»  integra   nom
+en   integration
+
+»  desintegra   verbo nontransitiva
+en   disintegrate, crumble, unravel
+
+»  desintegra   nom
+en   disintegration
+
+»  desintegrable   ajetivo
+en   disintegratable, crumbly, friable
+
+»  integrada   ajetivo
+en   integrated, inbuilt, built-in
+
+»  integral   ajetivo
+en   integral
+
+»  integral   nom
+Un funsiona de cual un otra es la derivada, espresante la area su la curva de la graf de la otra funsiona
+en   integral
+
+»  reintegra   verbo transitiva   (dise ‘reïntegra’)
+en   reintegrate
+
+»  reintegra   nom
+en   reintegration
+
+inteleto   nom
+La capasia de razona e comprende, spesial regardante cosas astrata o academial; la potias mental de un person
+en   intellect; noesis
+
+»  inteleto artifis   nom
+en   artificial intelligence
+
+»  inteletal   ajetivo
+en   intellectual; noetic
+
+»  inteletalisme   nom
+en   intellectualism
+
+»  inteletosa   nom
+en   intellectual (person)
+
+»  inteletosas   nom, plural
+en   intellectuals, intelligentsia
+
+intelijente   ajetivo
+Capas de oteni e aplica la sabe; capas de comprende, aprende, developa o aplica ideas
+en   intelligent, intellectual, smart, clever
+
+»  esamina de intelijentia   nom
+en   intelligence test, IQ test
+
+»  grado de intelijentia   nom
+en   intelligence quotient, IQ
+
+»  intelijentia   nom
+en   intelligence, astuteness, intellect
+
+»  nonintelijente   ajetivo
+en   unintelligent, obtuse
+
+intende   verbo transitiva
+Ave (un resulta) como la gol o ojeto de un projeta o scema o atas jeneral; (un usa de un parola) vole indica (un sinifia)
+en   intend, plan, mean (to do)
+
+»  intende   nom
+en   intent, intention, purpose, aim, motive, plan
+
+»  bonintendente   ajetivo
+en   well-intentioned, well-meaning
+
+»  con intende ce   sujunta
+en   so that, in order that (indicating intended result)
+
+»  con intende de   preposada
+en   for, with the intention of
+
+»  intendeda   ajetivo
+en   intended, intentional, deliberate, premeditated, meant, willful/wilful; earmarked
+
+»  intendente   ajetivo
+en   intentional, deliberate, on purpose
+
+»  malintendente   ajetivo
+en   ill-willed, cruel
+
+»  nonintendeda   ajetivo
+en   unintended, inadvertent, unplanned, collateral
+
+intensa   ajetivo
+De fortia o grado estrema; multe consentrada
+en   intense, intensive; formidable
+
+»  desintensi   verbo nontransitiva
+en   reduce, assuage
+
+»  desintensi   verbo transitiva
+en   reduce, assuage
+
+»  intensi   verbo nontransitiva
+en   intensify, heighten
+
+»  intensi   verbo transitiva
+en   intensify
+
+»  intensi   nom
+en   intensification
+
+»  intensia   nom
+en   intensity
+
+inter-   prefisa
+Entre
+‹ interata, internasional ›
+en   inter- (between, mutually)
+
+intera   ajetivo
+Con no parte mancante; completa unida; no rompeda o dejenerada
+en   entire, whole, total
+
+»  intera   averbo
+en   entirely, wholly, totally, quite
+
+»  intera   nom
+en   whole, entirety, totality
+
+interesa   verbo transitiva
+Stimula la curiosia o atende de (algun)
+en   interest, be of interest to
+
+»  interesa   nom
+Un senti de curiosia; mone periodal paiada a un taso spesifada, per la usa de mone prestada o per pospone la repaia de un deta
+en   interest (including money), attention; return (on investment), yield, payoff; sake
+
+»  interesa composada   nom
+en   compound interest
+
+»  desinteresa   verbo transitiva
+en   disinterest, fail to interest
+
+»  desinteresa   nom
+en   disinterest
+
+»  desinteresada   ajetivo
+en   disinterested
+
+»  interesada   ajetivo
+en   interested
+
+»  interesante   ajetivo
+en   interesting, fascinating
+
+»  noninteresante   ajetivo
+en   uninteresting
+
+»  per sua propre interesa   espresa
+en   for its own interest, for its own sake
+
+interfas   nom
+La loca a cual du sistemes, sujetos, organizas, etc encontra e interata con lunlotra; (en fisica) un surfas entre du partes de materia o spasio; un aparato o program cual permete ce un usor comunica con un computador
+en   interface
+
+»  interfas de usor   nom
+en   user interface
+
+»  interfas grafica de usor   nom
+en   graphical user interface, GUI
+
+interfere   verbo nontransitiva
+Partisipa o interveni (en un ata) sin invita o nesesa; preveni la continua o susede (de un prosede o ata)
+en   interfere, interlope, meddle, hinder, tamper, jigger
+
+»  interfere   nom
+en   interference
+
+»  interferente   ajetivo
+en   interfering, meddling, meddlesome
+
+»  interferor   nom
+en   meddler, busybody, interloper
+
+interferon   nom
+Un protena relasada par selulas animal, tipal en responde a un virus, cual ave la capasia de retarda o preveni la reprodui de viruses
+en   interferon (protein)
+
+interjeta   verbo transitiva
+Dise (alga cosa) subita, tipal a lado o como un interompe
+en   interject
+
+»  interjeta   nom
+en   interjection
+
+interna   ajetivo
+Situada en alga cosa, sin estende ultra sua limitas; pertinente a un tal situa; (en jeografia) no prosima a mares
+en   inner, interior, internal; inland
+
+»  interna   nom
+en   inside, interior, hinterland
+
+»  a interna   averbo
+en   inside, within
+
+»  a interna de   preposada
+en   inside, within, in the interior of
+
+»  interni   verbo nontransitiva
+en   internalize/internalise, interiorize/interiorise, take in
+
+»  interni   verbo transitiva
+en   internalize/internalise, interiorize/interiorise, take in
+
+»  interniste   nom
+Un mediciste ci spesiali sur maladias adulte
+en   internist (medical)
+
+»  la plu interna   ajetivo
+en   innermost
+
+intero   ajetivo
+en   integer, integral
+
+»  intero   nom
+Un numero cual no es un frato
+en   integer
+
+interoga   verbo transitiva
+Demanda a (algun, spesial un suspetada o prisonida) en modo formal, completa o violente
+en   interrogate, examine, question
+
+»  interoga   nom
+en   interrogation, examination, questioning
+
+interompe   verbo transitiva
+Para la progresa continuante de (un ativia o prosede); para (un parlor) par dise o fa alga cosa; rompe la continua de (un linia o surfas)
+en   interrupt, heckle; suspend, cut off; supervene
+
+»  interompe   nom
+en   interruption, suspension, breakpoint, cut-off
+
+interpol   nom
+Un organiza con base en Paris, cual coordina la investiga de crimines internasional par la polisia de nasiones diversa
+en   interpol
+
+interpola   verbo transitiva
+Introdui (alga cosa) entre puntos fisada; introdui (parolas) en un libro o otra testo; (en matematica) introdui (un valua o terma) en un serie par estima o calcula lo de valuas ambiente conoseda
+en   interpolate
+
+»  interpola   nom
+en   interpolation
+
+interprete   verbo transitiva
+Esplica la sinifia de (informa, parolas o atas); comprende ce (un ata, modo o condui) ave un sinifia spesifada; tradui simultan (la parla de un otra person) a un otra lingua; presenta (un rol de drama o un peso de musica) en modo cual indica la comprende individua par la artiste de la ideas de la creor
+en   interpret, construe
+
+»  interprete   nom
+en   interpretation, rendition
+
+»  interpretable   ajetivo
+en   interpretable, open to interpretation, ambiguous, equivocal
+
+»  interpretador   nom
+en   interpreter (software)
+
+»  interpretal   ajetivo
+en   interpretational, hermeneutic
+
+»  interpreteda   ajetivo
+en   interpreted, interpretive
+
+»  interpretor   nom
+en   interpreter (person)
+
+»  malinterprete   verbo transitiva
+en   misinterpret, misapprehend, misconstrue
+
+»  reinterprete   verbo transitiva   (dise ‘reïnterprete’)
+en   reinterpret
+
+intersepi   verbo transitiva
+Impedi (un person o cosa) de continua a sua destina; (en fisica) para o verje (lus o otra radia eletromagnetal); (en matematica) (un linia o surfas) marca o talia un parte de (un linia, surfas o spasio)
+en   intercept
+
+»  intersepi   nom
+en   interception
+
+interstisio   nom
+Un spasio interveninte, tipal multe peti
+en   interstice
+
+»  interstisial   ajetivo
+en   interstitial
+
+interval   nom
+Un tempo o spasio interveninte; un pausa en un taxe o ata longa
+en   interval (including musical), interlude, intermission
+
+interveni   verbo nontransitiva
+Vade a entre per aida, o per preveni o cambia la curso de avenis o sua resulta; aveni en la tempo entre du otra avenis
+en   intervene, intercede
+
+»  interveni   nom
+en   intervention, intercession
+
+intervisa   verbo transitiva
+Conversa con (algun) per oteni consela, per furni informa a escutores o regardores, o per esamina un aspiror per emplea
+en   interview; debrief
+
+»  intervisa   nom
+en   interview; debrief
+
+»  intervisa pratical   nom
+en   audition
+
+»  intervisor   nom
+en   interviewer
+
+intestin   nom
+(En vertebratos) la canal de dijesta entre la stomaco e la ano; (en nonvertebratos) la canal de dijesta entre la boca e la ano
+en   intestine, bowel
+
+»  intestin magra   nom
+en   small intestine
+
+»  intestin spesa   nom
+en   large intestine
+
+»  intestinal   ajetivo
+en   intestinal
+
+»  intestines   nom, plural
+en   intestines, guts, viscera, entrails; offal, chitterlings
+
+intima   ajetivo
+(Un person) bon conoseda, familial, amin; (un loca) con ambiente nonformal e amin; personal e privata
+en   intimate, close
+
+»  intima   nom
+en   insider
+
+»  intimia   nom
+en   intimacy
+
+intra-   prefisa
+En, interna
+en   intra- (inner)
+
+intramural   ajetivo
+Locada o aveninte a interna de un mur
+en   intramural
+
+intrarede   nom
+Un rede local e restrinjeda, tipal privata ma asededa con un surfador
+en   intranet
+
+intrauteral   ajetivo
+En la utero
+en   intrauterine
+
+intravenal   ajetivo
+Aveninte en la venas; introduida a un vena
+en   intravenous
+
+intro-   prefisa
+En, interna
+en   intro- (inner)
+
+introdui   verbo transitiva
+Presenta (alga cosa) per sua usa o funsiona prima; presenta (un idea o lege nova) per debate; trae un sujeto nova a la atende de (algun); trae (un planta, animal o maladia) a un loca nova; pone (un cosa) a en un otra cosa
+en   introduce (substance, topic, law), insert, institute; broach, bring up (topic)
+
+»  introdui   nom
+en   insertion, introduction; prelude, overture, prolegomenon
+
+»  introdui gradal   verbo transitiva
+en   phase in
+
+»  introduinte   ajetivo
+en   introductory
+
+»  reintrodui   verbo transitiva   (dise ‘reïntrodui’)
+en   reintroduce, reinsert
+
+introjeta   verbo transitiva
+Adota nonconsensa un idea o disposa de (un otra person)
+en   introject (psychology)
+
+»  introjeta   nom
+en   introjection
+
+introspeta   verbo nontransitiva
+Esamina la pensas o sentis cual on esperia en se
+en   introspect
+
+»  introspeta   nom
+en   introspection
+
+»  introspetante   ajetivo
+en   introspective
+
+introverti   verbo nontransitiva
+Es o deveni consernada par sua propre pensas e sentis, tipal en modo timida o neurosica
+en   be introverted
+
+»  introverti   nom
+en   introversion, reserve
+
+»  introvertida   ajetivo
+en   introverted, introvert, reserved
+
+»  introvertida   nom
+en   introvert
+
+intrui   verbo nontransitiva
+Pone se, con intende, en un loca o situa do on no es bonvenida; introdui (alga cosa) a un situa con efetos negativa; (roca magmal) deveni forsada a en un forma preesistente
+en   intrude, encroach, impinge
+
+»  intrui   verbo transitiva
+en   intrude, impose
+
+»  intrui   nom
+en   intrusion, encroachment
+
+»  intruor   nom
+en   intruder
+
+»  intruosa   ajetivo
+en   intrusive
+
+intuba   verbo transitiva
+Introdui un tubo en (un person o parte de corpo, spesial la tracea per respira)
+en   intubate
+
+»  intuba   nom
+en   intubation
+
+intui   verbo transitiva
+Comprende o solve par instinto
+en   intuit
+
+»  intui   nom
+en   intuition, insight
+
+»  contra intui   ajetivo
+en   counterintuitive
+
+»  intuable   ajetivo
+en   intuitable, intuitive (design)
+
+»  intuosa   ajetivo
+en   intuitive, insightful (person)
+
+»  nonintuable   ajetivo
+en   unintuitable, unintuitive (design)
+
+»  nonintuosa   ajetivo
+en   unintuitive (person)
+
+inuit   ajetivo
+Pertinente a la popla orijinal de la norde de Canada e partes de Calalitnunat e Alaska, o a sua lingua
+en   Inuit, Eskimo
+
+»  inuit   nom
+en   Inuit, Eskimo
+
+invade   verbo transitiva
+Entra a (un pais, nasion o rejion) per vinse o ocupa lo; (un parasito o maladia) entra a e estende a en (un organisme o parte de la corpo); entra a un area privata sin permete; (animales) entra a e domina un area
+en   invade, trespass, raid; overrun (with)
+
+»  invade   nom
+en   invasion, incursion, raid, foray
+
+»  invadente   ajetivo
+en   invading, invasive
+
+»  invador   nom
+en   invader, trespasser, raider
+
+inventa   verbo transitiva
+Crea o desinia (un cosa nova); crea (un idea, nom, nara, etc), tipal per engana
+en   invent, devise, contrive, concoct, come up with
+
+»  inventa   nom
+en   invention (action)
+
+»  inventada   ajetivo
+en   invented, devised, contrived, concocted
+
+»  inventada   nom
+en   invention (product), brainchild
+
+»  inventor   nom
+en   inventor
+
+»  inventosa   ajetivo
+en   inventive, creative, original
+
+»  inventosia   nom
+en   inventiveness, creativity, originality
+
+»  reinventa   verbo transitiva   (dise ‘reïnventa’)
+en   reinvent
+
+»  reinventa   nom
+en   reinvention
+
+inverno   nom
+La saison la plu fria (de desembre a marto en la emisfera norde, e de junio a setembre en la emisfera sude); (en astronomia) la periodo entre la solstisio de inverno e la ecuinote de primavera
+en   winter
+
+»  invernal   ajetivo
+en   winter, hibernal
+
+»  inverneria   nom
+en   greenhouse, glasshouse, hothouse
+
+»  inverni   verbo transitiva
+en   hibernate, winter
+
+»  inverni   nom
+en   hibernation
+
+»  invernin   ajetivo
+en   wintry
+
+»  invernosa   ajetivo
+en   wintry
+
+»  mediainverno   nom
+en   midwinter
+
+inversa   verbo transitiva
+Pone en la dirije o ordina oposante, tipal con la alta a la basa e la basa a la alta
+en   invert, upend, turn upside-down, overturn; capsize
+
+»  inversa   nom
+en   inverse; inversion
+
+»  inversada   ajetivo
+en   inverted, upside-down, overturned; capsized
+
+»  inversador   nom
+en   inverter; moldboard/mouldboard
+
+investi   verbo transitiva
+Usa (mone) en un emprende finansial con la espeta de profita; compra (asiones o propria) con la espeta de profita; (metafor) dona (sua tempo, labora o enerjia) a un projeta con la espeta de un resulta valuada
+en   invest
+
+»  investi   nom
+en   investment
+
+»  investor   nom
+en   investor, stakeholder
+
+»  investor otimiste   nom
+en   bull
+
+»  investor pesimiste   nom
+en   bear
+
+investiga   verbo transitiva
+Atenta descovre e esamina fatos en modo formal o sistemal, per trova la veria de (un aveni o situa); rexerca o studia per descovre fatos o informa; atenta determina la carater, atas o istoria de (un person)
+en   investigate
+
+»  investiga   nom
+en   investigation, inquiry, enquiry
+
+»  investiga judal   nom
+en   judicial inquiry, inquest
+
+»  investigor   nom
+en   investigator; inspector (police)
+
+»  noninvestigada   ajetivo
+en   uninvestigated, unscreened
+
+»  reinvestiga   verbo transitiva   (dise ‘reïnvestiga’)
+en   reinvestigate
+
+invia   verbo transitiva
+Desira ave (un poseseda o otra cualia valuada) de un otra person
+en   envy
+
+»  invia   nom
+en   envy
+
+»  inviable   ajetivo
+en   enviable
+
+»  inviosa   ajetivo
+en   envious
+
+invita   verbo transitiva
+Demanda de (algun), en modo cortes, formal o amin, ce el fa alga cosa o vade a alga loca
+en   invite; co-opt
+
+»  invita   nom
+en   invitation; overture (to communication, negotiation)
+
+»  invitada   ajetivo
+en   invited
+
+»  invitada   nom
+en   guest
+
+»  invitante   ajetivo
+en   inviting, appetizing/appetising
+
+»  noninvitante   ajetivo
+en   uninviting, unappetizing/unappetising
+
+iodle   verbo transitiva
+Canta (alga cosa), rapida alternante entre vose normal e falseto
+en   yodel
+
+»  iodle   nom
+en   yodeling/yodelling
+
+»  iodlor   nom
+en   yodeler/yodeller
+
+iodo   nom   (dise ‘yodo’)   «I»
+La elemento cimical con numero atomal 53
+en   iodine
+
+iog   nom   «Ȝ ȝ»
+Un letera de engles medieval
+en   yogh
+
+ioga   nom
+(En induisme) un pratica spirital e asteninte cual inclui controla de respira, posas de la corpo, e medita
+en   yoga
+
+iogi   nom
+Un praticor de ioga
+en   yogi (yoga expert)
+
+iogurte   nom
+Un comeda semisolida, preparada de lete fermentada par baterias, comun con la ajunta de dulses e otra sabores
+en   yogurt, yoghurt
+
+ioio   nom
+Un jueta composada de du discos separada par un ranur en cual un cordeta es enrolada, cual pote es jirada a basa e a retro par sua momento
+en   yo-yo
+
+ioman   nom
+(Istorial) un om ci posese e cultiva un propria nongrande, tipal en England; un servor en un casa nobil; (en alga marinas) un ofisior ci servi como un secretor o un parte de la corpo de comunica
+en   yeoman, beefeater
+
+ion   nom   (dise ‘yon’)
+Un atom o molecula con un carga eletrical par causa de un perde o gania de un o plu eletrones
+en   ion (chemistry)
+
+»  ional   ajetivo   (dise ‘yonal’)
+en   ionic
+
+»  ioni   verbo nontransitiva   (dise ‘yoni’)
+en   ionize/ionise
+
+»  ioni   verbo transitiva
+en   ionize/ionise
+
+»  ioni   nom
+en   ionization/ionisation
+
+ioni   nom
+(En induisme) la vulva, tipal como simbol de la enerjia divin de reprodui, comun representada par un petra sirculo
+en   yoni (Hinduism)
+
+Ionia   nom   (dise ‘ïonia’)
+en   Ionia (ancient region of Turkey)
+
+»  ionian   ajetivo   (dise ‘ïonian’)
+en   Ionic, Ionian
+
+ionica   ajetivo   (dise ‘ïonica’)
+en   Ionian (of the Ionian Sea)
+
+»  Isolas Ionica   nom, plural
+Un grupo de isolas a ueste de Elas
+en   Ionian Islands
+
+»  Mar Ionica   nom
+Un mar entre Elas e la parte la plu sude de Italia
+da   Ioniske Hav
+de   Ionische Meer
+en   Ionian Sea
+es   Mar Jónico
+fr   Mer Ionienne
+it   Mar Ionio
+pt   Mar Jónico
+
+ionosfera   nom   (dise ‘yonosfera’)
+La strato de la atmosfera cual conteni un consentra grande de iones e eletrones libre, capas de refleta ondas de radio
+da   ionosfære
+de   Ionosphäre
+en   ionosphere
+es   ionosfera
+it   ionosfera
+
+iora   nom
+Un avia asian, peti e insetivor
+Aegithina
+en   iora (bird)
+
+ioruba   ajetivo
+De o pertinente a la popla de Nijeria sude-ueste e Benin, o a sua lingua
+en   Yoruba (person, language)
+
+»  ioruba   nom
+en   Yoruba (person, language)
+
+iota   nom   (dise ‘yota’)   «Ι ι»
+La letera nove de la alfabeta elinica
+en   iota (Greek letter)
+
+Iowa   nom   (dise ‘aíowa’)
+Un stato en la SUA sentral
+en   Iowa (US state)
+
+iper-   prefisa
+Supra, suprabundante, plu ca normal
+en   hyper-
+
+iperasidia   nom
+Asidia estrema, tipal en la stomaco
+en   hyperacidity
+
+»  iperasidia gastral   nom
+en   heartburn
+
+iperativa   ajetivo
+Nonormal o estrema ativa
+en   hyperactive
+
+»  iperativia   nom
+en   hyperactivity
+
+iperbara   ajetivo
+De o con gas a presa plu grande ca normal
+en   hyperbaric
+
+iperbola   nom
+Un curva simetre e abrida, formida par la crusa de un cono sirculo con un plana a angulo plu peti con sua ase ca la lado de la cono
+en   hyperbola
+
+ipercinesia   nom
+Un state en cual la musculos spasma
+en   hyperkinesia
+
+ipercubo   nom
+Un figur jeometrial en cuatro o plu dimensiones, analoja a un cubo en tre dimensiones
+en   hypercube, tesseract
+
+ipereflexia   nom
+Un responde tro rapida de la reflexes
+en   hyperreflexia (medical)
+
+iperemia   nom
+La crese de flue de sangue a texedas en la corpo
+en   hyperemia/hyperaemia
+
+iperestende   verbo transitiva
+Estende (un braso, gama o junta) ultra sua limitas normal
+en   hyperextend
+
+»  iperestende   nom
+en   hyperextension
+
+iperfajia   nom
+Un tende estrema per come
+en   hyperphagia (medical)
+
+iperglisemia   nom
+Glucosa suprabundante en la sangue, tipal asosiada con diabete
+en   hyperglycemia/hyperglycaemia
+
+»  iperglisemica   ajetivo
+en   hyperglycemic/hyperglycaemic
+
+iperico   nom
+Un planta con flores jala con sinco petales, usada en preparas medical
+Hypericum
+en   hypericum, St John’s-wort (plant)
+
+iperidrose   nom
+Un disturba medical de sui suprabundante
+en   hyperhidrosis (medical)
+
+iperinfla   verbo nontransitiva
+(La valua de mone) diminui con rapidia grande
+en   hyperinflate
+
+»  iperinfla   verbo transitiva
+en   hyperinflate
+
+»  iperinfla   nom
+en   hyperinflation
+
+iperlia   nom
+(En informatica) un lia de un fix o testo a un otra loca o fix, comun ativida par clica a un parola o imaje sur la scermo
+en   hyperlink
+
+iperlipidemia   nom
+Un consentra nonormal de lipidos en la sangue
+en   hyperlipidemia/hyperlipidaemia (medical)
+
+iperope   ajetivo
+No capas de vide clar si ojetos es tro prosima a la oios
+en   far-sighted, long-sighted
+
+»  iperopia   nom
+en   far-sightedness, long-sightedness
+
+iperostose   nom
+Un crese suprabundante de oso
+en   hyperostosis (medical)
+
+iperpirexia   nom
+Un febre grande cual deveni perilosa, egal a o plu alta ca 41,5°C o 106,7°F
+en   hyperpyrexia (medical)
+
+iperplasia   nom
+Un grandi de un organo o texeda, causada par un crese de rapidia de sua selulas, tipal como un grado inisial en la developa de canser
+en   hyperplasia (medical)
+
+ipersecrete   verbo transitiva
+Secrete a grado plu ca normal
+en   hypersecrete (medical)
+
+»  ipersecrete   nom
+en   hypersecretion
+
+ipersensosa   ajetivo
+Sensosa en modo nonormal o estrema, psicolojial o fisical
+en   hypersensitive
+
+iperstimula   verbo transitiva
+Stimula en modo nonormal o estrema, psicolojial o fisical
+en   hyperstimulate, overstimulate
+
+»  iperstimula   nom
+en   hyperstimulation, overstimulation
+
+ipertensa   nom
+Un presa de sangue nonormal alta
+en   hypertension (medical)
+
+»  ipertensal   ajetivo
+en   hypertensive
+
+»  ipertensal   nom
+en   hypertensive
+
+ipertermia   nom
+Un state de ave un temperatur corpal nonormal alta
+en   hyperthermia, heatstroke, sunstroke
+
+ipertesto   nom
+(En informatica) un sistem cual lia temas sur un scermo a informa e imajes relatada; un testo presentada en esta modo
+en   hypertext
+
+ipertiroidia   nom
+La ativia suprabundante de la tiroide, aselerante la bateta de cor e la metaboli
+en   hyperthyroidism (medical)
+
+ipertonia   nom
+Un tono musculal o presa osmosal cual es plu alta ca normal
+en   hypertonia (medical)
+
+ipertricose   nom
+Un cuantia nonormal grande de capeles sur la corpo
+en   hypertrichosis (medical)
+
+ipertrofia   nom
+La grandi de un organo o texeda, causada par la grandi de sua selulas
+en   hypertrophy (medical)
+
+iperurisemia   nom
+Un cuantia nonormal alta de asida urica en la sangue
+en   hyperuricemia/hyperuricaemia (medical)
+
+ipnagojia   nom
+La state de mente entre velia e dormi
+en   hypnagogia
+
+»  ipnagojial   ajetivo
+en   hypnagogic
+
+ipno-   prefisa
+Pertinente a dormi
+en   hypno- (sleep)
+
+ipnose   verbo transitiva
+La indui de un stato de consensia en cual on pare perde la potia de ata volente e deveni multe respondente a sujestas o comandas
+en   hypnotize/hypnotise, mesmerize/mesmerise
+
+»  ipnose   nom
+en   hypnosis, hypnotism, mesmerism
+
+»  ipnosal   ajetivo
+en   hypnotic, mesmeric
+
+»  ipnosiste   nom
+en   hypnotist, hypnotizer/hypnotiser
+
+ipnoterapia   nom
+La usa de ipnose per trata maladias mental
+en   hypnotherapy
+
+»  ipnoterapiste   nom
+en   hypnotherapist
+
+ipo-   prefisa
+Su, nonsufisinte
+en   hypo-
+
+ipocalemia   nom
+Un manca de potasio en la sangue
+en   hypokalemia/hypokalaemia (medical)
+
+ipocampo   nom
+Crestas longa sur la fondo de ambos ventriculos ladal de la serebro, importante per emosia, memoria e la sistem de nervos autonom
+en   hippocampus
+
+ipocastania   nom
+Un arbor caduca con nozas noncomable encluida en cascas spinosa
+Aesculus hippocastanum
+en   horse chestnut (tree, nut)
+
+ipocolio   nom
+Un avia peti de la semideserto de Africa e Asia sude e sude-ueste
+Hypocolius ampelinus
+en   hypocolius (bird)
+
+ipocondria   nom
+Ansia nonormal per sua sania, o un teme nonrazonada ce on ave un maladia grave
+en   hypochondria, hypochondriasis
+
+»  ipocondrica   ajetivo
+en   hypochondriac
+
+»  ipocondrica   nom
+en   hypochondriac
+
+ipocrita   ajetivo
+Conduinte en un modo cual sujesta ce on ave valuas o morales plu nobil ca en realia
+en   hypocritical
+
+»  ipocrita   nom
+en   hypocrite
+
+»  ipocritia   nom
+en   hypocrisy; sellout
+
+ipoderma   nom
+La strato la plu interna de la pel
+en   hypodermis, subcutis
+
+»  ipodermal   ajetivo
+en   hypodermic, subcutaneous
+
+ipofise   nom
+La glande endocrin major, fisada a la fondo de la serebro
+en   pituitary gland, hypophysis
+
+»  ipofisal   ajetivo
+en   pituitary, hypophysial
+
+ipoglisemia   nom
+Un manca de glucosa en la sangue
+en   hypoglycemia/hypoglycaemia
+
+»  ipoglisemica   ajetivo
+en   hypoglycemic/hypoglycaemic
+
+ipogloso   nom
+Un pex de mares norde, importante como un comeda
+Hippoglossus
+en   halibut
+
+ipogonadia   nom
+Un manca de secrete ormonal o otra ativia de la gonadas
+en   hypogonadism (medical)
+
+ipomania   nom
+Un forma min estrema de mania
+en   hypomania (medical)
+
+ipomea   nom
+Un planta trepante, con flores trompetin cual abri en la matina
+Ipomoea
+en   morning glory (plant)
+
+ipopotamo   nom
+Un mamal grande con pel spesa e dentones grande, cual abita la rios de Africa
+Hippopotamus amphibius
+en   hippopotamus, hippo
+
+iposemia   nom
+Un consentra nonormal basa de osijen en la sangue; (en ecolojia) un consentra basa de osijen en un ambiente de organismes
+en   hypoxemia/hypoxaemia
+
+iposia   nom
+Un manca de osijen ateninte la texedas
+en   hypoxia (medical)
+
+ipotalamo   nom
+Un area de la serebro su la talamo cual coordina la sistem de nervos autonom e la ativia de la ipofise, e cual controla tal la temperatur, famia, sidia e otra sistemes omeostasal
+en   hypothalamus
+
+ipoteca   verbo transitiva
+Ofre (propria, tipal un imobila) per garantia un presta
+en   mortgage, lien
+
+»  ipoteca suprima   nom
+en   subprime mortgage
+
+»  reipoteca   verbo transitiva   (dise ‘reïpoteca’)
+en   remortgage
+
+ipotensa   nom
+Un presa de sangue nonormal basa
+en   hypotension (medical)
+
+»  ipotensal   ajetivo
+en   hypotensive
+
+»  ipotensal   nom
+en   hypotensive
+
+ipotenusa   nom
+La lado la plu longa de un triangulo reta, oposante la angulo reta
+en   hypotenuse
+fr   hypoténuse
+
+ipotermia   nom
+La state de ave un temperatur corpal nonormal basa
+en   hypothermia
+
+ipotese   verbo transitiva
+Proposa un esplica fundida sur atesta limitada, per comensa un investiga, rexerca o curso de razona
+en   hypothesize/hypothesise
+
+»  ipotese   nom
+en   hypothesis
+
+»  ipotesal   ajetivo
+en   hypothetical
+
+ipotiroidia   nom
+Ativia nonormal reduida de la tiroide, lentinte la crese e developa mental
+en   hypothyroidism (medical)
+
+Irac   nom
+Un pais en Asia sude-ueste
+(capital: Baghdad)
+en   Iraq
+
+»  iraci   ajetivo
+en   Iraqi
+
+»  iraci   nom
+en   Iraqi
+
+iraco   nom
+Un mamal peti e erbivor, trovada en zonas seca en Africa e Arabia
+Procaviidae
+en   hyrax (animal)
+
+Iran   nom
+Un pais en Asia sude-ueste, nomida Persia en edas antica
+(capital: Tehran)
+en   Iran
+
+»  irani   ajetivo
+en   Iranian
+
+»  irani   nom
+en   Iranian
+
+irena   nom
+Un avia cantante de Asia sude
+Irena
+en   fairy-bluebird
+
+iridio   nom   «Ir»
+La elemento cimical con numero atomal 77, un metal arjentin
+en   iridium (element)
+
+iriga   verbo transitiva
+Furni acua a (tera o un cultiveria) per aida crese, tipal par un sistem de canales; (en medica) aplica un flue continuante de acua o medisin licuida a (un organo o feri)
+en   irrigate
+
+»  iriga   nom
+en   irrigation
+
+iris   nom
+Un membrana plata e colorida ante la cornea de la oio; un planta con folias spadin e flores estravagante
+Iris
+en   iris (eye, plant)
+
+irita   verbo transitiva
+Fa ce (algun) deveni coler, noncomfortosa o nonpasiente; (en medica) causa inflama o otra descomforta; (en biolojia) stimula (un organisme, organo o selula) per produi un responde ativa
+en   irritate, annoy, bother, hassle, pester, peeve, irk, rankle
+
+»  irita   nom
+en   irritation, annoyance, nuisance, indignation, pique
+
+»  irita par venta   nom
+en   windburn
+
+»  iritable   ajetivo
+en   irritable, touchy, tetchy, peevish, prickly, crabby, edgy, snappy
+
+»  iritablia   nom
+en   irritability
+
+»  iritada   ajetivo
+en   irritated, annoyed, bothered, cross, huffy, indignant, aggrieved
+
+»  iritante   ajetivo
+en   irritating, irritant, disagreeable, annoying, bothersome, irksome, obnoxious, pesky
+
+irocuoi   ajetivo
+Pertinente a un federa de poplas orijinal de America Norde, o a sua linguas
+en   Iroquois (person, language)
+
+»  irocuoi   nom
+en   Iroquois (person, language)
+
+ironia   nom
+Un espresa de sinifia en linguaje cual indica normal la oposante, tipal per asentua o umor; un situa o aveni cual pare intendeda como la oposante de espetas, tipal divertinte
+en   irony
+
+»  ironiosa   ajetivo
+en   ironic, wry
+
+isberg   nom
+Un masa de jelo grande e flotante, separada de un glasia
+en   iceberg
+
+iscio   nom
+Un oso de la pelvis basa
+en   ischium (anatomy)
+
+Isis   nom
+La diva de fertilia de Egipte antica
+en   Isis (Egyptian goddess)
+
+islam   nom
+La relijio monoteiste como revelada par la profeta Muhammad
+→ muslim
+en   Islam
+
+»  islamisme   nom
+en   Islamism, Islamic fundamentalism, political Islam
+
+»  islamiste   ajetivo
+en   Islamist, Islamic fundamentalist
+
+»  islamiste   nom
+en   Islamist, Islamic fundamentalist
+
+»  muslim   ajetivo
+Pertinente a islam
+→ islam
+en   Islamic, Muslim, Moslem, Mohammedan
+
+»  muslim   nom
+en   Islamic, Muslim, Moslem, Mohammedan
+
+Island   nom
+Un isola e pais en la Mar Atlantica norde
+(capital: Reykjavik)
+en   Iceland
+
+»  islansce   ajetivo
+en   Icelandic, Icelander
+
+»  islansce   nom
+en   Icelandic, Icelander
+
+iso-   prefisa
+Egal, la mesma
+en   iso- (equal)
+
+isobar   nom
+Un linia cual junta puntos con la mesma presa en un mapa meteorolojial
+en   isobar
+
+isoglosa   nom
+Un linia sur un mapa de dialetos, marcante la borda de un area con un cualia linguistical
+en   isogloss
+
+isola   nom
+Un parte de tera ensircada par acua; (metafor) un area ensircada par un otra materia
+en   island, isle
+
+»  acustical isolida   ajetivo
+en   soundproof, soundproofed
+
+»  isolador   nom
+en   insulator (device)
+
+»  isolal   ajetivo
+en   insular
+
+»  isoleta   nom
+en   islet, skerry, ait, eyot, river island
+
+»  isoli   verbo nontransitiva
+en   isolate, insulate, sequester, quarantine
+
+»  isoli   verbo transitiva
+en   isolate, insulate, sequester, quarantine
+
+»  isoli   nom
+en   isolation, insulation, quarantine, insularity
+
+»  isoli acustical   verbo
+en   soundproof
+
+»  isolida   ajetivo
+en   isolated, insulated; out of the way
+
+»  isolida par neva   ajetivo
+en   snowed in
+
+»  isolinte   ajetivo
+en   isolating
+
+»  isolinte   nom
+en   isolator (substance)
+
+»  isolisme   nom
+en   isolationism
+
+»  isoliste   ajetivo
+en   isolationist
+
+isomero   nom
+Cada de du o plu composadas con la mesma formula ma un ordina diferente de la atomes en la molecula e con cualias diferente
+en   isomer (chemistry)
+
+»  isomeral   ajetivo
+en   isomeric
+
+isometral   ajetivo
+Con dimensiones egal; (en fisiolojia) de o pertinente a tensa de musculos sin contrae; (en desinia) usante un modo de mostra perspetiva en cual la tre dimensiones es representada par tre ases separada par 120°; (en matematica) pertinente a un cambia de un forma cual manteni distantias e angulos
+en   isometric
+
+isomorfe   ajetivo
+Simil en forma e relatas
+en   isomorphic
+
+»  isomorfe   nom
+Un materia o organisme cual coresponde esata en forma con un otra
+en   isomorph
+
+isosele   ajetivo
+(Un triangulo) con du lados de longia egal
+en   isosceles
+
+isostasia   nom
+La ecuilibra cual esiste entre partes de la crosta de la Tera, cual condui como si composada de blocos flotante sur la litosfera
+en   isostasy (geology)
+
+isotopo   ajetivo
+De o pertinente a cada de du o plu formas de la mesma elemento cual ave un cuantia egal de protones ma cuantias diferente de neutrones, tipal un forma radioativa
+en   isotopic
+
+»  isotopo   nom
+en   isotope
+
+»  isotopia   nom
+en   isotopy
+
+Ispaniola   nom
+Un isola en la Mar Caribe, divideda entre Haiti e la Republica Dominican
+en   Hispaniola (island)
+
+Israel   nom
+Un pais en Asia sude-ueste a la costa de la Mar Mediteraneo; (istorial) la rena norde de la ivris sirca 930-721 aec
+(capital: Ieruxalim)
+en   Israel
+
+»  israeli   ajetivo
+en   Israeli
+
+»  israeli   nom
+en   Israeli
+
+istamina   nom
+Un composada cimical cual selulas relasa en responde a un feri o en reatas de alerjia e inflama
+en   histamine
+
+»  antiistaminal   nom
+en   antihistamine
+
+ister-   prefisa
+Utero
+en   hyster- (womb)
+
+isterectomia   nom
+Un sirurjia per estrae la intera o un parte de la utero
+en   hysterectomy (surgery)
+
+isteria   nom
+Emosia esajerada o noncontrolable, tipal par un grupo de persones; un maladia psicolojial en cual tensa psicolojial es presentada como sintomes fisical, amnesia spesifada, emosias cambiable e condui dramosa
+en   hysteria
+
+»  isteria coletiva   nom
+en   mass hysteria
+
+»  isterica   ajetivo
+en   hysteric, hysterical
+
+istmo   nom
+Un banda streta de tera, con mar a cada lado, cual lia du partes plu grande de tera; (en anatomia) un organo streta, un pasaje o un texeda cual lia du partes plu grande
+en   isthmus
+
+istogram   nom
+Un scema composada de retangulos, con area proportial a la frecuentia de un variable e largia egal a la interval de la clase
+en   histogram
+
+istolojia   nom
+La studia de la strutur microscopial de texedas
+en   histology
+
+»  istolojiste   nom
+en   histologist
+
+istona   nom
+Cualce de un grupo de protenas fundal, trovada en cromatina
+en   histone
+
+istoria   nom
+La studia de avenis pasada, tipal en relatas umana; la serie intera de avenis pasada pertinente a un person o cosa; un arcivo cronolojial e continuante de avenis importante o publica o de un promove o instituida spesifada
+en   history; track record
+
+»  istoria fondal   nom
+en   backstory
+
+»  istorial   ajetivo
+en   historical
+
+»  istoriste   nom
+en   historian
+
+»  preistoria   nom   (dise ‘preïstoria’)
+en   prehistory
+
+»  preistorial   ajetivo   (dise ‘preïstorial’)
+en   prehistoric, prehistorical
+
+istoriografia   nom
+La studia de scrives istorial; la scrive de istoria
+en   historiography
+
+»  istoriografiste   nom
+en   historiographer
+
+Italia   nom
+Un pais en Europa sude
+(capital: Roma)
+en   Italy
+es   Italia
+
+»  italian   ajetivo
+en   Italian
+es   italiano
+
+»  italian   nom
+en   Italian
+es   italiano
+
+italica   ajetivo
+Un tipo de letera apoiada, tipal usada per asentua, distingui o en parolas de linguas stranjer
+en   italic (typography)
+
+»  italici   verbo nontransitiva
+en   italicize/italicise
+
+»  italici   verbo transitiva
+en   italicize/italicise
+
+itera   verbo nontransitiva
+(Un ata o dise) deveni repeteda; (un prosede matematical o computante) sicli, tipal aplicante cada repete a la resulta de la presedente
+en   iterate
+
+»  itera   verbo transitiva
+en   iterate
+
+»  itera   nom
+en   iteration
+
+»  iteral   ajetivo
+en   iterative
+
+iterbio   nom   «Yb (ytterbium)»
+La elemento cimical con numero atomal 70, un metal blanca arjentin
+en   ytterbium (element)
+
+itero   nom
+Un maladia de la duto bilal o figato cual jali la pel o la blancas de la oios
+en   jaundice
+
+Itiopia   nom
+Un pais en Africa norde-este, a la Mar Roja
+(capital: Addis Ababa)
+en   Ethiopia
+
+»  itiopian   ajetivo
+en   Ethiopian
+
+»  itiopian   nom
+en   Ethiopian
+
+itrio   nom   «Y (yttrium)»
+La elemento cimical con numero atomal 39, un metal blanca grisin
+en   yttrium (element)
+
+iu   esclama
+Espresante repulsa
+en   ew, ugh, yuck, yuk, pooh (disgust)
+
+iuan   nom   (dise ‘yuan’)
+La unia de mone en Jonguo
+en   yuan (currency)
+
+iuan   ajetivo   (dise ‘yuan’)
+Pertinente a la dinastia fundida par la mongoles, cual ia rena Jonguo de 1259 asta 1368
+en   Yuan (dynasty)
+
+iuca   nom
+Un planta en familia de agave, con folias rijida e spadin e spigas blanca e campanin, trovada en Mexico e SUA sude-ueste
+Yucca
+en   yucca (plant)
+
+iudi   ajetivo
+Pertinente a la relijio monoteiste de iudisme, o a sua aderores
+en   Jewish
+
+»  iudi   nom
+en   Jew
+
+»  antiiudisme   nom
+en   antisemitism
+
+»  antiiudiste   ajetivo
+en   anti-Jewish, antisemitic
+
+»  antiiudiste   nom
+en   antisemite
+
+»  cosas iudi   nom, plural
+en   Judaica
+
+»  iudia   nom
+en   Jewishness
+
+»  iudis   nom, plural
+en   Jews, Jewry
+
+»  iudisme   nom
+en   Judaism
+
+»  iudiste   ajetivo
+en   Judaic, Jewish
+
+iugo   nom
+Un peso de lenio usada per lia du boves o otra animales a un arado, caro o vagon
+en   yoke
+
+»  iugi   verbo transitiva
+en   yoke
+
+Iugoslavia   nom
+Un federa pasada de paises en Europa sude-este, cual ia es divideda per formi Slovenia, Corvatsca, Serbia, Tsernagora, Bosnia e Hersegovina e Macedonia
+en   Yugoslavia
+
+»  iugoslavian   ajetivo
+en   Yugoslav
+
+iupi   nom
+Un person burjes e modosa con un posto bon paiada e un vive lusosa
+en   yuppie
+
+iurt   nom
+Un tende sirculo de feltro o peles sur un strutur colasable, usada par nomadas en Mongol, Sibir e Turcia
+en   yurt (tent)
+
+ivor   nom
+Un materia dur e cremin blanca, composante la parte major de la dentones de elefantes, morsas e narvales
+en   ivory
+
+ivri   ajetivo
+Pertinente a la popla antica ci abita en lo cual es aora Israel e Filastin; pertinente a sua lingua o la lingua moderna derivada de lo
+en   Hebrew
+
+»  ivri   nom
+en   Hebrew, Israelite
+
+»  ivrisme   nom
+en   Hebraism, Hebraica
+
+Rhode Island   nom   (dise ‘rod aíland’)
+Un stato en la SUA norde-este, bordante la Mar Atlantica
+en   Rhode Island (US state)
+
