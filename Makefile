@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201812292329
+# Last modified 201812300043
 # See change log at the end of the file
 
 # ==============================================================
@@ -10,6 +10,7 @@
 
 # - make
 # - sed
+# - vim
 
 # ==============================================================
 # Config
@@ -39,9 +40,10 @@ tmp/%.adoc: src/%.adoc
 		-e 's/^\([a-z][a-z]\)   /\n- \1: /' \
 		-e 's/^\([0-9]\+\)   \(.\+\)$$/\1. \2\n+/' \
 		$< > $@
+	vim $@ -c ":%s@\([A-Z].\+\)\n\([A-Z].\+\)@\1\r(_\2_)@e|wq"
 
 # Description of the sed commands:
-
+#
 # 1: Remove link text "Leje plu".
 #
 # 2: Remove duplicate words in brackets.
@@ -49,9 +51,17 @@ tmp/%.adoc: src/%.adoc
 # 3: Mark main and secondary entries with a bullet and bold style, and separate
 # them from their definitions.
 #
-# 4: Convert the translations into an unordered list.
+# 4: Convert the translations into a list.
 #
 # 5: Markup the numbers of the definitions list.
+
+# Description of the vim command:
+#
+# Markup the species names with italics and put them in parens.
+#
+# The species name is detected because it's the paragraph after the term
+# description. I.e.  when there are two adjacent one-line paragraphs, which
+# start with a capital letter, the second one is a species name.
 
 # ==============================================================
 # Make the EPUB
@@ -71,3 +81,5 @@ target/%.epub: src/%.adoc $(preprocessed_sources)
 # 2018-12-28: Start.
 #
 # 2018-12-29: Fix and finish the preprocessing expressions.
+#
+# 2018-12-30: Markup the species names.
