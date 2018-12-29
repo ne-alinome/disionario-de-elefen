@@ -3,35 +3,39 @@
 :revdate: 2018-12-28
 :doctype: book
 
+// The character added before every entry, in order to facilitate
+// the searches:
+:bullet: .
+
 // :front-cover-image: images/libro.png
 // :epub3-stylesdir: styles
 
 // EPUB project by Marcos Cruz (programandala.net), 2018-12-28
 // Project website http://ne.alinome.net
 
-include::disionario_de_elefen_a.adoc[]
-include::disionario_de_elefen_b.adoc[]
-include::disionario_de_elefen_c.adoc[]
-include::disionario_de_elefen_d.adoc[]
-include::disionario_de_elefen_e.adoc[]
-include::disionario_de_elefen_f.adoc[]
-include::disionario_de_elefen_g.adoc[]
-include::disionario_de_elefen_h.adoc[]
-include::disionario_de_elefen_i.adoc[]
-include::disionario_de_elefen_j.adoc[]
-include::disionario_de_elefen_k.adoc[]
-include::disionario_de_elefen_l.adoc[]
-include::disionario_de_elefen_m.adoc[]
-include::disionario_de_elefen_n.adoc[]
-include::disionario_de_elefen_o.adoc[]
-include::disionario_de_elefen_p.adoc[]
-include::disionario_de_elefen_q.adoc[]
-include::disionario_de_elefen_r.adoc[]
-include::disionario_de_elefen_s.adoc[]
-include::disionario_de_elefen_t.adoc[]
-include::disionario_de_elefen_u.adoc[]
-include::disionario_de_elefen_v.adoc[]
-include::disionario_de_elefen_w.adoc[]
-include::disionario_de_elefen_x.adoc[]
-include::disionario_de_elefen_y.adoc[]
-include::disionario_de_elefen_z.adoc[]
+include::../tmp/disionario_de_elefen_a.adoc[]
+include::../tmp/disionario_de_elefen_b.adoc[]
+include::../tmp/disionario_de_elefen_c.adoc[]
+include::../tmp/disionario_de_elefen_d.adoc[]
+include::../tmp/disionario_de_elefen_e.adoc[]
+include::../tmp/disionario_de_elefen_f.adoc[]
+include::../tmp/disionario_de_elefen_g.adoc[]
+include::../tmp/disionario_de_elefen_h.adoc[]
+include::../tmp/disionario_de_elefen_i.adoc[]
+include::../tmp/disionario_de_elefen_j.adoc[]
+include::../tmp/disionario_de_elefen_k.adoc[]
+include::../tmp/disionario_de_elefen_l.adoc[]
+include::../tmp/disionario_de_elefen_m.adoc[]
+include::../tmp/disionario_de_elefen_n.adoc[]
+include::../tmp/disionario_de_elefen_o.adoc[]
+include::../tmp/disionario_de_elefen_p.adoc[]
+include::../tmp/disionario_de_elefen_q.adoc[]
+include::../tmp/disionario_de_elefen_r.adoc[]
+include::../tmp/disionario_de_elefen_s.adoc[]
+include::../tmp/disionario_de_elefen_t.adoc[]
+include::../tmp/disionario_de_elefen_u.adoc[]
+include::../tmp/disionario_de_elefen_v.adoc[]
+include::../tmp/disionario_de_elefen_w.adoc[]
+include::../tmp/disionario_de_elefen_x.adoc[]
+include::../tmp/disionario_de_elefen_y.adoc[]
+include::../tmp/disionario_de_elefen_z.adoc[]
