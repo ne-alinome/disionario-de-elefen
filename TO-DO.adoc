@@ -1,4 +1,26 @@
 = TO-DO of _Disionario de elefen_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2018-12-28
+:revdate: 2018-12-29
 
+
+== 2018-12-29
+
+- Fix: Apart the species, and/or markup them with italics. Examples:
+
+....
+Un dinosauro multe grande, bipede e carnivor de la eda cretasica tarda,
+con mandibulas forte e gamas anterior peti
+Tyrannosauridae
+....
+
+....
+Un mamal erbivor grande, domada per monta, corsa e tira carga; un peso
+de xace cual sembla la testa de esta; un unia de potia, tipal usada per
+descrive motores
+Equus caballus
+....
+
+- The whole dictionary is too big, too slow to search in certain
+  e-book readers. Create also volumes of similar size, with only
+  several letters each.
+  

@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201812292101
+# Last modified 201812292329
 # See change log at the end of the file
 
 # ==============================================================
@@ -35,7 +35,7 @@ tmp/%.adoc: src/%.adoc
 	sed \
 		-e 's/   (Leje plu…)$$//' \
 		-e 's/^\[\(.\+\)] \1/\1/' \
-		-e 's/^\(»  \)\?\(\S.*\)   \(\($(word_type)\)\(, \($(word_type)\)\)*\)\(   .\+\)\?$$/\n**{bullet}\2** (\3)\7\n/' \
+		-e 's/^\(\(» \) \)\?\(\S.*\)   \(\($(word_type)\)\(, \($(word_type)\)\)*\)\(   .\+\)\?$$/\n\2**{bullet}\3** (\4)\8\n/' \
 		-e 's/^\([a-z][a-z]\)   /\n- \1: /' \
 		-e 's/^\([0-9]\+\)   \(.\+\)$$/\1. \2\n+/' \
 		$< > $@
