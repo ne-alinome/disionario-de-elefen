@@ -2,13 +2,14 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201812290215
+# Last modified 201812292101
 # See change log at the end of the file
 
 # ==============================================================
 # Requirements
 
 # - make
+# - sed
 
 # ==============================================================
 # Config
@@ -28,30 +29,29 @@ clean:
 # ==============================================================
 # Preprocess the sources
 
+word_type=ajetivo\|averbo\|composada (nom+ajetivo)\|composada (nom+nom)\|composada (verbo+nom)\|conjunta\|corti\|determinante\|esclama\|espresa\|nom\|plural\|prefisa\|preposada\|preverbal\|pronom\|simbol\|sufisa\|sujunta\|verbo\|verbo transitiva\|verbo nontransitiva
+
 tmp/%.adoc: src/%.adoc
 	sed \
 		-e 's/   (Leje plu…)$$//' \
 		-e 's/^\[\(.\+\)] \1/\1/' \
-		-e 's/\(.\+\)   \(ajetivo\|corti\|esclama\|nom\|prefisa\|preposada\|simbol\|verbo transitiva\|verbo nontransitiva\)\(   .\+\)\?$$/\n**{bullet}\1** (\2)\3\n/' \
-		-e 's/^\([a-z][a-z]\)   /- \1: /' \
-		-e 's/^\([0-9]\+\)   /\1. /' \
+		-e 's/^\(»  \)\?\(\S.*\)   \(\($(word_type)\)\(, \($(word_type)\)\)*\)\(   .\+\)\?$$/\n**{bullet}\2** (\3)\7\n/' \
+		-e 's/^\([a-z][a-z]\)   /\n- \1: /' \
+		-e 's/^\([0-9]\+\)   \(.\+\)$$/\1. \2\n+/' \
 		$< > $@
 
-# Description of the `sed` commands:
+# Description of the sed commands:
 
 # 1: Remove link text "Leje plu".
 #
 # 2: Remove duplicate words in brackets.
 #
-# 3: Mark the entries with a bullet and bold style, and separate them from
-# their definition.
+# 3: Mark main and secondary entries with a bullet and bold style, and separate
+# them from their definitions.
 #
 # 4: Convert the translations into an unordered list.
 #
 # 5: Markup the numbers of the definitions list.
-
-# XXX OLD
-# grep -oh "^[a-z][a-z]\s\s\s" disionario_de_elefen_?.adoc|sort|uniq
 
 # ==============================================================
 # Make the EPUB
@@ -69,3 +69,5 @@ target/%.epub: src/%.adoc $(preprocessed_sources)
 # Change log
 
 # 2018-12-28: Start.
+#
+# 2018-12-29: Fix and finish the preprocessing expressions.
