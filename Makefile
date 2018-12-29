@@ -19,14 +19,19 @@ VPATH=./src:./target
 # Interface
 
 .PHONY: all
-all: XXX
+all: target/disionario_de_elefen.epub
 
 .PHONY: clean
 clean:
 	rm -f target/* tmp/*
 
 # ==============================================================
-#
+# Make the EPUB
+
+sources=$(wildcard src/*.adoc)
+
+target/%.epub: src/%.adoc $(sources)
+	asciidoctor-epub3 --out-file $@ $<
 
 # ==============================================================
 # Change log
