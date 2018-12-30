@@ -11,4 +11,4 @@
 
 == 2018-12-30
 
-- Markup examples as Asciidoctor example blocks.
+- Add style for example blocks.

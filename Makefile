@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201812300137
+# Last modified 201812300226
 # See change log at the end of the file
 
 # ==============================================================
@@ -40,7 +40,8 @@ tmp/%.adoc: src/%.adoc
 		-e 's/^\(nb\)   /\nNOTE: /' \
 		-e 's/^\([a-z]\{2\}\)   /\n- \1: /' \
 		-e 's/^\([0-9]\+\)   \(.\+\)$$/\n*\1:* \2\n/' \
-		-e 's/^\(‹\|→\)/\n\1/' \
+		-e 's/^\(→\)/\n\1/' \
+		-e 's/\(^‹ \| ›$$\)/\n====\n/g' \
 		$< > $@
 	vim $@ -e -c ":%s@\([A-Z].\+\)\n\([A-Z].\+\)@\1\r(_\2_)@e|wq"
 
@@ -67,8 +68,9 @@ tmp/%.adoc: src/%.adoc
 #
 # 6: Markup the numbers of the definitions list.
 #
-# 7: Separate examples (marked by "‹") and references (marked by "→") from the
-# previous paragraph.
+# 7: Separate references (marked by "→") from the previous paragraph.
+#
+# 8: Markup examples (marked by "‹" and "›") as Asciidoctor example blocks.
 
 # Description of the vim command:
 #
@@ -98,5 +100,5 @@ target/%.epub: src/%.adoc $(preprocessed_sources)
 # 2018-12-29: Fix and finish the preprocessing expressions.
 #
 # 2018-12-30: Markup the species names. Fix the "nb" notes, which were
-# interpreted as a translation into language code "nb". Separate examples and
-# references from the previous paragraph.
+# interpreted as a translation into language code "nb". Separate references
+# from the previous paragraph. Markup examples as example blocks.
