@@ -8,4 +8,7 @@
 - The whole dictionary is too big, too slow to search in certain
   e-book readers. Create also volumes of similar size, with only
   several letters each.
-  
+
+== 2018-12-30
+
+- Markup examples as Asciidoctor example blocks.
