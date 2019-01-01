@@ -1,6 +1,6 @@
 = TO-DO of _Disionario de elefen_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2018-12-30
+:revdate: 2019-01-01
 
 
 == 2018-12-29
@@ -12,3 +12,11 @@
 == 2018-12-30
 
 - Add style for example blocks.
+- Add the usage instructions of the dictionary, adapted from
+  elefen.org.
+
+== 2019-01-01
+
+- Use the raw data from
+  http://elefen.org/disionario/disionario_completa.txt.  Rewrite the
+  building process accordingly.
