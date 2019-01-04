@@ -1,5 +1,9 @@
 # Makefile of _Disionario de elefen_
 
+# This file is part of the project
+# "Disionario de elefen"
+# (http://ne.alinome.net)
+#
 # By Marcos Cruz (programandala.net)
 
 # Last modified 201812300226
@@ -17,11 +21,16 @@
 
 VPATH=./src:./target
 
+old=
+
 # ==============================================================
 # Interface
 
 .PHONY: all
 all: target/disionario_de_elefen.epub
+
+.PHONY: new
+new: target/disionario_completa.adoc
 
 .PHONY: clean
 clean:
@@ -79,6 +88,16 @@ tmp/%.adoc: src/%.adoc
 # The species name is detected because it's the paragraph after the term
 # description. I.e.  when there are two adjacent one-line paragraphs, which
 # start with a capital letter, the second one is a species name.
+
+# ==============================================================
+# Convert the original data file to an Asciidoctor document
+
+target/%.adoc: original/%.txt
+	vim -e \
+		-S make/convert_data_to_asciidoctor.vim \
+		-c 'saveas! $@' \
+		-c 'quit!' \
+		$<
 
 # ==============================================================
 # Make the EPUB
