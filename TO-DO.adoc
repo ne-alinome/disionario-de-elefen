@@ -1,6 +1,6 @@
 = TO-DO of _Disionario de elefen_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-01-01
+:revdate: 2019-01-04
 
 // This file is part of the project
 // "Disionario de elefen"
@@ -20,8 +20,6 @@
 - Add the usage instructions of the dictionary, adapted from
   elefen.org.
 
-== 2019-01-01
+== 2019-01-04
 
-- Use the raw data from
-  http://elefen.org/disionario/disionario_completa.txt.  Rewrite the
-  building process accordingly.
+- Convert the 'V' field of the data file.
