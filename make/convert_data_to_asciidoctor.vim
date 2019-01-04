@@ -64,6 +64,9 @@
 " Remove the index (I), link (G) and origin (O) fields:
 %s@^  [GIO] .\+\n@@e
 
+" Convert the see (V) field to 'v' abbreviation:
+%s@^  V \(.\+\)$@**v** \1\r@e
+
 " Add species to the definition
 " (must be done after removing fields G, I and O):
 %s@\.\n\n  T \(.\+\)@\r(_\1_).\r@e

@@ -22,4 +22,7 @@
 
 == 2019-01-04
 
-- Convert the 'V' field of the data file.
+- Convert the contents of the 'V' field into cross references.
+- Fix: `P contraütopial` remains.
+- Convert 'S' field.
+- Convert 'T' fields that don't follow a descritption.

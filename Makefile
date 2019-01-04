@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201901042218
+# Last modified 201901042251
 # See change log at the end of the file
 
 # ==============================================================
@@ -36,6 +36,8 @@ clean:
 
 # ==============================================================
 # Convert the original data file to Asciidoctor
+
+.SECONDARY: tmp/disionario_completa.adoc
 
 tmp/%.adoc: src/%.txt
 	vim -e \
