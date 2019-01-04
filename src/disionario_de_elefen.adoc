@@ -5,6 +5,12 @@
 :note-caption: nb
 :example-caption: pe
 
+// This file is part of the project
+// "Disionario de elefen"
+// (http://ne.alinome.net)
+//
+// By Marcos Cruz (programandala.net)
+
 // Last modified 201812300209
 
 // The character added before every entry, in order to facilitate
