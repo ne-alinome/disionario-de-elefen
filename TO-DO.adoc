@@ -26,3 +26,5 @@
 - Fix: `P contraütopial` remains.
 - Convert 'S' field.
 - Convert 'T' fields that don't follow a descritption.
+- Replace the regexp method: Search the file for the data, store them
+  into an structure, and then build the result.

@@ -10,7 +10,8 @@
 " (http://elefen.org/disionario/disionario_completa.txt) into Asciidoctor
 " format (http://ascidoctor.org).
 
-" 2019-01-04: Start. First working version.
+" 2019-01-04: Start. First working version, with regexp and text
+" substitutions.
 
 " Remove internal notes:
 %s@^  N \/\/.\+\n@@e
@@ -21,8 +22,11 @@
 " Remove internal notes at the end of line:
 %s@\/\/.*$@@e
 
+" XXX FIXME -- Also the 'O' field and others can be between the description
+" and the pronuntiation:
+"
 " Add the pronunciation note ('P' field), if any, to its description:
-%s@^\(\S.\{-} : .\+\)\n\(  D .\+\)\?\n  P \(.\+\)$@\1 (dise ‘\3’)\r\2@e
+%s@^\(\S.\{-} : .\+\)\n\(\(  D .\+\)\n\)\?  P \(.\+\)$@\1 (dise ‘\4’)\r\3@e
 
 " Separate the headwords from the rest of the entry:
 %s@^\S.* : .*$@&\r@e
@@ -65,7 +69,7 @@
 %s@^  [GIO] .\+\n@@e
 
 " Convert the see (V) field to 'v' abbreviation:
-%s@^  V \(.\+\)$@**v** \1\r@e
+%s@^  V \(.\+\)$@v \1\r@e
 
 " Add species to the definition
 " (must be done after removing fields G, I and O):
