@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201901042251
+# Last modified 201901052324
 # See change log at the end of the file
 
 # ==============================================================
@@ -14,6 +14,7 @@
 
 # - asciidoctor
 # - asciidoctor-epub3
+# - gforth
 # - make
 # - vim
 
@@ -22,7 +23,8 @@
 
 VPATH=./src:./target
 
-old=
+#converter=vim
+converter=gforth
 
 # ==============================================================
 # Interface
@@ -34,17 +36,25 @@ all: target/disionario_de_elefen.epub
 clean:
 	rm -f target/* tmp/*
 
+.PHONY: adoc
+adoc: tmp/disionario_completa.adoc
+
 # ==============================================================
 # Convert the original data file to Asciidoctor
 
 .SECONDARY: tmp/disionario_completa.adoc
 
 tmp/%.adoc: src/%.txt
+ifeq ($(converter),'vim')
 	vim -e \
 		-S make/convert_data_to_asciidoctor.vim \
 		-c 'saveas! $@' \
 		-c 'quit!' \
 		$<
+else
+#	gforth make/convert_data_to_asciidoctor.fs -e "run $< bye"
+	gforth make/convert_data_to_asciidoctor.fs -e "run $< bye" > $@
+endif
 
 # ==============================================================
 # Make the EPUB
@@ -64,3 +74,5 @@ target/%.epub: src/%.adoc tmp/disionario_completa.adoc
 # from the previous paragraph. Markup examples as example blocks.
 #
 # 2019-01-04: Rewrite: Use the original data file.
+#
+# 2019-01-05: Write a new converter in Forth to replace the Vim code.
