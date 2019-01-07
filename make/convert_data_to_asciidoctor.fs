@@ -17,7 +17,7 @@
 \
 \ See also <http://forth-standard.org>.
 
-\ Last modified 201901072358
+\ Last modified 201901080003
 \ See change log at the end of the file
 
 \ ==============================================================
@@ -241,17 +241,20 @@ variable described
   \ A flag. Has the current headword been described? I.e.  has it an
   \ ordinary description, a scientific name or a capital city?
 
+: ?separate ( -- )
+  described @ if cr then ;
+
 : add-scientific ( ca len -- )
-  ." _(" type ." )_" described on ;
+  ?separate ." _(" type ." )_" described on ;
 
 : add-capital ( ca len -- )
-  ." (capital: " type ." )" described on ;
+  ?separate ." (capital: " type ." )" described on ;
 
 : capitalize ( ca len -- ca len )
   over dup c@ toupper swap c! ;
 
 : add-description ( ca len -- )
-  capitalize type cr described on ;
+  capitalize type described on ;
 
 : ?add-description ( -- )
   described off

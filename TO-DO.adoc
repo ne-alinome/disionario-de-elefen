@@ -28,4 +28,3 @@
 
 - Add the 'O' field.
 - Remove curly brackets comments.
-- Fix full stop of descriptions. See "duana".
