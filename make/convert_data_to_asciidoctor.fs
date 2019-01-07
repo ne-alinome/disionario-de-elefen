@@ -17,7 +17,7 @@
 \
 \ See also <http://forth-standard.org>.
 
-\ Last modified 201901080003
+\ Last modified 201901080053
 \ See change log at the end of the file
 
 \ ==============================================================
@@ -36,8 +36,11 @@
 : open-input ( "filename" -- )
   parse-name r/o open-file throw to input-file -bom ;
 
-: another-line? ( -- ca len f )
+: line? ( -- ca len f )
   line-buffer dup /line-buffer input-file read-line throw ;
+  \ If there's a new line in the data file, return it as string _ca
+  \ len_ and _f_ is true. Otherwise _f_ is false and _ca len_ is
+  \ unimportant.
 
 : close-input ( -- )
   input-file close-file throw ;
@@ -122,21 +125,25 @@ $variable zh-field
   pt-field $init
   ru-field $init
   zh-field $init ;
+  \ Empty all the data field variables.
 
 : -section ( -- )
   section $init ;
+  \ Empty the section variable.
 
 : -headword ( -- )
   headword $init ;
+  \ Empty the headword variable.
 
 \ ==============================================================
-\ Parsing {{{1
+\ Parser {{{1
 
 \ A set of words is created to parse the data lines and store the
 \ contents into the corresponding dynamic strings.
 
 : parse-line ( "ccc<eol>" -- ca line )
   0 parse ;
+  \ Parse the current line and retur it as string _ca len_
 
 : datum: ( a "name" --- )
   create ,
@@ -152,7 +159,7 @@ table constant datum-wordlist
   \ of the data file are preceded by two spaces, so no name clash can
   \ happen, but anyway they are uppercase.
 
-get-current datum-wordlist set-current
+get-current  datum-wordlist set-current
 
 c-field datum: C
 d-field datum: D
@@ -198,10 +205,6 @@ set-current
 
 dummy-letter value current-letter
 
-: got-section? ( -- f )
-  section $@len 0<> ;
-  \ Is there an active section in the current headword?
-
 : headword-separator$ ( -- ca len )
   s"  : " ;
   \ The string used in the data file to separate the headword
@@ -222,69 +225,79 @@ dummy-letter value current-letter
   headword> headword-separator$ nip /string ;
   \ Convert headword line _ca1 len1_ into its second part.
 
-: create-headword-part1 ( -- )
+: .headword-part1 ( ca len -- )
   ." **" headword $@ headword>part-1 type ." **" ;
+  \ Display the first part (left) of the headword.
 
-: add-symbol ( -- )
+: .symbol ( ca len -- )
   ."  «" type ." »" s-field $init ;
+  \ Display the 'S' field _ca len_.
 
-: ?add-symbol ( -- )
-  s-field $@ dup if add-symbol else 2drop then ;
+: ?.symbol ( -- )
+  s-field $@ dup if .symbol else 2drop then ;
+  \ Display the 'S' field, if any.
 
-: create-headword-part2 ( -- )
-  headword $@ headword>part-2 type ?add-symbol ;
-
-: add-pronunciation ( ca len -- )
-  ."  (dise ‘" type ." ’)" ;
+: .headword-part2 ( -- )
+  headword $@ headword>part-2 type ?.symbol ;
+  \ Display the second part (right) of the headword.
 
 variable described
-  \ A flag. Has the current headword been described? I.e.  has it an
-  \ ordinary description, a scientific name or a capital city?
+  \ A flag. Has any part of the current headword been described?  The
+  \ possible parts are: the main description, the  scientific name or
+  \ the capital city?
 
 : ?separate ( -- )
   described @ if cr then ;
+  \ If some part of the description has already been displayed,
+  \ print a carriage return to separate the next part.
 
-: add-scientific ( ca len -- )
+: .scientific ( ca len -- )
   ?separate ." _(" type ." )_" described on ;
+  \ Display the 'T' field _ca len_.
 
-: add-capital ( ca len -- )
+: .capital ( ca len -- )
   ?separate ." (capital: " type ." )" described on ;
+  \ Display the 'C' field _ca len_.
 
 : capitalize ( ca len -- ca len )
   over dup c@ toupper swap c! ;
+  \ Capitalize the first character (ASCII only) of string _ca len_.
 
-: add-description ( ca len -- )
+: .description ( ca len -- )
   capitalize type described on ;
+  \ Display main description _ca len_.
 
-: ?add-description ( -- )
+: ?.description ( -- )
   described off
-  d-field $@ dup if add-description else 2drop then
-  t-field $@ dup if add-scientific  else 2drop then
-  c-field $@ dup if add-capital     else 2drop then
+  d-field $@ dup if .description else 2drop then
+  t-field $@ dup if .scientific  else 2drop then
+  c-field $@ dup if .capital     else 2drop then
   described @ if ." ." cr then ;
 
-: add-note ( ca len -- )
+: .note ( ca len -- )
   cr ." NOTE: " type cr ;
-  \ Add an Asciidoctor note markup for note _ca len_.
+  \ Display the 'N' field _ca len_, using the Asciidoctor `NOTE:`
+  \ markup.
 
-: ?add-note ( -- )
-  n-field $@ dup if add-note else 2drop then ;
+: ?.note ( -- )
+  n-field $@ dup if .note else 2drop then ;
+  \ Display the 'N' field, if any.
 
-: add-usage ( ca len -- )
+: .usage ( ca len -- )
   cr ." ____" cr type cr ." ____" cr ;
 
-: ?add-usage ( -- )
-  u-field $@ dup if add-usage else 2drop then ;
+: ?.usage ( -- )
+  u-field $@ dup if .usage else 2drop then ;
 
-: add-see ( ca len -- )
+: .see ( ca len -- )
   cr ." v " type cr ;
 
-: ?add-see ( -- )
-  v-field $@ dup if add-see else 2drop then ;
+: ?.see ( -- )
+  v-field $@ dup if .see else 2drop then ;
 
 : derived-headword? ( ca len -- f )
   drop c@ '.' <> ;
-  \ XXX TODO -- not used
+  \ XXX REMARK -- not used yet
 
 : letter-headword? ( ca len -- f )
   2dup headword>part-1 nip 2 <> if 2drop false exit then
@@ -299,27 +312,35 @@ variable described
 : ?letter-heading ( -- )
   headword $@ letter-headword? if letter-heading then ;
 
-: ?add-pronunciation ( -- )
-  p-field $@ dup if add-pronunciation else 2drop then ;
+: .pronunciation ( ca len -- )
+  ."  (dise ‘" type ." ’)" ;
+  \ Display the 'P' field _ca len_.
 
-: (create-headword) ( -- )
+: ?.pronunciation ( -- )
+  p-field $@ dup if .pronunciation else 2drop then ;
+  \ Display the 'P' field, if any.
+
+: (.headword) ( -- )
   ?letter-heading
-  create-headword-part1  headword-separator$ type
-  create-headword-part2  ?add-pronunciation cr cr ;
+  .headword-part1  headword-separator$ type
+  .headword-part2  ?.pronunciation cr cr ;
+  \ Display the current headword.
 
-: create-fields ( -- )
-  ?add-description
-  ?add-note
-  ?add-usage
-  ?add-see ;
+: .fields ( -- )
+  ?.description ?.note ?.usage ?.see ;
 
 : translation ( ca1 len1 ca2 len2 -- )
   ." - " 2swap type ." : " type cr ;
+  \ Display translation _ca2 len2_ in language code _ca1 len1_,
+  \ as an item list.
 
 : ?translation ( ca len a -- )
   $@ dup if translation else 2drop 2drop then ;
+  \ If the translation contained in the dynamic string _a_
+  \ is not empty, display it. Otherwise do nothing. _ca len_ is the
+  \ language code.
 
-: create-translations ( -- )
+: .translations ( -- )
   cr
   s" ar" ar-field ?translation
   s" ca" ca-field ?translation
@@ -344,67 +365,78 @@ variable described
   s" ru" ru-field ?translation
   s" zh" zh-field ?translation
   cr ;
+  \ Display the list of translations.
 
-: create-data ( -- )
-  create-fields create-translations ;
+: .data ( -- )
+  .fields .translations ;
+  \ Display the data of the current headword or section.
 
-: (create-section) ( -- )
+: (.section) ( -- )
   section $@ type cr cr ;
+  \ Display the current section.
 
-: create-section ( -- )
-  (create-section) -section create-data -data ;
+: .section ( -- )
+  (.section) -section .data -data ;
+  \ Display the current section data and clear it.
 
-: create-headword ( -- )
-  (create-headword) -headword create-data -data ;
+: .headword ( -- )
+  (.headword) -headword .data -data ;
+  \ Display the current headword data and clear it.
 
 \ ==============================================================
 \ Input {{{1
 
 : get-headword ( ca len -- )
   headword $! -section -data ;
+  \ Get the headword from line _ca len_.
 
 : get-section ( ca len -- )
   section $! -data ;
+  \ Get the definition section from line _ca len_.
 
 : get-datum ( ca len -- )
   2>r get-order datum-wordlist 1 set-order
   2r> evaluate set-order ;
-  \ Get the datum from line _ca len_, evaluating it
-  \ with the proper word list.
+  \ Get the datum from line _ca len_, evaluating it with the proper
+  \ word list.
 
-: headword-line? ( ca len -- f )
+: headword? ( ca len -- f )
   drop c@ dup bl <> swap '(' <> and  ;
-  \ Is data file line _ca len_ a headword line?
+  \ Is line _ca len_ a headword line?
   \ Headword lines don't start with a space or a paren.
 
-: section-line? ( ca len -- f )
+: section? ( ca len -- f )
   drop c@ '(' = ;
-  \ Is data file line _ca len_ a section line?
+  \ Is line _ca len_ a section line?
   \ Section start with a number in parens.
 
-: datum-line? ( ca len -- f )
+: datum? ( ca len -- f )
   drop 2 s"   " str= ;
-  \ Is data file line _ca len_ a datum line?
+  \ Is line _ca len_ a datum line?
   \ Datum lines start with two spaces.
 
-: handle-data-line ( ca len -- )
-  2dup headword-line? if get-headword exit then
-  2dup section-line?  if get-section  exit then
-  2dup datum-line?    if get-datum    exit then
+: data-line ( ca len -- )
+  2dup headword? if get-headword exit then
+  2dup section?  if get-section  exit then
+  2dup datum?    if get-datum    exit then
   type abort" Line format not recognized" ;
+  \ Manage a data line.
 
-: got-headword? ( -- f )
-  headword $@len 0<> ;
+: ready? ( a -- f )
+  $@len 0<> ;
+  \ Is data field _a_ ready?
+  \ I.e., is dynamic string _a_ not empty?
 
-: handle-empty-line ( -- )
-  got-section?  if create-section  exit then
-  got-headword? if create-headword exit then ;
+: empty-line ( -- )
+  section  ready? if .section  exit then
+  headword ready? if .headword exit then ;
+  \ Manage an empty line.
 
-: handle-line ( ca len -- )
-  dup if handle-data-line else 2drop handle-empty-line then ;
+: convert-line ( ca len -- )
+  dup if data-line else 2drop empty-line then ;
 
 : convert-input ( "filename" -- )
-  begin another-line? while handle-line repeat ;
+  begin line? while convert-line repeat ;
 
 : run ( "filename" -- )
   open-input convert-input close-input ;
@@ -418,6 +450,7 @@ variable described
 \ 2019-01-05: First working version. Not finished.
 \
 \ 2019-01-07: Fix the logic of creating headwords and sections.
-\ Convert the 'N', 'C' and 'V' fields.
+\ Convert the 'N', 'C' and 'V' fields. Simplify the Forth word names.
+\ Improve factoring and comments.
 
 \ vim: filetype=gforth
