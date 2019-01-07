@@ -26,4 +26,6 @@
 
 == 2019-01-07
 
+- Add the 'C' field.
+- Add the 'O' field.
 - Add the 'V' field.

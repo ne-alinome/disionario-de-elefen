@@ -17,7 +17,7 @@
 \
 \ See also <http://forth-standard.org>.
 
-\ Last modified 201901072326
+\ Last modified 201901072341
 \ See change log at the end of the file
 
 \ ==============================================================
@@ -254,6 +254,13 @@ dummy-letter value current-letter
   t-field $@ dup dup >r if add-scientific  else 2drop then
   2r> or if '.' emit cr then ;
 
+: add-note ( ca len -- )
+  cr ." NOTE: " type cr ;
+  \ Add an Asciidoctor note markup for note _ca len_.
+
+: ?add-note ( -- )
+  n-field $@ dup if add-note else 2drop then ;
+
 : add-usage ( ca len -- )
   cr ." ____" cr type cr ." ____" cr ;
 
@@ -287,6 +294,7 @@ dummy-letter value current-letter
 
 : create-fields ( -- )
   ?add-description
+  ?add-note
   ?add-usage
   ;
 
