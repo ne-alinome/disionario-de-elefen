@@ -17,7 +17,7 @@
 \
 \ See also <http://forth-standard.org>.
 
-\ Last modified 201901072352
+\ Last modified 201901072358
 \ See change log at the end of the file
 
 \ ==============================================================
@@ -273,6 +273,12 @@ variable described
 : ?add-usage ( -- )
   u-field $@ dup if add-usage else 2drop then ;
 
+: add-see ( ca len -- )
+  cr ." v " type cr ;
+
+: ?add-see ( -- )
+  v-field $@ dup if add-see else 2drop then ;
+
 : derived-headword? ( ca len -- f )
   drop c@ '.' <> ;
   \ XXX TODO -- not used
@@ -302,7 +308,7 @@ variable described
   ?add-description
   ?add-note
   ?add-usage
-  ;
+  ?add-see ;
 
 : translation ( ca1 len1 ca2 len2 -- )
   ." - " 2swap type ." : " type cr ;
@@ -409,6 +415,6 @@ variable described
 \ 2019-01-05: First working version. Not finished.
 \
 \ 2019-01-07: Fix the logic of creating headwords and sections.
-\ Convert the 'N' and 'C' fields.
+\ Convert the 'N', 'C' and 'V' fields.
 
 \ vim: filetype=gforth
