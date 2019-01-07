@@ -17,7 +17,7 @@
 \
 \ See also <http://forth-standard.org>.
 
-\ Last modified 201901052337
+\ Last modified 201901072326
 \ See change log at the end of the file
 
 \ ==============================================================
@@ -37,9 +37,7 @@
   parse-name r/o open-file throw to input-file -bom ;
 
 : another-line? ( -- ca len f )
-  line-buffer dup /line-buffer input-file read-line throw
-  \ >r 2dup ." line=" type cr r> \ XXX INFORMER
-  ;
+  line-buffer dup /line-buffer input-file read-line throw ;
 
 : close-input ( -- )
   input-file close-file throw ;
@@ -200,7 +198,7 @@ set-current
 
 dummy-letter value current-letter
 
-: section? ( -- f )
+: got-section? ( -- f )
   section $@len 0<> ;
   \ Is there an active section in the current headword?
 
@@ -261,7 +259,6 @@ dummy-letter value current-letter
 
 : ?add-usage ( -- )
   u-field $@ dup if add-usage else 2drop then ;
-  \ XXX TODO --
 
 : derived-headword? ( ca len -- f )
   drop c@ '.' <> ;
@@ -328,22 +325,23 @@ dummy-letter value current-letter
 : create-data ( -- )
   create-fields create-translations ;
 
-: create-section ( -- )
+: (create-section) ( -- )
   section $@ type cr cr ;
 
+: create-section ( -- )
+  (create-section) -section create-data -data ;
+
 : create-headword ( -- )
-  section? if   create-section -section
-           else (create-headword) -headword
-           then create-data -data ;
+  (create-headword) -headword create-data -data ;
 
 \ ==============================================================
 \ Input {{{1
 
 : get-headword ( ca len -- )
-  -headword headword $! ;
+  headword $! -section -data ;
 
 : get-section ( ca len -- )
-  -data section $! ;
+  section $! -data ;
 
 : get-datum ( ca len -- )
   2>r get-order datum-wordlist 1 set-order
@@ -376,7 +374,8 @@ dummy-letter value current-letter
   headword $@len 0<> ;
 
 : handle-empty-line ( -- )
-  got-headword? if create-headword then ;
+  got-section?  if create-section  exit then
+  got-headword? if create-headword exit then ;
 
 : handle-line ( ca len -- )
   dup if handle-data-line else 2drop handle-empty-line then ;
@@ -394,5 +393,7 @@ dummy-letter value current-letter
 \ Vim, which used regexp and text substitutions.
 \
 \ 2019-01-05: First working version. Not finished.
+\
+\ 2019-01-07: Fix the logic of creating headwords and sections.
 
 \ vim: filetype=gforth

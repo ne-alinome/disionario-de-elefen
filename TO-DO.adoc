@@ -1,6 +1,6 @@
 = TO-DO of _Disionario de elefen_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-01-04
+:revdate: 2019-01-07
 
 // This file is part of the project
 // "Disionario de elefen"
@@ -23,8 +23,7 @@
 == 2019-01-04
 
 - Convert the contents of the 'V' field into cross references.
-- Fix: `P contraütopial` remains.
-- Convert 'S' field.
-- Convert 'T' fields that don't follow a descritption.
-- Replace the regexp method: Search the file for the data, store them
-  into an structure, and then build the result.
+
+== 2019-01-07
+
+- Add the 'V' field.
