@@ -17,7 +17,7 @@
 \
 \ See also <http://forth-standard.org>.
 
-\ Last modified 201901072341
+\ Last modified 201901072352
 \ See change log at the end of the file
 
 \ ==============================================================
@@ -237,22 +237,28 @@ dummy-letter value current-letter
 : add-pronunciation ( ca len -- )
   ."  (dise ‘" type ." ’)" ;
 
+variable described
+  \ A flag. Has the current headword been described? I.e.  has it an
+  \ ordinary description, a scientific name or a capital city?
+
 : add-scientific ( ca len -- )
-  ." _(" type ." )_" ;
+  ." _(" type ." )_" described on ;
+
+: add-capital ( ca len -- )
+  ." (capital: " type ." )" described on ;
 
 : capitalize ( ca len -- ca len )
   over dup c@ toupper swap c! ;
 
 : add-description ( ca len -- )
-  capitalize type
-  t-field $@ dup if   cr add-scientific t-field $init
-                 else 2drop
-                 then ;
+  capitalize type cr described on ;
 
 : ?add-description ( -- )
-  d-field $@ dup dup >r if add-description else 2drop then
-  t-field $@ dup dup >r if add-scientific  else 2drop then
-  2r> or if '.' emit cr then ;
+  described off
+  d-field $@ dup if add-description else 2drop then
+  t-field $@ dup if add-scientific  else 2drop then
+  c-field $@ dup if add-capital     else 2drop then
+  described @ if ." ." cr then ;
 
 : add-note ( ca len -- )
   cr ." NOTE: " type cr ;
@@ -403,5 +409,6 @@ dummy-letter value current-letter
 \ 2019-01-05: First working version. Not finished.
 \
 \ 2019-01-07: Fix the logic of creating headwords and sections.
+\ Convert the 'N' and 'C' fields.
 
 \ vim: filetype=gforth
