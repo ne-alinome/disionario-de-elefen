@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201901091641
+# Last modified 201901091742
 # See change log at the end of the file
 
 # ==============================================================
@@ -28,10 +28,13 @@ VPATH=./src:./target
 # Interface
 
 .PHONY: all
-all: epub epub4t
+all: epub
 
 .PHONY: epub
-epub: \
+epub: epub1t epub4t
+
+.PHONY: epub1t
+epub1t: \
 	target/disionario_de_elefen.adoc.epub \
 	target/disionario_de_elefen.adoc.xml.epub
 
@@ -143,4 +146,4 @@ target/%.adoc.xml.epub: tmp/%.adoc.xml
 #
 # 2019-01-09: Remove the old Vim converter. Use Vim to split the converted file
 # into letters. Add an EPUB version build by pandoc. Convert original internal
-# notes and curly brackets markup.
+# notes and curly brackets markup. Build the dictionary also in four tomes.

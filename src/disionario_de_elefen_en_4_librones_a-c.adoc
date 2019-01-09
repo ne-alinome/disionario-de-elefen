@@ -1,0 +1,28 @@
+= Disionario de elefen (A-C)
+:author: elefen.org
+:revdate: 2018-12-28
+:doctype: book
+:note-caption: nb
+:example-caption: pe
+
+// This file is part of the project
+// "Disionario de elefen"
+// (http://ne.alinome.net)
+//
+// By Marcos Cruz (programandala.net)
+
+// Last modified 201812300209
+
+// The character added before every entry, in order to facilitate
+// the searches:
+:bullet: .
+
+// :front-cover-image: images/libro.png
+// :epub3-stylesdir: styles
+
+// EPUB project by Marcos Cruz (programandala.net), 2018-12
+// Project website http://ne.alinome.net
+
+include::../tmp/disionario_de_elefen_a.adoc[]
+include::../tmp/disionario_de_elefen_b.adoc[]
+include::../tmp/disionario_de_elefen_c.adoc[]
