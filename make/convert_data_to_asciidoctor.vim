@@ -4,14 +4,17 @@
 " 'Disionario de elefen'
 " (http://ne.alinome.net)
 "
-" By Marcos Cruz (programandala.net)
+" By Marcos Cruz (programandala.net), 2019
 
 " This Vim program converts the original data file of the Elefen dictionary
 " (http://elefen.org/disionario/disionario_completa.txt) into Asciidoctor
 " format (http://ascidoctor.org).
 
-" 2019-01-04: Start. First working version, with regexp and text
-" substitutions.
+" Last modified 201901091506
+" See change log at the end of the file
+
+" ==============================================================
+" Convert the data
 
 " Remove internal notes:
 %s@^  N \/\/.\+\n@@e
@@ -81,7 +84,9 @@
 " Remove extra empty lines:
 %s@\n\n\n\+@\r\r@e
 
-" Split the file into letter sections:
+" ==============================================================
+" Split the file into letter sections
+
 let last_letter_n=char2nr('Z')
 let letter_n=char2nr('A')
 while letter_n <= last_letter_n
@@ -96,3 +101,10 @@ while letter_n <= last_letter_n
 	let letter_n=letter_n+1
 endwhile
 
+" ==============================================================
+" Change log
+
+" 2019-01-04: Start. First working version, with regexp and text
+" substitutions.
+"
+" 2019-01-09: Replace with a version written in Forth.

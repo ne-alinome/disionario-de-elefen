@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201901052324
+# Last modified 201901091508
 # See change log at the end of the file
 
 # ==============================================================
@@ -22,9 +22,6 @@
 # Config
 
 VPATH=./src:./target
-
-#converter=vim
-converter=gforth
 
 # ==============================================================
 # Interface
@@ -45,21 +42,49 @@ adoc: tmp/disionario_completa.adoc
 .SECONDARY: tmp/disionario_completa.adoc
 
 tmp/%.adoc: src/%.txt
-ifeq ($(converter),'vim')
-	vim -e \
-		-S make/convert_data_to_asciidoctor.vim \
-		-c 'saveas! $@' \
+	gforth make/convert_data_to_asciidoctor.fs -e "run $< bye" > $@
+
+# ==============================================================
+# Create one Asciidoctor file per letter
+
+letter_files=\
+	tmp/disionario_de_elefen_a.adoc \
+	tmp/disionario_de_elefen_b.adoc \
+	tmp/disionario_de_elefen_c.adoc \
+	tmp/disionario_de_elefen_d.adoc \
+	tmp/disionario_de_elefen_e.adoc \
+	tmp/disionario_de_elefen_f.adoc \
+	tmp/disionario_de_elefen_g.adoc \
+	tmp/disionario_de_elefen_h.adoc \
+	tmp/disionario_de_elefen_i.adoc \
+	tmp/disionario_de_elefen_j.adoc \
+	tmp/disionario_de_elefen_k.adoc \
+	tmp/disionario_de_elefen_l.adoc \
+	tmp/disionario_de_elefen_m.adoc \
+	tmp/disionario_de_elefen_n.adoc \
+	tmp/disionario_de_elefen_o.adoc \
+	tmp/disionario_de_elefen_p.adoc \
+	tmp/disionario_de_elefen_q.adoc \
+	tmp/disionario_de_elefen_r.adoc \
+	tmp/disionario_de_elefen_s.adoc \
+	tmp/disionario_de_elefen_t.adoc \
+	tmp/disionario_de_elefen_u.adoc \
+	tmp/disionario_de_elefen_v.adoc \
+	tmp/disionario_de_elefen_w.adoc \
+	tmp/disionario_de_elefen_x.adoc \
+	tmp/disionario_de_elefen_y.adoc \
+	tmp/disionario_de_elefen_z.adoc
+
+$(letter_files): tmp/disionario_completa.adoc
+	vim -e -R \
+		-S make/split_dictionary_into_letters.vim \
 		-c 'quit!' \
 		$<
-else
-#	gforth make/convert_data_to_asciidoctor.fs -e "run $< bye"
-	gforth make/convert_data_to_asciidoctor.fs -e "run $< bye" > $@
-endif
 
 # ==============================================================
 # Make the EPUB
 
-target/%.epub: src/%.adoc tmp/disionario_completa.adoc
+target/%.epub: src/%.adoc $(letter_files)
 	asciidoctor-epub3 --out-file $@ $<
 
 # ==============================================================
@@ -76,3 +101,6 @@ target/%.epub: src/%.adoc tmp/disionario_completa.adoc
 # 2019-01-04: Rewrite: Use the original data file.
 #
 # 2019-01-05: Write a new converter in Forth to replace the Vim code.
+#
+# 2019-01-09: Remove the old Vim converter. Use Vim to split the converted file
+# into letters.
