@@ -1,6 +1,6 @@
 = Disionario de elefen
 :author: Marcos Cruz (programandala.net)
-:revdate: 2018-12-28
+:revdate: 2019-01-09
 
 // This file is part of the project
 // "Disionario de elefen"
@@ -8,11 +8,31 @@
 //
 // By Marcos Cruz (programandala.net)
 
-== About this project
+== Elefen
 
-Description:: Create an EPUB e-book from the current contents of
-http://elefen.org/disionario[Disionario de elefen].
+Intende de esta projeta:: Fa un libro dijital en EPUB de la contenidas
+de http://elefen.org/disionario[Disionario de elefen].
+
+Autor:: Marcos Cruz (programandala.net), 2018, 2019
+
+Loca ueb de la projeta:: http://ne.alinome.net
+
+== Esperanto
+
+Celo de ĉi projekto:: Krei  EPUBan bitlibron el la enhavo de de
+http://elefen.org/disionario[Disionario de elefen] (elefena vortaro).
+
+Aŭtoro:: Marcos Cruz (programandala.net), 2018, 2019
+
+Retpaĝaro de la projekto:: http://ne.alinome.net
+
+== English
+
+Goal of this project:: Create an EPUB e-book from the contents of
+http://elefen.org/disionario[Disionario de elefen] (Elefen
+Dictionary).
 
 Author:: Marcos Cruz (programandala.net), 2018, 2019
 
-Website:: http://ne.alinome.net
+Website of the project:: http://ne.alinome.net
+
