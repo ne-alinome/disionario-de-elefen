@@ -1,6 +1,6 @@
 = TO-DO of _Disionario de elefen_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-01-07
+:revdate: 2019-01-09
 
 // This file is part of the project
 // "Disionario de elefen"
@@ -36,3 +36,7 @@
   ** `{10^12}` --> `10^12^`
   ** `{10^-10}` --> `10^-10^`
   ** `{OH^-}` --> `OH^-^`
+
+== 2019-01-09
+
+- Join section marker and description.

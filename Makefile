@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201901091508
+# Last modified 201901091515
 # See change log at the end of the file
 
 # ==============================================================
@@ -16,6 +16,7 @@
 # - asciidoctor-epub3
 # - gforth
 # - make
+# - pandoc
 # - vim
 
 # ==============================================================
@@ -27,7 +28,12 @@ VPATH=./src:./target
 # Interface
 
 .PHONY: all
-all: target/disionario_de_elefen.epub
+all: epub
+
+.PHONY: epub
+epub: \
+	target/disionario_de_elefen.adoc.epub \
+	target/disionario_de_elefen.adoc.xml.epub
 
 .PHONY: clean
 clean:
@@ -82,10 +88,21 @@ $(letter_files): tmp/disionario_completa.adoc
 		$<
 
 # ==============================================================
+# Convert Asciidoctor to DocBook
+
+.SECONDARY: tmp/disionario_completa.adoc.xml
+
+tmp/%.adoc.xml: src/%.adoc
+	asciidoctor --backend=docbook5 --out-file=$@ $<
+
+# ==============================================================
 # Make the EPUB
 
-target/%.epub: src/%.adoc $(letter_files)
-	asciidoctor-epub3 --out-file $@ $<
+target/%.adoc.epub: src/%.adoc $(letter_files)
+	asciidoctor-epub3 --out-file=$@ $<
+
+target/%.adoc.xml.epub: tmp/%.adoc.xml
+	pandoc --from=docbook --to=epub --output=$@ $<
 
 # ==============================================================
 # Change log
@@ -103,4 +120,4 @@ target/%.epub: src/%.adoc $(letter_files)
 # 2019-01-05: Write a new converter in Forth to replace the Vim code.
 #
 # 2019-01-09: Remove the old Vim converter. Use Vim to split the converted file
-# into letters.
+# into letters. Add an EPUB version build by pandoc.
