@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201901091515
+# Last modified 201901091641
 # See change log at the end of the file
 
 # ==============================================================
@@ -28,19 +28,30 @@ VPATH=./src:./target
 # Interface
 
 .PHONY: all
-all: epub
+all: epub epub4t
 
 .PHONY: epub
 epub: \
 	target/disionario_de_elefen.adoc.epub \
 	target/disionario_de_elefen.adoc.xml.epub
 
-.PHONY: clean
-clean:
-	rm -f target/* tmp/*
+.PHONY: epub4t
+epub4t: \
+	target/disionario_de_elefen_en_4_librones_a-c.adoc.epub \
+	target/disionario_de_elefen_en_4_librones_d-l.adoc.epub \
+	target/disionario_de_elefen_en_4_librones_m-r.adoc.epub \
+	target/disionario_de_elefen_en_4_librones_s-z.adoc.epub \
+	target/disionario_de_elefen_en_4_librones_a-c.adoc.xml.epub \
+	target/disionario_de_elefen_en_4_librones_d-l.adoc.xml.epub \
+	target/disionario_de_elefen_en_4_librones_m-r.adoc.xml.epub \
+	target/disionario_de_elefen_en_4_librones_s-z.adoc.xml.epub
 
 .PHONY: adoc
 adoc: tmp/disionario_completa.adoc
+
+.PHONY: clean
+clean:
+	rm -f target/* tmp/*
 
 # ==============================================================
 # Convert the original data file to Asciidoctor
@@ -49,6 +60,17 @@ adoc: tmp/disionario_completa.adoc
 
 tmp/%.adoc: src/%.txt
 	gforth make/convert_data_to_asciidoctor.fs -e "run $< bye" > $@
+	vim -e \
+		-c '%s@({;} @(@e' \
+		-c '%s@ {;}@;@eg' \
+		-c '%s@{\([A-Z0-9=-]\{-}\)}@`\1`@eg' \
+		-c '%s@{\(\S\{-}\)\^\(\S\{-}\)}@\1^\2^@eg' \
+		-c '%s@{\(.\{-}\) \/\/.\{-}}@\1@eg' \
+		-c '%s@ \(\/\/.\+\)$$@\r\1@eg' \
+		-c '%s@^NOTE:\n@@eg' \
+		-c '%s@{\(\S.\{-}\)}@\1@eg' \
+		-c 'write!' \
+		-c 'quit' $@
 
 # ==============================================================
 # Create one Asciidoctor file per letter
@@ -120,4 +142,5 @@ target/%.adoc.xml.epub: tmp/%.adoc.xml
 # 2019-01-05: Write a new converter in Forth to replace the Vim code.
 #
 # 2019-01-09: Remove the old Vim converter. Use Vim to split the converted file
-# into letters. Add an EPUB version build by pandoc.
+# into letters. Add an EPUB version build by pandoc. Convert original internal
+# notes and curly brackets markup.

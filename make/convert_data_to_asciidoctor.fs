@@ -17,7 +17,7 @@
 \
 \ See also <http://forth-standard.org>.
 
-\ Last modified 201901080053
+\ Last modified 201901091634
 \ See change log at the end of the file
 
 \ ==============================================================
@@ -252,7 +252,7 @@ variable described
   \ print a carriage return to separate the next part.
 
 : .scientific ( ca len -- )
-  ?separate ." _(" type ." )_" described on ;
+  ?separate ." (" type ." )" described on ;
   \ Display the 'T' field _ca len_.
 
 : .capital ( ca len -- )
@@ -452,5 +452,8 @@ variable described
 \ 2019-01-07: Fix the logic of creating headwords and sections.
 \ Convert the 'N', 'C' and 'V' fields. Simplify the Forth word names.
 \ Improve factoring and comments.
+\
+\ 2019-01-09: Remove the italic markup from the 'T' fields, because
+\ some of them included comments in Elefen.
 
 \ vim: filetype=gforth

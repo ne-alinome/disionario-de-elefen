@@ -27,16 +27,16 @@
 == 2019-01-07
 
 - Add the 'O' field.
-- Remove curly brackets comments:
-  ** `{ x1 // x2 }` --> `x1`.
-  ** `{ }` -->
-  ** `{;}` -->
 - Create another dictionary only with the headwords and the 'O' field.
-- Markup superscripts:
-  ** `{10^12}` --> `10^12^`
-  ** `{10^-10}` --> `10^-10^`
-  ** `{OH^-}` --> `OH^-^`
 
 == 2019-01-09
 
 - Join section marker and description.
+- Add a Forth file to configure the translations to be ignored in the
+  target. Example:
+
+----
+\ Config file
+omit he
+omit ru
+----
