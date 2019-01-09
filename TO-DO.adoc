@@ -31,7 +31,6 @@
 
 == 2019-01-09
 
-- Join section marker and description.
 - Add a Forth file to configure the translations to be ignored in the
   target. Example:
 
@@ -40,3 +39,6 @@
 omit he
 omit ru
 ----
+
+- Fix: pandoc adds a literal "Note", in English, before the actual
+  note, when converting from DocBook's `<note>` markup.

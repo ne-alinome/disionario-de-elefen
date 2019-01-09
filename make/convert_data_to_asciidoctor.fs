@@ -17,7 +17,7 @@
 \
 \ See also <http://forth-standard.org>.
 
-\ Last modified 201901091634
+\ Last modified 201901091742
 \ See change log at the end of the file
 
 \ ==============================================================
@@ -372,7 +372,7 @@ variable described
   \ Display the data of the current headword or section.
 
 : (.section) ( -- )
-  section $@ type cr cr ;
+  section $@ type bl emit ;
   \ Display the current section.
 
 : .section ( -- )
@@ -454,6 +454,7 @@ variable described
 \ Improve factoring and comments.
 \
 \ 2019-01-09: Remove the italic markup from the 'T' fields, because
-\ some of them included comments in Elefen.
+\ some of them included comments in Elefen. Join section indexes with
+\ their descriptions.
 
 \ vim: filetype=gforth
