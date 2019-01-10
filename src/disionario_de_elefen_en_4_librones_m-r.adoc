@@ -11,7 +11,7 @@
 //
 // By Marcos Cruz (programandala.net)
 
-// Last modified 201812300209
+// Last modified 201901100134
 
 // The character added before every entry, in order to facilitate
 // the searches:
@@ -22,6 +22,8 @@
 
 // EPUB project by Marcos Cruz (programandala.net), 2018-12
 // Project website http://ne.alinome.net
+
+ifdef::ebook-format[:leveloffset: -1]
 
 include::../tmp/disionario_de_elefen_m.adoc[]
 include::../tmp/disionario_de_elefen_n.adoc[]

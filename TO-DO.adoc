@@ -1,6 +1,6 @@
 = TO-DO of _Disionario de elefen_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-01-09
+:revdate: 2019-01-10
 
 // This file is part of the project
 // "Disionario de elefen"
@@ -41,5 +41,3 @@ omit ru
 
 - Fix: pandoc adds English title "Title page" to its
   <title_page.xhtml>.
-- Fix: asciidoctor-epub3 creates first-level entries above the actual
-  chapters.
