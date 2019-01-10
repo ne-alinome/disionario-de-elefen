@@ -36,3 +36,10 @@ omit ru
 
 - Fix: pandoc adds a literal "Note", in English, before the actual
   note, when converting from DocBook's `<note>` markup.
+
+== 2019-01-10
+
+- Fix: pandoc adds English title "Title page" to its
+  <title_page.xhtml>.
+- Fix: asciidoctor-epub3 creates first-level entries above the actual
+  chapters.
