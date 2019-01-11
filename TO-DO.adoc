@@ -41,7 +41,3 @@ omit ru
 
 - Fix: pandoc adds English title "Title page" to its
   <title_page.xhtml>.
-
-== 2019-01-11
-
-- Fix: headwords are not built by their first section. See "ultra".

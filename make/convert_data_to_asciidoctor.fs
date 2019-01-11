@@ -17,7 +17,7 @@
 \
 \ See also <http://forth-standard.org>.
 
-\ Last modified 201901091742
+\ Last modified 201901110253
 \ See change log at the end of the file
 
 \ ==============================================================
@@ -326,6 +326,10 @@ variable described
   .headword-part2  ?.pronunciation cr cr ;
   \ Display the current headword.
 
+: .headword- ( -- )
+  (.headword) -headword ;
+  \ Display the current headword and delete it.
+
 : .fields ( -- )
   ?.description ?.note ?.usage ?.see ;
 
@@ -371,17 +375,31 @@ variable described
   .fields .translations ;
   \ Display the data of the current headword or section.
 
+: .data- ( -- )
+  .data -data ;
+  \ Display the data of the current headword or section and delete
+  \ them.
+
+: ready? ( a -- f )
+  $@len 0<> ;
+  \ Is data field _a_ ready?
+  \ I.e., is dynamic string _a_ not empty?
+
 : (.section) ( -- )
   section $@ type bl emit ;
   \ Display the current section.
 
+: .section- ( -- )
+  (.section) -section ;
+  \ Display the current section and delete it.
+
 : .section ( -- )
-  (.section) -section .data -data ;
-  \ Display the current section data and clear it.
+  headword ready? if .headword- then .section- .data- ;
+  \ Display the current section data and delete it.
 
 : .headword ( -- )
-  (.headword) -headword .data -data ;
-  \ Display the current headword data and clear it.
+  .headword- .data- ;
+  \ Display the current headword and its data, then delete them.
 
 \ ==============================================================
 \ Input {{{1
@@ -400,32 +418,27 @@ variable described
   \ Get the datum from line _ca len_, evaluating it with the proper
   \ word list.
 
-: headword? ( ca len -- f )
+: headword-line? ( ca len -- f )
   drop c@ dup bl <> swap '(' <> and  ;
   \ Is line _ca len_ a headword line?
   \ Headword lines don't start with a space or a paren.
 
-: section? ( ca len -- f )
+: section-line? ( ca len -- f )
   drop c@ '(' = ;
   \ Is line _ca len_ a section line?
   \ Section start with a number in parens.
 
-: datum? ( ca len -- f )
+: datum-line? ( ca len -- f )
   drop 2 s"   " str= ;
   \ Is line _ca len_ a datum line?
   \ Datum lines start with two spaces.
 
 : data-line ( ca len -- )
-  2dup headword? if get-headword exit then
-  2dup section?  if get-section  exit then
-  2dup datum?    if get-datum    exit then
+  2dup headword-line? if get-headword exit then
+  2dup section-line?  if get-section  exit then
+  2dup datum-line?    if get-datum    exit then
   type abort" Line format not recognized" ;
   \ Manage a data line.
-
-: ready? ( a -- f )
-  $@len 0<> ;
-  \ Is data field _a_ ready?
-  \ I.e., is dynamic string _a_ not empty?
 
 : empty-line ( -- )
   section  ready? if .section  exit then
@@ -456,5 +469,8 @@ variable described
 \ 2019-01-09: Remove the italic markup from the 'T' fields, because
 \ some of them included comments in Elefen. Join section indexes with
 \ their descriptions.
+\
+\ 2019-01-11: Fix `.section`, which didnt't displayed the headword
+\ when needed (by the first section).
 
 \ vim: filetype=gforth
