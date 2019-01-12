@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201901091742
+# Last modified 201901120259
 # See change log at the end of the file
 
 # ==============================================================
@@ -17,6 +17,7 @@
 # - gforth
 # - make
 # - pandoc
+# - xsltproc
 # - vim
 
 # ==============================================================
@@ -30,31 +31,65 @@ VPATH=./src:./target
 .PHONY: all
 all: epub
 
+# EPUB in 1 and 4 tomes:
 .PHONY: epub
-epub: epub1t epub4t
+epub: epub1 epub4
 
-.PHONY: epub1t
-epub1t: \
-	target/disionario_de_elefen.adoc.epub \
-	target/disionario_de_elefen.adoc.xml.epub
+# EPUB in 1 tome:
+.PHONY: epub1
+epub1: epub1a epub1p epub1x
 
-.PHONY: epub4t
-epub4t: \
+# EPUB in 1 tome, with asciidoctor-epub3:
+.PHONY: epub1a
+epub1a: target/disionario_de_elefen.adoc.epub
+
+# EPUB in 1 tome, with pandoc:
+.PHONY: epub1p
+epub1p: target/disionario_de_elefen.adoc.xml.pandoc.epub
+
+# EPUB in 1 tome, with xsltproc:
+.PHONY: epub1x
+epub1x: target/disionario_de_elefen.adoc.xml.xsltproc.epub
+
+# EPUB in 4 tomes:
+.PHONY: epub4
+epub4: epub4a epub4p epub4x
+
+# EPUB in 4 tomes, with asciidoctor-epub3:
+.PHONY: epub4a
+epub4a: \
 	target/disionario_de_elefen_en_4_librones_a-c.adoc.epub \
 	target/disionario_de_elefen_en_4_librones_d-l.adoc.epub \
 	target/disionario_de_elefen_en_4_librones_m-r.adoc.epub \
-	target/disionario_de_elefen_en_4_librones_s-z.adoc.epub \
-	target/disionario_de_elefen_en_4_librones_a-c.adoc.xml.epub \
-	target/disionario_de_elefen_en_4_librones_d-l.adoc.xml.epub \
-	target/disionario_de_elefen_en_4_librones_m-r.adoc.xml.epub \
-	target/disionario_de_elefen_en_4_librones_s-z.adoc.xml.epub
+	target/disionario_de_elefen_en_4_librones_s-z.adoc.epub
+
+# EPUB in 4 tomes, with pandoc:
+.PHONY: epub4p
+epub4p: \
+	target/disionario_de_elefen_en_4_librones_a-c.adoc.xml.pandoc.epub \
+	target/disionario_de_elefen_en_4_librones_d-l.adoc.xml.pandoc.epub \
+	target/disionario_de_elefen_en_4_librones_m-r.adoc.xml.pandoc.epub \
+	target/disionario_de_elefen_en_4_librones_s-z.adoc.xml.pandoc.epub
+
+# EPUB in 4 tomes, with xsltproc:
+.PHONY: epub4x
+epub4x: \
+	target/disionario_de_elefen_en_4_librones_a-c.adoc.xml.xsltproc.epub \
+	target/disionario_de_elefen_en_4_librones_d-l.adoc.xml.xsltproc.epub \
+	target/disionario_de_elefen_en_4_librones_m-r.adoc.xml.xsltproc.epub \
+	target/disionario_de_elefen_en_4_librones_s-z.adoc.xml.xsltproc.epub
+
+# XXX TMP -- for debugging
+.PHONY: test
+test: \
+	target/disionario_de_elefen_en_4_librones_a-c.adoc.xml.xsltproc.epub
 
 .PHONY: adoc
 adoc: tmp/disionario_completa.adoc
 
 .PHONY: clean
 clean:
-	rm -f target/* tmp/*
+	rm -fr target/* tmp/*
 
 # ==============================================================
 # Convert the original data file to Asciidoctor
@@ -115,7 +150,12 @@ $(letter_files): tmp/disionario_completa.adoc
 # ==============================================================
 # Convert Asciidoctor to DocBook
 
-.SECONDARY: tmp/disionario_completa.adoc.xml
+.SECONDARY: \
+	tmp/disionario_completa.adoc.xml \
+	tmp/disionario_de_elefen_en_4_librones_a-c.adoc.xml \
+	tmp/disionario_de_elefen_en_4_librones_d-l.adoc.xml \
+	tmp/disionario_de_elefen_en_4_librones_m-r.adoc.xml \
+	tmp/disionario_de_elefen_en_4_librones_s-z.adoc.xml
 
 tmp/%.adoc.xml: src/%.adoc
 	asciidoctor --backend=docbook5 --out-file=$@ $<
@@ -123,11 +163,41 @@ tmp/%.adoc.xml: src/%.adoc
 # ==============================================================
 # Make the EPUB
 
+# ----------------------------------------------
+# With asciidoctor-epub3
+
 target/%.adoc.epub: src/%.adoc $(letter_files)
 	asciidoctor-epub3 --out-file=$@ $<
 
-target/%.adoc.xml.epub: tmp/%.adoc.xml
+# ----------------------------------------------
+# With pandoc
+
+target/%.adoc.xml.pandoc.epub: tmp/%.adoc.xml $(letter_files)
 	pandoc --from=docbook --to=epub --output=$@ $<
+
+# ----------------------------------------------
+# With xsltproc
+
+target/%.adoc.xml.xsltproc.epub: tmp/%.adoc.xml $(letter_files)
+	rm -fr tmp/xsltproc/* && \
+	xsltproc \
+		--output tmp/xsltproc/ \
+		/usr/share/xml/docbook/stylesheet/docbook-xsl/epub/docbook.xsl \
+		$< && \
+	echo -n "application/epub+zip" > tmp/xsltproc/mimetype && \
+	cd tmp/xsltproc/ && \
+	zip -0 -X ../../$@.zip mimetype && \
+	zip -rg9 ../../$@.zip META-INF && \
+	zip -rg9 ../../$@.zip OEBPS && \
+	cd - && \
+	mv $@.zip $@
+
+# XXX TODO -- Find out how to pass parameters and their names, from the XLS:
+#	    --param epub.ncx.filename testing.ncx \
+
+# XXX TODO -- Add the stylesheet. The XLS must be modified first,
+# or the resulting XHTML must be modified at the end.
+#	cp -f src/xsltproc/stylesheet.css tmp/xsltproc/OEBPS/ && \
 
 # ==============================================================
 # Change log
@@ -147,3 +217,8 @@ target/%.adoc.xml.epub: tmp/%.adoc.xml
 # 2019-01-09: Remove the old Vim converter. Use Vim to split the converted file
 # into letters. Add an EPUB version build by pandoc. Convert original internal
 # notes and curly brackets markup. Build the dictionary also in four tomes.
+#
+# 2019-01-11: Improve: Add the letter files to the prerequisites of pandoc
+# EPUB, and use `.SECONDARY` to keep the temporary DocBook files.
+#
+# 2019-01-12: Make an EPUB also with xsltproc.
