@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201901132016
+# Last modified 201901132059
 # See change log at the end of the file
 
 # ==============================================================
@@ -104,7 +104,7 @@ clean:
 .SECONDARY: tmp/disionario_completa.adoc
 
 tmp/%.adoc: src/%.txt
-	gforth make/convert_data_to_asciidoctor.fs -e "make-adoc $< bye" > $@
+	gforth make/convert_data.fs -e "to-asciidoctor $< bye" > $@
 	vim -e \
 		-c '%s@({;} @(@e' \
 		-c '%s@ {;}@;@eg' \
@@ -168,7 +168,6 @@ tmp/%.c5: src/%.txt
 target/elefen.dict: tmp/disionario_completa.c5
 	dictfmt \
 		--utf8 \
-		--allchars \
 		-u "http://elefen.org" \
 		-s "Disionario de elefen" \
 		-c5 $(basename $@) \

@@ -17,7 +17,7 @@
 \
 \ See also <http://forth-standard.org>.
 i
-\ Last modified 201901132015
+\ Last modified 201901132100
 \ See change log at the end of the file
 
 \ ==============================================================
@@ -478,8 +478,28 @@ variable described
 : convert-line ( ca len -- )
   dup if data-line else 2drop empty-line then ;
 
-: convert-input ( "filename" -- )
-  begin line? while convert-line repeat ;
+: .info-line ( ca len -- )
+  asciidoctor? if ." // " then type cr ;
+
+: format$ ( -- ca len )
+  asciidoctor? if s" 'Asciidoctor'" else s" 'dict'" then ;
+
+: .info ( -- )
+  s" This " format$ s+ s\"  version of \"Disionario de elefen\"" s+
+  .info-line
+  s\" was created by Marcos Cruz (programandala.net)."
+  .info-line cr
+  s\" Project's website: http://ne.alinome.net."
+  .info-line cr
+  s" Esta varia en " format$ s+ s\"  de la \"Disionario de elefen\"" s+
+  .info-line
+  s\" ia es creada par Marcos Cruz (programandala.net)."
+  .info-line cr
+  s\" Loca ueb de la projeta: http://ne.alinome.net."
+  .info-line cr ;
+
+: convert-input ( -- )
+  .info begin line? while convert-line repeat ;
 
 : convert-file ( "filename" -- )
   open-input convert-input close-input ;
@@ -517,6 +537,6 @@ variable described
 \ when needed (by the first section).
 \
 \ 2019-01-13: Fix typo in comment. Make also a dict file. Shorten the
-\ name of this file accordingly.
+\ name of this file accordingly. Add info header to the output.
 
 \ vim: filetype=gforth
