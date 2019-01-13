@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201901120259
+# Last modified 201901132016
 # See change log at the end of the file
 
 # ==============================================================
@@ -14,6 +14,7 @@
 
 # - asciidoctor
 # - asciidoctor-epub3
+# - dictfmt
 # - gforth
 # - make
 # - pandoc
@@ -87,6 +88,12 @@ test: \
 .PHONY: adoc
 adoc: tmp/disionario_completa.adoc
 
+.PHONY: c5
+c5: tmp/disionario_completa.c5
+
+.PHONY: dict
+dict: target/elefen.dict.dz
+
 .PHONY: clean
 clean:
 	rm -fr target/* tmp/*
@@ -97,7 +104,7 @@ clean:
 .SECONDARY: tmp/disionario_completa.adoc
 
 tmp/%.adoc: src/%.txt
-	gforth make/convert_data_to_asciidoctor.fs -e "run $< bye" > $@
+	gforth make/convert_data_to_asciidoctor.fs -e "make-adoc $< bye" > $@
 	vim -e \
 		-c '%s@({;} @(@e' \
 		-c '%s@ {;}@;@eg' \
@@ -146,6 +153,47 @@ $(letter_files): tmp/disionario_completa.adoc
 		-S make/split_dictionary_into_letters.vim \
 		-c 'quit!' \
 		$<
+
+# ==============================================================
+# Convert the original data file to c5
+
+.SECONDARY: tmp/disionario_completa.c5
+
+tmp/%.c5: src/%.txt
+	gforth make/convert_data.fs -e "to-c5 $< bye" > $@
+
+# ==============================================================
+# Convert c5 to dict
+
+target/elefen.dict: tmp/disionario_completa.c5
+	dictfmt \
+		--utf8 \
+		--allchars \
+		-u "http://elefen.org" \
+		-s "Disionario de elefen" \
+		-c5 $(basename $@) \
+		< $<
+
+# ==============================================================
+# Install and uninstall dict
+
+%.dict.dz: %.dict
+	dictzip --force $<
+
+.PHONY: install
+install: target/elefen.dict.dz
+	cp --force \
+		$< \
+		$(addsuffix .index, $(basename $(basename $^))) \
+		/usr/share/dictd/
+	/usr/sbin/dictdconfig --write
+	/etc/init.d/dictd restart
+
+.PHONY: uninstall
+uninstall:
+	rm --force /usr/share/dictd/elefen.*
+	/usr/sbin/dictdconfig --write
+	/etc/init.d/dictd restart
 
 # ==============================================================
 # Convert Asciidoctor to DocBook
@@ -222,3 +270,5 @@ target/%.adoc.xml.xsltproc.epub: tmp/%.adoc.xml $(letter_files)
 # EPUB, and use `.SECONDARY` to keep the temporary DocBook files.
 #
 # 2019-01-12: Make an EPUB also with xsltproc.
+#
+# 2019-01-13: Make also a dict file.

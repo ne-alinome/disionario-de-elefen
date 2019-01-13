@@ -1,6 +1,6 @@
 #! /usr/bin/env gforth
 
-\ convert_data_to_asciidoctor.fs
+\ convert_data.fs
 \
 \ This file is part of the project
 \ 'Disionario de elefen'
@@ -10,14 +10,14 @@
 
 \ This program converts the original data file of the Elefen
 \ dictionary (http://elefen.org/disionario/disionario_completa.txt)
-\ into Asciidoctor format (http://ascidoctor.org).
+\ into Asciidoctor format (http://asciidoctor.org).
 
 \ This program is written in Forth for Gforth
 \ (http://gnu.org/software/gforth).
 \
 \ See also <http://forth-standard.org>.
-
-\ Last modified 201901110253
+i
+\ Last modified 201901132015
 \ See change log at the end of the file
 
 \ ==============================================================
@@ -47,6 +47,16 @@
 
 \ ==============================================================
 \ Variables {{{1
+
+variable asciidoctor  true asciidoctor !
+  \ A flag. True if the output format is Asciidoctor.
+
+: asciidoctor? ( -- f ) asciidoctor @ ;
+  \ Is Asciidoctor the output format?
+
+: c5? ( -- f ) asciidoctor @ 0= ;
+  \ Is c5 the output format? "c5" is one of the input formats accepted
+  \ by dictfmt in order to make a dict file.
 
 \ Gforth dynamic string variables are used to store the data of the
 \ current dictionary entry.
@@ -225,8 +235,17 @@ dummy-letter value current-letter
   headword> headword-separator$ nip /string ;
   \ Convert headword line _ca1 len1_ into its second part.
 
+: .bold ( -- )
+  asciidoctor? if ." **" then ;
+
+: ?remove-leading-dot ( ca len -- )
+  over c@ '.' = abs /string ;
+
+: (.headword-part1) ( ca len -- )
+  c5? if ?remove-leading-dot then type ;
+
 : .headword-part1 ( ca len -- )
-  ." **" headword $@ headword>part-1 type ." **" ;
+  .bold headword $@ headword>part-1 (.headword-part1) .bold ;
   \ Display the first part (left) of the headword.
 
 : .symbol ( ca len -- )
@@ -238,7 +257,9 @@ dummy-letter value current-letter
   \ Display the 'S' field, if any.
 
 : .headword-part2 ( -- )
-  headword $@ headword>part-2 type ?.symbol ;
+  c5? if cr ." (" then
+  headword $@ headword>part-2 type ?.symbol
+  c5? if ." )" then ;
   \ Display the second part (right) of the headword.
 
 variable described
@@ -275,16 +296,21 @@ variable described
   described @ if ." ." cr then ;
 
 : .note ( ca len -- )
-  cr ." NOTE: " type cr ;
-  \ Display the 'N' field _ca len_, using the Asciidoctor `NOTE:`
-  \ markup.
+  cr asciidoctor? if ." NOTE: " else ." nb " then type cr ;
+  \ Display the 'N' field _ca len_.
 
 : ?.note ( -- )
   n-field $@ dup if .note else 2drop then ;
   \ Display the 'N' field, if any.
 
+: usage{ ( -- )
+  asciidoctor? if cr ." ____" cr else cr ." ‹ " then ;
+
+: }usage ( -- )
+  asciidoctor? if cr ." ____" cr else ."  ›" cr then ;
+
 : .usage ( ca len -- )
-  cr ." ____" cr type cr ." ____" cr ;
+  usage{ type }usage ;
 
 : ?.usage ( -- )
   u-field $@ dup if .usage else 2drop then ;
@@ -321,9 +347,13 @@ variable described
   \ Display the 'P' field, if any.
 
 : (.headword) ( -- )
-  ?letter-heading
-  .headword-part1  headword-separator$ type
-  .headword-part2  ?.pronunciation cr cr ;
+  asciidoctor? if ?letter-heading then
+  c5? if   ." _____" cr cr
+      then .headword-part1
+  asciidoctor? if   headword-separator$ type
+               else cr
+               then .headword-part2
+  ?.pronunciation cr cr ;
   \ Display the current headword.
 
 : .headword- ( -- )
@@ -451,8 +481,21 @@ variable described
 : convert-input ( "filename" -- )
   begin line? while convert-line repeat ;
 
-: run ( "filename" -- )
+: convert-file ( "filename" -- )
   open-input convert-input close-input ;
+  \ Convert the original dictionary data from "filename" to the
+  \ currently selected format. The result is sent to standard
+  \ output.
+
+: to-asciidoctor ( "filename" -- )
+  asciidoctor on  convert-file ;
+  \ Convert the original dictionary data from "filename" to
+  \ Asciidoctor format.  The result is sent to standard output.
+
+: to-c5 ( "filename" -- )
+  asciidoctor off  convert-file ;
+  \ Convert the original dictionary data from "filename" to c5 format.
+  \ The result is sent to standard output.
 
 \ ==============================================================
 \ Change log {{{1
@@ -472,5 +515,8 @@ variable described
 \
 \ 2019-01-11: Fix `.section`, which didnt't displayed the headword
 \ when needed (by the first section).
+\
+\ 2019-01-13: Fix typo in comment. Make also a dict file. Shorten the
+\ name of this file accordingly.
 
 \ vim: filetype=gforth
