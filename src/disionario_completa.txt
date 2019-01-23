@@ -8926,7 +8926,7 @@ construi de armarios : nom
   HE ארמניה
 
 armenian : ajetivo demonim
-  V haiaren
+  V haieren
   EN Armenian (person, language)
   HE ארמני
 
@@ -12298,7 +12298,7 @@ sur avion : averbo
 
 avisa : nom
   EN advice, warning, notice, notification, alert, bulletin, prompt; caveat, proviso
-  HE עיצה; הודעה, אזהרה
+  HE עצה; הודעה, אזהרה
 
 avisa de via : nom
   EN road sign, street sign
@@ -28871,55 +28871,70 @@ nonconforma : nom
 .confusa : verbo transitiva
   D era par misca (du o cosas) en sua mente, credente ce la un es la otra; (un cosa desordinada o nonclar) fa ce (algun) no comprende
   EN confuse, bewilder, muddle, addle, scramble
+  HE לבלבל; (אלקטרוניקה) לערבל
 
 confusa : nom
   EN confusion, bewilderment, muddle, mix-up
+  HE בלבול; (אלקטרוניקה) ערבול
 
 confusable : ajetivo
   EN confusable, mistakable
+  HE שעשוי לבלבל
 
 confusada : ajetivo
   EN confused, muddled
+  HE מבולבל
 
 confusador : nom
   EN scrambler
+  HE (אלקטרוניקה) מערבל
 
 confusante : ajetivo
   EN confusing
+  HE מבלבל
 
 desconfusa : verbo transitiva
   EN unmuddle, unscramble
+  HE להבהיר
 
 nonconfusable : ajetivo
   EN unconfusable, unmistakable
+  HE שאין לטעות בו, ברור, גלוי
 
 .confuzisme : nom
   V Kongzi
   EN Confucianism
+  HE קונפיוציאניזם
 
 confuziste : nom
   EN Confucian
+  HE קונפוציאני
 
 .conga : nom musica
   D un dansa de America latina, orijinante en Africa, tipal con multe persones en un linia, la un pos la otra; un musica per esta; un tambur alta e streta, bateda par la manos
   I #
   EN conga (dance, music); conga drum
+  HE קונגה (ריקוד, תוף)
 
 .Congo : nom jeografial
   D un rejion de Africa cual inclui la Rio Congo
   EN Congo (region)
+  HE קונגו (איזור)
 
 congoles : ajetivo
   EN Congolese
+  HE קונגולזי
 
 congoles : nom
   EN Congolese
+  HE קונגולזי
 
 Republica de Congo : nom
   C Brazzaville
   D un pais a norde e ueste de la Rio Congo
   I #
   EN Republic of the Congo
+  HE הרפובליקה של קונגו
 
 Republica Democrata de Congo : nom
   C Kinshasa
@@ -28927,286 +28942,366 @@ Republica Democrata de Congo : nom
   I #
   V Zair
   EN Democratic Republic of the Congo
+  HE הרפובליקה הדמוקרטית של קונגו
 
 Rio Congo : nom jeografial
   D un rio major en Africa sentral cual comensa en la norde de la Republica Democrata de Congo e fini en la Mar Atlantica
   I #
   EN Congo River
+  HE נהר קונגו
 
 .congrega : nom relijio
   D un grupo de persones asemblada per adora relijiosa, tipal e abitual a un loca spesifada; (en alga universias) un asembla de membros major
   EN congregation (religious, administrative), flock
+  HE (דת) קהילה, ציבור
 
 congrega de sorsores : nom
   EN coven
+  HE מפגש מכשפות
 
 .congresa : nom governa
   D un institui nasional de lege, spesial lo de la SUA; cualce consenta de delegadas
   EN congress
+  HE קונגרס, בית הנבחרים
 
 congresor : nom
   EN member of congress, congressman, congresswoman
+  HE חבר קונגרס
 
 .congro : nom pex
   D un angila grande e xasante de acuas costal
   I #
   T Conger
   EN conger (eel)
+  HE קונגר (צלופח)
 
 .coniac : nom cosini
   D un bevida multe alcolosa, distilada de vino o jus fermentada de fruta
   EN cognac, brandy
+  HE קוניאק, ברנדי
 
 .coniac : nom planta
   D un planta perene de Asia este e sude-este; sua cormo o la amidon comable cual on deriva de lo
   T Amorphophallus konjac
   EN konjac, konjak, konnyaku, voodoo lily, elephant yam, devil's tongue (plant)
+  HE קונג'אק, קוניאקו (צמח)
 
 .conidio : nom biolojia
   D la spora firma de un fungo
   EN conidium
+  HE נבג פטרייה
 
 .conifer : ajetivo biolojia
   D (un arbor) portante conos e folias agin o scamin
   EN coniferous
+  HE מחטני
 
 conifer : nom
   EN conifer
+  HE עץ מחט
 
 .conio : nom planta
   D un planta european multe venenosa, en familia de persil; la venena otenida de esta
   I #
   T Conium maculatum
   EN hemlock (plant, poison)
+  HE רוש (צמח, רעל)
 
 .conjela : verbo nontransitiva cimica
   D (un licuida o semilicuida) deveni solida o cuasi solida, tipal par fria
   EN congeal
+  HE להיקרש
 
 .conjenital : ajetivo medica
   D (un maladia o cualia fisical) presente de nase, tipal eritada
   EN congenital
+  HE מולד
 
 .conjesta : verbo nontransitiva medica
   D deveni plen de, o blocida par, muco o sangue; (un via) deveni plen de persones o veculos
   EN congest, engorge
+  HE להיגדש
 
 conjesta : nom
   EN congestion
+  HE גודש, עומס
 
 conjesta de nas : nom
   EN nasal congestion, stuffy nose
+  HE אף גדוש, אף סתום
 
 conjesta de trafica : nom
   EN traffic congestion, traffic jam
+  HE עומס תנועה, פקק תנועה
 
 conjesta de troncos : nom
   EN logjam
+  HE חסימה בנהר (על-ידי בולי עץ)
 
 conjesta sin sorti : nom
   EN gridlock
+  HE פקק תנועה (בצומת); חוסר יכולת להתקדם לאף כיוון
 
 conjestada : ajetivo
   EN congested, stuffy
+  HE גדוש, עמוס
 
 conjestosa : nom
   EN bottleneck
+  HE צוואר בקבוק
 
 desconjesta : verbo nontransitiva medica
   EN decongest
+  HE להקל על הגודש
 
 desconjestante : nom medica
   D un medisin per desconjesta la pasajes nasal
   EN decongestant
+  HE (תרופה) מפיג גודש
 
 .conjuga : verbo nontransitiva biolojia linguistica
   D (baterias o otra organismes uniselulal) deveni tempora unida per intercambia materia jenetical; (un verbo) cambia sua forma gramatical per indica vose, modo, tempo, cuantia e person
   EN conjugate
+  HE (ביולוגיה) לחבור, להזדווג; (בלשנות) להטות
 
 conjuga : nom
   EN conjugation
+  HE (ביולוגיה) קוניוגציה, חבירה, הזדווגות; (בלשנות) בניין, נטייה
 
 .conjunta : nom linguistica
   D un parola usada per junta frases o proposas coordinada, o parolas en la mesma proposa
   EN coordinating conjunction
+  HE מילת חיבור, מילת איחוי
 
 .conjuntiva : nom anatomia
   D la membrana mucosa cual covre la fronte de la oio e fore la interna de la palpebra
   EN conjunctiva (anatomy)
+  HE לחמית העין
 
 .conjuntivite : nom medica
   D un inflama de la conjuntiva
   I #
   EN conjunctivitis, pinkeye
+  HE דלקת הלחמית
 
 .Connecticut : nom jeografial
   D un stato en la SUA norde-este
   P canéticat
   EN Connecticut (US state)
+  HE קונטיקט
 
 .cono : ajetivo matematica
   D (un cosa tridimensional) con un forma cual diminui de un funda sirculo asta un punto
   I #
   EN conic, conical
+  HE חרוטי, קוני
 
 cono : nom
   EN cone
+  HE חרוט, קונוס
 
 cono de pino : nom
   I #
   EN pinecone
+  HE איצטרובל
 
 .conom : nom istoria
   D (en Roma antica) un nom personal, tipal pasada a desendentes
   EN cognomen
+  HE (רומא העתיקה) שם שעובר בירושה
 
 .conopofaje : nom avia
   D un avia peti de America Sentral e Sude, con coda corta e gamas longa, notada per come moscetas e otra insetos peti
   I #
   T Conopophagidae
   EN gnateater (bird)
+  HE ציפור ממשפחת היורקניים
 
 .conose : verbo transitiva
   D sabe ce on ia esperia ja (un cosa o loca); es consensa de (algun) pos interelata con el
   U me conose tua sore; tu conose Roma?; el conose la problem ma no sabe la detalias
   V sabe
   EN know (person, place, etc.), be acquainted with, be familiar with (by experience rather than learning), cognize
+  HE להכיר
 
 conose : nom
   EN knowledge (of person, place, etc.), acquaintance (with), familiarity
+  HE היכרות
 
 comensa conose : verbo
   EN get to know, become acquainted with, familiarize|is oneself with
+  HE להכיר, להתוודע
 
 conosal : ajetivo
   EN cognitive
+  HE קוגניטיבי, הכרני
 
 conoseda : ajetivo
   EN known, familiar
+  HE מוכר
 
 conoseda : nom
   EN acquaintance (person)
+  HE מכר
 
 conoseda como : ajetivo
   EN known as, referred to as
+  HE ידוע כ, מוכר כ
 
 conosor : nom
   EN connoisseur, maven
+  HE מבין, ידען, אנין
 
 dona conose a : verbo
   EN familiarize|is
+  HE ליידע
 
 nonconosable : ajetivo
   EN unknowable
+  HE שלא ניתן לדעת אותו
 
 nonconoseda : ajetivo
   EN unknown, unfamiliar
+  HE לא ידוע, לא מוכר
 
 nonconoseda : nom
   EN stranger
+  HE לא ידוע, לא מוכר, זר
 
 poca conoseda : ajetivo
   EN little-known, esoteric
+  HE אזוטרי
 
 preconose : verbo transitiva
   EN know in advance, have foreknowledge of
+  HE לדעת מראש, להכיר מראש
 
 preconose : nom
   EN foreknowledge, precognition
+  HE ידע מוקדם, היכרות מוקדמת; ראיית הנולד
 
 preconosente : ajetivo
   EN precognisant
+  HE רואה את הנולד
 
 recomensa conose : verbo
   EN become reacquainted with, refamilarize|is oneself with
+  HE להכיר מחדש, להתוודע מחדש
 
 .conota : verbo transitiva linguistica
   D (un parola) sujesta o implica (un idea o senti) en ajunta a sua sinifia prima o leteral
   EN connote
+  HE לרמוז על, להצביע על
 
 conota : nom
   EN connotation
+  HE קונוטציה, משמעות לוואי
 
 .consela : verbo transitiva siensa-umana
   D ofre sujestas a (algun) sur la modo la plu bon de ata; sujesta ce (algun) fa alga cosa
   EN counsel, advise
+  HE לייעץ; להמליץ
 
 consela : nom
   EN counsel, advice
+  HE עצה; המלצה
 
 conselor : nom
   EN counselor, advisor, adviser, consultant
+  HE יועץ
 
 conselor privata : nom
   EN confidant, confidante, confessor
+  HE איש סוד
 
 malconsela : verbo transitiva
   EN misadvise
+  HE לתת עצה מזיקה
 
 malconselada : ajetivo
   EN ill-advised, inadvisable
+  HE לא מומלץ, לא רצוי, לא כדאי
 
 .consensa : ajetivo medica
   D veliada e respondente a la ambiente; persepinte un situa o sabente un fato
   EN conscious, aware, mindful, lucid, cognizant
+  HE הכרתי, בהכרה, מודע
 
 autoconsensa : ajetivo
   EN self-conscious
+  HE בעל מודעות עצמית
 
 consensi : verbo nontransitiva
   EN become conscious, become aware
+  HE להפוך למודע, לחזור להכרה
 
 consensi : verbo nontransitiva
   EN make conscious, make aware
+  HE להפוך למודע, להחזיר להכרה
 
 consensia : nom
   EN consciousness, awareness, mindfulness, lucidity, cognizance
+  HE מודעות, הכרה, תודעה
 
 duiconsensa : ajetivo
   EN semiconscious
+  HE בהכרה חלקית
 
 duiconsensia : nom
   EN semiconsciousness
+  HE הכרה חלקית
 
 nonconsensa : ajetivo
   EN unconscious, unaware, incognizant, insensible
+  HE חסר הכרה
 
 nonconsensia : nom
   EN unconsciousness, oblivion
+  HE חוסר הכרה
 
 suconsensa : ajetivo
   EN subconscious, subliminal
+  HE תת-הכרתי
 
 suconsensia : nom
   EN subconscious, unconscious (mind)
+  HE תת-מודע, תת-הכרה
 
 .consenta : verbo nontransitiva
   D asembla per un intende spesifada, tipal un discute
   EN meet, be in session
+  HE להיות בישיבה
 
 consenta : nom
   EN meeting, session, sitting
+  HE ישיבה, פגישה, סשן
 
 .consentra : verbo nontransitiva cimica informatica
   D foca sua persepi o labora mental sur un cosa o taxe spesifada; deveni colieda en un cuantia o masa grande; (un cimical) deveni plu forte par la sutrae de acua o un otra licuida, o par la cumula distinguinte de atomes o moleculas
   EN concentrate (attention, substance)
+  HE להתרכז
 
 consentra : nom
   EN concentration, focus
+  HE ריכוז
 
 consentrador : nom
   EN hub (computer)
+  HE (מחשבים) רכז
 
 .consentral : ajetivo matematica
   D descrivente sirculos, arcos o otra formas cual comparti la mesma sentro
   EN concentric
+  HE קונצנטרי
 
 .consepi : verbo transitiva biolojia
   D deveni ensinta con (un enfante)
   EN conceive (pregnancy)
+  HE להתעבר, להרות
 
 consepi : nom
   EN conception
+  HE התעברות
 
 .conserna : verbo transitiva
   D (un informa, descovre, etc) es o pare importante o interesante a (un person); (un reporta, campo de studia, etc) pertine a (un sujeto)
@@ -39870,7 +39965,7 @@ egiptolojiste : nom
   EN church (building, organization|is)
 
 eglesal : ajetivo
-  EN ecclesiastic
+  EN ecclesiastic, ecclesiastical
 
 egleseta : nom
   EN chapel
@@ -41307,6 +41402,9 @@ enfante unica : nom
 
 enfantes : nom plural
   EN children, offspring, progeny
+
+enfanteria : nom
+  EN kindergarten, nursery
 
 enfantia : nom
   EN childhood, girlhood, boyhood
@@ -52284,12 +52382,12 @@ haca : nom
   EN Armenia
   ES Armenia
 
-haiaren : ajetivo
+haieren : ajetivo
   V armenian
   EN Armenian (person, language)
   ES armenio (persona, lengua)
 
-haiaren : nom demonim
+haieren : nom demonim
   EN Armenian (person, language)
   ES armenio (persona, lengua)
 
@@ -58746,7 +58844,7 @@ nonjustia : nom
   D un deserto en Asia sentral, a este de la Mar Caspio
   I Deserto-Karakum
   EN Karakum Desert, Gara-Gum Desert
-  ES Dsierto de Karakum
+  ES Desierto de Karakum
 
 .Karimata, Streta : nom jeografial
   D un streta entre Sumatra e Borneo
@@ -58841,16 +58939,20 @@ labias minor : nom
   D un o la otra de la du partes spesa cual formi la bordas superior e inferior de la abri de la boca; un parte de la boca de alga insetos e crustaseos
   I #
   EN lip
+  ES labio
 
 labio fendeda : nom
   I #
   EN harelip, cleft lip
+  ES labio leporino
 
 con labios selida : ajetivo
   EN with sealed lips, tight-lipped
+  ES callado, reservado, ser una tumba
 
 labial : ajetivo
   EN labial
+  ES labial
 
 labiali : verbo nontransitiva
   EN labialize|is
@@ -58860,53 +58962,68 @@ labiali : verbo transitiva
 
 labiosa : ajetivo
   EN thick-lipped
+  ES  de labios gruesos, de labios carnosos
 
 .labiodental : ajetivo linguistica
   D (un sona) fada con la labios e dentes, per esemplo F e V
   EN labiodental (consonant)
+  ES labiodental (consonante)
 
 labiodental : nom
   EN labiodental (consonant)
+  ES labiodental (consonante)
 
 .labirinto : nom sporte biolojia
   D un rompetesta de ruetas e sepes, o linias sur paper, tra cual on debe trova un via; cualce rede de vias; (metafor) un masa confusante de informa; un strutur complicada de la orea interna; (en pexes) un strutur complicada per respira
   I #
   EN maze, labyrinth
+  ES laberinto
 
 labirintin : ajetivo
   EN labyrinthine
+  ES laberíntico
 
 .labora : verbo nontransitiva
   D ata fisical o mental per reali un intende o resulta, tipal como sua emplea; (en fisica) la usa de fortia per oposa la resiste o produi cambias moleculal
   EN work, toil
+  ES trabajar
 
 labora : verbo transitiva
   EN work, put (someone) to work
+  ES trabajar
 
 labora : nom
   EN work, labor|ur, toil, effort
+  ES trabajo
 
 labora de jardin : nom
   EN gardening
+  ES jardinería
 
 labora de via : nom
   EN roadworks
+  ES obras viales
 
 labora en curso : nom
   EN work in progress
+  ES trabajo en elaboración
 
 labora fundal : nom
   EN groundwork
+  ES trabajo preparatorio, trabajo preliminar 
 
 labora nonusosa : nom
   EN makework
+  ES trabajito
 
 labora par mano : nom
   EN manual labour, manual work, handwork
+  ES trabajo manual
   FR travail manuel
 
 labora sin sesa : verbo
   EN work incessantly, toil
+  ES trabajar sin parar, trabajar sin pausa
 
 labora sin sesa : nom
   EN toil, drudgery, slog
@@ -58951,28 +59068,35 @@ sin labora : ajetivo
 .laboramania : nom
   D un noncapasia de sesa labora
   EN workaholism
+  ES adicción al trabajo
 
 laboramanica : ajetivo
   EN workaholic
+  ES adicto al trabajo
 
 .Labrador : nom jeografial
   D un rejion norde-este de Canada, e un parte de la provinse de Newfoundland e Labrador
   EN Labrador
+  ES Labrador
 
 Mar Labrador : nom jeografial
   D un mar entre Labrador e Calalitnunat, un estende de la Mar Atlantica
   I #
   EN Labrador Sea
+  ES Mar de Labrador
 
 .laca : nom util
   D la sava de un arbor, o un sustantia artifis simil, usada como un vernis
   EN lacquer
+  ES barniz, laca
 
 laca de capeles : nom
   EN hairspray
+  ES laca de pelo
 
 laca de goma : nom
   EN shellac
+  ES goma laca
 
 .lace : nom governa
   D un servor mas, tipal en uniforma; (insultante) un person ci debe servi e obedi otras
@@ -72049,8 +72173,8 @@ numismatiste : nom
   EN no one, nobody
 
 .Nunavut : nom jeografial
-  D un provinse de Canada norde, bordante la Mar Artica e Baia Hudson
-  EN Nunavut (Canadian province)
+  D un teritorio de Canada norde, bordante la Mar Artica e Baia Hudson
+  EN Nunavut (Canadian territory)
 
 .nunca : averbo
   D a no tempo en la pasada o futur; a no ves; tota no
@@ -84155,7 +84279,7 @@ reprendable : ajetivo
   EN retrievable
 
 reprende : verbo transitiva
-  EN take back, pick up, retrieve, repossess
+  EN take back, pick up, collect, retrieve, repossess
 
 .prensil : ajetivo biolojia
   D (un coda, pede o trompa de un animal) capas de teni cosas
@@ -87037,23 +87161,28 @@ puxador : nom
   D la letera 17 de la alfabeta roman
   P qua
   EN q
+  ES q
 
 .Qahira : nom jeografial
   D la site capital de Misre
   EN Cairo
+  ES Cairo
 
 .Quebec : nom jeografial
   D un provinse de Canada este, bordante la Golfo San Laurent e la Baia Hudson
   I #
   P cebec
   EN Quebec (Canadian province)
+  ES Quebec
   FR Québec
 
 quebecan : ajetivo
   EN Quebecois
+  ES quebequés, quebequense
 
 quebecan : nom demonim
   EN Quebecois
+  ES quebequés, quebequense
 
 .r : simbol
   D la letera 18 de la alfabeta roman
@@ -118011,6 +118140,7 @@ vulgaria : nom
   D la letera 23 de la alfabeta roman
   P wa
   EN w
+  ES w
 
 .Warszawa : nom jeografial
   D la site capital de Polsca
@@ -119418,21 +119548,26 @@ xvabes : ajetivo
   D la letera 25 de la alfabeta roman
   P ya
   EN y
+  ES y
 
 .York Nova : nom jeografial
   D un stato en la SUA norde-este, con bordas a la Mar Atlantica e la Lago Ontario
   EN New York State (US state)
+  ES Estado de Nueva York
 
 .Yucatan : nom jeografial
   D un stato en Mexico sude-este
   EN Yucatán (Mexican state)
+  ES Estado de Yucatán
 
 Penisola Yucatan : nom jeografial
   EN Yucatán Peninsula
+  ES Península de Yucatán
 
 .Yukon : nom jeografial
-  D un provinse de Canada norde-ueste, bordante Alaska
-  EN Yukon (Canadian province)
+  D un teritorio de Canada norde-ueste, bordante Alaska
+  EN Yukon (Canadian territory)
+  ES Yukón (territorio canadiense)
 
 .z : simbol
   D la letera 26 e final de la alfabeta roman
