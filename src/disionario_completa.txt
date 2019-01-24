@@ -29307,77 +29307,100 @@ consepi : nom
   D (un informa, descovre, etc) es o pare importante o interesante a (un person); (un reporta, campo de studia, etc) pertine a (un sujeto)
   EN concern, be important to, be of interest to; relate to, have to do with
   EO koncerni; temi pri
+  HE נוגע ל, רלוונטי ל, חשוב ל
 
 conserna : nom
   EN concern, matter of importance, business, affair
+  HE עניין, דאגה
 
 conserna xef : nom
   EN priority, prime concern
+  HE עניין עיקרי, עדיפות
 
 acel no conserna tu : espresa
   EN that does not concern you
+  HE זה לא עניינך, זה לא קשור אליך
 
 acel no es tua conserna : espresa
   EN that is none of your business, that is no concern of yours
+  HE זה לא עניינך, זה לא קשור אליך
 
 consernada : ajetivo
   EN concerned, solicitous
+  HE בעל עניין; מודאג, דואג
 
 consernante : preposada
   EN concerning, regarding, with regard to
+  HE בנוגע ל, באשר ל, בקשר ל, לגבי
 
 nonconsernada : ajetivo
   EN unconcerned, blithe, carefree
+  HE חסר דאגה
 
 .conserta : nom musica
   D un presenta musical publica, tipal con plu ca un musiciste o plu ca un composada
   EN concert
+  HE קונצרט, הופעה
 
 conserta de avias : nom
   EN dawn chorus
+  HE ציוצי ציפורים בבוקר
 
 .consertina : nom musica
   D un strumento peti, juada par estende e compresa un soflador entre la manos per puia aira supra anxas, sonante la notas par presa botones
   I #
   EN concertina
+  HE קונצרטינה, מפוחית יד
 
 .conserto : nom musica
   D un obra per tipal un strumento acompaniada par un orcestra
   EN concerto
+  HE קונצ'רטו
 
 .conserva : verbo transitiva biolojia cosini
   D manteni (un cosa) en sua state esistente o orijinal; proteje (un cosa, tipal un recurso o loca importante a la ecolojia o cultur) contra dana o peri o destrui
   EN conserve, preserve, store, enshrine
+  HE לשמר
 
 conserva : nom
   EN conservation, preservation
+  HE שימור
 
 conserva de fruta : nom
   EN preserve (marmalade)
+  HE שימורי פירות
 
 conserva de natur : nom
   EN conservationism
+  HE שימור הטבע
 
 conservalisme : nom
   EN conservatism (political)
+  HE (פוליטיקה) שמרנות
 
 conservaliste : ajetivo
   EN conservative (political)
+  HE (פוליטיקה) שמרן
 
 conservaliste : nom
   EN conservative (political)
+  HE (פוליטיקה) שמרן
 
 conservante : nom
   EN preservative
+  HE חומר משמר
 
 conserveria : nom
   EN conservation site, (wildlife) reserve
+  HE שמורה, שמורת טבע
 
 conservor : nom
   EN curator, conservator, guardian (museum, collection)
+  HE (אמנות) אוצר, משמר
 
 conservor de natur : nom
   EN conservationist
+  HE פעיל שימור טבע
 
 .conseta : nom filosofia
   D un idea astrata
@@ -33114,7 +33137,7 @@ sur cual ... lo : espresa
 .cualce : determinante
   D un o alga, asentuante ce la eleje entre la posibles no importa
   U prende cualce carta; cualce vestes va sufisi
-  EN any (at all), whichever (you like)
+  EN any (at all), whichever (you like), arbitrary
 
 cualce : pronom
   EN any (no matter which), whichever; so-and-so
