@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201901132059
+# Last modified 201901242240
 # See change log at the end of the file
 
 # ==============================================================
@@ -18,8 +18,8 @@
 # - gforth
 # - make
 # - pandoc
-# - xsltproc
 # - vim
+# - xsltproc
 
 # ==============================================================
 # Config
@@ -38,7 +38,7 @@ epub: epub1 epub4
 
 # EPUB in 1 tome:
 .PHONY: epub1
-epub1: epub1a epub1p epub1x
+epub1: epub1p epub1x
 
 # EPUB in 1 tome, with asciidoctor-epub3:
 .PHONY: epub1a
@@ -54,7 +54,7 @@ epub1x: target/disionario_de_elefen.adoc.xml.xsltproc.epub
 
 # EPUB in 4 tomes:
 .PHONY: epub4
-epub4: epub4a epub4p epub4x
+epub4: epub4p epub4x
 
 # EPUB in 4 tomes, with asciidoctor-epub3:
 .PHONY: epub4a
@@ -211,19 +211,23 @@ tmp/%.adoc.xml: src/%.adoc
 # Make the EPUB
 
 # ----------------------------------------------
-# With asciidoctor-epub3
+# By asciidoctor-epub3, from Asciidoctor
 
 target/%.adoc.epub: src/%.adoc $(letter_files)
 	asciidoctor-epub3 --out-file=$@ $<
 
 # ----------------------------------------------
-# With pandoc
+# By pandoc, from DocBook
 
 target/%.adoc.xml.pandoc.epub: tmp/%.adoc.xml $(letter_files)
-	pandoc --from=docbook --to=epub --output=$@ $<
+	pandoc \
+		--from=docbook \
+		--to=epub3 \
+		--template=src/pandoc_epub_template.txt \
+		--output=$@ $<
 
 # ----------------------------------------------
-# With xsltproc
+# By xsltproc, from DocBook
 
 target/%.adoc.xml.xsltproc.epub: tmp/%.adoc.xml $(letter_files)
 	rm -fr tmp/xsltproc/* && \
@@ -271,3 +275,6 @@ target/%.adoc.xml.xsltproc.epub: tmp/%.adoc.xml $(letter_files)
 # 2019-01-12: Make an EPUB also with xsltproc.
 #
 # 2019-01-13: Make also a dict file.
+#
+# 2019-01-24: Deactivate asciidoctor-epub3. Use a pandoc template. Create EPUB3
+# with pandoc.
