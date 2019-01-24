@@ -10,6 +10,7 @@
 " dictionary data into letters.
 
 " 2019-01-09: Start, extracted from the old <convert_data_to_asciidoctor.vim>.
+" 2019-01-24: Change `write` to `write!` to force writing.
 
 " Split the file into letter sections:
 
@@ -23,7 +24,7 @@ while letter_n <= last_letter_n
 	else
 		let to='/^== '.nr2char(letter_n+1).'/-1'
 	endif
-	silent execute from.','.to.' write tmp/disionario_de_elefen_'.tolower(letter).'.adoc'
+	silent execute from.','.to.' write! tmp/disionario_de_elefen_'.tolower(letter).'.adoc'
 	let letter_n=letter_n+1
 endwhile
 
