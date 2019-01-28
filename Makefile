@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201901242240
+# Last modified 201901290029
 # See change log at the end of the file
 
 # ==============================================================
@@ -105,17 +105,7 @@ clean:
 
 tmp/%.adoc: src/%.txt
 	gforth make/convert_data.fs -e "to-asciidoctor $< bye" > $@
-	vim -e \
-		-c '%s@({;} @(@e' \
-		-c '%s@ {;}@;@eg' \
-		-c '%s@{\([A-Z0-9=-]\{-}\)}@`\1`@eg' \
-		-c '%s@{\(\S\{-}\)\^\(\S\{-}\)}@\1^\2^@eg' \
-		-c '%s@{\(.\{-}\) \/\/.\{-}}@\1@eg' \
-		-c '%s@ \(\/\/.\+\)$$@\r\1@eg' \
-		-c '%s@^NOTE:\n@@eg' \
-		-c '%s@{\(\S.\{-}\)}@\1@eg' \
-		-c 'write!' \
-		-c 'quit' $@
+	vim -e -S make/tidy_data.vim $@
 
 # ==============================================================
 # Create one Asciidoctor file per letter
@@ -161,6 +151,7 @@ $(letter_files): tmp/disionario_completa.adoc
 
 tmp/%.c5: src/%.txt
 	gforth make/convert_data.fs -e "to-c5 $< bye" > $@
+	vim -e -S make/tidy_data.vim $@
 
 # ==============================================================
 # Convert c5 to dict
@@ -278,3 +269,6 @@ target/%.adoc.xml.xsltproc.epub: tmp/%.adoc.xml $(letter_files)
 #
 # 2019-01-24: Deactivate asciidoctor-epub3. Use a pandoc template. Create EPUB3
 # with pandoc.
+#
+# 2019-01-29: Create a file from the Vim commands that tidy the Asciidoctor
+# document, in order to reuse it to tidy also the c5 file.

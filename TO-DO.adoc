@@ -1,6 +1,6 @@
 = TO-DO of _Disionario de elefen_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-01-27
+:revdate: 2019-01-28
 
 // This file is part of the project
 // "Disionario de elefen"
@@ -45,13 +45,3 @@ omit ru
 == 2019-01-24
 
 - Add the date of the data.
-
-== 2019-01-27
-
-Fix: the following comment remains in the dict file:
-
-....
-nb // `Ci` is the equivalent of `cual` for referring to people, animals
-  or personified things.
-....
-
