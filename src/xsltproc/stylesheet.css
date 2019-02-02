@@ -1,0 +1,18 @@
+
+h1 { text-align: center }
+h2 { text-align: center }
+h3 { text-align: center }
+h4 { text-align: center }
+h5 { text-align: center }
+h6 { text-align: center }
+
+div.abstract > p { text-align: center; font-size: 110%; }
+
+body.cover , #cover
+	{ margin:auto; padding:0; text-align:center; }
+
+#cover img { max-height:100%; max-width: 100%; }
+
+/*
+ * vim: ts=2 sts=2 noexpandtab
+ */

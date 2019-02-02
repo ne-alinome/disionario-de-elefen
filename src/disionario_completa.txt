@@ -29405,127 +29405,166 @@ conservor de natur : nom
 .conseta : nom filosofia
   D un idea astrata
   EN concept, conceit
+  HE מושג, קונספט
 
 consetable : ajetivo
   EN conceivable
+  HE מתקבל על הדעת, סביר
 
 consetal : ajetivo
   EN conceptual
+  HE מושגי, קונספטואלי
 
 conseti : verbo nontransitiva
   EN form as a concept
+  HE ליצור מושג
 
 conseti : verbo transitiva
   EN conceive (concept), conceptualize
+  HE להמשיג, ליצור מושג
 
 conseti : nom
   EN conception (of concept)
+  HE המשגה, יצירת מושג; תפיסה, קונספציה
 
 malconseti : verbo nontransitiva
   EN misconceive
+  HE להתבסס על תפיסה שגויה
 
 malconseti : verbo transitiva
   EN misconceive
+  HE לבסס על תפיסה שגויה
 
 malconseti : nom
   EN misconception
+  HE תפיסה שגויה
 
 nonconsetable : ajetivo
   EN inconceivable
+  HE לא מתקבל על הדעת
 
 .considera : verbo transitiva
   D pensa atendente sur (alga cosa), tipal ante un deside; pensa atendente sur (un cosa confondente)
   EN consider, ponder, puzzle, mull, mull over; take into account
+  HE לשקול, להביא בחשבון, לקחת בחשבון
 
 considera : nom
   EN consideration
+  HE שיקול
 
 considera xef : nom
   EN priority, most important consideration
+  HE שיקול עיקרי
 
 considera tarda : nom
   EN afterthought
+  HE שיקול מאוחר
 
 considerante : ajetivo
   EN considering; taking into account
+  HE בהתחשב ב
 
 considerante ce : sujunta
   EN considering that, given that, as, since
+  HE בהתחשב בעובדה ש, מכיוון ש
 
 preconsidera : verbo transitiva
   EN premeditate
+  HE לתכנן מראש
 
 preconsidera : nom
   EN premeditation, forethought, forward planning
+  HE תכנון מראש, כוונה תחילה, מחשבה תחילה
 
 reconsidera : verbo transitiva
   EN reconsider
+  HE לשקול מחדש
 
 si on considera : espresa
   EN if one considers, to judge by, judging by, going by
+  HE אם לוקחים בחשבון
 
 .consiensa : nom siensa-umana relijio
   D un senti interna, regardada como un gida a la moralia
   EN conscience
+  HE מצפון
 
 consiensosa : ajetivo
   EN conscientious, dutiful
+  HE מצפוני
 
 .consilio : nom governa
   D un grupo ofisial de persones ci consenta per discute, avisa o legi; un grupo ofisial elejeda per maneja un pais, contia, site, eglesa o otra organiza
   EN council, cabinet (political)
+  HE מועצה
 
 consilio de ministros : nom
   EN government, cabinet (political)
+  HE קבינט
 
 consilio governante : nom
   EN government, cabinet (political)
+  HE קבינט
 
 consilio ombral : nom
   EN shadow government, shadow cabinet
+  HE קבינט צללים, ממשלת צללים
 
 consilior : nom
   EN councilor|ll
+  HE חבר מועצה, חבר קבינט
 
 .consinia : verbo transitiva mone
   D envia ofisial (un ben o otra cosa) e trae lo a la resetor
   EN consign
+  HE לשגר, להפקיד למכירה
 
 consinia : nom
   EN consignment
+  HE משגור, קונסיגנציה
 
 consinieria : nom
   EN consignment store
+  HE חנות קונסיגנציה
 
 .consisa : ajetivo
   D espresante multe informa en modo clar e sin multe parolas
   EN concise, succinct, brief, compact, condensed, laconic, terse, pithy, snappy, to the point
+  HE תמציתי, מתומצת, תכליתי
 
 .consol : nom util
   D un panel per controla aparatos eletrical o macinal
   EN console, control panel, instrument bank
+  HE קונסולה, שולחן בקרה
 
 .consola : verbo transitiva siensa-umana
   D comforta (algun) cuando el es lamentante o deludeda
   EN console, solace, comfort, cheer, support, soothe
+  HE לנחם, להביע תנחומים
 
 consola : nom
   EN consolation, solace, comfort, cheer, support
+  HE ניחום; תנחומים
 
 consolada : ajetivo
   EN consoled
+  HE מנוחם
 
 consolador : nom
   EN dildo
+  HE דילדו
 
 consolor : nom
   EN consoler (person)
+  HE (אדם) מנחם
 
 es consolada par : verbo
   EN be consoled by, take solace in, find consolation in
+  HE למצוא נחמה ב
 
 nonconsolable : ajetivo
   EN inconsolable
+  HE שלא ניתן לנחם אותו
 
 .consolida : nom planta
   D un planta anial en familia de ranunculo, con spigas de flores con sperones
@@ -29533,35 +29572,45 @@ nonconsolable : ajetivo
   T Consolida
   EN larkspur (plant)
   EO konsolido
+  HE דורבנית (צמח)
 
 .consonante : ajetivo linguistica
   D (un sona de parla) en cual la respira es partal o intera impedida, e cual pote combina con un vocal per formi un silaba; (notas musical) produinte un acorda o interval armoniosa
   EN consonant (language, music)
+  HE עיצורי; (מוזיקה) נמזג, מזיגי
 
 consonante : nom
   EN consonant
+  HE עיצור
 
 consonante con vose : ajetivo
   EN voiced consonant
+  HE עיצור קולי
 
 consonante sin vose : ajetivo
   EN voiceless consonant
+  HE עיצור אטום
 
 .conspira : verbo nontransitiva governa
   D prepara un scema secreta per fa un ata nonlegal o ferinte
   EN conspire, plot, scheme, collude, connive
+  HE לזמום, לקשור, לחתור, לתחבל
 
 conspira : nom
   EN conspiracy, intrigue, connivance, scheme, plot, machination, collusion
+  HE קונספירציה, קנוניה, מזימה, קשר, אינטריגה; תככנות, חתרנות
 
 coconspiror : nom
   EN co-conspirator, fellow schemer
+  HE שותף לקנוניה
 
 conspiror : nom
   EN conspirator, schemer, plotter
+  HE קושר, תככן, חורש מזימות
 
 teoria de conspira : nom
   EN conspiracy theory
+  HE תאוריית קשר, תאוריית קונספירציה
 
 .constante : ajetivo matematica
   D aveninte sin para, o restante sempre la mesma, tra un periodo de tempo; (un person) fidosa e fidable
@@ -29571,290 +29620,378 @@ teoria de conspira : nom
   EO konstanta
   ES constante, estable, invariante
   FR constante
+  HE קבוע, יציב, רצוף, תמידי
   IT costante
   NL standvastig, constant
   PT estável, constante, invariável
 
 constante : nom
   EN constant, invariant; coefficient
+  HE קבוע; מקדם
 
 nonconstante : ajetivo
   EN inconstant, fickle, flighty
+  HE משתנה, הפכפך, בלתי יציב
 
 .constela : verbo nontransitiva astronomia
   D grupi
   EN constellate
+  HE להתקבץ (לקבוצת כוכבים)
 
 constela : nom
   D un grupo de stelas forminte un motif reconosable, tradisional nomida per sua forma parente o identifiada con un carater mital; cualce grupo de cosas relatada
   EN constellation
+  HE קבוצת כוכבים, קונסטלציה; מערך
 
 .constipa : verbo transitiva medica
   D fa ce (un flue) deveni lenta o nonmovente; fa ce (algun) no vacui fasil sua intestines
   EN constipate
+  HE לגרום לעצירות
 
 constipa : nom
   EN constipation
+  HE עצירות
 
 constipada : ajetivo
   EN constipated
+  HE סובל מעצירות
 
 .constitui : verbo transitiva governa
   D crea (un instituida) par un documento legal
   EN constitute, establish
+  HE לכונן, לייסד, להקים (בעזרת מסמך מייסד)
 
 constitui : nom
   EN constitution, charter (organization|is)
+  HE חוקה, אמנה
 
 constitual : ajetivo
   EN constitutional
+  HE חוקתי
 
 nonconstitual : ajetivo
   EN unconstitutional
+  HE שמנוגד לחוקה
 
 reconstitui : verbo transitiva
   EN reconstitute
+  HE להקים מחדש
 
 reconstitui : nom
   EN reconstitution
+  HE הקמה מחדש
 
 .constrinje : verbo transitiva siensa-umana
   D limita sever la estende o ativia de; forsa (algun) a ata en un modo spesifada
   EN constrain, constrict, inhibit
+  HE להגביל, להצר, לרסן, לדכא; לאלץ
 
 constrinje : nom
   EN constraint, condition, damper
+  HE הגבלה, הצרה, ריסון, דיכוא; אילוץ
 
 constrinjeda : ajetivo
   EN constrained, inhibited, uptight, anal-retentive
+  HE מרוסן, מאופק; מאולץ
 
 constrinjente : ajetivo
   EN constraining, constricting
+  HE מגביל, מצר, מרסן, מדכא; מאלץ
 
 constrinjente : nom
   EN obstruent (consonant)
+  HE (עיצור) סותם, פוצץ
 
 constrinjente de pompas de protones : nom medica
   D un medisin cual redui la produi de asida gastral
   EN proton-pump inhibitor
+  HE מעכב משאבות פרוטונים (תרופה)
 
 .construi : verbo transitiva arciteta
   D crea (un cosa fisical, como un casa, via o macina) par combina sua partes; formi (un idea o teoria) par asembla elementos consetal diversa; formi (un frase) seguente la regulas gramatical
   EN build, construct
+  HE לבנות
 
 construi : nom
   EN construction
+  HE בנייה
 
 construi de petra : nom
   EN stonework, masonry
+  HE בנייה באבן
 
 construeria : nom
   EN building site, construction site
+  HE אתר בנייה
 
 construida : nom
   EN building, edifice
+  HE מבנה, בניין
 
 construinte : ajetivo
   EN building, constructing, constructive
+  HE בונה
 
 construor : nom
   EN builder, constructor
+  HE בנאי
 
 desconstrui : verbo transitiva
   EN demolish, knock down (building, wall)
+  HE להרוס, למוטט (מבנה)
 
 en construi : ajetivo
   EN under construction, in the works
+  HE בבנייה, בהקמה
 
 malconstrui : verbo transitiva
   EN misconstruct, build badly
+  HE לבנות בצורה גרועה
 
 reconstrui : verbo transitiva
   EN reconstruct, rebuild, remake, rework, reassemble, refurbish, piece together
+  HE לבנות מחדש
 
 reconstrui : nom
   EN reconstruction, recon, rebuilding
+  HE בנייה מחדש
 
 reconstruida : ajetivo
   EN reconstructed, rebuilt
+  HE נבנה מחדש
 
 .consul : nom governa
   D un ofisior asiniada par un governa a abita en un site stranjer per proteje e promove ala la sitadanes e interesas de sua governa propre
   EN consul
+  HE קונסול
 
 consuleria : nom
   EN consulate
+  HE קונסוליה
 
 .consulta : verbo transitiva governa
   D xerca informa o consela de (un esperta o libro); discute con (algun) ante ata
   EN consult
+  HE להתייעץ, להיוועץ
 
 consulta : nom
   EN consultation
+  HE ייעוץ, התייעצות
 
 .consuma : verbo transitiva cosini mone
   D come o bevi (un comeda o bevida); compra (un ben o servi); usa completa (un recurso); asorbe tota la atende e enerjia de (algun)
   EN consume, deplete, expend, exhaust, use up, spend, ingest
+  HE לצרוך, לכלות, למצות
 
 consuma : nom
   EN consumption, depletion; footprint (software)
+  HE צריכה, מיצוי
 
 consumante : ajetivo
   EN consuming
+  HE צורך, מכלה
 
 consumante de tempo : ajetivo
   EN time-consuming
+  HE שצורך זמן
 
 consumisme : nom
   EN materialism, consumerism
+  HE חומרנות, מטריאליזם, תרבות הצריכה
 
 consumiste : ajetivo
   EN materialistic, consumerist
+  HE חומרני, מטריאליסטי
 
 consumiste : nom
   EN materialist, consumerist
+  HE חומרני, מטריאליסטי
 
 consumor : nom
   EN consumer
+  HE צרכן
 
 nonconsumable : ajetivo
   EN inexhaustible
+  HE בלתי נדלה
 
 .conta : verbo transitiva
   D determina la cuantia de (un colie de cosas) par dise numeros en serie
   EN count, enumerate
+  HE לספור, למנות
 
 conta : nom
   D un ata de conta; un cuantia contada; un arcivo o rejistra de resetas o spendes per un periodo spesifada; un acorda par cual un instituida teni mone per un cliente, o furni benes o servis a la cliente par credito; un sistem par cual un usor individua asede un computador o loca de rede, tipal con parola secreta
   EN count (action, amount), quantity, tally; account (bank, online, etc.)
+  HE ספירה, מנייה; כמות, סכום, סיכום; חשבון
 
 conta de abitores : nom
   EN census
+  HE מפקד אוכלוסין
 
 conta desendente : verbo
   EN count down
+  HE לספור לאחור
 
 conta desendente : nom
   EN countdown
+  HE ספירה לאחור
 
 conta reversada : verbo
   EN count down
+  HE לספור לאחור
 
 conta reversada : nom
   EN countdown
+  HE ספירה לאחור
 
 contable : ajetivo
   EN countable
+  HE ספיר
 
 contablia : nom
   D la prosede o labora de manteni contas finansial
   EN accounting, accountancy, bookkeeping
+  HE חשבונאות, ניהול חשבונות
 
 contador : nom
   EN counter (device)
+  HE מונה (מכשיר)
 
 contador de Geiger : nom
   EN Geiger counter
+  HE מונה גייגר
 
 contor : nom
   EN counter, teller; accountant, bookkeeper
+  HE חשבונאי, רואה חשבון; חשב
 
 desconta : verbo transitiva
   EN discount
+  HE לתת הנחה, להוריד במחיר; לנכות
 
 desconta : nom
   EN discount, rebate (business)
+  HE הנחה; ניכיון
 
 malconta : verbo transitiva
   EN miscount
+  HE לספור בצורה שגויה
 
 noncontable : ajetivo
   EN uncountable, innumerable
+  HE לא ספיר, עצום, (מספר) אסטרונומי
 
 reconta : verbo transitiva
   EN recount
+  HE לספור מחדש
 
 reconta : nom
   EN recount
+  HE ספירה מחדש
 
 ultra conta : ajetivo
   EN beyond count, countless, innumerable
+  HE לא ספיר, עצום, (מספר) אסטרונומי
 
 .contagota : nom verbo-nom medica
   D un tubo corta de vitro, con un bulbo de cauxo a un fini e un buco pico a la otra, usada per mesura gotas de medisin o otra licuidas
   EN eyedropper
+  HE טפטפת (לעיניים)
 
 .contajira : nom verbo-nom util
   D un strumento cual mesura la rapidia de un motor, tipal como un cuantia de jiras per minuto
   EN tachometer
+  HE טכומטר
 
 .contamina : verbo transitiva medica
-  D fa ce (un cosa) deveni nonpur o susia par esposa lo a un materia venenosa o nosiva
+  D fa ce (un person, cosa, loca, etc) deveni nonpur o susia par esposa lo a un materia venenosa o nosiva
   EN contaminate, pollute
+  HE לזהם; להדביק
 
 contamina : nom
   EN contamination, pollution
+  HE זיהום; הידבקות
 
 contaminada : ajetivo
   EN contaminated, polluted
+  HE מזוהם; נגוע
 
 contaminante : nom
   EN contaminant, pollutant
+  HE (חומר) מזהם
 
 descontamina : verbo transitiva
   EN decontaminate
+  HE לטהר
 
 descontamina : nom
   EN decontamination
+  HE טיהור
 
 noncontaminada : ajetivo
   EN uncontaminated, unpolluted
+  HE בלתי מזוהם
 
 .contata : verbo transitiva
   D veni tan prosima a (un person o cosa) ce no distantia resta; entra a comunica con (un person o organiza)
   EN contact, touch
+  HE ליצור קשר; לגעת, ליצור מגע
 
 contata : nom
   EN contact, contiguity, touch
+  HE יצירת קשר; מגע
 
 contatante : ajetivo
   EN contacting, touching, contiguous
+  HE יוצר קשר; נוגע, צמוד, מחובר
 
 noncontatante : ajetivo
   EN discontiguous
+  HE לא נוגע, לא צמוד
 
 .conte : nom governa
   D un om nobil european, a la grado su un marci
   EN count, earl
+  HE רוזן
 
 contesa : nom
   EN countess
+  HE רוזנת
 
 contia : nom
   EN county, shire, earldom
+  HE רוזנות; מחוז, נפה
 
 visconte : nom
   EN viscount
+  HE ויקונט, רוזן משנה
 
 .contempla : verbo transitiva
   D regarda o pensa sur (alga cosa) per un periodo longa; pensa profonda sur
   EN contemplate, gaze
+  HE להתבונן; להרהר
 
 contempla : nom
   EN contemplation
+  HE התבוננות; הרהור
 
 contempla la stelas : nom
   EN stargaze
+  HE התבוננות בכוכבים
 
 contemplante : ajetivo
   EN contemplating, contemplative
+  HE מהורהר; הגותי
 
 .contempora : ajetivo
   D aveninte o vivente a la mesma tempo; moderna
   EN contemporary
+  HE בן-זמננו, עכשווי, מודרני
 
 contempora : nom
   EN contemporary
+  HE בן-גילו, בן-זמנו
 
 .conteni : verbo transitiva util
   D ave o teni (un person o cosa) en se
@@ -48884,7 +49021,7 @@ fratisidor : nom
 
 .frato : nom matematica tera
   D un parte peti, rompeda o separada de alga cosa; un estraeda de un testo; (en matematica) un cuantia cual no es un intero, como {1/2} o {3,142}
-  EN fraction; fragment, shard; snippet, clip, clipping
+  EN fraction; fragment, shard; faction; snippet, clip, clipping
 
 frato agu : nom
   EN sharp fragment, shard
@@ -57299,7 +57436,7 @@ jari : verbo transitiva
   EN garden, lawn, yard
 
 jardin de enfantes : nom
-  EN kindergarten, nursery
+  EN kindergarten, nursery, preschool
 
 jardin de inverno : nom
   EN winter garden; sunroom
@@ -61341,8 +61478,8 @@ lingual : ajetivo
 linguiste : nom
   EN linguist
 
-propre lingua : nom
-  EN native language, native tongue, mother tongue
+lingua prima : nom
+  EN first language, native language, native tongue, mother tongue
 
 .linguaje : nom linguistica
   D la stilo de vocabulo e frases elejeda per espresa en parla o scrive
@@ -66805,6 +66942,7 @@ milia roman antica : nom
 
 .milion : determinante matematica
   D {1 000 000}, {10^6}
+  N On dise `du milion`, `des milion`, etc, (no `du miliones`), esata como on dise `du mil`. // 2,000,000 is `du milion` (not `du miliones`), just as 2,000 is `du mil`.
   EN (a) million
 
 milion : ajetivo
@@ -66812,6 +66950,9 @@ milion : ajetivo
 
 miliones : nom plural
   EN millions
+
+du milion : determinante
+  EN two million
 
 milioni : verbo nontransitiva
   EN split into a million parts
@@ -67019,7 +67160,7 @@ mineralojiste : nom
 
 .miniatur : ajetivo arte
   D con grandia multe plu peti ca normal
-  EN miniature
+  EN miniature, minuscule, diminutive
 
 miniatur : nom
   I #
@@ -72390,7 +72531,7 @@ nonobligada : ajetivo
   EN unobligated, unbeholden
 
 nonobligante : ajetivo
-  EN optional, voluntary, not required
+  EN optional, voluntary, not required, non-binding
   FR optionnel, non obligatoire
 
 obligada : ajetivo
@@ -72398,7 +72539,7 @@ obligada : ajetivo
   FR obligé, forcé
 
 obligante : ajetivo
-  EN obligatory, compulsory, mandatory
+  EN obligatory, compulsory, mandatory, binding
   FR obligatoire
 
 .oboe : nom musica
@@ -87217,12 +87358,15 @@ quebecan : nom demonim
   I #
   T Raphanus sativus
   EN radish (plant, root)
+  ES rábano
   FR radis
 
 rabano blanca : nom planta
   D un rabano con radis grande, magra e blanca, tipal coceda en cosini asian, o usada per nuri bestias
   I #
   EN daikon, mooli
+  ES rábano blanco
+  FR radis blanc
 
 rabano forte : nom planta
   D un radis comable de un planta european en familia de col, tipal usada como un spise o salsa; la planta cual produi esta
@@ -87279,14 +87423,17 @@ raceta de neva : nom veste
   D un strumento de venta corta e spesa con du anxas, usada en musica de la renase
   I raceta-strumento
   EN rackett (musical instrument)
+  ES rackett (isntrumento musical)
 
 .racetabal : nom sporte
   D un sporte juada con un bal peti e dur, un raceta con manico corta e un campo con cuatro mures
   EN racquetball (sport)
+  ES raquetbol, ráquetbol
 
 .racite : nom medica
   D un maladia de enfantes causada par un nonsufisi de vitamina D, marcada par calci nonperfeta, moli e contorse de la osos, tipal curvinte la gamas
   EN rickets, rachitis (medical)
+  ES raquitismo, raquitis
   FR rachis
 
 .raconta : verbo transitiva arte
@@ -87303,19 +87450,23 @@ raceta de neva : nom veste
 
 raconta : nom
   EN anecdote, memoir, account
+  ES relato
   FR récit
 
 racontal : ajetivo
   EN anecdotal
+  ES anecdótico
 
 racontor : nom
   EN raconteur
+  ES anecdotista, cuentacuentos, cuentista
 
 .radar : nom fisica util
   D un sistem per deteta la presentia, dirije, distantia e rapidia de aviones, barcones e otra ojetos, par envia pulsas de ondas eletromagnetal cual deveni refletada
   I #
   CA radar
   EN radar
+  ES radar
   FR radar
 
 radareria : nom
@@ -89111,8 +89262,8 @@ visrejente : nom
   EN vice-regent
 
 .rejeta : verbo transitiva governa medica
-  D refusa o no acorda con (un comanda o solisita); (en medica) mostra un responde a (un organo o texeda transplantada) tal ce lo no survive
-  EN reject, rebuff, veto, blackball; abjure, spurn, deny oneself
+  D refusa o no acorda con (un comanda o proposa); (en medica) mostra un responde a (un organo o texeda transplantada) tal ce lo no survive
+  EN reject, rebuff, veto, blackball; discount, dismiss, disregard; abjure, spurn, deny oneself
 
 rejeta : nom
   EN rejection, rebuff, brushoff; abjuration, abnegation
@@ -94843,6 +94994,9 @@ scola de opina : nom
 scola prima : nom
   EN primary school, elementary school, grade school
   FR école primaire, école élémentaire
+
+prescola : nom
+  EN kindergarten, nursery, preschool
 
 prescolal : ajetivo
   EN preschool
@@ -113443,6 +113597,12 @@ uolof : nom
   D la elemento cimical con numero atomal 92, un metal radioativa usada en reatadores nucleal
   S U
   EN uranium
+
+uranio povrida : nom
+  EN depleted uranium
+
+uranio ricida : nom
+  EN enriched uranium
 
 .Urano : nom astronomia mitolojia
   D (en mitos elinica) la plu antica de la dios, un personi de la sielo e la renor prima de la universo; la planeta sete de la Sol
