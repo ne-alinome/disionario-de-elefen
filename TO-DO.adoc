@@ -45,3 +45,9 @@ omit ru
 == 2019-01-24
 
 - Add the date of the data.
+
+== 2019-02-03
+
+- Find a way to configure dbtoepub and xsltproc. They add "Chapter X"
+  to the headings.
+- Fix: note caption "nb" is not preserved in any EPUB.

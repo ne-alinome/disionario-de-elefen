@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201901290029
+# Last modified 201902031448
 # See change log at the end of the file
 
 # ==============================================================
@@ -14,6 +14,7 @@
 
 # - asciidoctor
 # - asciidoctor-epub3
+# - dbtoepub
 # - dictfmt
 # - gforth
 # - make
@@ -38,11 +39,15 @@ epub: epub1 epub4
 
 # EPUB in 1 tome:
 .PHONY: epub1
-epub1: epub1p epub1x
+epub1: epub1d epub1p epub1x
 
 # EPUB in 1 tome, with asciidoctor-epub3:
 .PHONY: epub1a
 epub1a: target/disionario_de_elefen.adoc.epub
+
+# EPUB in 1 tome, with dbtoepub:
+.PHONY: epub1d
+epub1d: target/disionario_de_elefen.adoc.xml.dbtoepub.epub
 
 # EPUB in 1 tome, with pandoc:
 .PHONY: epub1p
@@ -54,7 +59,7 @@ epub1x: target/disionario_de_elefen.adoc.xml.xsltproc.epub
 
 # EPUB in 4 tomes:
 .PHONY: epub4
-epub4: epub4p epub4x
+epub4: epub4d epub4p epub4x
 
 # EPUB in 4 tomes, with asciidoctor-epub3:
 .PHONY: epub4a
@@ -63,6 +68,14 @@ epub4a: \
 	target/disionario_de_elefen_en_4_librones_d-l.adoc.epub \
 	target/disionario_de_elefen_en_4_librones_m-r.adoc.epub \
 	target/disionario_de_elefen_en_4_librones_s-z.adoc.epub
+
+# EPUB in 4 tomes, with dbtoepub:
+.PHONY: epub4d
+epub4d: \
+	target/disionario_de_elefen_en_4_librones_a-c.adoc.xml.dbtoepub.epub \
+	target/disionario_de_elefen_en_4_librones_d-l.adoc.xml.dbtoepub.epub \
+	target/disionario_de_elefen_en_4_librones_m-r.adoc.xml.dbtoepub.epub \
+	target/disionario_de_elefen_en_4_librones_s-z.adoc.xml.dbtoepub.epub
 
 # EPUB in 4 tomes, with pandoc:
 .PHONY: epub4p
@@ -93,6 +106,10 @@ c5: tmp/disionario_completa.c5
 
 .PHONY: dict
 dict: target/elefen.dict.dz
+
+# XXX TMP -- for debugging
+.PHONY: xml
+xml: tmp/disionario_completa.adoc.xml
 
 .PHONY: clean
 clean:
@@ -198,6 +215,10 @@ uninstall:
 tmp/%.adoc.xml: src/%.adoc
 	asciidoctor --backend=docbook5 --out-file=$@ $<
 
+# XXX TMP -- for debugging
+tmp/%.adoc.xml: tmp/%.adoc
+	asciidoctor --backend=docbook5 --out-file=$@ $<
+
 # ==============================================================
 # Make the EPUB
 
@@ -208,6 +229,14 @@ target/%.adoc.epub: src/%.adoc $(letter_files)
 	asciidoctor-epub3 --out-file=$@ $<
 
 # ----------------------------------------------
+# By dbtoepub, from DocBook
+
+target/%.adoc.xml.dbtoepub.epub: \
+	tmp/%.adoc.xml \
+	$(letter_files)
+	dbtoepub --output $@ $<
+
+# ----------------------------------------------
 # By pandoc, from DocBook
 
 target/%.adoc.xml.pandoc.epub: tmp/%.adoc.xml $(letter_files)
@@ -215,6 +244,7 @@ target/%.adoc.xml.pandoc.epub: tmp/%.adoc.xml $(letter_files)
 		--from=docbook \
 		--to=epub3 \
 		--template=src/pandoc_epub_template.txt \
+		--variable=lang:lfn \
 		--output=$@ $<
 
 # ----------------------------------------------
@@ -272,3 +302,5 @@ target/%.adoc.xml.xsltproc.epub: tmp/%.adoc.xml $(letter_files)
 #
 # 2019-01-29: Create a file from the Vim commands that tidy the Asciidoctor
 # document, in order to reuse it to tidy also the c5 file.
+#
+# 2019-02-03: Make an EPUB also with dbtoepub.
