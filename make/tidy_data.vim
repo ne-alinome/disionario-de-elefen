@@ -14,7 +14,7 @@
 " This program is written in Vim
 " (http://vim.org)
 
-" Last modified 201901290025
+" Last modified 201902031659
 " See change log at the end of the file
 
 " Tidy semicolons in curly brackets:
@@ -33,7 +33,10 @@
 
 " Remove notes that contain only the English translation
 " of the note, as an internal comment.
-%s@^\(NOTE:\|nb\) \/\/ .\+\n@@e
+%s@^NOTE: \/\/ .\+\n@@e
+
+" Remove notes' English translations:
+%s@^\(NOTE: \(.\{-}\)\) \/\/ .\+$@\1@e
 
 " Remove empty Asciidoctor note markups:
 %s@^NOTE:\n@@eg
@@ -51,3 +54,4 @@ quit
 " commands. Add a substitution to remove the notes not translated into Elefen
 " yet.
 "
+" 2019-02-03: Fix: Remove also the English translation of comments.
