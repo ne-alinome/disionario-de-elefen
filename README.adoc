@@ -10,8 +10,9 @@
 
 == Elefen
 
-Intende de esta projeta:: Fa un libro dijital en EPUB de la contenidas
-de http://elefen.org/disionario[Disionario de elefen].
+Intende de esta projeta:: Fa un libro dijital en EPUB e un disionario
+de formato DICT de la contenidas de
+http://elefen.org/disionario[Disionario de elefen].
 
 Autor:: Marcos Cruz (programandala.net), 2018, 2019
 
@@ -19,8 +20,9 @@ Loca ueb de la projeta:: http://ne.alinome.net
 
 == Esperanto
 
-Celo de ĉi projekto:: Krei  EPUBan bitlibron el la enhavo de
-http://elefen.org/disionario[Disionario de elefen] (elefena vortaro).
+Celo de ĉi projekto:: Krei  EPUB-an bitlibron kaj DICT-formatan
+vortaronel la enhavo de http://elefen.org/disionario[Disionario de
+elefen] (elefena vortaro).
 
 Aŭtoro:: Marcos Cruz (programandala.net), 2018, 2019
 
@@ -28,7 +30,8 @@ Retpaĝaro de la projekto:: http://ne.alinome.net
 
 == English
 
-Goal of this project:: Create an EPUB e-book from the contents of
+Goal of this project:: Create an EPUB e-book and a DICT format
+dictionary from the contents of
 http://elefen.org/disionario[Disionario de elefen] (Elefen
 Dictionary).
 
