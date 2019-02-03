@@ -16,8 +16,8 @@
 \ (http://gnu.org/software/gforth).
 \
 \ See also <http://forth-standard.org>.
-i
-\ Last modified 201901132100
+\
+\ Last modified 201902031432
 \ See change log at the end of the file
 
 \ ==============================================================
@@ -153,7 +153,7 @@ $variable zh-field
 
 : parse-line ( "ccc<eol>" -- ca line )
   0 parse ;
-  \ Parse the current line and retur it as string _ca len_
+  \ Parse the current line and return it as string _ca len_
 
 : datum: ( a "name" --- )
   create ,
@@ -538,5 +538,7 @@ variable described
 \
 \ 2019-01-13: Fix typo in comment. Make also a dict file. Shorten the
 \ name of this file accordingly. Add info header to the output.
+\
+\ 2019-02-03: Fix typo.
 
 \ vim: filetype=gforth
