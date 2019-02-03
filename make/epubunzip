@@ -1,0 +1,20 @@
+#!/bin/sh
+
+# epubunzip
+
+# A zip wrapper to uncompress an EPUB into a subdirectory.
+
+# By Marcos Cruz (programandala.net)
+
+# Usage:
+#   epubunzip path/to/book.epub
+# Result:
+#   path/to/book/
+
+# 2019-01-19; First version.
+
+book=$1
+name=$(basename $book .epub)
+dir=$(dirname $book)/$name
+mkdir --parents $dir
+unzip -q $book -d $dir

@@ -1,0 +1,21 @@
+#!/bin/sh
+
+# epubzip
+
+# A zip wrapper to compress an EPUB subdirectory.
+
+# By Marcos Cruz (programandala.net)
+
+# Usage:
+#   epubzip path/to/epub-contents-directory
+# Result:
+#   path/to/epub-contents-directory.epub
+
+# 2019-01-09: First version.
+# 2019-01-19: Make `cd` silent.
+
+target=$(basename $1).epub
+cd $1 > /dev/null
+zip -0 --quiet -X ../$target mimetype
+zip -9 --quiet --grow --recurse-paths ../$target * --exclude mimetype 
+cd - > /dev/null

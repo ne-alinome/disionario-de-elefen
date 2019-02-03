@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201902031448
+# Last modified 201902031710
 # See change log at the end of the file
 
 # ==============================================================
@@ -96,7 +96,7 @@ epub4x: \
 # XXX TMP -- for debugging
 .PHONY: test
 test: \
-	target/disionario_de_elefen_en_4_librones_a-c.adoc.xml.xsltproc.epub
+	target/disionario_de_elefen_en_4_librones_a-c.adoc.xml.pandoc.epub
 
 .PHONY: adoc
 adoc: tmp/disionario_completa.adoc
@@ -239,13 +239,22 @@ target/%.adoc.xml.dbtoepub.epub: \
 # ----------------------------------------------
 # By pandoc, from DocBook
 
-target/%.adoc.xml.pandoc.epub: tmp/%.adoc.xml $(letter_files)
+tmp/%.adoc.xml.pandoc.raw.epub: tmp/%.adoc.xml $(letter_files)
 	pandoc \
 		--from=docbook \
 		--to=epub3 \
 		--template=src/pandoc_epub_template.txt \
 		--variable=lang:lfn \
 		--output=$@ $<
+
+target/%.adoc.xml.pandoc.epub: tmp/%.adoc.xml.pandoc.raw.epub
+	make/epubunzip $< && \
+	vim -e \
+		-S make/convert_note_captions.vim \
+		$$(ls tmp/$$(basename $< .epub)/EPUB/text/*.xhtml) && \
+	mv tmp/$$(basename $< .epub) tmp/$$(basename $< .raw.epub) && \
+	make/epubzip tmp/$$(basename $< .raw.epub) && \
+	mv tmp/$$(basename $< .raw.epub).epub $@
 
 # ----------------------------------------------
 # By xsltproc, from DocBook
@@ -303,4 +312,5 @@ target/%.adoc.xml.xsltproc.epub: tmp/%.adoc.xml $(letter_files)
 # 2019-01-29: Create a file from the Vim commands that tidy the Asciidoctor
 # document, in order to reuse it to tidy also the c5 file.
 #
-# 2019-02-03: Make an EPUB also with dbtoepub.
+# 2019-02-03: Make an EPUB also with dbtoepub. Modify the EPUB created by
+# pandoc, in order to convert the note captions.
