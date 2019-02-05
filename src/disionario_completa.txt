@@ -29996,115 +29996,149 @@ contempora : nom
 .conteni : verbo transitiva util
   D ave o teni (un person o cosa) en se
   EN contain
+  HE להכיל
 
 contenador : nom
   EN container, holder, receptacle, caddy
+  HE מכל, מיכל, כלי קיבול
 
 contenador secinte : nom
   EN desiccator
+  HE דסיקטור, מתקן ייבוש
 
 contenida : nom
   EN content
+  HE תוכן
 
 contenidas : nom plural
   EN contents
+  HE תכולה
 
 conteninte : ajetivo
   EN containing; continent (medical)
+  HE מכיל; (רפואה) שולט בסוגרים
 
 nonconteninte : ajetivo
   EN incontinent
+  HE (רפואה) לא שולט בסוגרים
 
 noncontenintia : nom
   EN incontinence
+  HE אי שליטה בסוגרים
 
 .contente : ajetivo
   D en un state de pas e felisia; sasiada par sua nivel de fortuna o ateni, e no desirante plu
   EN glad, content, satisfied
+  HE מרוצה, שבע רצון, מסופק
 
 contentia : nom
   EN contentment
+  HE שביעות רצון, סיפוק
 
 noncontente : ajetivo
   EN discontented, discontent, malcontent
+  HE לא מרוצה, שאינו שבע רצון
 
 noncontente : nom
   EN malcontent
+  HE לא מרוצה, שאינו שבע רצון
 
 noncontentia : nom
   EN discontent
+  HE אי שביעות רצון, חוסר סיפוק
 
 .contesto : nom
   D la situa ambiente un testo, idea o aveni, par cual on pote plu bon comprende lo
   EN context
+  HE הקשר, קונטקסט
 
 .continente : nom tera
   D cada de la rejiones xef e continuante de tera (Africa, Antartica, Australia, Europa, America Norde e America Sude); un de la rejiones simil en edas distante; la tera continuante, contrastada con isolas
   EN continent, mainland
+  HE יבשת
 
 continental : ajetivo
   EN continental
+  HE יבשתי
 
 intercontinental : ajetivo tera
   EN intercontinental
+  HE בין-יבשתי
 
 sucontinente : nom
   EN subcontinent
+  HE תת-יבשת
 
 transcontinental : ajetivo
   EN transcontinental
+  HE טרנסקונטיננטלי, עבר-יבשתי, חוצה-יבשת
 
 .continua : verbo nontransitiva
   D (un ativia o prosede) no sesa o pausa; resta esistente o funsionante, o en un loca o state spesifada; no sesa viaja en la mesma dirije; estende plu en la mesma dirije
   U la labora continua
   EN continue
+  HE להמשיך
 
 continua : verbo transitiva
   U el continua labora; el continua la labora
   EN continue, perpetuate, carry on (doing), keep (doing), still be (doing)
+  HE להמשיך
 
 continua : nom
   EN continuity, continuum, continuation
+  HE המשכיות, רצף
 
 continuante : ajetivo
   EN continuing, continuous, continual, contiguous
+  HE מתמשך, המשכי, רצוף, רציף
 
 descontinua : verbo transitiva
   EN discontinue, phase out
+  HE להפסיק, לבטל (מוצר או שירות)
 
 descontinuada : ajetivo
   EN discontinued, defunct
+  HE (מוצר או שירות) הופסק, בוטל
 
 esta va continua : espresa
   EN to be continued
+  HE המשך יבוא
 
 .contorno : nom
   D un linia cual trasa la borda de la forma de alga cosa
   EN contour, outline
+  HE מתאר
 
 contorni : verbo nontransitiva
   EN be outlined, appear as an outline
+  HE להופיע כמתאר
 
 contorni : verbo transitiva
   EN outline
+  HE לצייר קו מתאר
 
 .contorse : verbo nontransitiva
   D torse a un forma min normal; (un person) serpe o convulsa con dole o plaser
   EN contort, squirm, writhe
+  HE להתעוות
 
 contorse : verbo transitiva
   D torse (un cosa) a un forma min normal; presenta falsa o malgidante la natur de (un person o aveni)
   EN contort, distort, warp; misrepresent
+  HE לעוות; לסלף
 
 contorse : nom
   EN contortion, distortion
+  HE עיוות; סילוף
 
 contorseda : ajetivo
   EN distorted, warped, crooked
+  HE מעוות; מסולף
 
 contorsor : nom
   I #
   EN contortionist
+  HE נער/ת גומי
 
 .contra : preposada
 (1)
@@ -30113,205 +30147,263 @@ contorsor : nom
   U batalia contra un enemi; tu ata contra mea desiras; secur contra acua
   EN against, versus, opposing, opposed to (something undesirable)
   EO kontraŭ
+  HE נגד
 
 (2)
   D suportada par o colpante (un surfas vertical)
   U la scala sta contra la mur; la bisicliste ia cade contra la serca
   EN against (a vertical surface)
   EO kontraŭ
+  HE כנגד
 
 contra- : prefisa tecnical
   D contra
   EN contra-
+  HE (קידומת טכנית) נגד
 
 contra ce : sujunta
   EN although, while (contrast), whilst, whereas, despite the fact that
+  HE למרות ש, אף-על-פי ש
 
 contra esta : averbo
   EN against this, however, nonetheless
+  HE למרות זאת, לעומת זאת, בכל זאת
 
 a contra : averbo
   EN by contrast
+  HE לעומת זאת, כנגד זה, בניגוד לכך
 
 .contrabanda : verbo transitiva governa
   D emporta o esporta nonlegal (benes o persones)
   EN smuggle
+  HE להבריח, להגניב
 
 contrabanda : nom
   EN smuggling; contraband
+  HE הברחה, הגנבה, סחר לא חוקי; סחורה מוברחת
 
 contrabanda umana : nom
   EN human trafficking
+  HE סחר בבני אדם
 
 contrabandor : nom
   EN smuggler, rumrunner
+  HE מבריח
 
 .contrabaso : nom musica
   D un strumento de cordetas, sonante a un otava plu basa ca la baso comun
   I #
   EN double bass
+  HE קונטרבס, כינור בס, בטנון
 
 .contracolpa : nom medica
   D un feri cual aveni a la lado oposada de la area cual ia es colpada, tipal de la serebro
   EN countercoup
+  HE פגיעה דו-צדדית (של הראש)
 
 .contraconsepi : verbo nontransitiva medica
   D preveni ensintia par metodos intendeda
   EN use contraception, use birth control
+  HE להשתמש באמצעי מניעה
 
 contraconsepi : nom medica
   EN contraception, birth control
+  HE מניעת הריון
 
 contraconsepi urjente : nom
   EN emergency contraception
+  HE מניעת הריון דחופה
 
 contraconsepinte : ajetivo
   EN contraceptive
+  HE מונע הריון
 
 contraconsepinte : nom
   EN contraceptive
+  HE אמצעי מניעה
 
 contraconsepinte intrauteral : nom
   I #
   EN intrauterine contraceptive device, IUD, coil
+  HE התקן תוך-רחמי
 
 .contracultur : nom
   D un modo de vive e colie de disposas oposante o diferente de la normas sosial comun
   EN counterculture
+  HE תרבות הנגד
 
 contracultural : ajetivo
   EN counterculture, countercultural
+  HE של תרבות הנגד
 
 .contrademostra : verbo transitiva filosofia
   D demostra ce (alga cosa) es falsa
   EN disprove
+  HE להפריך, להזם
 
 contrademostra : nom
   EN disproof
+  HE הפרכה, הזמה
 
 .contradise : verbo transitiva filosofia
   D nega la veria de (un declara), spesial par mostra la oposada
   EN contradict
+  HE לסתור
 
 contradise : nom
   EN contradiction
+  HE סתירה
 
 autocontradise : verbo transitiva
   EN contradict oneself
+  HE לסתור את עצמו
 
 autocontradisente : ajetivo
   EN self-contradictory
+  HE סתירה עצמית
 
 contradisente : ajetivo
   EN contradictory
+  HE סותר
 
 contradise se : verbo transitiva
   EN contradict oneself
+  HE לסתור את עצמו
 
 .contrae : verbo nontransitiva biolojia
-  D deveni plu peti en grandia, cuantia o estende; (un musculo) deveni plu corta o tensada per causa un move de un parte de la corpo
+  D deveni plu peti en grandia, cuantia o estende; (un musculo) deveni plu corta o tensada per causa de un move de un parte de la corpo
   EN contract (shrink)
+  HE להתכווץ
 
 contrae : nom
   D un corti de un musculo, tipal subita e nonintendeda
   EN contraction, spasm
+  HE התכווצות, כיווץ; עווית
 
 .contrafatal : ajetivo filosofia
   D pertinente a, o espresante, lo cual no ia aveni o no es vera
   EN counterfactual
+  HE מנוגד לעובדות
 
 .contraforte : nom arciteta
   D un strutur de petra o brice, construida contra un mur per forti o suporta lo
   I #
   EN buttress
+  HE (אדריכלות) משענה
 
 .contraindica : verbo transitiva medica
   D sujesta o indica ce (un tecnica o medisin spesifada) no debe es usada en la caso spesifada
   EN contraindicate
+  HE (רפואה) לתת הוראה נגדית
 
 contraindica : nom
   EN contraindication
+  HE (רפואה) הוראה נגדית
 
 .contrainteroga : verbo transitiva governa
   D fa demandas a (un atestor per la partito oposada) en un corte de lege, per proba o estende atestas ja donada
   EN cross-examine
+  HE לחקור חקירה נגדית
 
 contrainteroga : nom
   EN cross-examination
+  HE חקירה נגדית
 
 .contralto : ajetivo musica
   D (un vose cantante de fem) la plu basa
   EN contralto (music)
+  HE (מוזיקה) קונטרה אלט, קונטרלטו
 
 contralto : nom
   EN contralto (music)
+  HE (מוזיקה) קונטרה אלט, קונטרלטו
 
 .contraprodui : verbo transitiva
   D produi la reversa de la efeto desirada
   EN be counterproductive, backfire
+  HE להביא לתוצאה הפוכה
 
 contraproduinte : ajetivo
   EN counterproductive
+  HE (תוצאה, אפקט) הפוך מהרצוי
 
 .contrapunto : nom musica
   D la arte o tecnica de composa o presenta un melodia juntada con un otra; un disputa, idea o tema usada per crea un contrasta con la elemento xef
   EN counterpoint
+  HE (מוזיקה) קונטרפונקט; טענה נגדית
 
 contrapuntal : ajetivo
   EN contrapuntal
+  HE (מוזיקה) שנמצא בקונטרפונקט
 
 .contrareata : verbo nontransitiva
   D (un cuantia grande de persones) reata negativa a un cambia political o sosial
   EN react against, backlash
+  HE להגיב נגד, לצאת נגד
 
 contrareata : nom
   EN backlash
+  HE תגובת נגד
 
 .contrarebela : verbo nontransitiva
   D ata militar o political contra la atas de gerilias o revoluistes
   EN perform counterinsurgency
+  HE להילחם בהתקוממות
 
 contrarebela : nom
   EN counterinsurgency
+  HE לחימה נגד התקוממות
 
 contrarebelor : nom
   EN counterinsurgent
+  HE (חייל) לוחם נגד התקוממות
 
 .contraspia : verbo transitiva
   D ata per impedi o preveni spia par un enemi
   EN perform counterespionage
+  HE לסכל ריגול
 
 contraspia : nom
   EN counterespionage
+  HE סיכול ריגול, ריגול נגדי
 
 .contrasta : verbo nontransitiva
   D difere clar o forte
   EN contrast
+  HE לעמוד בניגוד
 
 contrasta : nom
   EN contrast
+  HE ניגוד, ניגודיות
 
 contrastada : ajetivo
   EN contrasted
+  HE עומד בניגוד
 
 contrastada con : preposada
   EN contrasted with, in contrast to, as opposed to
+  HE בניגוד ל, לעומת
 
 en contrasta con : preposada
   EN contrasted with, in contrast to, as opposed to
+  HE בניגוד ל, לעומת
 
 par contrasta : averbo
   EN by contrast, however, nevertheless, nonetheless
+  HE לעומת זאת, כנגד זה, בניגוד לכך
 
 .contrata : verbo nontransitiva governa
   D acorda en modo formal e legal obligante
   EN (enter into) contract
+  HE לחתום על חוזה
 
 contrata : verbo transitiva
   EN contract (someone to do something)
+  HE להחתים על חוזה
 
 contrata : nom
   EN contract, legal document; covenant
+  HE חוזה
 
 contrata de asecura : nom
   EN insurance policy
@@ -30319,51 +30411,65 @@ contrata de asecura : nom
 
 contrata de lua : nom
   EN lease
+  HE חוזה שכירות
 
 contrata de paia : nom
   EN payment schedule
+  HE הסדר תשלומים
 
 contratal : ajetivo
   EN contractual
+  HE חוזי
 
 contrator : nom
   EN contractor
+  HE קבלן
 
 sucontrata : verbo transitiva
   EN subcontract
+  HE להעביר לקבלן משנה
 
 sucontrator : nom
   EN subcontractor
+  HE קבלן משנה
 
 .contraterorisme : nom governa
   D ativias political o militar desiniada per preveni o oposa terorisme
   EN counterterrorism
+  HE לוחמה בטרור
 
 contrateroriste : ajetivo
   EN counterterrorist
+  HE לוחם בטרור
 
 contrateroriste : nom
   EN counterterrorist
+  HE לוחם בטרור
 
 .contrautopia : nom siensa-umana
   D un loca o state imajinada en cual tota es nonplasente o mal, tipal autocrata o con un ecolojia degradada
   P contraütopia
   EN dystopia
+  HE דיסטופיה
 
 contrautopial : ajetivo
   P contraütopial
   EN dystopian, Orwellian
+  HE דיסטופי
 
 .contravenena : nom medica
   D un medisin cual reversa la efetos de un venena spesifada
   EN antidote
+  HE סותרן (תרופה)
 
 .contri : ajetivo musica
   D un spesie de musica popular, orijinante en la campania sude de la SUA
   EN country (music)
+  HE (מוזיקה) קאנטרי
 
 contri : nom
   EN country (music)
+  HE (מוזיקה) קאנטרי
 
 .contribui : verbo transitiva mone
   D dona (alga cosa, tipal mone) per aida ateni o furni alga cosa
@@ -57789,7 +57895,7 @@ jeneticiste : nom
 
 .jenita : verbo transitiva biolojia
   D fa ce un enfante es consepida e naseda, par reprodui
-  EN beget
+  EN beget, father
   FR engendrer
 
 jenital : ajetivo
@@ -90893,6 +90999,12 @@ revolta : nom
 
 revolui : nom
   EN revolution (overthrow of government), insurgence
+
+posrevolual : ajetivo
+  EN post-revolutionary
+
+prerevolual : ajetivo
+  EN pre-revolutionary
 
 revoluinte : ajetivo
   EN revolutionary, radical
