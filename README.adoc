@@ -1,6 +1,6 @@
 = Disionario de elefen
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-02-03
+:revdate: 2019-02-06
 
 // This file is part of the project
 // "Disionario de elefen"
@@ -21,7 +21,7 @@ Loca ueb de la projeta:: http://ne.alinome.net
 == Esperanto
 
 Celo de ĉi projekto:: Krei  EPUB-an bitlibron kaj DICT-formatan
-vortaronel la enhavo de http://elefen.org/disionario[Disionario de
+vortaron el la enhavo de http://elefen.org/disionario[Disionario de
 elefen] (elefena vortaro).
 
 Aŭtoro:: Marcos Cruz (programandala.net), 2018, 2019

@@ -1,6 +1,6 @@
 = TO-DO of _Disionario de elefen_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-02-03
+:revdate: 2019-02-07
 
 // This file is part of the project
 // "Disionario de elefen"
@@ -49,3 +49,14 @@ omit ru
   to the headings.
 - Fix: Convert note captions also in EPUB made by dbtoepub and
   xsltproc.
+
+== 2019-02-07
+
+Fix. This note keeps its English translation:
+
+____
+nb No confusa `per` e `par`. `Per` introdui un intende; `par` introdui
+un causa. // Both `per` and `par` can introduce reasons: `per` indicates
+an intention; `par` indicates a cause.
+
+____
