@@ -11237,6 +11237,10 @@ atmosferal : ajetivo
   EN atmospheric
   HE אטמוספירי
 
+.ato- : prefisa tecnical
+  D {10^-18}
+  EN atto-
+
 .-ato : sufisa nom cimica
   D un sal de un asida de cual sua nom fini con `-ica`
   EN -ate (chemistry)
@@ -30474,285 +30478,369 @@ contri : nom
 .contribui : verbo transitiva mone
   D dona (alga cosa, tipal mone) per aida ateni o furni alga cosa
   EN contribute
+  HE לתרום
 
 contribui : nom
   EN contribution; allowance, stipend
+  HE תרומה; קצבה, הקצבה
 
 contribuor : nom
   EN contributor; taxpayer
+  HE תורם
 
 .controla : verbo transitiva
   D limita la nivel, intensia o cuantia de; maneja o supravide la condui o funsiona de; manteni influe o autoria supra
   EN control
+  HE לשלוט; לרסן
 
 controla : nom
   EN control, thrall
+  HE שליטה; ריסון
 
 controla de trafica airal : nom
   EN air traffic control
+  HE פיקוח טיסה
 
 controlable : ajetivo
   EN controllable
+  HE בר-שליטה
 
 controlada : ajetivo
   EN controlled
+  HE נשלט, מבוקר, מפוקח
 
 controlador : nom
   EN controller, driver (software)
+  HE (מחשבים) בקר, פקד; מנהל התקן
 
 controlador de aparato : nom
   EN device driver
+  HE מנהל התקן
 
 controlador de primador : nom
   EN printer driver
+  HE מנהל התקן למדפסת
 
 controlante : ajetivo
   EN controlling, in charge
+  HE שולט, קובע
 
 controleria : nom
   EN control room
+  HE חדר שליטה
 
 controlor : nom
   EN controller (person)
+  HE מבקר, מפקח, אחראי
 
 noncontrolable : ajetivo
   EN uncontrollable, intractable; berserk, haywire, runaway, out of control
+  HE בלתי נשלט
 
 noncontrolada : ajetivo
   EN uncontrolled
+  HE לא בפיקוח, לא מבוקר
 
 su controla de : preposada
   EN under the control of, subject to
+  HE תחת השליטה של
 
 .controlamanica : ajetivo siensa-umana
   D un person ci senti un nesesa osesente de controla se e otras en cada situa
   EN control freak
+  HE חולה שליטה
 
 controlamanica : nom
   EN control freak
+  HE חולה שליטה
 
 .controversa : ajetivo
   D causante, o probable causante, nonacorda publica o disputas ardente
   EN controversial, contentious
+  HE שנוי במחלוקת
 
 controversa : nom
   EN controversy (something controversial)
+  HE (עניין, נושא ב) מחלוקת
 
 controversia : nom
   EN controversy (quality)
+  HE מחלוקת
 
 .contusa : verbo nontransitiva medica
   D un feri cual malcolori un area de pel, causada par un colpa
   I #
   EN bruise
+  HE להיחבל
 
 contusa : nom
   EN bruise, contusion
+  HE חבורה, חבלה, מכה
 
 contusa serebral : nom
   EN concussion
+  HE זעזוע מוח
 
 .conveni : verbo nontransitiva
   D es asetable per un person, situa o intende spesifada; (un aparato) funsiona armoniosa con un otra
   EN suit, be suitable, be appropriate; be compatible
+  HE להתאים, להלום
 
 conveni : nom
   EN suitability, appropriateness; compatibility
+  HE התאמה, תאימות, הלימה
 
 conveninte : ajetivo
   EN suitable, suited, proper, fit, appropriate, commensurate, expedient; compatible
+  HE מתאים, תואם, הולם; ראוי, נאות, יאה
 
 conveninte : averbo
   EN suitably, appropriately, duly
+  HE בצורה הולמת, בצורה נאותה, כראוי, כהלכה, כשורה, כיאה
 
 conveninte per primi : ajetivo
   EN suitable for printing, printer-friendly
+  HE גרסה להדפסה
 
 nonconveni : nom
   EN unsuitability; incompatibility
+  HE אי-התאמה, אי-תאימות
 
 nonconveninte : ajetivo
   EN unsuitable, unsuited, incongruous, incompatible; inappropriate, tasteless, unbecoming, unbefitting, unfit, unseemly
+  HE לא מתאים, לא תואם; לא הולם, לא ראוי, לא יאה, חסר טעם
 
 .converje : verbo nontransitiva
   D (persones o cosas) veni de dirijes diferente e reuni ultima
   EN converge
+  HE להתכנס
 
 converje : nom
   EN converging, convergence
+  HE התכנסות
 
 converjente : ajetivo
   EN converging, convergent
+  HE מתכנס
 
 .conversa : verbo nontransitiva
   D parla casual
   EN converse
+  HE לשוחח
 
 conversa : nom
   EN conversation, dialog|ue
+  HE שיחה, דו-שיח
 
 conversa intima : nom
   EN pillow talk
+  HE שיחה אינטימית
 
 conversa privata : nom
   EN private conversation, tête-à-tête
+  HE שיחה פרטית
 
 conversa replicosa : nom
   EN witty conversation, repartee, badinage
+  HE דו-שיח שנון
 
 conversal : ajetivo
   EN conversational, colloquial, casual
+  HE שיחתי, דיבורי
 
 conversor : nom
   D un person ci conversa, o con ci on conversa
   EN converser, interlocutor
   EO konversacianto, kunparolanto
+  HE בן-שיח
 
 .converti : verbo nontransitiva
   D cambia de un forma o funsiona a un otra; cambia sua relijio o credes
   EN convert
+  HE לעבור המרה
 
 converti : verbo transitiva
   EN convert
+  HE להמיר
 
 converti : nom
   EN conversion
+  HE המרה
 
 convertable : ajetivo
   I #
   EN convertible
+  HE בר-המרה
 
 convertida : nom
   EN convert
+  HE מומר
 
 reconverti : verbo transitiva
   EN reconvert, convert back
+  HE להמיר בחזרה
 
 .convesa : ajetivo matematica
   D con un surfas o contorno cual curvi a estra, como la esterna de un sfera o sirculo
   EN convex
+  HE קמור
 
 .conveta : verbo nontransitiva fisica
   D (caldia) move par causa de la tende levante de materia calda e la tende basinte de materia fria
   EN convect
+  HE לעבור קונווקציה
 
 conveta : nom
   EN convection
+  HE הסעה, קונווקציה
 
 convetante : ajetivo
   EN convective
+  HE קונווקטי
 
 .convinse : verbo transitiva
   D fa ce (algun) crede o fa alga cosa, par razona e discute
   EN convince, persuade, cajole, disabuse, sway
+  HE לשכנע
 
 convinse : nom
   EN convincing, persuading, persuasion
+  HE שכנוע
 
 convinsente : ajetivo
   EN convincing, compelling, persuasive, plausible
+  HE משכנע
 
 desconvinse : verbo transitiva
   EN dissuade
+  HE להניא
 
 nonconvinsable : ajetivo
   EN unpersuadable, intransigent
+  HE בלתי ניתן לשכנוע
 
 nonconvinseda : ajetivo
   EN unconvinced, unswayed
+  HE לא משוכנע
 
 nonconvinsente : ajetivo
   EN unconvincing, farfetched, implausible
+  HE לא משכנע, לא סביר
 
 .convoia : nom veculo
   D un grupo de barcones o otra veculos viajante en junta, comun con proteje militar
   EN convoy
+  HE שיירה
 
 convoia de autos : nom
   EN motorcade
+  HE שיירת כלי-רכב
 
 convoia de furnis : nom
   EN supply convoy
+  HE שיירת אספקה
 
 .convulsa : verbo nontransitiva medica
   D sufri contraes violente e nonintendeda de la musculos, contorsente la corpo o sua membros
   EN convulse, spasm
+  HE לפרכס
 
 convulsa : nom
   EN convulsion, spasm
+  HE פרכוס
 
 anticonvulsante : nom medica
   D un medisin per preveni o redui convulsas
   EN anticonvulsant
+  HE (סם) מונע פרכוסים
 
 convulsante : ajetivo
   EN convulsive, jerky
+  HE עוויתי; מטלטל
 
 .Cook, Isolas : nom plural jeografial
   C Avarua
   D un grupo de 15 isolas en la Mar Pasifica, forminte un teritorio autonom en asosia libre con Zeland Nova
   I isolas-cook
   EN Cook Islands
+  HE איי קוק
 
 .coopera : verbo nontransitiva
   D (persones o organizas) ata o labora en junta, en dirije a la mesma gol
   EN cooperate, liaise
+  HE לשתף פעולה
 
 coopera : nom
   EN cooperation, teamwork
+  HE שיתוף פעולה, עבודת צוות
 
 cooperante : ajetivo
   EN cooperating, cooperative
+  HE משתף פעולה
 
 .coordina : verbo transitiva
   D maneja la elementos diversa de (un cosa complicada) per crea un armonia produosa entre los; (un conjunta) junta parolas, espresas o frases cual ave la mesma importa como lunlotra
   EN coordinate
+  HE לתאם
 
 coordina : nom
   EN coordination
+  HE תיאום
 
 coordinada : nom
   D (en matematica) cada de un grupo de numeros usada per indica la loca de un punto, linia, o plana
   EN coordinate
+  HE קואורדינטה
 
 coordinada cartesian : nom
   EN Cartesian coordinate
+  HE קואורדינטה קרטזית
 
 coordinada x : nom
   EN x-coordinate
+  HE קואורדינטה x
 
 coordinada y : nom
   EN y-coordinate
+  HE קואורדינטה y
 
 .copa : nom cosini util
   D un contenador peti per bevi, tipal sin manicos; un contenador silindre de vitro per usa en un laboreria siensal
   I #
   EN cup (without handles), goblet, beaker
+  HE גביע
 
 copa de forno : nom
   EN ramekin, ramequin
+  HE (בישול) רמקין
 
 copa de portaseno : nom
   EN bra cup
+  HE גביע חזייה, קאפ
 
 Copa : nom astronomia
   D un constela peti en la sielo sude
   EN Crater (constellation)
+  HE גביע (קבוצת כוכבים)
 
 copi : verbo transitiva
   EN cup, scoop, bail
+  HE לדלות
 
 copin : ajetivo
   EN cuplike, cupped, cup-shaped
+  HE דמוי-גביע
 
 .copec : nom mone
   D un unia de mone de Rusia e alga otra nasiones de la Uni Soviet pasada, egal a un senti de un rublo
   EN kopek (currency)
+  HE קופייקה (מטבע)
 
 .copernisio : nom cimica
   D la elemento cimical con numero atomal 112
   S Cn
   EN copernicium (element)
+  HE קופרניקיום (יסוד)
 
 .copia : verbo transitiva
   D crea o fabrica un varia la mesma como, o simil a, (un orijinal)
@@ -34772,6 +34860,9 @@ dageta : nom util
   D un ago spesa e nonagu, con buco grande, usada per tira un banda o cordeta tra un orlo
   EN bodkin (needle)
   ES punzón
+
+dagi : verbo transitiva
+  EN stab
 
 .dagara : ajetivo demonim
   D pertinente a un popla de Gana e Burcina Faso o a sua lingua
@@ -40464,13 +40555,16 @@ elefeniste : nom
 
 .eleje : verbo transitiva governa
   D deside ci o cual de du o plu alternativas es la plu bon o la plu conveninte
-  EN choose, select, pick, elect, opt
+  EN choose, select, pick, elect, opt; sample
 
 eleje : nom
   EN choice, election, selection
 
+eleje acaso : nom
+  EN random sampling
+
 eleje partisipa : verbo
-  EN opt in
+  EN opt in, join in
 
 eleje natural : nom
   EN natural selection
@@ -45010,6 +45104,10 @@ evoluisme : nom
 evoluiste : nom
   EN evolutionist
 
+.exa- : prefisa tecnical
+  D {10^18}
+  EN exa-
+
 .exadesimal : ajetivo informatica
   D pertinente a un sistem de aritmetica fundida sur la numero des-ses
   EN hexadecimal
@@ -46353,6 +46451,10 @@ femi : nom
 
 femoral : ajetivo
   EN femoral
+
+.femto- : prefisa tecnical
+  D {10^-15}
+  EN femto-
 
 .fende : verbo nontransitiva
   D divide fortiosa (alga cosa) a du partes
@@ -48521,6 +48623,12 @@ sin forma : ajetivo
   D fada seguente la regulas de tradision o cortesia
   EN formal, by the book, pro forma; solemn, prim; smart, dressy
 
+formali : verbo nontransitiva
+  EN become formal, become formalized|is
+
+formali : verbo transitiva
+  EN formalize|is
+
 formalia : nom
   EN formality
 
@@ -49821,7 +49929,7 @@ funsiona ondal : nom
   EN wave function
 
 funsional : ajetivo
-  EN functional (of a function)
+  EN functional (of a function), operational
 
 funsionalisme : nom
   EN functionalism
@@ -51320,6 +51428,9 @@ indise glisemial : nom
   D un representa sfera de la Tera, Luna o constelas; cualce ojeto aprosima sfera
   I #
   EN globe
+
+globo con crus : nom
+  EN orb, orb and cross, globus cruciger
 
 globo de oio : nom
   EN eyeball
@@ -56332,6 +56443,10 @@ invitante : ajetivo
 noninvitante : ajetivo
   EN uninviting, unappetizing|is
 
+.iocto- : prefisa tecnical
+  D {10^-24}
+  EN yocto-
+
 .iodle : verbo transitiva
   D canta (alga cosa), rapida alternante entre vose normal e falseto
   EN yodel
@@ -56452,6 +56567,10 @@ ioruba : nom
   P yota
   S Ι ι
   EN iota (Greek letter)
+
+.iota- : prefisa tecnical
+  D {10^24}
+  EN yotta-
 
 .Iowa : nom jeografial
   D un stato en la SUA sentral
@@ -66585,7 +66704,7 @@ meteorolojiste : nom
 
 .metodo : nom filosofia relijio
   D un modo spesifada per fa alga cosa, tipal sistemosa o bon fundida
-  EN method, manner, way, technique, means
+  EN method, manner, way, technique, means, approach
 
 metodisme : nom
   EN Methodism (Christianity)
@@ -71338,7 +71457,7 @@ nictofilica : nom
 .nido : nom biolojia
   D un strutur o loca creada o elejeda par un avia per pone ovos e proteje enfantes; cualce loca usada par un animal o person per proteje o securia
   I #
-  EN nest, roost, aerie|eyrie; hive; den, lair, burrow; hideaway, hideout, retreat
+  EN nest, roost, aerie|eyrie; hive; den, lair, burrow; hideaway, hideout, retreat, home
   FR nid
 
 nido de abeas : nom
@@ -73694,6 +73813,13 @@ omosesal : nom
 
 omosesalia : nom
   EN homosexuality
+
+.omotopia : nom matematica
+  D la relata entre du funsionas continuante cual on pote desformi la un a la otra
+  EN homotopy
+
+omotopial : ajetivo
+  EN homotopic
 
 .on : pronom
   D un person imajinal ci representa cualce person o persones jeneral
@@ -80035,6 +80161,10 @@ peta : nom
 
 peta de labios : nom
   EN raspberry, razz, Bronx cheer
+
+.peta- : prefisa tecnical
+  D {10^15}
+  EN peta-
 
 .petal : nom biolojia
   D cada de la sesiones de la corola de un flor, cual es folias alterada e tipal colorida
@@ -89251,7 +89381,7 @@ rege : nom
 
 .regla : nom util
   D un peso reta de plastica, metal o lenio, marcada a intervales periodal, per desinia linias reta o mesura distantias
-  EN ruler, yardstick
+  EN ruler, yardstick; straightedge
 
 regla de calcula : nom
   I #
@@ -93749,6 +93879,9 @@ samoan : nom demonim
 sample : nom
   EN sample
 
+sample acaso : nom
+  EN random sample
+
 sample tipal : nom
   EN cross-section (statistics)
 
@@ -97001,7 +97134,7 @@ senta : verbo transitiva
   EO sidigi
 
 senta se : verbo
-  EN sit down
+  EN sit down; settle in
   EO sidiĝi
 
 resenta : verbo transitiva
@@ -114680,6 +114813,9 @@ supravalua : verbo transitiva
 suvalua : verbo transitiva
   EN underappreciate, underrate, undervalue
 
+ultra valua : ajetivo
+  EN beyond value, invaluable, priceless
+
 valuada : ajetivo
   EN worthy, valued, valuable, meritorious, fine
 
@@ -120031,6 +120167,10 @@ zeniste : nom
   EO zenito, pinto
   FR zénith, apogée, sommet
 
+.zepto- : prefisa tecnical
+  D {10^-21}
+  EN zepto-
+
 .zero : determinante matematica
   D an no un; la manca de
   U la acua jela a temperatur de zero grados
@@ -120070,6 +120210,10 @@ zero : pronom
   EN zeta (Greek letter)
   EO zeta
   FR zêta
+
+.zeta- : prefisa tecnical
+  D {10^21}
+  EN zeta-
 
 .Zeus : nom mitolojia
   D la dio suprema en la relijio de Elas antica
