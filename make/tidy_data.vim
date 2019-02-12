@@ -14,7 +14,7 @@
 " This program is written in Vim
 " (http://vim.org)
 
-" Last modified 201902031659
+" Last modified 201902122345
 " See change log at the end of the file
 
 " Tidy semicolons in curly brackets:
@@ -33,13 +33,13 @@
 
 " Remove notes that contain only the English translation
 " of the note, as an internal comment.
-%s@^NOTE: \/\/ .\+\n@@e
+%s@^\(NOTE:\|nb\) \/\/ .\+\n@@e
 
 " Remove notes' English translations:
-%s@^\(NOTE: \(.\{-}\)\) \/\/ .\+$@\1@e
+%s@^\(\(NOTE:\|nb\) \(.\{-}\)\) \/\/ .\+$@\1@e
 
-" Remove empty Asciidoctor note markups:
-%s@^NOTE:\n@@eg
+" Remove empty note markups:
+%s@^\(NOTE:\|nb\)\n@@eg
 
 " Remove remaining curly brackets, leaving their contents:
 %s@{\(\S.\{-}\)}@\1@eg
@@ -55,3 +55,6 @@ quit
 " yet.
 "
 " 2019-02-03: Fix: Remove also the English translation of comments.
+"
+" 2019-02-12: Fix: Tidy also notes in "nb" notation, which used for the DICT
+" format.
