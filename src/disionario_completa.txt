@@ -30845,502 +30845,643 @@ copin : ajetivo
 .copia : verbo transitiva
   D crea o fabrica un varia la mesma como, o simil a, (un orijinal)
   EN copy, replicate, transfer
+  HE להעתיק, לשכפל, לשעתק
 
 copia : nom
   EN copy, replica
+  HE העתקה, שכפול, שעתוק; עותק, העתק
 
 copia de securia : nom
   EN backup copy
+  HE גיבוי
 
 copia e coli : verbo
   EN copy and paste, cut and paste
+  HE להעתיק ולהדביק
 
 copia e coli : nom
   EN copy and paste, cut and paste
+  HE העתק הדבק
 
 copia esata : verbo
   EN replicate
+  HE לשכפל, להעתיק במדויק
 
 copia esata : nom
   EN replication
+  HE שכפול, העתק מדויק
 
 copia per securia : verbo
   EN back up, make a backup copy of
+  HE לגבות
 
 autocopia : verbo transitiva
   EN self-replicate, autoreplicate
+  HE לשכפל את עצמו
 
 autocopia : nom
   EN self-replication
+  HE שכפול עצמי
 
 autocopiante : ajetivo
   EN self-replicating, autoreplicating
+  HE משתכפל בעצמו
 
 copiador : nom
   EN copier
+  HE מכונת צילום
 
 copior : nom
   EN copier, copyist
+  HE מעתיק
 
 .copilote : nom veculo
   D la pilote du en un avion o otra veculo
   EN copilot
   FR copilote
+  HE טייס משנה
 
 .coprolito : nom
   D un fece petrida
   EN coprolith, coprolite
+  HE צואה מאובנת
 
 .copta : ajetivo relijio demonim
   D pertinente a un seta de cristianisme en Misre, a sua membros, o a sua lingua, la sola desendente de egiptian antica
   EN Coptic (Christianity)
   ES copto
+  HE קופטי
 
 copta : nom
   EN Copt
   ES copto
+  HE קופטי
 
 .copula : verbo nontransitiva biolojia
   D (du persones) contata sesal, incluinte la penetra de la vajina par la penis; (du animales mas e fema) contata sesal en modo simil
   EN copulate, mate, have sex
+  HE להזדווג, להתעלס, לקיים יחסי-מין, לתנות אהבים
 
 copula : nom
   EN copulation, coitus, mating, lovemaking, sex
+  HE הזדווגות, התעלסות, קיום יחסי-מין, תינוי אהבים
 
 poscopulal : ajetivo
   EN postcoital
+  HE שלאחר הסקס
 
 precopula : verbo nontransitiva
   EN foreplay
+  HE להתמזמז
 
 precopula : nom
   EN foreplay
+  HE משחק מקדים, מזמוז
 
 precopulal : ajetivo
   EN precoital
+  HE שלפני הסקס
 
 .cor : nom anatomia
   D la organo cual pompi sangue tra la sistem de sirculo; la parte sentral o la plu interna de alga cosa; la parte esensal de alga cosa; la parte interna de un noza o seme, plu mol e tipal comable; un de la cuatro familias de cartas de jua, representada par un imaje tradisional de un cor
   I #
   S ♥
   EN heart (including cards), core, kernel; crux
+  HE לב; ליבה
 
 cor de pais : nom
   EN heartland
+  HE ארץ ליבה
 
 corin : ajetivo
   EN heartlike, heart-shaped, cordate
+  HE דמוי לב
 
 descorador : nom
   EN decorer, corer
+  HE מוציא ליבה (של פירות או ירקות)
 
 descori : verbo transitiva
   EN decore, core
+  HE להוציא ליבה (של פירות או ירקות)
 
 sin cor : ajetivo
   EN heartless
+  HE חסר לב
 
 .coracoide : nom anatomia
   D un parte de la spala de multe vertebratos (estra la plu de mamales)
   EN coracoid
+  HE (אנטומיה) קורקואיד
 
 .coraje : nom siensa-umana
   D la capasia de fa alga cosa cual on teme; fortia cuando on sufri dole o lamenta
   EN courage, bravery, valor|ur, nerve
+  HE אומץ, גבורה, נועזות
 
 corajosa : ajetivo
   EN brave, courageous, valorous, valiant, bold, plucky, feisty, gutsy, stout-hearted
+  HE אמיץ, נועז
 
 noncorajosa : ajetivo
   EN faint-hearted, timid
+  HE רך לבב, פחדני, חלש אופי
 
 sin coraje : ajetivo
   EN cowardly, gutless, spineless
+  HE פחדני, חסר עמוד-שדרה
 
 .coraji : verbo transitiva
   D dona suporta, autofida o espera a (algun), tipal per comensa o continua fa alga cosa difisil
   EN encourage, urge, exhort, embolden, foster, hearten
+  HE לעודד
 
 coraji : nom
   EN encouragement, exhortation
+  HE עידוד
 
 corajinte : ajetivo
   EN hortative, exhortative, exhortatory
+  HE מעודד
 
 descoraji : verbo transitiva
   EN discourage, demoralize|is, dishearten, unnerve
+  HE לערער (את הביטחון), לייאש, לרפות את ידיו (של מישהו)
 
 descoraji : nom
   EN discouragement, despondency
+  HE ערעור (ביטחון); ייאוש, ריפיון ידיים, דכדוך
 
 descorajida : ajetivo
   EN discouraged, dejected, demoralized|is, disheartened, despondent, heartsick
+  HE מיואש, מדוכדך
 
 .coral : nom biolojia
   D la materia dur secreteda par alga cnidarios de mar como un sceleto esterna, tipal forminte resifes grande en mares calda; un de la cnidarios fisada cual produi esta
   I #
   EN coral
+  HE אלמוג
 
 Mar Coral : nom jeografial
   D un mar entre Australia norde-este e Papua Gine Nova
   I #
   EN Coral Sea
+  HE ים האלמוגים
 
 .corasa : nom util
   D (istorial) un armur composada de du platas, un per la peto e un per la dorso, liada con lunlotra; (en medica) un ventador cual enclui la corpo ma permete ce la membros es libre, e cual forsa aira a en e a estra la pulmones par cambias de presa
   I #
   EN cuirass
+  HE קיראס, שריון חזה
 
 corasida : nom
   I #
   EN battleship, dreadnought (warship)
+  HE ספינת קרב, אונית מערכה
 
 .Corcovado : nom jeografial
   EN Corcovado
+  HE קורקובדו
 
 Golfo Corcovado : nom jeografial
   D un golfo a ueste de Los Lagos, Txile
   I #
   EN Corcovado Gulf
+  HE מפרץ קורקובדו
 
 .corda : nom util
   D un peso longa de un materia fabricada par torse colies de fibres; (en matematica) un linia reta cual lia du finis de un arco
   EN cord, rope, lanyard; chord (geometry)
+  HE חבל, מיתר, כבל
 
 corda de abri : nom
   EN ripcord
+  HE חבל התרה
 
 corda de campana : nom
   EN bell pull, bell rope
+  HE חוט צלצול
 
 corda de salva : nom
   EN lifeline
+  HE חבל הצלה
 
 corda de vestes : nom
   EN clothesline
+  HE חבל כביסה
 
 corda elastica : nom
   EN elastic cord, bungee, bungee rope
+  HE חבל אלסטי
 
 corda ombilical : nom
   EN umbilical cord
+  HE חבל הטבור
 
 corda tensada : nom
   EN tightrope
+  HE חבל מתוח
 
 corda vosal : nom
   EN vocal cord
+  HE מיתר קול
 
 cordeta : nom
   EN string, twine; shoelace, shoestring, bootlace; thin strap
+  HE חוט; שרוך
 
 cordeta fronsinte : nom
   EN drawstring
+  HE שרוך קשירה
 
 cordetin : ajetivo
   EN stringy
+  HE חוטי, סיבי
 
 cordi : verbo transitiva
   EN cordon
+  HE לתחום, לבודד (בחבל)
 
 cordi : nom
   EN cordon
+  HE תיחום, בידוד (בחבל)
 
 cordon : nom
   D un corda spesa de filos o otra fibres, tipal usada per construi, securi barcos, tira veculos, etc
   EN thick rope, cable, hawser
+  HE חבל עבה, חבל משיכה
 
 sin corda : ajetivo
   EN cordless
+  HE אלחוטי
 
 .cordato : nom biolojia
   D un membro de un filo de animales cual ave un notocorda, ranures farinjal, un endostilo, e un coda posanal a la min per parte de sua sicle de vive
   T Chordata
   EN chordate (organism)
+  HE (ביולוגיה) מיתרני
 
 .cordita : nom util
   D un esplodente nonfuminte, usada en muni
   EN cordite
+  HE קורדיט (אבק שריפה)
 
 .core : verbo nontransitiva
   D move rapida par usa sua pedes; (un licuida, gas o eletrica) flue
   I #
   EN run, flow
+  HE לרוץ
 
 core : nom
   EN run (including cricket), running
+  HE ריצה
 
 core de distantia longa : verbo
   EN run long-distance
+  HE לרוץ למרחקים ארוכים
 
 core de distantia longa : nom
   EN long-distance running, endurance running
+  HE ריצה למרחקים ארוכים
 
 core lenta : verbo
   EN jog
+  HE לצאת לריצה קלה
 
 core lenta : nom
   EN jog, jogging
+  HE ריצה קלה, ג'וגינג
 
 core sin restrinje : verbo
   EN careen, career, hurtle
+  HE לנוע בלי שליטה
 
 core tra bates : espresa
   EN run the gauntlet
+  HE להתמודד עם קשיים או ביקורת
 
 core tra campania : nom
   EN cross-country running
+  HE ריצת שדה
 
 con la corente : ajetivo
   EN downstream
+  HE במורד הזרם
 
 contra la corente : ajetivo
   EN upstream
+  HE במעלה הזרם
 
 corente : nom
   EN current (water, electricity); courante (dance, music)
+  HE זרם (מים, חשמל); קוראנט (ריקוד)
 
 corente alternante : nom
   EN alternating current, AC
+  HE זרם חילופין
 
 corente de aira : nom
   EN airstream
+  HE זרם אוויר
 
 corente de jeta : nom
   EN jet stream
+  HE זרם סילון
 
 corente direta : nom
   EN direct current, DC
+  HE זרם ישר
+
+corente dominante : nom
+  EN mainstream
+  HE זרם מרכזי, מיינסטרים
 
 corente eletrical : nom
   EN electric current
+  HE זרם חשמלי
+
+corente traversal : nom
+  EN crosscurrent
+  HE זרם נגדי
+
+corente xef : nom
+  EN mainstream
+  HE זרם מרכזי, מיינסטרים
 
 coror : nom
   EN runner, jogger
+  HE רץ
 
 sucorente : nom
   EN undercurrent
+  HE זרם תחתי
 
 .corea : nom util
   D un peso de corda, cuoro o otra materia, usada per freni, restrinje o gida un animal; un cosa simil usada per lia, fisa o securi alga cosa
   I #
   EN leash, strap, thong
+  HE רצועה
 
 corein : ajetivo
   EN straplike
+  HE דמוי רצועה
 
 lia con corea : verbo
   EN leash, strap
+  HE לקשור ברצועה
 
 .corea : nom medica
   D un disturba neuronal, marcada par moves spasmin e nonintendeda, tipal de la spalas, ancas e fas
   EN chorea (medical)
+  HE מחולית, כוריאה
 
 .Corea : nom jeografial
   D un parte de Asia este cual formi un penisola entre la Mar Japan e la Mar Huanghai, aora divideda entre la du nasiones Tehan e Txoson
   EN Korea
+  HE קוריאה
 
 Baia Corea : nom jeografial
   D un baia entre Jonguo e Txoson
   I #
   EN Korea Bay, Korean Bay
+  HE מפרץ קוריאה
 
 Corea Norde : nom jeografial
   D un otra nom per Txoson
   I Txoson
   V Txoson
   EN North Korea
+  HE צפון קוריאה
 
 Corea Sude : nom jeografial
   D un otra nom per Tehan
   I Tehan
   V Tehan
   EN South Korea
+  HE דרום קוריאה
 
 corean : ajetivo
   D hangugo
   V hangugo
   EN Korean (person, language)
+  HE קוריאני, קוריאנית (שפה)
 
 corean : nom demonim
   EN Korean (person, language)
+  HE קוריאני, קוריאנית (שפה)
 
 Streta Corea : nom jeografial
   D un streta entre Nion e Corea
   I #
   EN Korea Strait
+  HE מצר קוריאה
 
 .coredor : nom arciteta
   D un pasaje longa en un construida, con portes o abris a salas; un pasaje entre linias de sejas en un eglesa, teatro, avion o tren; un pasaje entre du scafales de benes en un boteca
   EN corridor, aisle, passageway, hall, hallway
+  HE מסדרון, פרוזדור; מעבר (בין שורות)
 
 coredor de mori : nom
   EN death row
   FR couloir de la mort
+  HE שורת הנידונים למוות
 
 coredor esterna : nom
   EN breezeway
+  HE מעבר מקורה
 
 .coregon : nom pex
   D un salmon de acua dulse, de areas norde de la emisfera norde
   I #
   T Coregoninae
   EN whitefish
+  HE דג לבן
 
 .corelata : verbo nontransitiva matematica
   D (du cosas) ave un relata mutua en cual la un afeta o depende de la otra
   EN correlate
+  HE להיות במתאם
 
 corelata : nom
   EN correlation
+  HE מתאם, קורלציה
 
 .corente : ajetivo
   D pertinente a la tempo presente; aveninte aora
   EN current, ongoing, topical, present, up to date
+  HE נוכחי; עדכני
 
 corente : averbo
   EN currently, nowadays
-
-corente dominante : nom
-  EN mainstream
-
-corente traversal : nom
-  EN crosscurrent
-
-corente xef : nom
-  EN mainstream
+  HE כרגע, כיום
 
 corenti : verbo transitiva
   EN update, bring up to date
+  HE לעדכן
 
 .coreografia : nom musica
   D la ordina de paseas e moves en dansa o patini; la arte de desinia esta
   EN choreography
+  HE כוריאוגרפיה
 
 coreografiste : nom
   EN choreographer
+  HE כוריאוגרף
 
 .coreolojia : nom musica
   EN choreology
+  HE כוריאולוגיה
 
 .coresponde : verbo nontransitiva
   D es multe simil (a un otra cosa), tipal par identia, forma o funsiona; (du persones) comunica par intercambia leteras
   EN correspond, match (communicate, be equivalent)
+  HE להתאים; להתכתב
 
 coresponde : nom
   EN correspondence, equivalence
+  HE התאמה, שקילות; התכתבות
 
 corespondente : ajetivo
   EN corresponding, equivalent, matching
+  HE מתאים, תואם, מקביל
 
 corespondente : nom
   EN correspondent (letter writer, reporter); counterpart, equivalent, answer (to)
+  HE מתאים, תואם, מקביל; כתב
 
 noncoresponde : verbo nontransitiva
   EN mismatch
+  HE לא להתאים
 
 noncoresponde : nom
   EN mismatch
+  HE אי-התאמה, אי-תיאום
 
 .coreta : ajetivo
   D no erante; acordante con fatos o veria; conformante a la normas sosial
   EN correct, right; appropriate, proper, impeccable
+  HE נכון; תקין
 
 autocoreti : verbo nontransitiva
   EN self-correct
+  HE לתקן את עצמו (משגיאה)
 
 autocoretinte : ajetivo
   EN self-correcting
+  HE מתקן את עצמו (משגיאה)
 
 coretable : ajetivo
   EN correctable, corrigible
+  HE בר-תקנה
 
 coreti : verbo nontransitiva
   EN become correct
+  HE להפוך לתקין (ללא שגיאות)
 
 coreti : verbo transitiva
   EN correct; proofread, emend
+  HE לתקן (שגיאה); להגיה
 
 coreti : nom
   EN correction, discipline
+  HE תיקון (שגיאות); הגהה
 
 coretia : nom
   EN correctness
+  HE נכונות, אמיתיות; תקינות
 
 coretor : nom
   EN corrector, proofreader, copyreader
+  HE מגיה
 
 noncoreta : ajetivo
   EN incorrect, wrong; inappropriate, amiss
+  HE לא נכון, שגוי; לא תקין
 
 noncoretable : ajetivo
   EN uncorrectable, incorrigible
+  HE חסר תקנה
 
 noncoretia : nom
   EN incorrectness, wrongness
+  HE היות לא נכון, היות שגוי
 
 .corgi : nom mamal
   D un can de raza con gamas corta e testa volpin
   I #
   EN corgi
+  HE קורגי (כלב)
 
 .coriandro : nom planta cosini
   D un planta bonodorosa en familia de persil; la folias e semes de esta, usada en cosini
   I #
   T Coriandrum sativum
   EN coriander (plant, spice), cilantro, Chinese parsley
+  HE כוסברה
 
 .corindon : nom tera
   D un cristal multe dur de osido de aluminio, usada per limpi surfases dur, o como la jemes rubi e safir
   EN corundum (crystal)
   FR corindon
+  HE קורונדום (גביש)
 
 .corion : nom biolojia
   D la membrana esterna cual enclui la embrio de un retil, avia o mamal
   EN chorion (biology)
+  HE (ביולוגיה) כוריון, סיסית, עטיף
 
 corional : ajetivo
   EN chorionic
+  HE של הסיסית
 
 .cormo : nom biolojia
   D un organo ronda su tera, cual alga plantas usa per reserva
   EN corm (botany)
+  HE פקעת
 
 .cormoran : nom avia
   D un avia tufante grande, con colo longa, beco longa, gamas corta e plumas oscur
   I #
   T Phalacrocoracidae
   EN cormorant, shag
+  HE קורמורן (ציפור)
 
 .cornalina : nom tera
   D un jem semivaluosa, composada de un varia oranin roja de calsedonia
   EN carnelian (gem)
+  HE קרנליאן (אבן חן)
 
 .cornamusa : nom musica
   D un strumento musical, con anxas sonada par aira de un saco compresada par la braso de la juor
   I #
   EN bagpipe, bagpipes
+  HE חמת חלילים
 
 cornamusa eres : nom musica
   D un cornamusa, orijinal de Er, con soflador operada par codo e zumbadores ajustable
   I #
   EN uilleann pipes
+  HE חמת חלילים אירי
 
 cornamusor : nom
   EN piper
+  HE נגן חמת חלילים
 
 .cornea : nom anatomia
   D la strato transparente cual formi la fronte de un oio
   EN cornea
+  HE קרנית
 
 corneal : ajetivo
   EN corneal
+  HE של הקרנית
 
 .corneo : nom planta
   D un arboreta o arbor peti cual produi lenio dur e folias e bacas colorosa
   I #
   T Cornus
   EN dogwood (plant, wood)
+  HE קורנוס (עץ)
 
 .corneta : nom musica
   D un strumento metal de venta, simil a un trompeta ma plu corta e spesa
