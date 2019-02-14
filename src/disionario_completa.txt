@@ -2537,6 +2537,10 @@ agin : ajetivo
   EN needlelike
   HE בצורת מחט
 
+.agoniste : nom medica biolojia
+  D un cimical cual stimula un responde fisiolojial; un musculo de cual sua contrae move un parte de la corpo
+  EN agonist
+
 .agopuntur : nom medica
   D un tecnica de medica alternativa en cual on pone agos en la pel
   I #
@@ -6863,6 +6867,10 @@ ansiosa : ajetivo
   EN angstrom (unit of length)
   HE אנגסטרום
 
+.antagoniste : nom medica biolojia arte
+  D un cimical cual interfere con o inibi la ativa fisiolojial de un otra; un musculo de cual sua ativa oposa lo de un otra; (en leteratur) un carater ci ata contra la interesas de otra carateres en un nara, spesial contra la protagoniste
+  EN antagonist
+
 .antartica : ajetivo jeografial
   D pertinente a la continente sirca la polo sude, de cual la plu es a sude de la sirculo antartica e cuasi tota es covreda par glasias
   EN Antarctic
@@ -8282,6 +8290,9 @@ arcibispia : nom
   D un duxe xef
   EN archduke
   HE ארכידוכס
+
+arciduxesa : nom
+  EN archduchess
 
 .arcipelago : nom tera
   D un grupo o cadena de isolas
@@ -11356,6 +11367,9 @@ atribuida : nom
 atrio de presentores : nom
   EN green room
   HE חדר שחקנים
+
+atrial : ajetivo
+  EN atrial
 
 .atrofia : verbo nontransitiva medica
   D (un organo o texeda) dejenera e diminui, tipal par causa de dejenera de selulas, o deveni vestijial en evolui; (un capasia de mente o corpo) diminui gradal par causa de usa minima o descura
@@ -15261,7 +15275,7 @@ beneficada : nom
   HE מוטב
 
 beneficante : ajetivo
-  EN beneficial, salutary, conducive
+  EN beneficial, salutary, conducive, effective
   FR bénéfique
   HE מועיל, מביא תועלת, תורם ל-
 
@@ -26272,6 +26286,9 @@ coesiste : nom
   EN coexistence
   HE דו-קיום
 
+.cofundor : nom
+  EN cofounder
+
 .cognisio : nom siensa-umana
   D la prosede mental de oteni sabes e comprendes par pensa, esperia e la sensas
   EN cognition
@@ -30708,7 +30725,7 @@ convinse : nom
   HE שכנוע
 
 convinsente : ajetivo
-  EN convincing, compelling, persuasive, plausible
+  EN convincing, compelling, persuasive, plausible, effective
   HE משכנע
 
 desconvinse : verbo transitiva
@@ -30724,7 +30741,7 @@ nonconvinseda : ajetivo
   HE לא משוכנע
 
 nonconvinsente : ajetivo
-  EN unconvincing, farfetched, implausible
+  EN unconvincing, farfetched, implausible, ineffective
   HE לא משכנע, לא סביר
 
 .convoia : nom veculo
@@ -31487,120 +31504,152 @@ corneal : ajetivo
   D un strumento metal de venta, simil a un trompeta ma plu corta e spesa
   I #
   EN cornet (musical instrument)
+  HE קורנית (כלי נגינה)
 
 corneta engles : nom musica
   D un strumento de lenio cual sembla un oboe con fini bulbin
   I #
   EN English horn
+  HE קרן אנגלית (כלי נגינה)
 
 corneta natural : nom musica
   D un corneta antica, sin valvas
   I #
   EN bugle, natural trumpet, natural cornet
+  HE קרנון (כלי נגינה)
 
 cornetor : nom
   EN bugler
+  HE נגן קרנון
 
 .cornisa : nom arciteta
   D un surfas magra e orizonal protendente de un mur, falesa o otra surfas; un surfas simil a basa de un fenetra o porte; la parte la plu alta de un entablamento
   EN ledge, sill, cornice
+  HE אדן; קרניז, כרכוב
 
 cornisa de fenetra : nom
   EN windowsill
+  HE אדן החלון
 
 cornisa de foco : nom
   EN hob (surface beside a fire)
+  HE משטח חם של תנור או אח
 
 .corno : nom biolojia
   D un crese dur trovada en duples, curva e puntida, sur la testas de boves, oveas, capras, jirafas etc; un crese dur e ramida, trovada sur la testas de servos; un strumento musical, cono o spiral, juada par vibra la labios
   I #
   EN horn (animal, music), antler
+  HE קרן (של בעל-חיים); שופר
 
 corno alpan : nom
   D un strumento de venta de lenio, multe longa e sin valvas, usada per siniali en la Alpes
   I #
   EN Alphorn, Alpenhorn
+  HE קרן אלפים
 
 corno de abunda : nom
   I #
   EN cornucopia, horn of plenty
+  HE קרן השפע
 
 corno de servo : nom
   I #
   EN antler
+  HE קרן אייל
 
 cornin : ajetivo
   EN horny, hornlike
+  HE קרני
 
 .coro : nom musica
   D un grupo organizada de cantores
   I #
   EN chorus, choir
+  HE מקהלה
 
 coral : ajetivo
   EN choral
+  HE מקהלתי
 
 coral : nom
   EN chorale
+  HE (נצרות) כורל
 
 coriste : nom
   EN chorister
+  HE נער מקהלה, זמר במקהלה
 
 .corode : verbo nontransitiva cimica
   D es lenta destruida o danada par la ata de cimicales
   EN corrode
+  HE לעבור קורוזיה
 
 corode : nom
   EN corrosion
+  HE קורוזיה, שיתוך, איכול
 
 anticorodente : ajetivo
   EN anticorrosive
+  HE אנטיקורוזיבי, מונע שיתוך
 
 corodente : ajetivo
   EN corroding, corrosive, caustic
+  HE קורוזיבי, משתך, מאכל
 
 noncorodente : ajetivo
   EN non-corrosive, rustproof
+  HE אל-חלד
 
 .corola : nom biolojia
   D la spiral de petales de un flor, ensircada par la sepales e ensircante la organos de reprodui
   EN corolla (botany)
+  HE כותרת (של פרח)
 
 .corolario : nom filosofia
   D un proposa cual segue direta de un otra ja demostrada; un resulta direta o natural
   EN corollary
+  HE (פילוסופיה, מתמטיקה) מסקנה, הסקה, תולדה, תוצאה
 
 .corona : nom veste
   D un anelo metal portada sur la testa, tipal par un monarca como simbol de autoria; un anelo de folias o flores, portada sur la testa
   I #
   EN crown
+  HE כתר
 
 Corona Norde : nom astronomia
   D un constela en la sielo norde
   EN Corona Borealis (constellation)
+  HE כתר צפוני (קבוצת כוכבים)
 
 Corona Sude : nom astronomia
   D un constela en la sielo sude
   EN Corona Australis (constellation)
+  HE כתר דרומי (קבוצת כוכבים)
 
 coroneta : nom
   EN coronet, tiara, diadem
+  HE נזר
 
 coroni : verbo transitiva
   EN crown
+  HE להכתיר
 
 coroni : nom
   EN crowning, coronation
+  HE הכתרה
 
 coronin : ajetivo
   EN crownlike, crown-shaped
+  HE כתרי, דמוי-כתר
 
 descoroni : verbo transitiva
   EN uncrown
+  HE להדיח מלך/מלכה
 
 .coronel : nom governa
   D un ofisior militar de grado alta, supra un teninte e su un jeneral
   EN colonel
+  HE קולונל
 
 .corpo : nom anatomia
   D la strutur fisical de un person o animal, incluinte la osos, carne e organos; la casco de un veculo; la sudivide major de un forte militar ativa; un colie de testos, spesial la obras completa de un autor spesifada o sur un sujeto spesifada
@@ -40366,6 +40415,16 @@ en efeto : averbo
 posefeto : nom
   EN aftereffect
 
+.eficas : ajetivo
+  D susedosa en la produi de un resulta desirada o intendeda
+  EN effective, efficacious
+
+eficasia : nom
+  EN effectiveness, efficacy
+
+noneficas : ajetivo
+  EN ineffective
+
 .efrata : verbo transitiva governa
   D entra a (un construida) nonlegal con intende crimin, spesial de fura
   EN burglarize|burgle
@@ -47078,6 +47137,22 @@ fibre otical : nom
 fibrosa : ajetivo
   EN fibrous, fibroid
   FR fibreux
+
+.fibrila : verbo nontransitiva medica biolojia
+  D (un musculo, spesial de la cor) move en un modo tremante, causada par la contrae noncoordinada de la fibres individua
+  EN fibrillate
+
+fibrila : nom
+  EN fibrillation
+
+desfibrila : verbo
+  EN defibrillate
+
+desfibrila : nom
+  EN defibrillation
+
+desfibrilador : nom
+  EN defibrillator
 
 .fibroblasto : nom biolojia
   D un selula en texeda juntante, cual sintese colajenes e otra fibres
@@ -76179,7 +76254,10 @@ padrin : nom
   EN father figure, godfather
 
 padron : nom
-  EN master, lord, boss; patriarch
+  EN master, lord, boss; patriarch; patron (supporter)
+
+padronia : nom
+  EN patronage
 
 sin padre : ajetivo
   EN fatherless
@@ -86608,6 +86686,10 @@ prostituida pasada : nom
   D la elemento cimical con numero atomal 91, un metal radioativa
   S Pa
   EN protactinium (element)
+
+.protagoniste : nom arte
+  D la carater xef o un de la carateres major en un nara, tipal con bon intendes
+  EN protagonist
 
 .protea : nom planta
   D un arboreta perene con flores cono grande, ensircada par brateas briliante colorida, nativa de Africa sude
@@ -99776,8 +99858,14 @@ sincopa : nom
 sincrona : nom
   EN synchronism
 
+desincroni : verbo nontransitiva
+  EN desynchronize|is
+
 nonsincrona : ajetivo
   EN asynchronous, out of sync
+
+resincrona : verbo
+  EN resynchronize|is
 
 sincroni : verbo nontransitiva
   EN synchronize|is, sync; entrain (biology)
@@ -105587,7 +105675,7 @@ susedor : nom
   EN succeeder, achiever
 
 susedosa : ajetivo
-  EN successful
+  EN successful, effective
 
 susedosa : nom
   EN hit, blockbuster
