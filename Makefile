@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201902031710
+# Last modified 201902152002
 # See change log at the end of the file
 
 # ==============================================================
@@ -20,6 +20,7 @@
 # - make
 # - pandoc
 # - vim
+# - wget
 # - xsltproc
 
 # ==============================================================
@@ -114,6 +115,15 @@ xml: tmp/disionario_completa.adoc.xml
 .PHONY: clean
 clean:
 	rm -fr target/* tmp/*
+
+# ==============================================================
+# Update the original data
+
+.PHONY: update
+update:
+	wget \
+		-O src/disionario_completa.txt \
+		http://elefen.org/disionario/disionario_completa.txt
 
 # ==============================================================
 # Convert the original data file to Asciidoctor
@@ -314,3 +324,6 @@ target/%.adoc.xml.xsltproc.epub: tmp/%.adoc.xml $(letter_files)
 #
 # 2019-02-03: Make an EPUB also with dbtoepub. Modify the EPUB created by
 # pandoc, in order to convert the note captions.
+#
+# 2019-02-15: Make rule to update the original data (formerly this was done
+# with an internal shell script).
