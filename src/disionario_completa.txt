@@ -14700,8 +14700,9 @@ bateta de ungulas : nom
   EN hoofbeat
   HE נקישת פרסה
 
-batetador : nom
-  EN knocker (door)
+batetador : nom util medica
+  D un ojeto de metal o lenio, xarnierida a un porte e colpada par visitores arivante; un aparato medical per stimula la cor e regula sua contraes
+  EN knocker (door); pacemaker (medical)
   HE מרתוק (התקן הקשה על הדלת)
 
 .bateovo : nom verbo-nom cosini
@@ -31654,136 +31655,173 @@ descoroni : verbo transitiva
 .corpo : nom anatomia
   D la strutur fisical de un person o animal, incluinte la osos, carne e organos; la casco de un veculo; la sudivide major de un forte militar ativa; un colie de testos, spesial la obras completa de un autor spesifada o sur un sujeto spesifada
   EN body (person, animal, vehicle); corps (military); corpus (texts)
+  HE גוף; גיס, חיל; קורפוס
 
 corpo de comunica : nom
   EN signals corps
+  HE חיל הקשר
 
 corpo mamelin : nom
   EN mammillary body
+  HE (אנטומיה) גוף דדי
 
 corpo mor : nom
   EN dead body, corpse, cadaver, carcass
+  HE גופה, גוויה; נבלה, פגר
 
 corpal : ajetivo
   EN corporal, corporeal, somatic
+  HE גשמי, פיזי, גופני
 
 corpeta : nom
   EN corpuscle
+  HE גופיף
 
 corpi : verbo nontransitiva
   EN become embodied
+  HE להתגלם
 
 corpi : verbo transitiva
   EN embody, be the embodiment of
+  HE לגלם
 
 corpi : nom
   EN embodiment
+  HE התגלמות, גילום, גופיות
 
 corpin : ajetivo
   EN bodylike, close-fitting, figure-hugging, form-fitting, tight-fitting, skintight
+  HE צמוד (לגוף)
 
 de corpo capas : ajetivo
   EN able-bodied
+  HE כשיר, ללא מוגבלות
 
 descorpi : verbo nontransitiva
   EN become disembodied
+  HE להיפרד מהגוף, להפוך ללא גשמי
 
 descorpida : ajetivo
   EN disembodied
+  HE חסר גוף, לא גשמי
 
 sin corpo : ajetivo
   EN bodiless, disembodied, incorporeal
+  HE חסר גוף, לא גשמי
 
 .corpora : verbo nontransitiva governa
   D (un compania o grupo) reseta la autoria per funsiona como un individua legal reconoseda
   EN incorporate
+  HE להתאגד
 
 corpora : nom
   EN incorporation; corporation, guild; corporate (company)
+  HE תאגיד
 
 .corsa : verbo nontransitiva sporte
   D (corores, cavalores, canes, veculos, barcones, etc) compete per trova la plu rapida
   EN race
+  HE להשתתף במרוץ
 
 corsa : nom
   EN race; racing
+  HE מרוץ
 
 corsa de autos : nom sporte
   I #
   EN motor racing, car racing, auto racing
+  HE מרוץ מכוניות
 
 corsa de cavalos : nom sporte
   I #
   EN horse race; horseracing
+  HE מרוץ סוסים
 
 corsa de dragsteres : nom sporte
   EN drag race
+  HE מרוץ דראג
 
 corsa de orienta : nom sporte
   EN orienteering
+  HE ניווט ספורטיבי
 
 corsa de ostaculos : nom sporte
   EN hurdle race
+  HE מרוץ משוכות
 
 corsa de rele : nom sporte
   EN relay race
+  HE מרוץ שליחים
 
 corsa de salta : nom sporte
   EN steeplechase
+  HE מרוץ/ריצת מכשולים
 
 corsa de sci : nom sporte
   EN cross-country skiing
+  HE סקי למרחקים
 
 corsor : nom
   EN racer
+  HE מתחרה (במרוץ)
 
 corsor de ostaculos : nom
   EN hurdler
+  HE רץ משוכות
 
 precorsor : nom
   EN pacemaker, pacesetter (in race)
+  HE מכתיב קצב, פייסר
 
 .Corse : nom jeografial
   D un isola montaniosa prosima a Italia, parteninte a Frans
   I #
   EN Corsica
+  HE קורסיקה
 
 corsu : ajetivo
   EN Corsican (person, language)
+  HE קורסיקאי, קורסיקאית (שפה)
 
 corsu : nom demonim
   EN Corsican (person, language)
+  HE קורסיקאי, קורסיקאית (שפה)
 
 .corseto : nom veste
   D un veste streta cual suporta la dorso o magri la taie
   I #
   EN corset, girdle, bodice
+  HE מחוך
 
 corsetor : nom
   EN corsetiere
+  HE יצרן מחוכים
 
 .corta : ajetivo
   D (un person, cosa o tempo) no longa, con poca distantia de un fini a la otra
   EN short, brief, stubby
+  HE קצר
 
 corta pos : preposada
   EN shortly after
+  HE זמן קצר לאחר-מכן
 
 cortador : nom
   I #
   EN clippers (electric)
+  HE מכונת תספורת
 
 corti : verbo nontransitiva
   EN shorten
+  HE להתקצר
 
 corti : verbo transitiva
   EN shorten, cut short, trim, prune, crop, lop, abbreviate, abridge, curtail
+  HE לקצר, לקצוץ, לגזום
 
 corti : nom
   EN trim, abbreviation (action, result)
-
-corti de barba : nom
-  EN shave
+  HE התקצרות, קיצור, קיצוץ, גיזום
 
 corti de capeles : nom
   EN haircut
@@ -31791,8 +31829,8 @@ corti de capeles : nom
 corti de perspetiva : nom
   EN foreshortening
 
-corti la barba : verbo
-  EN shave
+corti sua barba : verbo
+  EN trim one's beard
 
 corti la erba : verbo
   EN cut the grass, mow the lawn
@@ -54555,6 +54593,9 @@ nonimitable : ajetivo
 
 con imobila : ajetivo
   EN propertied, landed
+
+imobilor : nom
+  EN landowner, property owner
 
 .impala : nom mamal
   D un antilope de Africa este e sude, con moves refinada e cornos curva como un lira
@@ -78512,10 +78553,6 @@ pasiva : nom
 
 pasivia : nom
   EN passivity
-
-.pasmacer : nom util medica
-  D un aparato per stimula la cor e regula sua contraes
-  EN pacemaker (medical)
 
 .paso : nom
   D un move de un pede ante la otra cuando on pasea o core; un ata en un serie dirijeda a un gol
