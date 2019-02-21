@@ -1469,7 +1469,7 @@ Acuor : nom astronomia
   S ♒
   EN Aquarius (constellation)
   EO Akvisto, Amforo
-  HE קבוצת הכוכבים דלי
+  HE דלי (קבוצת כוכבים)
 
 acuosa : ajetivo
   D conteninte o empapada con multe acua
@@ -1985,6 +1985,9 @@ adui : nom
   EO adukcio
   HE משיכה או הזזה לעבר הציר המרכזי של הגוף
 
+aduinte : ajetivo
+  EN adducent
+
 aduador : nom
   D un musculo cual adui
   EN adductor (muscle)
@@ -2470,6 +2473,16 @@ aglutinante : ajetivo linguistica
   EO aglutina
   FR agglutinant
   HE שפה שבה יוצרים מילים על ידי חיבור
+
+.agnosia : nom medica
+  D un noncapasia de interprete sensas e donce de reconose cosas, tipal resultante de dana serebral
+  EN agnosia
+
+agnosica : ajetivo
+  EN agnosic
+
+agnosica : nom
+  EN agnosic
 
 .agnostica : ajetivo relijio
   D credente ce on no pote sabe esce dios esiste
@@ -3150,7 +3163,7 @@ ajenero : nom siensa-umana
   EO agento, makleristo, peranto
   HE סוכן, מתווך
 
-ajente asecurinte : nom
+ajente asecurante : nom
   EN underwriter
   HE (ביטוח) חתם
 
@@ -14703,7 +14716,7 @@ bateta de ungulas : nom
 batetador : nom util medica
   D un ojeto de metal o lenio, xarnierida a un porte e colpada par visitores arivante; un aparato medical per stimula la cor e regula sua contraes
   EN knocker (door); pacemaker (medical)
-  HE מרתוק (התקן הקשה על הדלת)
+  HE מרתוק (התקן הקשה על הדלת); קוצב לב
 
 .bateovo : nom verbo-nom cosini
   D un util de cosini per bate ovos o crema
@@ -18445,7 +18458,7 @@ brilion : nom
   EN glare, dazzle
   HE סנוור
 
-cuantia de brilia : nom
+grado de brilia : nom
   EN brightness; magnitude (astronomy)
   HE בהירות
 
@@ -25485,7 +25498,7 @@ clave engles : nom
   EN monkey wrench
   HE מפתח צינורות
 
-clave exagon : nom
+clave esagon : nom
   I #
   EN Allen key, Allen wrench
   HE מפתח אלן
@@ -31817,7 +31830,7 @@ corti : verbo nontransitiva
 
 corti : verbo transitiva
   EN shorten, cut short, trim, prune, crop, lop, abbreviate, abridge, curtail
-  HE לקצר, לקצוץ, לגזום
+  HE לקצר, לקצוץ, לגזום, לכסח
 
 corti : nom
   EN trim, abbreviation (action, result)
@@ -31825,114 +31838,148 @@ corti : nom
 
 corti de capeles : nom
   EN haircut
+  HE תספורת
 
 corti de perspetiva : nom
   EN foreshortening
+  HE קיצור פרספקטיבה
 
 corti sua barba : verbo
   EN trim one's beard
+  HE לקצר את הזקן
 
 corti la erba : verbo
   EN cut the grass, mow the lawn
+  HE לכסח את הדשא
 
 cortia : nom
   EN brevity
+  HE קיצור, תמציתיות
 
 cortor : nom
   EN cutter, mower (person)
+  HE (אדם) חותך, קוצץ, גוזם, מכסח
 
 pos corta : averbo
   EN soon, shortly
+  HE בקרוב, במהרה, עוד מעט, לאחר זמן קצר
 
 .corte : nom governa
   D un asembla governada par un o plu judores per gida prosedes de lege; la construida o salon per esta; un renor e sua consiliores e otra persones; la abiteria de un renor
   EN court (law, royal); courthouse, courtroom
+  HE בית משפט, בית דין; חצר (המלך)
 
 corte de apela : nom
   EN court of appeal, appellate court
+  HE בית משפט לערעורים
 
 corte militar : nom
   EN court martial, military court
+  HE בית משפט צבאי
 
 corte suprema : nom
   EN supreme court
+  HE בית משפט עליון
 
 .cortea : verbo transitiva siensa-umana
   D interata romantica con un otra person, tipal con intende de sposi; (un animal) atenta atrae un spos
   EN court, woo, date
+  HE לחזר
 
 cortea : nom
   EN courtship, date, dating
+  HE חיזור
 
 corteal : ajetivo
   EN courting, dating
+  HE של חיזור
 
 compete corteal : verbo
   EN rut
+  HE להתייחם
 
 compete corteal : nom
   EN rut
+  HE ייחום
 
 corteor : nom
   EN date, wooer, suitor
+  HE מחזר
 
 mostra corteal : nom
   EN courtship display
+  HE טקס חיזור
 
 periodo corteal : nom
   EN mating season, rut, estrus|oe
+  HE עונת רבייה
 
 .cortes : ajetivo
   D conduinte en un modo respetosa e compatiosa a otra persones
   EN courteous, polite, cordial, decorous, urbane
+  HE אדיב, מנומס
 
 cortesia : nom
   EN courtesy, politeness, civility, etiquette, manners, decorum, propriety
+  HE אדיבות, נימוס
 
 cortesia de rede : nom
   EN netiquette
+  HE נימוסי רשת
 
 noncortes : ajetivo
   EN discourteous, impolite, rude, impudent, cheeky, irreverent, impertinent, sassy, tactless, gruff, surly, mouthy, overfamiliar, presumptuous, unmannerly
+  HE גס, גס רוח, חסר נימוס, בוטה, חצוף, עז מצח
 
 noncortesia : nom
   EN impoliteness, rudeness, impudence, cheek, cheekiness, nerve, irreverence, impertinence, sass
+  HE גסות, גסות רוח, חוסר נימוס, בוטות, חוצפנות, עזות מצח
 
 .cortesan : nom siensa-umana
   D un prostituida, tipal con clientes rica
   EN courtesan, hetaera
+  HE קורטיזנה
 
 .cortex : nom anatomia
   D la strato esterna de la serebro; la strato esterna de otra organos, como la ren, la serebreta o un capel; (en botanica) la strato direta su la epiderma de un radis o tronceta
   EN cortex; bark (tree)
+  HE (אנטומיה) קליפה; קליפת עץ
 
 cortex de tanin : nom
   EN tanbark
+  HE קליפת עץ לטאנין
 
 cortex serebral : nom
   EN cerebral cortex
+  HE קליפת המוח
 
 cortexal : ajetivo
   EN cortical
+  HE קליפתי
 
 descortexi : verbo transitiva
   EN decorticate, remove the bark from
+  HE להסיר קליפת עץ
 
 .corticosteroide : ajetivo biolojia medica
   D parteninte a un grupo de ormones steroide, produida en la cortex de la glande suprarenal o sinteseda
   EN corticosteroid
+  HE קורטיקוסטרואיד
 
 corticosteroide : nom biolojia medica
   EN corticosteroid
+  HE קורטיקוסטרואיד
 
 .cortierba : nom verbo-nom
   D un macina per corti la erba en un jardin o parce
   I #
   EN lawnmower, mower
+  HE מכסחת דשא
 
 cortierba puiable : nom
   I #
   EN push mower, unmotorized|is lawnmower
+  HE מכסחת דשא ידנית
 
 .cortina : nom arciteta
   D un stofa pendente cual covre o scermi, tipal un de du ante un fenetra
@@ -35785,6 +35832,9 @@ dedui : nom
   EO abdukcio
   FR abduction
   RU сокращение (о мышце)
+
+deduinte : ajetivo
+  EN abducent
 
 deduador : nom
   D un musculo cual dedui
@@ -40132,6 +40182,10 @@ ecoside : nom
   D (un mesura) multiplida par 100
   EN hecto- (hundred)
 
+.ecto- : prefisa tecnical
+  D estra, esterna
+  EN ecto- (outside)
+
 .ectoderma : nom biolojia
   D la strato de selulas la plu esterna, spesial en embrios temprana
   EN ectoderm (anatomy)
@@ -40498,8 +40552,32 @@ egali : verbo transitiva
 egali : nom
   EN equation
 
+egali cuadral : nom
+  V egali de grado du
+  EN quadratic equation
+
+egali cubo : nom
+  V egali de grado tre
+  EN cubic equation
+
+egali de grado du : nom
+  V egali cuadral
+  EN quadratic equation
+
+egali de grado tre : nom
+  V egali de grado tre
+  EN cubic equation
+
+egali de grado un : nom
+  V egali linial
+  EN linear equation
+
 egali diferensial : nom
   EN differential equation
+
+egali linial : nom
+  V egali de grado un
+  EN linear equation
 
 egalia : nom
   EN equality, parity, equivalence
@@ -41902,6 +41980,10 @@ endoscopial : ajetivo
 .endotelio : nom biolojia anatomia
   D la texeda cual formi un strato de selulas forente multe organos e cavetas de corpo, spesial la cor, la dutos sangual e la dutos limfal
   EN endothelium (anatomy)
+
+.enea- : prefisa matematica
+  D nove
+  EN ennea-
 
 .enebria : verbo transitiva biolojia siensa-umana
   D (un droga o alcol) fa ce (algun) perde controla de sua condui e capasias
@@ -43353,6 +43435,10 @@ esente : nom
   U prinsesa
   EN -ess (formal female title)
 
+.esadesimal : ajetivo informatica
+  D pertinente a un sistem de aritmetica fundida sur la numero des-ses
+  EN hexadecimal
+
 .esaedro : ajetivo matematica
   D (un ojeto) solida con ses fases plana
   EN hexahedral
@@ -43360,10 +43446,21 @@ esente : nom
 esaedro : nom
   EN hexahedron
 
+.esagon : ajetivo matematica
+  D (un forma plana) con ses lados reta e ses angulos
+  EN hexagonal
+
+esagon : nom
+  EN hexagon
+
 .esagram : nom mitolojia
   D un stela con ses puntos, formida par la crusa de du triangulos ecuiladal; cada de 64 grupos de ses linias paralel, intera o rompeda, en la libro de divina {Yì jīng}
   I #
   EN hexagram
+
+.esametre : nom linguistica
+  D un linia de poesia composada de ses metres
+  EN hexameter
 
 .esajera : verbo transitiva
   D representa (alga cosa) como plu grande, plu bon o plu mal ca lo es en realia
@@ -44976,10 +45073,6 @@ etnolojiste : nom
   D la studia de musica de etnicos spesifada
   EN ethnomusicology
 
-.eto- : prefisa tecnical
-  D estra, esterna
-  EN ecto- (outside)
-
 .etolojia : nom biolojia siensa-umana
   D la studia biolojial de la condui de animales o umanas e sua organiza sosial
   EN ethology
@@ -45345,21 +45438,6 @@ evoluiste : nom
 .exa- : prefisa tecnical
   D {10^18}
   EN exa-
-
-.exadesimal : ajetivo informatica
-  D pertinente a un sistem de aritmetica fundida sur la numero des-ses
-  EN hexadecimal
-
-.exagon : ajetivo matematica
-  D (un forma plana) con ses lados reta e ses angulos
-  EN hexagonal
-
-exagon : nom
-  EN hexagon
-
-.exametre : nom linguistica
-  D un linia de poesia composada de ses metres
-  EN hexameter
 
 .eziditi : ajetivo demonim
   D pertinente a un etnico curdi con relijio e cultur antica
@@ -46350,7 +46428,7 @@ favin : ajetivo
   EN beanlike, bean-shaped
 
 .favo : nom biolojia
-  D un strutur de selulas exagon, fabricada de sira par abeas per reserva miel e ovos; cualce strutur simil
+  D un strutur de selulas esagon, fabricada de sira par abeas per reserva miel e ovos; cualce strutur simil
   I #
   EN honeycomb
   FR alvéole d'abeille
@@ -50594,42 +50672,52 @@ galin : ajetivo
   I #
   T Galagidae
   EN galago, bushbaby, nagapie (primate)
+  ES galágido, gálago
 
 .Galapagos, Isolas : nom plural jeografial
   D un arcipelago de isolas a la ecuator en la Mar Pasifica a ueste de Ecuador, a cual los parteni
   I Isolas-Galapagos
   EN Galápagos Islands
+  ES Islas Galápagos
 
 .galasia : nom astronomia
   D un sistem de miliones o biliones de stelas, con gas e polvo, tenida par gravita
   I #
   EN galaxy
+  ES galaxia
 
 galasial : ajetivo
   EN galactic
+  ES galáctico
 
 intergalasial : ajetivo
   EN intergalactic
+  ES intergaláctico
 
 .galatosa : nom cimica
   D un zucar cual es un composante de latosa e multe polisacaridos
   EN galactose (sugar)
+  ES galactosa
 
 .galea : nom veculo istoria
   D un barco antica, basa e plata con un o plu velas e un, du o tre linias de remos, usada per gera, comersia e piratia
   I #
   EN galley (ship)
+  ES galera (barco)
 
 galeon : nom
   EN galleon (ship)
+  ES galeón (barco)
 
 .galeria : nom arciteta
   D un sala o construida per esibi o vende obras de arte; un sala o pasaje longa, partal abrida a un lado
   I #
   EN gallery, showroom (art); cloister (architecture)
+  ES galería, sala de exposición, sala de exposiciones (arte); soportal (arquitectura)
 
 galerieta : nom
   EN portfolio (of work)
+  ES portfolio
 
 .galia : nom planta
   D un planta erbosa con flores peti, jala o blanca, e spirales de folias magra, istorial usada per pleni materases
@@ -52341,7 +52429,7 @@ grandi : nom
   EN enlargement, growth, increase, amplification, magnification; augmentation, escalation
 
 grandia : nom
-  EN size, amplitude; stature
+  EN size, amplitude, magnitude; stature
 
 grandida : ajetivo
   EN enlarged, magnified
@@ -53042,14 +53130,17 @@ haida : nom
 .halal : ajetivo cosini
   D pertinente a carne preparada en la modo prescriveda par lege muslim
   EN halal
+  ES halal
 
 halal : nom
   EN halal meat
+  ES carne halal
 
 .halter : nom sporte
   D un bara corta con un pesa a cada fini, levada per crese la musculos de braso
   I #
   EN dumbbell
+  ES mancuerna
 
 .halter : nom biolojia
   D un de la du organos de ecuilibra de un mosca
@@ -53062,19 +53153,23 @@ halal : nom
 .halux : nom anatomia medica
   D la diton de la pede
   EN hallux, big toe (technical)
+  ES hallux, dedo gordo del, dedo grueso del pie, gran artejo, ortejo
 
 halux valga : nom
   EN bunion
+  ES bunio, juanete
 
 .Hampshire Nova : nom jeografial
   D un stato en la SUA norde-este
   P hámpxer
   EN New Hampshire (US state)
+  ES Nuevo Hampshire (estado de Estados Unidos)
 
 .han : nom istoria
   D la titulo de renores e ofisiores en Asia sentral e alga otra nasiones muslim; la titulo de la imperores mongol
   I han-renor
   EN khan, khagan (governor)
+  ES kan
 
 hania : nom
   D la impero o otra rena de un han
@@ -72155,7 +72250,7 @@ nometa : nom
   EN nickname, sobriquet, soubriquet
 
 nomi : verbo transitiva
-  U on nomi esta forma un exagon
+  U on nomi esta forma un esagon
   EN name, call, give a name to; appoint
 
 nomi per : verbo
@@ -75818,10 +75913,6 @@ ostrogoto : nom
 
 otagon : nom
   EN octagon
-
-.otalmo- : prefisa tecnical medica
-  D oios
-  EN opthalmo- (eye)
 
 .otano : nom cimica
   D un idrocarbono flamable e sin color
@@ -110032,7 +110123,7 @@ toraxal : ajetivo
   FR tourbe
 
 .torca : nom util
-  D un peso peti de metal o otra materia, tipal cuadro o exagon, con un fora con fileta per usa con un bulon
+  D un peso peti de metal o otra materia, tipal cuadro o esagon, con un fora con fileta per usa con un bulon
   I #
   EN nut (for bolt)
   FR écrou
