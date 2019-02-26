@@ -6,7 +6,7 @@
 #
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201902152002
+# Last modified 201902241534
 # See change log at the end of the file
 
 # ==============================================================
@@ -32,7 +32,7 @@ VPATH=./src:./target
 # Interface
 
 .PHONY: all
-all: epub
+all: epub dict
 
 # EPUB in 1 and 4 tomes:
 .PHONY: epub
@@ -40,7 +40,7 @@ epub: epub1 epub4
 
 # EPUB in 1 tome:
 .PHONY: epub1
-epub1: epub1d epub1p epub1x
+epub1: epub1d epub1p
 
 # EPUB in 1 tome, with asciidoctor-epub3:
 .PHONY: epub1a
@@ -60,7 +60,7 @@ epub1x: target/disionario_de_elefen.adoc.xml.xsltproc.epub
 
 # EPUB in 4 tomes:
 .PHONY: epub4
-epub4: epub4d epub4p epub4x
+epub4: epub4d epub4p
 
 # EPUB in 4 tomes, with asciidoctor-epub3:
 .PHONY: epub4a
@@ -235,6 +235,10 @@ tmp/%.adoc.xml: tmp/%.adoc
 # ----------------------------------------------
 # By asciidoctor-epub3, from Asciidoctor
 
+# This is not used by default, because the result is bigger, slower to use,
+# less versatile and less configurable by the viewer, though the text is better
+# looking.
+
 target/%.adoc.epub: src/%.adoc $(letter_files)
 	asciidoctor-epub3 --out-file=$@ $<
 
@@ -268,6 +272,9 @@ target/%.adoc.xml.pandoc.epub: tmp/%.adoc.xml.pandoc.raw.epub
 
 # ----------------------------------------------
 # By xsltproc, from DocBook
+
+# This is not used by default, because the result is identical to that of
+# dbtoepub, which is a wrapper on xsltproc.
 
 target/%.adoc.xml.xsltproc.epub: tmp/%.adoc.xml $(letter_files)
 	rm -fr tmp/xsltproc/* && \
@@ -327,3 +334,5 @@ target/%.adoc.xml.xsltproc.epub: tmp/%.adoc.xml $(letter_files)
 #
 # 2019-02-15: Make rule to update the original data (formerly this was done
 # with an internal shell script).
+#
+# 2019-02-24: Don't use xsltproc by default.
