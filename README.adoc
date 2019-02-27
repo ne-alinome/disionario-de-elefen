@@ -3,6 +3,7 @@
 :revdate: 2019-02-26
 :toc:
 :toc-levels: 2
+:toc-title: Contenidas/Enhavo/Contents
 
 // This file is part of the project
 // "Disionario de elefen"
@@ -10,7 +11,7 @@
 //
 // By Marcos Cruz (programandala.net)
 
-// Last modified 201902272203
+// Last modified 201902272238
 
 == Elefen
 
@@ -22,7 +23,40 @@ http://elefen.org/disionario[Disionario de elefen].
 
 Autor:: Marcos Cruz (programandala.net), 2018, 2019
 
-Loca ueb:: http://ne.alinome.net
+Loca ueb:: http://ne.alinome.net[ne.alinome.net]
+
+=== Como construi la disionario
+
+Si tu no pote espeta la relasa de la revisa seguente, tu mesma pote
+construi la fixes ojetal.
+
+Prima, serti ce la programas listada en la sesion "Requirements"
+(nesesadas) de la fix <Makefile> es instalada en tua sistem.
+
+Alora entra en la arcivo de la projeta e fa un comanda `make` como la
+seguentes:
+
+|===
+| Comanda             | Efeto
+
+| make                | Construi la plu de formatos e varias
+| make all            | Construi la plu de formatos e varias
+| make dict           | Construi la formato DICT
+| make epub           | Construi la formato EPUB (la plu de varias)
+| make epub1          | Construi la formato EPUB en 1 libron (par convertadores variosa)
+| make epub1a         | Construi la formato EPUB en 1 libron par asciidoctor-epub3
+| make epub1d         | Construi la formato EPUB en 1 libron par dbtoepub
+| make epub1p         | Construi la formato EPUB en 1 libron par pandoc
+| make epub1x         | Construi la formato EPUB en 1 libron par xsltproc
+| make epub4          | Construi la formato EPUB en 4 librones (par convertadores variosa)
+| make epub4a         | Construi la formato EPUB en 4 librones par asciidoctor-epub3
+| make epub4d         | Construi la formato EPUB en 4 librones par dbtoepub
+| make epub4p         | Construi la formato EPUB en 4 librones par pandoc
+| make epub4x         | Construi la formato EPUB en 4 librones par xsltproc
+| make update         | Descarga la corente revisa de la datos orijinal
+| sudo make install   | Instala la fixes DICT
+| sudo make uninstall | Desinstala la fixes DICT
+|===
 
 == Esperanto
 
@@ -34,9 +68,12 @@ elefen] (elefena vortaro).
 
 Aŭtoro:: Marcos Cruz (programandala.net), 2018, 2019
 
-Retpaĝaro:: http://ne.alinome.net
+Retpaĝaro:: http://ne.alinome.net[ne.alinome.net]
 
 === Kiel konstrui la vortaron
+
+Se vi ne povas atendi la publikigon de la venonta versio, vi mem povas
+konstrui la cel-dosierojn.
 
 Unue, certiĝu ke la programoj enlistigitaj en la fako "Requirements"
 (necesaĵoj) de la dosiero <Makefile> estas instalitaj en via sistemo.
@@ -77,9 +114,12 @@ Dictionary).
 
 Author:: Marcos Cruz (programandala.net), 2018, 2019
 
-Website:: http://ne.alinome.net
+Website:: http://ne.alinome.net[ne.alinome.net]
 
 === How to build the dictionary
+
+If you cannot wait the release of the next version, you can build the
+target files yourself.
 
 First, make sure the programs listed under the "Requirements" section
 of the <Makefile> file are installed in your system.
