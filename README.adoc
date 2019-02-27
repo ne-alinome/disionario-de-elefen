@@ -10,6 +10,8 @@
 //
 // By Marcos Cruz (programandala.net)
 
+// Last modified 201902272203
+
 == Elefen
 
 === Pri esta projecta
@@ -34,6 +36,36 @@ Aŭtoro:: Marcos Cruz (programandala.net), 2018, 2019
 
 Retpaĝaro:: http://ne.alinome.net
 
+=== Kiel konstrui la vortaron
+
+Unue, certiĝu ke la programoj enlistigitaj en la fako "Requirements"
+(necesaĵoj) de la dosiero <Makefile> estas instalitaj en via sistemo.
+
+Poste eniru la dosierujon de la projekto kaj uzu la ordonon `make`
+jene:
+
+|===
+| Ordono              | Efiko
+
+| make                | Konstrui plej multajn formatojn kaj variantoj
+| make all            | Konstrui plej multajn formatojn kaj variantoj
+| make dict           | Konstrui la formaton DICT
+| make epub           | Konstrui la formaton EPUB (plimultajn variantojn)
+| make epub1          | Konstrui la 1-voluman EPUB-on (per pluraj tradukiloj)
+| make epub1a         | Konstrui la 1-voluman EPUB-on per asciidoctor-epub3
+| make epub1d         | Konstrui la 1-voluman EPUB-on per dbtoepub
+| make epub1p         | Konstrui la 1-voluman EPUB-on per pandoc
+| make epub1x         | Konstrui la 1-voluman EPUB-on per xsltproc
+| make epub4          | Konstrui la 4-voluman EPUB-ojn (per pluraj tradukiloj)
+| make epub4a         | Konstrui la 4-voluman EPUB-ojn per asciidoctor-epub3
+| make epub4d         | Konstrui la 4-voluman EPUB-ojn per dbtoepub
+| make epub4p         | Konstrui la 4-voluman EPUB-ojn per pandoc
+| make epub4x         | Konstrui la 4-voluman EPUB-ojn per xsltproc
+| make update         | Deŝuti la nunan version de la originala datenaro
+| sudo make install   | Instali la DICT-dosierojn
+| sudo make uninstall | Malinstali the DICT-dosierojn
+|===
+
 == English
 
 === About this project
@@ -51,6 +83,9 @@ Website:: http://ne.alinome.net
 
 First, make sure the programs listed under the "Requirements" section
 of the <Makefile> file are installed in your system.
+
+Then enter the project's directory and give the `make` command as
+follows:
 
 |===
 | Command             | Effect
