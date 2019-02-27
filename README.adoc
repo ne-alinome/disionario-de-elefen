@@ -1,6 +1,8 @@
 = Disionario de elefen
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-02-06
+:revdate: 2019-02-26
+:toc:
+:toc-levels: 2
 
 // This file is part of the project
 // "Disionario de elefen"
@@ -10,32 +12,64 @@
 
 == Elefen
 
-Intende de esta projeta:: Fa un libro dijital en EPUB e un disionario
+=== Pri esta projecta
+
+Intende:: Fa un libro dijital en EPUB e un disionario
 de formato DICT de la contenidas de
 http://elefen.org/disionario[Disionario de elefen].
 
 Autor:: Marcos Cruz (programandala.net), 2018, 2019
 
-Loca ueb de la projeta:: http://ne.alinome.net
+Loca ueb:: http://ne.alinome.net
 
 == Esperanto
 
-Celo de ĉi projekto:: Krei  EPUB-an bitlibron kaj DICT-formatan
+=== Pri ĉi projekto
+
+Celo:: Krei  EPUB-an bitlibron kaj DICT-formatan
 vortaron el la enhavo de http://elefen.org/disionario[Disionario de
 elefen] (elefena vortaro).
 
 Aŭtoro:: Marcos Cruz (programandala.net), 2018, 2019
 
-Retpaĝaro de la projekto:: http://ne.alinome.net
+Retpaĝaro:: http://ne.alinome.net
 
 == English
 
-Goal of this project:: Create an EPUB e-book and a DICT format
+=== About this project
+
+Goal:: Create an EPUB e-book and a DICT format
 dictionary from the contents of
 http://elefen.org/disionario[Disionario de elefen] (Elefen
 Dictionary).
 
 Author:: Marcos Cruz (programandala.net), 2018, 2019
 
-Website of the project:: http://ne.alinome.net
+Website:: http://ne.alinome.net
 
+=== How to build the dictionary
+
+First, make sure the programs listed under the "Requirements" section
+of the <Makefile> file are installed in your system.
+
+|===
+| Command             | Effect
+
+| make                | Build most formats and variants
+| make all            | Build most formats and variants
+| make dict           | Build the DICT format
+| make epub           | Build the EPUB format (most variants)
+| make epub1          | Build the 1-volume EPUBs (with several converters)
+| make epub1a         | Build the 1-volume EPUB with asciidoctor-epub3
+| make epub1d         | Build the 1-volume EPUB with dbtoepub
+| make epub1p         | Build the 1-volume EPUB with pandoc
+| make epub1x         | Build the 1-volume EPUB with xsltproc
+| make epub4          | Build the 4-volume EPUBs (with several converters)
+| make epub4a         | Build the 4-volume EPUBs with asciidoctor-epub3
+| make epub4d         | Build the 4-volume EPUBs with dbtoepub
+| make epub4p         | Build the 4-volume EPUBs with pandoc
+| make epub4x         | Build the 4-volume EPUBs with xsltproc
+| make update         | Download the current version of the original data
+| sudo make install   | Install the DICT files
+| sudo make uninstall | Uninstall the DICT files
+|===
