@@ -2477,12 +2477,15 @@ aglutinante : ajetivo linguistica
 .agnosia : nom medica
   D un noncapasia de interprete sensas e donce de reconose cosas, tipal resultante de dana serebral
   EN agnosia
+  HE אגנוזיה, אל-הכר
 
 agnosica : ajetivo
   EN agnosic
+  HE סובל מאגנוזיה
 
 agnosica : nom
   EN agnosic
+  HE סובל מאגנוזיה
 
 .agnostica : ajetivo relijio
   D credente ce on no pote sabe esce dios esiste
@@ -2553,6 +2556,7 @@ agin : ajetivo
 .agoniste : nom medica biolojia
   D un cimical cual stimula un responde fisiolojial; un musculo de cual sua contrae move un parte de la corpo
   EN agonist
+  HE (רפואה) אגוניסט, מסייע
 
 .agopuntur : nom medica
   D un tecnica de medica alternativa en cual on pone agos en la pel
@@ -2722,7 +2726,7 @@ nonagu : ajetivo
   EN aye-aye (primate)
   EO fingrobesto, ajajo, daŭbentonio
   FR aye-aye
-  HE איי איי (סוג של פרימט ממדגסקר)
+  HE איי איי (בעל חיים)
 
 .aiatola : nom relijio governa
   D un autoriosa en islam xia, spesial en Iran
@@ -4408,7 +4412,7 @@ alopatica : ajetivo
 
 .alora : averbo
   D a acel ora, a acel tempo, a la tempo pertinente, no aora; donce
-  N No usa `alora` per dise `como la ata seguente`. Usa `a pos` per esta.
+  N No usa `alora` per dise `como la ata seguente`. Usa `a pos` o `pos alora` per esta.
   U la vive alora ia es plu simple; si tu come tua vejetales, alora tu pote come un torteta
   V a pos
   EN then (at that time); therefore, consequently, in that case
@@ -4430,6 +4434,9 @@ asta alora : espresa
 de alora : averbo
   EN from then on, since then, any longer
   HE מאז
+
+pos alora : averbo
+  EN then, next, after that
 
 la re alora : nom
   EN the then king
@@ -8971,6 +8978,10 @@ arminian : nom
 arminianisme : nom
   EN Arminianism (Christianity)
   HE ארמיניאניזם
+
+.armol : nom planta
+  T Chenopodium
+  EN saltbush, atriplex, orach
 
 .armonia : nom musica
   D la efeto plasente produida par un combina simultan de notas musical, o par un misca artal de otra cosas; (metafor) acorda
@@ -17661,7 +17672,7 @@ boscor : nom
   HE שוכן ביער
 
 subosce : nom
-  EN undergrowth, underbrush, scrub, brushwood (low-growing vegetation)
+  EN undergrowth, underbrush, scrub, brush, brushwood (low-growing vegetation or the wood thereof)
   FR sousbois
   HE סבך שיחים
 
@@ -26565,11 +26576,11 @@ coletiviste : nom
 
 .colide : verbo nontransitiva
   D (du cosas movente) colpa fortiosa lunlotra
-  EN collide, crash
+  EN collide, crash, impact
   HE להתנגש
 
 colide : nom
-  EN collision, crash
+  EN collision, crash, impact
   HE התנגשות
 
 colide multiple : nom
@@ -27716,6 +27727,9 @@ no como : sujunta
   EN unlike how
   HE שלא כמו
   RU словно не, как будто не
+
+sempre como : sujunta
+  EN however
 
 .comoda : nom arciteta
   D un mobila de caxetas e cisa scafales
@@ -30258,7 +30272,6 @@ contraconsepinte : nom
   HE אמצעי מניעה
 
 contraconsepinte intrauteral : nom
-  I #
   EN intrauterine contraceptive device, IUD, coil
   HE התקן תוך-רחמי
 
@@ -31985,239 +31998,303 @@ cortierba puiable : nom
   D un stofa pendente cual covre o scermi, tipal un de du ante un fenetra
   I #
   EN curtain, drape
+  HE וילון
 
 cortina alta : nom
   I #
   EN valance
+  HE וילון קצר
 
 cortina enrolante : nom
   EN window blind, window shade
+  HE תריס גלילה
 
 cortina venezian : nom
   EN venetian blind, jalousie
+  HE תריס ונציאני
 
 cortinas : nom plural
   EN curtains, drapery
+  HE וילונות
 
 sin cortina : ajetivo
   EN uncurtained
+  HE ללא וילון
 
 .cortisona : nom biolojia
   D un ormon produida par la cortex suprarenal
   EN cortisone (hormone)
+  HE קורטיזון
 
 .cortiungia : nom verbo-nom util
   D un util per corti ungias de dito e pede
   EN nail clipper
+  HE קוצץ ציפורניים
 
 .Corvatsca : nom jeografial
   C Zagreb
   D un pais en Europa sude-este, con costa a la Mar Adriatica
   I #
   EN Croatia
+  HE קרואטיה
 
 corvatsce : ajetivo
   EN Croatian (person, language)
+  HE קרואטי, קרואטית (שפה)
 
 corvatsce : nom demonim
   EN Croatian (person, language)
+  HE קרואטי, קרואטית (שפה)
 
 .corveta : nom veculo
   D un barcon peti de gera, desiniada per acompania convoias
   EN corvette (ship)
+  HE קורבטה (ספינה)
 
 .corvo : nom avia
   D un avia grande con plumas negra e briliante, beco spesa, e vose xiliante
   T Corvus
   EN crow, raven
+  HE עורב
 
 corvo american : nom animal avia
   I #
   T Corvus brachyrhynchos
   EN American crow
+  HE עורב אמריקאי
 
 corvo blanca-negra : nom animal avia
   I #
   T Corvus albus
   EN pied crow
+  HE עורב צבוע
 
 corvo comun : nom animal avia
   I #
   T Corvus corone
   EN carrion crow
+  HE עורב הנבלות
 
 corvo de jungla : nom animal avia
   I #
   T Corvus macrorhynchos
   EN jungle crow
+  HE עורב ארוך-מקור
 
 corvo gris : nom animal avia
   I #
   T Corvus cornix
   EN hooded crow, hoodie
+  HE עורב אפור
 
 Corvo : nom astronomia
   D un constela peti en la sielo sude
   EN Corvus (constellation)
+  HE עורב (קבוצת כוכבים)
 
 corvo pexante : nom animal avia
   I #
   T Corvus ossifragus
   EN fish crow
+  HE עורב הדגים
 
 corvon : nom animal avia
   I #
   T Corvus albicollis, Corvus corax, Corvus crassirostris, Corvus ruficollis, {etc // etc.}
   EN raven
+  HE עורב שחור
 
 .cosa : nom
   D cualce ojeto o conseta cual esiste o pote es pensada
   EN thing, affair, matter, entity
+  HE דבר, חפץ, עניין
 
 no cosa : nom
   EN nothing
+  HE כלום, שום דבר
 
 no cosa plu ca : espresa
   EN nothing more than, merely, simply, just
+  HE לא יותר מ, אך ורק, בלבד
 
 noncosia : nom
   EN nothingness
+  HE איין, אפסיות, כלומיות
 
 .cosa : ajetivo demonim
   D pertinente a un popla de Sudafrica o a sua lingua
   EN Xhosa (person, language)
+  HE קוסה (עם, שפה)
 
 cosa : nom
   EN Xhosa (person, language)
+  HE קוסה (עם, שפה)
 
 .coscrive : verbo transitiva arte
   D scrive (alga cosa) con un otra person
   EN co-write, coauthor
+  HE לכתוב במשותף
 
 coscrivor : nom
   EN co-writer, coauthor
+  HE מחבר שותף
 
 .cose : verbo transitiva veste
   D junta o repara (alga cosa) con filo, usante un ago o un macina spesial
   EN sew, stitch
+  HE לתפור
 
 cose : nom
   EN sewing, stitching, needlework
+  HE תפירה
 
 cose de orlo : nom
   EN hemstitch
+  HE תפר מכפלת
 
 cose laxe : verbo transitiva
   EN baste
+  HE להכליב
 
 cosador : nom
   I #
   EN sewing machine
+  HE מכונת תפירה
 
 coseda : ajetivo
   EN sewn, stitched
+  HE תפור
 
 coseda par mano : ajetivo
   EN handsewn, handstitched
+  HE תפור ידנית
 
 cosor : nom
   EN sewer, seamster, seamstress
+  HE תופר, תופרת
 
 .cosina : nom cosini
   D un sala o area do on prepara e coce comedas
   I #
   EN kitchen
+  HE מטבח
 
 cosinal : ajetivo
   EN culinary
+  HE קולינרי
 
 cosineta : nom
   EN kitchenette
+  HE מטבחון
 
 cosini : verbo transitiva
   EN cook
+  HE לבשל
 
 cosini : nom
   EN cooking, cookery, cuisine, cooking style
+  HE בישול, טבחות
 
 cosini refinada : nom
   EN haute cuisine
+  HE מטבח עילית
 
 cosinor : nom
   EN cook
+  HE טבח
 
 .cosineto : nom util
   D un parte de un macina cual tolera frica, spesial entre un parte jirante e sua caxa
   EN bearing (machinery)
+  HE מסב
 
 .cosinus : nom matematica
   D un funsiona trigonometrial, egal (en un triangulo reta) a la longia de la lado tocada par la angulo agu pertinente, divideda par la longia de la ipotenusa
   EN cosine
+  HE קוסינוס
 
 .cosix : nom anatomia
   D un oso peti e triangulo a la funda de la colon spinal en umanas e alga simias, formida de vertebras fusada
   EN coccyx, tailbone
+  HE עצם הזנב
 
 .cosmetica : ajetivo veste
   D pertinente a tratas intendeda per boni o repara la aspeta de un person, tipal la fas
   I #
   EN cosmetic
+  HE קוסמטי
 
 cosmetica : nom
   EN cosmetic
+  HE קוסמטיקה
 
-.cosmetolojia : nom veste
+cosmeticisme : nom veste
   D la pratica profesal de beli la fas, capeles e pel
   EN cosmetology
+  HE קוסמטולוגיה
 
-cosmetolojiste : nom
-  EN cosmetologist
+cosmeticiste : nom
+  EN cosmetologist, beautician
+  HE קוסמטיקאי, קוסמטיקאית, קוסמטולוג
 
 .cosmogonia : nom astronomia
   D la siensa cual studia la orijina de la universo, spesial la sistem solal
   EN cosmogony
+  HE קוסמוגוניה
 
 .cosmolojia : nom astronomia
   D la siensa de la orijina e developa de la universo
   EN cosmology
+  HE קוסמולוגיה
 
 cosmolojiste : nom
   EN cosmologist
+  HE קוסמולוג
 
 .Cosovo : nom jeografial
   C Pristina
   D un parte autonom de la Balcanes, entre Serbia e Xciperia
   I #
   EN Kosovo
+  HE קוסובו
 
 cosovan : ajetivo
   EN Kosovan
+  HE קוסובני
 
 cosovan : nom
   EN Kosovan
+  HE קוסובני
 
 .cosponsor : nom
   D un de un grupo de sponsores
   EN cosponsor
+  HE נותן חסות שותף
 
 cosponsori : verbo transitiva
   EN cosponsor
+  HE להצטרף כנותן חסות
 
 .costa : nom tera
   D la parte de la tera prosima a la mar; la borda de la tera
   EN coast, shore, seashore, seacoast, waterside
+  HE חוף
 
 a lado de costa : averbo
   EN off the coast
+  HE קרוב לחוף
 
 costal : ajetivo
   EN coastal, littoral, offshore
+  HE חופי
 
 costal : averbo
   EN offshore
+  HE מול החוף (בים)
 
 sin costa : ajetivo
   EN landlocked
+  HE ללא מוצא לים
 
 Costa de Ivor : nom jeografial
   C Abidjan
@@ -32225,959 +32302,1223 @@ Costa de Ivor : nom jeografial
   I costa-de-ivor
   V ivorian
   EN Ivory Coast, Côte d'Ivoire
+  HE חוף השנהב
 
 ivorian : ajetivo
   V Costa de Ivor
   EN Ivorian
+  HE של חוף השנהב
 
 ivorian : nom
   EN Ivorian
+  HE תושב חוף השנהב
 
 Costa Rica : nom jeografial
   C San José
   D un pais en America Sentral con costas a la Mar Pasifica e la Mar Caribe
   I costa-rica
   EN Costa Rica
+  HE קוסטה ריקה
 
 costarican : ajetivo
   EN Costa Rican, Costarican
+  HE קוסטריקני
 
 costarican : nom
   EN Costa Rican, Costarican
+  HE קוסטריקני
 
 .costela : nom anatomia cosini
   D cada de un serie de osos magra e curva cual proteje la organos su la peto; (en un animal) un de estas, de cual on come sua carne
   EN rib; chop (meat)
+  HE צלע
 
 costela de porco : nom
   EN pork rib, spare rib
+  HE צלע חזיר
 
 costeleta : nom
   D un peso de carne taliada, panida, e grilida o fritada
   EN cutlet
+  HE קוטלט (נתח בשר)
 
 costelin : ajetivo
   EN ribbed, corded
+  HE מצולע
 
 costelin : nom
   EN rib, ridge, wale (fabric)
+  HE ריב (סריג)
 
 .costela : nom arte
   D un ator major ci presenta con un otra ator egal importante
   EN co-star
+  HE כוכב משנה
 
 .costudiante : nom
   D un de la otra persones ci studia en la mesma curso o loca
   EN fellow student
   EO kunstudento
+  HE שותף ללימודים
 
 .costum : nom siensa-umana
   D un modo de condui tradisional, normal e asetada en un sosia, loca o tempo spesifada
   EN custom, routine, usage, social convention
+  HE מנהג, נוהג
 
 costumal : ajetivo
   EN customary, default, pro forma
+  HE נהוג, מקובל
 
 costumal : averbo
   EN customarily
+  HE כנהוג, כמקובל
 
 noncostumal : ajetivo
   EN uncustomary
+  HE לא נהוג, לא מקובל
 
 .costur : nom veste
   D un linia longo cual du pesos de stofa es coseda con lunlotra; la linia longo cual du pesos de lenio, paper o stofa contata lunlotra
   EN seam
+  HE תפר
 
 costur interna : nom
   EN inseam
+  HE תפר פנימי
 
 costurin : ajetivo
   EN seamlike
+  HE דמוי תפר
 
 .cosuscrive : verbo transitiva
   D suscrive (alga cosa) con un otra person
   EN cosign
+  HE לחתום עם עוד אנשים
 
 cosuscrivor : nom
   EN cosigner, cosignatory
+  HE חותם עם עוד אנשים
 
 .cotanjente : nom matematica
   D un funsiona trigonometrial, egal (en un triangulo reta) a la longia de la lado tocada par la angulo agu pertinente, divideda par la longia de la lado oposante esta angulo
   EN cotangent
+  HE קוטנגנס
 
 .cotel : nom util
   D un strumento composada de un lamina fisada a un manico, usada per talia o corti, o como un arma
   EN knife, shiv
+  HE סכין
 
 cotel composada : nom
   I #
   EN Swiss army knife
+  HE אולר שוויצרי
 
 cotel de pox : nom
   EN pocket knife, folding knife, jackknife, penknife
+  HE אולר
 
 cotel de xef : nom
   I #
   EN chef's knife
+  HE סכין שף
 
 cotel ejetable : nom
   EN flick knife, switchblade
+  HE אולר קפיצי
 
 cotel osilante : nom
   I #
   EN herb chopper, mezzaluna, hachoir
+  HE מזלונה (סכין)
 
 colpa con cotel : verbo
   EN stab, jab
+  HE לדקור (עם סכין)
 
 colpa con cotel : nom
   EN stab, jab
+  HE דקירה (עם סכין)
 
 coteli : verbo transitiva
   EN cut, stab (with knife)
+  HE לחתוך (עם סכין)
 
 .cotiledon : nom biolojia
   D un folia embrial de un planta de semes
   EN cotyledon (botany)
+  HE (בוטניקה) פסיג
 
 .cotinga : nom avia
   D un avia trovada en la forestas de America Sentral e Sude, de cual la mas es tipal briliante colorida
   I #
   T Cotingidae
   EN cotinga (bird)
+  HE קוטינגה (ציפור)
 
 .cotino : nom planta
   D un arboreta o arbor peti en familia de anacardio, cual produi plumas longa de flores
   I #
   T Cotinus
   EN smoke tree
+  HE קוטינוס (צמח)
 
 .coto : nom musica
   D un sitra longa, orijinante en Nion, con des-tre filos de seda cual pasa sur pontes peti e movable
   I #
   EN koto (musical instrument)
+  HE קוטו (כלי נגינה)
 
 .coton : nom planta veste
   D un planta usada xef per fibre e stofa; un materia mol, blanca e fibrosa cual ensirca la semes de esta
   I #
   T Gossypium
   EN cotton (plant, fiber|re)
+  HE כותנה
 
 coton asorbente : nom
   EN cotton wool
+  HE צמר גפן
 
 coton de zucar : nom
   EN cotton candy, candyfloss
+  HE צמר גפן מתוק
 
 de coton : ajetivo
   EN (made of) cotton
+  HE עשוי כותנה
 
 .coturnix : nom avia
   D un avia peti de la mundo vea, semblante un perdis peti, con coda corta e tipal plumas brun camoflante
   I #
   T Coturnix
   EN quail (bird)
+  HE שלו (ציפור)
 
 .covalente : ajetivo
   D pertinente a lias cimical formida par la comparti de eletrones par atomes
   EN covalent
+  HE (כימיה) קוולנטי
 
 .covre : verbo transitiva
   D pone alga cosa sur (un person o cosa) per proteje o asconde el o lo
   EN cover, coat
+  HE לכסות, לסוכך
 
 covre : nom
   EN coverage, coat, coating
+  HE כיסוי
 
 covre completa : nom
   EN full coverage
+  HE כיסוי מלא
 
 covre partal : verbo
   EN overlap
+  HE לכסות חלקית, לחפוף
 
 a covre de : preposada
   EN covering, coating, all over
+  HE (מילת יחס) מכסה
 
 covreda : ajetivo
   EN covered, overcast
+  HE מכוסה
 
 covrente : ajetivo
   EN covering, coating
+  HE מכסה
 
 covrente : preposada
   EN covering, coating, all over
+  HE (מילת יחס) מכסה
 
 covrente : nom
   EN cover, covering, lid, top
+  HE מכסה
 
 covrente desfisable : nom
   EN slipcover
+  HE כיסוי בד
 
 covreta : verbo transitiva
   D covre lejera o partal
   EN dust, sprinkle, strew
+  HE לזרות, לבזוק, לפזר
 
 covreta : nom
   D un covre lejera o partal; un abri o talia en un veste, covrente un fisador o un pox; la plia de stofa su esta
   EN dusting, sprinkling; placket; fly, flies
+  HE זרייה, בזיקה; (בגדים( פריפה
 
 descovrable : ajetivo
   EN discoverable
+  HE שניתן לגילוי
 
 descovre : verbo transitiva
   EN discover, uncover, find out, ascertain
+  HE לגלות, לחשוף
 
 descovre : nom
   EN discovery
+  HE גילוי, תגלית, חשיפה
 
 descovror : nom
   EN discoverer
+  HE מגלה
 
 noncovreda : ajetivo
   EN uncovered, not covered
+  HE גלוי, מגולה, חשוף
 
 redescovre : verbo transitiva
   EN rediscover, become reacquainted with
+  HE לגלות מחדש
 
 (retira) noncovreda : nom
   EN overdraft
+  HE משיכת יתר
 
 .covrebuco : nom verbo-nom
   D un ojeto usada per asconde un buco; un modo tempora de solve un problem
   EN stopgap
+  HE תחליף זמני
 
 .covrecasola : nom verbo-nom
   D un covrente per un casola
   EN saucepan lid
+  HE מכסה לסיר
 
 .covrecolo : nom verbo-nom
   D un tela o peso de armur cual covre la colo
   EN neckscarf; gorget (throat protector)
+  HE חם צוואר; שריון לצוואר
 
 .covrecuxin : nom verbo-nom
   D un covrente de stofa per un cuxin
   EN cushion cover, pillowcase
+  HE ציפית לכרית
 
 .covrefenetra : nom verbo-nom
   D cada de du paneles xarnierida a un fenetra, cluable per securia o privatia o per redui la lus entrante
   EN shutter
+  HE תריס
 
 .covregama : nom verbo-nom veste
   D un veste forte per proteje un gama
   EN legging (protective)
+  HE טייטס מגן
 
 .covrejeno : nom verbo-nom veste
   D un covrente per proteje un jeno, usada par sportores
   EN kneepad
+  HE מגן ברך
 
 .covreleto : nom verbo-nom
   D un peso grande de materia spesa o plenida, su cual on dormi sur un leto
   EN blanket, quilt, duvet
+  HE שמיכה
 
 .covrelibro : nom verbo-nom
   D un covrente de paper desfisable cual proteje un libro reliada
   EN dust jacket
+  HE עטיפת ספר (בכריכה קשה)
 
 .covreoio : nom verbo-nom
   D un peso de materia portada per proteje un oio ferida
   EN eyepatch
+  HE רטייה
 
 .covreorea : nom verbo-nom veste
   D un duple de covrentes, liada par un banda supra la testa, portada sur la oreas per proteje los contra fria o ruido
   EN earmuff, earmuffs
+  HE אוזניות מגן; מחממי אוזניים
 
 .covrepeto : nom verbo-nom veste
   D la parte supra la taie de la fronte de un faldon o salopeta
   EN bib (overalls)
+  HE סינר לתינוק
 
 .covreplato : nom verbo-nom
   D un covrente per un plato de servi
   EN dish cover
+  HE מכסה למגש
 
 .covresentro : nom verbo-nom
   D un covrente per la sentro de la rota de un veculo
   EN hubcap
+  HE (רכב) צלחת, טסה
 
 .covreseso : nom verbo-nom veste
   D un stofa envolveda sirca la ancas; un covrente per la jenitales, tipal portada par persones tribal o dansores erotica
   EN loincloth, breechcloth, breechclout; cache-sexe
+  HE כיסוי חלציים
 
 .covretable : nom verbo-nom
   D un telon estendeda sur un table
   EN tablecloth
+  HE מפה (לשולחן)
 
 .covretesta : nom verbo-nom veste
   D un xapo, elmo o otra veste portada sur la testa
   EN headgear, headwear
+  HE כיסוי ראש
 
 .covreteta : nom verbo-nom veste
   D un gaina portada par alga femes sur teta e areola cuando los dona lete; un covrente aderente per un teta
   EN nipple shield; pastie
+  HE מגן פטמה
 
 .covretibia : nom verbo-nom veste
   D un covrente protejente per un tibia, usada par sportores
   EN shinpad, shinguard
+  HE מגן שוק
 
 .covretota : nom verbo-nom
   D un veste de un peso portada supra otra vestes per proteje los
   EN overalls, coverall, boilersuit, jumpsuit
+  HE סרבל, אוברול
 
 .covrevaso : nom verbo-nom
   D un covrente spesa o plenida per manteni la caldia de un vaso de te
   EN tea cosy
+  HE כיסוי קנקן, מטמן
 
 .covreveranda : nom verbo-nom
   D un telon de lona o otra stofa, estendeda supra un teraza o simil per proteje lo contra la sol o pluve
   EN awning
+  HE סוכך, גגון
 
 .coxa : nom anatomia
   D la parte de la gama entre la anca e la jeno
   I #
   EN thigh
+  HE ירך
 
 .coxea : verbo nontransitiva medica
   D pasea difisil, tipal causada par la rijidi o dana de un gama o pede
   EN limp, hobble
+  HE לצלוע; לקרטע
 
 coxea : nom
   EN limp
+  HE צליעה
 
 coxeante : ajetivo
   EN lame, gimpy; shaky, wobbly, rickety, wonky
+  HE צולע; מקרטע
 
 coxeor : nom
   EN limper, gimp
+  HE (אדם) צולע
 
 .coxinilia : nom artropodo
   D un inseto peti con scama protejente e scermin
   I #
   T Coccoidea
   EN scale insect
+  HE כנימת מגן
 
 .cozac : ajetivo demonim
   D pertinente a un popla de Rusia sude e Ucraina, notada per sua capasia militar e sua cavaloria
   EN Cossack
+  HE קוזאקי
 
 cozac : nom demonim
   EN Cossack
+  HE קוזאק
 
 .cozatxoc : nom musica
   D un dansa slavica con ritmo rapida, con un parte en cual un dansor acrupinte lansa alternante sua gamas a ante
   EN kozachok, kazachok (dance)
+  HE קזצ'וק (ריקוד)
 
 .crabe : nom artropodo
   D un crustaseo con armur larga, oios sur troncetas, e sinco duples de gamas, de cual la gamas anterior es alterada per pinsi
   I #
   T Brachyura
   EN crab
+  HE סרטן
 
 crabe de rio : nom
   D un crustaseo noturna de acua dulse, semblante un omaro peti
   T Astacoidea, Parastacoidea
   EN crayfish
+  HE סרטן נהרות
 
 Crabe : nom astronomia
   D un constela de la zodiaco
   S ♋
   EN Cancer (constellation)
+  HE סרטן (קבוצת כוכבים, מזל)
 
 .crac : nom onomatopea
   D un ruido subita e agu o esplodente, tipal la sona de un cosa rompente
   EN crack, crunch, snap
+  HE צליל פיצוח, צליל בקיעה
 
 crac : esclama
   EN crack, crunch, snap
+  HE צליל פיצוח, צליל בקיעה
 
 craci : verbo nontransitiva
   EN crack, crunch, scrunch, snap
+  HE להשמיע צליל פיצוח, צליל בקיעה
 
 craci : verbo transitiva
   EN crack, crunch, scrunch, snap
+  HE להשמיע צליל פיצוח, צליל בקיעה
 
 cracinte : ajetivo
   EN crunchy
+  HE משמיע צליל פיצוח, צליל בקיעה
 
 cracosa : ajetivo
   EN crunchy, crisp, crispy
+  HE פריך, מתפצח, קראנצ'י
 
 .crac : nom medica
   D un forma dur e cristal de cocaina, rompeda a pesos peti, caldida e enspirada
   EN crack, crack cocaine
+  HE קראק
 
 .cracen : nom mitolojia
   D un monstro mital enorme de mar, sur cual on dise ce lo apare a la costa de Noria
   I #
   EN kraken
+  HE קראקן
 
 .cracer : nom cosini
   D un biscoto magra, seca e salosa
   EN cracker, saltine
+  HE קרקר, מצייה
 
 cracer de segal : nom
   EN crispbread
+  HE קרקר שיפון
 
 .crampo : nom medica
   D un contrae dolente e nonintendeda de un musculo o musculos, tipal causada par fatiga o tensa
   EN cramp (muscle)
+  HE התכווצות, עווית (שריר)
 
 .crampon : nom util
   D un protende o spina peti, fisada a la planta de un sapato o bota per redui la risca de lisca
   EN crampon, stud (boot)
+  HE קרמפון, זיז סוליה
 
 .cranio : nom anatomia
   D la strutur de oso o cartilaje cual enclui la serebro de un vertebrato
   I #
   EN skull, cranium
+  HE גולגולת
 
 cranial : ajetivo
   EN cranial
+  HE גולגולתי
 
 .crase : verbo transitiva
   D compresa forte (alga cosa) per desformi lo, polvi lo o forsa lo a en se
   EN crush, squash, mash, crumple, flatten, smash, run over
+  HE למחוץ, למעוך, לרסק
 
 crase : nom
   EN crushing, squashing
+  HE מחיצה, מעיכה, ריסוק
 
 crase su pede : verbo
   EN crush under foot, trample, tread on
+  HE לרמוס
 
 .crasenoza : nom verbo-nom util avia
   D un util per abri nozas; un avia en familia de corvo, ci come la nozas de coniferes
   I #, crasenoza-avia
   T Nucifraga
   EN nutcracker
+  HE מפצח אגוזים
 
 .crasula : nom planta
   D un planta suculente con flores peti, ros o blanca, nativa de Sudafrica e Mosambic, e un planta comun de casa tra la mundo
   I #
   T Crassula ovata
   EN jade plant, friendship tree, lucky plant, money tree
+  HE קרסולה סגלגלה (צמח)
 
 .crater : nom tera
   D un caveta grande, con forma de bol, en la surfas de un planeta o luna, tipal causada par un esplode o un colpa par un meteorite o otra ojeto sielal; un cava grande cual formi la boca de un volcan
   I #
   EN crater
+  HE מכתש
 
 crater volcanal : nom
   EN caldera
+  HE קלדרה, לוע (הר געש)
 
 .craton : nom tera
   D un bloco grande e stable de la crosta de la Tera, forminte la nucleo de un continente
   EN craton (geology)
+  HE (גאולוגיה) קראטון
 
 .cravata : nom veste
   D un banda de stofa portada sirca la colo e nodada a la fronte con sua finis pendente, un parte tipal de un veston de om
   I #
   EN necktie, tie
+  HE עניבה
 
 cravata papilin : nom
   I #
   EN bow tie
+  HE עניבת פרפר
 
 .crea : verbo transitiva
   D fa ce (un cosa) esiste o (un situa) aveni; fabrica (un ojeto o sustantia)
   EN create, make, craft, cause to exist
+  HE ליצור, לברוא
 
 crea : nom
   EN creation (action); genesis
+  HE יצירה, בריאה
 
 crea corente : nom
   EN improvisation
+  HE אלתור
 
 autocreada : ajetivo
   EN self-made
+  HE בזכות עצמו, בכוחותיו הוא
 
 creada : ajetivo
   EN created
+  HE נוצר, נברא
 
 creada : nom
   EN creature, creation (product)
+  HE יציר
 
 creante : ajetivo
   EN creating, creative
+  HE יוצר, בורא
 
 creor : nom
   EN creator
+  HE (אדם) יוצר
 
 creosa : ajetivo
   EN creative
+  HE יצירתי
 
 creosia : nom
   EN creativity
+  HE יצירתיות
 
 malcreada : ajetivo
   EN ill-made
+  HE שנעשה בצורה גרועה
 
 malcreada : nom
   EN miscreant
+  HE נבל, רשע
 
 recrea : verbo transitiva
   EN recreate (create anew)
+  HE ליצור מחדש
 
 recrea : nom sporte
   D un ata de crea denova; atas en cual on partisipa per diverti cuando on no labora
   EN recreation (repeated creation, leisure activity); playtime; remake (film)
+  HE יצירה מחדש; עיבוד חדש; בילוי, שעשוע, נופש
 
 recreal : ajetivo
   EN recreational
+  HE שקשור לבילוי
 
 .creatina : nom cimica biolojia
   D un composada formida en la metaboli de protenas e presente en multe texedas vivente, cual furni enerjia per la contrae de musculos
   EN creatine
+  HE קריאטין
 
 .creatinina : nom cimica biolojia
   D un composada cual es produida par la metaboli de creatin e escreteda en la urina
   EN creatinine
+  HE קריאטינין
 
 .crede : verbo transitiva relijio
   D aseta ce (alga cosa) es vera, tipal sin atesta demostrante; es serta sur la veria de (alga cosa)
   EN believe
+  HE להאמין
 
 crede : nom
   EN belief, creed, credo, doctrine, conviction
+  HE אמונה
 
 crede falsa : nom
   EN fallacy
+  HE אמונה שגויה, אמונת שווא
 
 credable : ajetivo
   EN believable, credible, plausible
+  HE אמין, מהימן, מתקבל על הדעת
 
 credablia : nom
   EN credibility
+  HE אמינות
 
 credor : nom
   EN believer
+  HE מאמין
 
 credosa : ajetivo
   EN credulous, gullible, trusting, superstitious
+  HE פותה, פתי, נאיבי, תמים
 
 credosia : nom
   EN credulity
+  HE פתיות, נאיביות, תמימות
 
 intercredal : ajetivo
   EN interfaith, cross-faith
+  HE בין-דתי
 
 malcrede : nom
   EN misbelief
+  HE אמונה שגויה, אמונת שווא
 
 no crede : verbo transitiva
   EN disbelieve
+  HE לדחות (טענה), לכפור, לא להאמין
 
 noncredable : ajetivo
   EN unbelievable, incredible; incredibly good, fabulous, fantastic
+  HE לא אמין; לא ייאמן; מדהים, נהדר, נפלא, פנטסטי, יוצא מן הכלל
 
 noncredable : averbo
   EN unbelievably, incredibly
+  HE באופן מדהים, בצורה יוצאת מן הכלל
 
 noncredablia : nom
   EN incredibility
+  HE חוסר אמינות
 
 noncrede : nom
   EN disbelief, incredulity
+  HE אי אמונה, ספקנות, כפירה
 
 noncredente : ajetivo
   EN disbelieving, incredulous
+  HE חסר אמונה, ספקני
 
 noncredor : nom
   EN non-believer, infidel
+  HE חסר אמונה, ספקן, כופר
 
 .credito : nom mone
   D la capasia de un person per oteni benes o servis ante paia, fundida sur la fida ce el va paia en la futur; la mone prestada en un tal acorda
   EN credit (money)
+  HE אשראי, קרדיט
 
 creditor : nom
   EN creditor
+  HE נושה, מלווה
 
 par credito : averbo
   EN on credit
+  HE באשראי, בקרדיט
 
 .crema : ajetivo color cosini
   D jala ma multe pal
   I #
   EN cream (color|ur)
+  HE קרם (צבע)
 
 crema : nom
   D un licuida densa, grasosa e tipal con esta color, cual asende a la surfas de lete nondisturbada, comeda con deseres o usada en cosini; cualce sustantia de trama simil, usada como un comeda o bevida, o sur la pel como un medisin o un cosmetica
   EN cream, lotion
+  HE קרם, משחה; שמנת
 
 crema ardeda : nom
   EN crème brûlée, burnt cream, Trinity cream
+  HE קרם ברולה
 
 crema asida : nom
   EN sour cream, smetana
+  HE שמנת חמוצה
 
 crema bateda : nom
   I #
   EN whipped cream
+  HE קצפת
 
 crema baieres : nom
   EN Bavarian cream, bavarois
+  HE קרם בוואריה
 
 crema catalan : nom
   EN crema catalana
+  HE קרמה קטלנה, קרם קטלן
 
 crema de bur : nom
   EN buttercream
+  HE קציפת חמאה
 
 crema de caramel : nom
   EN crème caramel, caramel custard, caramel pudding, flan
+  HE קרם קרמל
 
 crema de la crema : nom
   EN crème de la crème
+  HE קרם דה לה קרם, שופרא דשופרא, עילית שבעילית
 
 crema de menta : nom
   EN crème de menthe
+  HE קרם דה מנטה (משקה)
 
 crema de ovos : nom
   EN custard
+  HE חביצה
 
 crema de rasa : nom
   EN shaving cream, shaving foam
+  HE קרם גילוח
 
 crema de sosia : nom
   EN cream of society, high society
+  HE החברה הגבוהה
 
 crema de zucar : nom
   EN marshmallow cream, marshmallow topping
+  HE קרם מרשמלו
 
 crema engles : nom
   EN crème anglaise, custard
+  HE קרם אנגלז
 
 crema grasosa : nom
   EN heavy cream, double cream
+  HE שמנת מתוקה
 
 crema italian : nom
   EN panna cotta
+  HE פנקוטה
 
 crema jelada : nom
   I #
   EN ice cream
+  HE גלידה
 
 crema rojinte : nom
   EN rouge
+  HE סומק
 
 crema solal : nom
   EN suncream, sunblock, sunscreen
+  HE קרם שיזוף
 
 cremeria : nom
   EN creamery
+  HE מחלבה, יצרן גבינות
 
 cremeta : nom
   EN custard
+  HE חביצה
 
 cremi : verbo transitiva
   EN cream (add cream to)
+  HE להוסיף שמנת
 
 cremin : ajetivo
   EN creamy (creamlike)
+  HE קרמי, משחתי
 
 cremosa : ajetivo
   EN creamy (full of cream)
+  HE מלא קרם, מלא שמנת
 
 descremi : verbo transitiva
   EN skim
+  HE להפריד שמנת (מחלב)
 
 descremida : ajetivo
   EN skimmed (milk)
+  HE (חלב) דל-שומן
 
 .creol : ajetivo demonim linguistica
   D pertinente a persones ci desende de un misca de europeanes e africanes, spesial en la isolas de la Caribe, a sua cultur e cosini, o a sua linguas
   EN creole
+  HE קריאולי
 
 creol : nom
   EN creole
+  HE קריאולי, קריאולית (שפה)
 
 creol aitian : ajetivo
   EN Haitian Creole, Kreyol Ayisyen
+  HE קריאולית האיטית
 
 creol aitian : nom
   EN Haitian Creole, Kreyol Ayisyen
+  HE קריאולית האיטית
 
 .creosota : nom cimica
   D un olio oscur brun, distilada de catran de carbon e usada per manteni lenio
   EN creosote
+  HE קראוזוט (שמן)
 
 .crepe : nom cosini
   D un torta magra e plata de pasta, fritada e comeda con xirope o enrolada con plenida
   I #
   EN crêpe, pancake, flapjack, hotcake
+  HE פנקייק, חמיטה
 
 .crepita : verbo nontransitiva cosini
   D produi un susede rapida de cracis peti, como de crase o frita
   EN crackle, sizzle
+  HE להשמיע צליל פצפוץ
 
 crepita : nom
   EN crackle, sizzle
+  HE צליל פצפוץ
 
 crepitante : ajetivo
   EN crackling, crackly (including recording)
+  HE משמיע צליל פצפוץ (גם בהקלטה)
 
 .crese : verbo nontransitiva biolojia
   D developa natural par deveni plu grande e cambia fisical; progresa a maturia; deveni plu grande
   EN grow, develop, expand, increase
+  HE לצמוח, לגדול, להתפתח
 
 crese : verbo transitiva
   EN grow, develop, expand, increase
+  HE להצמיח, לגדל, להגדיל
 
 crese : nom
   EN growth, development, expansion; growth (thing that has naturally grown), excrescence
+  HE צמיחה, גדילה, התפתחות
 
 crese dentes : verbo
   EN teethe
+  HE להצמיח שיניים
 
 crese rapida : verbo nontransitiva
   EN grow quickly, burgeon
+  HE לגדול במהירות
 
 cresedas : nom plural
   EN produce (fruit and vegetables)
+  HE תוצרת חקלאית
 
 cresente : ajetivo
   EN growing, increasing
+  HE צומח, גודל, מתפתח
 
 cresente : averbo
   EN increasingly, more and more, ever more
+  HE יותר ויותר
 
 cresente : nom
   EN crescent; croissant; crescendo
+  HE סהר; קרואסון; (מוזיקה) קרשנדו
 
 descrese : verbo nontransitiva
   EN decrease, decline, deteriorate, decay, ebb, wane, go downhill, cease to flourish
+  HE להתמעט, להצטמצם, לדעוך, לגווע; להידרדר
 
 recrese : verbo nontransitiva
   EN regrow, regenerate
+  HE לצמוח מחדש
 
 recrese : verbo transitiva
   EN regrow, regenerate
+  HE להצמיח מחדש
 
 sempre cresente : ajetivo
   EN ever growing, ever increasing
+  HE הולך וגדל
 
 .creson : nom planta cosini
   D un planta en familia de col, tipal con flores peti e blanca e folias bonodorosa
   I #
   T Brassicaceae
   EN cress
+  HE צמח ממשפחת המצליבים
 
 creson de acua : nom planta
   D un creson cual crese en acua corente, con folias odorosa cual on usa en salada
   I #
   T Nasturtium
   EN watercress
+  HE גרגיר הנחלים (צמח)
 
 .crespa : ajetivo veste
   D (capeles) formida de un masa de risas o mexas peti e tensada
   EN frizzy
+  HE מקורזל
 
 crespi : verbo nontransitiva
   EN frizz
+  HE להתקרזל
 
 crespi : verbo transitiva
   EN frizz
+  HE לקרזל
 
 .cresta : nom biolojia
   D un mexa de plumas, pelo o pel sur la testa de un avia o otra animal; un cosa simil sur un elmo; un desinia eraldial cual representa un familia o corpora; la culmina de un onda, cadena de montes o simil
   EN crest (wave, bird, heraldic), ridge
+  HE כרבולת, ציצית; שיא, פסגה, רכס (גל, הרים); סמל משפחה או חברה
 
 cresta de gal : nom
   EN cockscomb
+  HE כרבולת
 
 cresta de la arte : nom
   EN state of the art
+  HE העדכני ביותר, המתקדם ביותר
 
 cresta de la tecnolojia : nom
   EN state of the art
+  HE העדכני ביותר, המתקדם ביותר
 
 cresta de neva : nom
   EN snowbank
+  HE מערום שלג
 
 cresta sajital : nom
   EN sagittal crest
+  HE (אנטומיה) רכס סגיטלי
 
 cresta spumosa : nom
   EN whitecap
+  HE גל מקציף
 
 cresti : verbo nontransitiva
   EN crest (wave)
+  HE (גל) להגיע לשיא, להגיע לפסגה
 
 .creta : nom util
   D un calcario blanca e mol, derivada de sceletos de organismes de mar; un materia simil, usada per scrive o desinia sur un mureta negra
   EN chalk
+  HE גיר
 
 creti : verbo transitiva
   EN chalk (up)
+  HE לכתוב בגיר
 
 .cretasica : ajetivo tera
   D pertinente a la periodo final de la eda mesozoica, entre la jurasica e tersiaria
   EN Cretaceous (geology)
+  HE (גאולוגיה) קרטיקון
 
 cretasica : nom
   EN Cretaceous (geology)
+  HE (גאולוגיה) קרטיקון
 
 .cretin : ajetivo medica
   D (istorial) pertinente a la maladia de persones malformida e mental descapasida par un nonsufisi conjenital de la tiroide; (insultante) stupida
   EN cretinous
+  HE (רפואה) קרטנת; טפשי, מטופש, אידיוטי
 
 cretin : nom
   EN cretin
+  HE טיפש, אידיוט
 
 .creve : verbo nontransitiva
   D rompe subita e violente, perdente sua contenida; (un numatico) deveni perforada con resulta simil
   EN burst, puncture
+  HE לנקב
 
 creve : nom
   EN puncture
+  HE נקב
 
 creve de cor : nom
   EN heartbreak
+  HE שברון לב
 
 con cor creveda : ajetivo
   EN heartbroken
+  HE שבור לב
 
 creveda : ajetivo
   EN burst, punctured
+  HE מנוקב
 
 .crevecor : nom verbo-nom
   D un person atraosa ma nonfidable en relatas emosial; un nara, canta o aveni tristinte o angusante
   EN heartbreaker; tearjerker
+  HE שובר לבבות; (סרט, שיר) סוחט דמעות
 
 .cri : ajetivo demonim
   D pertinente a la americanes orijinal en un rejion grande de Canada sentral, o a sua lingua algoncian
   EN Cree (person, language)
+  HE קרי (אדם, שפה)
 
 cri : nom
   EN Cree (person, language)
+  HE קרי (אדם, שפה)
 
 .cria : verbo transitiva
   D espresa (sua teme, dole, lamenta, coleria, o un mesaje a un person distante) par un sona vosal multe forte
   EN cry, shout, scream, yell, yelp, bawl, outcry
+  HE לצעוק, לצרוח
 
 cria : nom
   EN cry, shout, scream, yell, yelp, bawl, outcry
+  HE צעקה, צרחה
 
 cria burlante : nom
   EN jeer, catcall
+  HE יללת בוז
 
 crieta : verbo transitiva
   EN whimper
+  HE לילל, ליבב
 
 crieta : nom
   EN whimper
+  HE יללה, יבבה
 
 crior : nom avia
   D un person ci cria; un avia grande de America Sude, con aspeta e cria simil a los de un ganso
   I #
   T Anhimidae
   EN crier, shouter; screamer (bird)
+  HE קמיקי (ציפור)
 
 .cribaje : nom sporte
   D un jua de cartas per du a cuatro persones, en cual on atenta jua cartas con valua combinada de esata 15 o 31
   I #
   EN cribbage (card game)
+  HE קריבאג' (משחק קלפים)
 
 .criceta : nom sporte
   D un sporte juada par du ecipos de des-un juores sur un campo de erba, con bales, bastones e du portetas spesial, e la gol de fa plu cores completa ca la ecipo oposante
   I #
   EN cricket (sport)
+  HE קריקט
 
 cricetor : nom
   EN cricketer
+  HE שחקן קריקט
 
 .criceto : nom mamal
   D un rodente solitar e tunelinte con coda corta e poxes grande de jena per porta comedas
   I #
   T Cricetinae
   EN hamster
+  HE אוגר
 
 .crico : nom util
   D un aparato per leva ojetos pesosa, spesial per leva la ase de un veculo de la tera per cambia un numatico o per esamina a su
   EN jack (for lifting)
+  HE מגבה, ג'ק
 
 crici : verbo transitiva
   EN jack up
+  HE להשתמש במגבה
 
 .cril : nom artropodo
   D un crustaseo peti, simil a un gamba
   I #
   EN krill (crustacean)
+  HE קריל (סרטן)
 
 .Crim : nom jeografial
   D un penisola a sude de Ucraina entre la Mar Azov e la Mar Negra
   I #
   EN Crimea
+  HE חצי האי קרים
 
 crimsce : ajetivo
   EN Crimean
+  HE שקשור לקרים
 
 crimsce : nom demonim
   EN Crimean
+  HE תושב קרים
 
 .crimin : nom governa
   D un ata o omete cual merita es prosededa par la stato e es punable par lege; un ata cual, an si legal, es regardada como mal
   EN crime, offense|ce
+  HE פשע, עבירה
 
 crimin de gera : nom
   EN war crime
+  HE פשע מלחמה
 
 crimin de odia : nom
   EN hate crime
+  HE פשע שנאה
 
 crimin major : nom
   EN felony
+  HE פשע חמור
 
 crimin minor : nom
   EN misdemeanor|ur
+  HE עוון
 
 crimin organizada : nom
   EN organized|is crime, mob, racket
+  HE פשע מאורגן, מאפיה
 
 criminal : ajetivo
   EN criminal, delinquent, nefarious
+  HE עברייני
 
 criminali : verbo nontransitiva
   EN criminalize|is
+  HE להוציא מחוץ לחוק
 
 criminali : verbo transitiva
   EN criminalize|is
+  HE להוציא מחוץ לחוק
 
 criminalia : nom
   EN criminality; underworld
+  HE פשיעה, עבריינות
 
 criminolojia : nom
   EN criminology
+  HE קרימינולוגיה
 
 criminor : nom
   EN criminal, delinquent, lawbreaker, malefactor, hoodlum, felon, crook
-
-criminor : nom
-  EN criminal, delinquent, lawbreaker, malefactor, hoodlum, felon, crook
+  HE פושע, עבריין, מפר חוק
 
 descriminali : verbo nontransitiva
   EN decriminalize|is
+  HE להפחית חומרת עבירה
 
 descriminali : verbo transitiva
   EN decriminalize|is
+  HE להפחית חומרת עבירה
 
 .-crin : sufisa ajetivo biolojia medica
   D secrete
   EN -crine (secreting)
+  HE (סיומת טכנית) מפריש
 
 .crinera : nom biolojia
   D la capeles longa a la colo de un cavalo, leon o otra animal; la capeles densa e desordinada de un person
   I #
   EN mane, mop (hair); horsehair
+  HE רעמה
 
 .crinoide : nom
   D un ecinodermato con brasos magra e plumin, incluinte stelas-de-mar e stelas-de-mar plumosa
   I #
   T Crinoidea
   EN crinoid (organism)
+  HE חבצלת ים
 
 .crio : nom
   D un creol fundida sur la engles parlada par sirca 500 000 persones en Siera Leon
   EN Krio (language)
   ES krio (lengua)
   FR krio (langue)
+  HE קריו (שפה)
   IT krio (lingua)
   JA クリオ語
   NL krio (taal)
@@ -33187,360 +33528,454 @@ descriminali : verbo transitiva
 
 .criobiolojia : nom biolojia
   EN cryobiology
+  HE קריוביולוגיה
 
 .criofilia : nom biolojia
   D la capasia de alga organismes de abita en situas multe fria
   EN cryophilia
+  HE קריופיליה
 
 criofilica : ajetivo
   EN cryophilic
+  HE קריופילי
 
 criofilica : nom
   EN cryophile
+  HE קריופיל
 
 .criojen : ajetivo
   D pertinente a la ramo de fisica cual studia la produi e efetos de temperatures multe basa; pertinente a la jela de persones mor, esperante ce la siensa futur va trova un modo de revive los
   EN cryogenic, cryonic
+  HE קריוגני
 
 criojenia : nom
   EN cryogenics
+  HE קריוגניקה
 
 .criosirurjia : nom medica
   D sirurjia cual usa la aplica local de fria estrema per destrui texedas nondesirada
   EN cryosurgery
+  HE ניתוח בהקפאה
 
 .criovolcan : nom tera
   D un volcan cual ejeta materias como acua, amonia o metano en loca de roca fondeda
   EN cryovolcano
+  HE (גאולוגיה) קריו-וולקנו
 
 criovolcanisme : nom
   EN cryovolcanism
+  HE (גאולוגיה) קריו-וולקניזם
 
 .cripto- : prefisa tecnical
   D secreta, ascondeda
   EN crypto-
+  HE (קידומת טכנית) סודי
 
 .criptografia : nom governa
   D la arte de crea o solve sifras
   EN cryptography, cryptology
+  HE קריפטוגרפיה, קריפטולוגיה
 
 criptografiste : nom
   EN cryptographer, cryptologist
+  HE קריפטוגרף, קריפטולוג
 
 .criptomone : nom mone
   D un sistem de mone dijital, usante tecnicas de sifri per regula la jenera de mone e per validi la intercambias
   EN cryptocurrency
+  HE מטבע מבוזר, מטבע קריפטו
 
 .cripton : nom cimica
   D la elemento cimical con numero atomal 36, un gas usada en alga tipos de lumina eletrica
   S Kr (krypton)
   EN krypton
+  HE קריפטון (יסוד)
 
 .criptonita : nom mitolojia
   D un mineral estrateran, capas de cansela la potias de Superman; cualce cosa cual redui multe la fortia de algun
   EN kryptonite
+  HE קריפטונייט
 
 .cris : nom util
   D un daga de Malaisia o Indonesia con lamina ondin
   I #
   EN kris (dagger)
+  HE קריס (פגיון)
 
 .crisalida : nom biolojia
   D un inseto en sua forma nonativa e nonmatur, entre larva e adulte
   I #
   EN chrysalis, pupa
+  HE גולם
 
 .crisantemo : nom planta
   D un planta en familia de margarita, con flores briliante colorida
   I #
   T Chrysanthemum
   EN chrysanthemum
+  HE חרצית (צמח)
 
 .crise : nom siensa-umana
   D un tempo de difisilia, turba o peril intensa; un tempo cuando on debe fa un deside difisil o importante
   EN crisis, emergency
+  HE משבר, מצב חירום
 
 crise coler : nom
   EN temper tantrum
+  HE התפרצות זעם
 
 crise mental : nom
   EN mental breakdown, nervous breakdown
+  HE התמוטטות עצבים
 
 .crisol : nom util
   D un contenador seramica o metal, en cual on pote fonde metales o otra materias o esposa los a caldia estrema; (metafor) un situa en cual elementos diversa interata e produi un cosa nova, tipal con alga turbas
   EN crucible, melting pot
+  HE כור היתוך
 
 .crisopa : nom inseto
   D un inseto magra e delicata con alas grande de membrana clar
   I #
   T Chrysopidae
   EN lacewing (insect)
+  HE עינפז (חרק)
 
 .cristal : ajetivo cimica
   D composada de un agrega de atomes o moleculas simetre ordinada en tre dimensiones; (vitro) clar e refratante
   EN crystalline
+  HE גבישי, קריסטלי
 
 cristal : nom
   EN crystal
+  HE גביש, קריסטל
 
 cristal licuida : nom
   EN liquid crystal
+  HE גביש נוזלי
 
 cristali : verbo nontransitiva
   EN crystallize|is, effloresce
+  HE להתגבש (להפוך לגביש)
 
 cristali : verbo transitiva
   EN crystallize|is, effloresce
+  HE לגבש (ליצור גביש)
 
 cristali : nom
   EN crystallization|is
+  HE גיבוש, התגבשות
 
 .cristalografia : nom cimica
   D la siensa de la cualias e strutur de cristales
   EN crystallography
+  HE קריסטלוגרפיה
 
 .cristian : ajetivo relijio
   D pertinente a la relijio fundida sur la atas e dises de Jesus Cristo, o a la membros
   EN Christian
   ES cristiano
+  HE נוצרי
 
 cristian : nom
   EN Christian
   ES cristiano
+  HE נוצרי
 
 cristiani : verbo nontransitiva
   EN Christianize|is
+  HE להתנצר
 
 cristiani : verbo transitiva
   EN Christianize|is
+  HE לנצר
 
 cristiani : nom
   EN Christianization|is
+  HE ניצור, התנצרות
 
 cristianisme : nom
   EN Christianity
   ES Cristianismo
+  HE נצרות
 
 mundo cristian : nom
   EN Christendom
+  HE עולם הנצרות
 
 .Cristo : nom relijio
   D la titulo, tipal tratada como un nom, donada a Jesus de Nasira, traduida de la parola ivri per `maxia`
   EN Christ
   ES Cristo
+  HE ישו
 
 Anticristo : nom relijio
   EN Antichrist
+  HE אנטיכריסט
 
 .criterio : nom filosofia
   D un prinsipe, model o norma par cual on fa un judi o deside
   EN criterion (pl. criteria)
+  HE קריטריון, אמת מידה
 
 .Criti : nom jeografial
   D un isola elinica en la Mar Mediteraneo este, e la loca de la sivilia Minoan de la milenio du aec
   I #
   EN Crete
   ES Creta
+  HE כרתים
 
 critica : ajetivo
   EN Cretan
   ES cretense
+  HE שקשור לכרתים
 
 critica : nom
   EN Cretan
   ES cretense
+  HE תושב כרתים
 
 .critica : verbo transitiva filosofia
   D indica la falis de (un person o cosa) en un modo desaprobante; formi e espresa un judi sofistica de (un obra de arte)
   EN criticize|is, reproach, lambast, tell off, henpeck; critique
+  HE לבקר (למתוח ביקורת)
 
 critica : nom
   EN criticism, reproach, sideswipe; critique
+  HE ביקורת
 
 criticante : ajetivo
   EN critical, mordant, trenchant
+  HE ביקורתי
 
 criticiste : nom
   EN critic (art)
+  HE מבקר (אמנות)
 
 criticor : nom
   EN critic, opponent
+  HE מבקר, מתנגד
 
 .Crixna : nom relijio
   D un de la dios de induisme, la incarne oto e la plu importante de Vixnu
   I #
   EN Krishna
+  HE קרישנה
 
 crixnaisme : nom
   P crixnaïsme
   EN Krishnaism, Hare Krishna
+  HE קרישניזם
 
 crixnaiste : ajetivo
   P crixnaïste
   EN Krishnaist
+  HE שקשור בקרישנה
 
 crixnaiste : nom
   EN Krishnaist
+  HE מאמין בקרישנה
 
 .croceta : nom cosini
   D un enrola de vejetales, carne o pex axida a pesos, covreda par pesetas de pan e fritada
   I croceta-comeda
   EN croquette (food)
+  HE קרוקט (מאכל)
 
 .croceta : nom sporte
   D un jua sur erba, en cual on usa marteles de lenio con manicos longa per colpa bales colorida tra un serie de portetas; un colpa a un bal cual toca ja un otra en esta jua
   I #
   EN croquet (game, shot)
+  HE קרוקט (משחק כדור)
 
 .croco : nom planta
   D un planta peti en familia de iris, cual crese de un cormo e produi flores briliante jala, purpur o blanca
   I #
   T Crocus
   EN crocus
+  HE כרכום (צמח)
 
 .crocodil : nom retil
   D un retil grande, xasante e semiacual, con mandibulas longa, coda longa, gamas corta e pel cornin
   I #
   T Crocodylidae
   EN crocodile
+  HE תנין, קרוקודיל
 
 .cromatica : ajetivo musica
   D pertinente a colores; (musica) usante notas cual no parteni a la scala diatonica de la tono en cual la pasaje es scriveda; (un scala musical) asendente o desendente par semitonos; (un strumento) capas de jua tota notas de un scala cromatica
   EN chromatic
+  HE (צבעים, מוזיקה) כרומטי
 
 noncromatica : ajetivo
   EN achromatic
+  HE (צבעים, מוזיקה) אכרומטי
 
 .cromatida : nom biolojia
   D cada de la du filos a cual un cromosoma divide lonjitudal
   EN chromatid
+  HE (ביולוגיה) כרומטידה
 
 .cromatina : nom biolojia
   D la materia de cual la cromosomas de eucariotas es composada
   EN chromatin
+  HE (ביולוגיה) כרומטין
 
 .cromato : nom cimica
   D un sal de cual la anion conteni e cromo e osijen
   EN chromate (chemistry)
+  HE (כימיה) כרומט
 
 .cromo : nom cimica
   D la elemento cimical con numero atomal 24, un metal usada per produi aser nonosidable e otra metales aliada
   S Cr
   EN chromium
+  HE כרום (יסוד)
 
 cromi : verbo transitiva
   EN chrome-plate, chromium-plate
+  HE לצפות בכרום
 
 cromida : ajetivo
   EN chrome-plated, chromium-plated
+  HE מצופה בכרום
 
 cromida : nom
   EN chrome
+  HE מצופה בכרום
 
 .cromo- : prefisa tecnical
   D color
   EN chromo-
+  HE (קידומת טכנית) צבע
 
 .cromorno : nom musica
   D un strumento medieval de venta, curva, con anxa duple encluida en beco de lenio
   I #
   EN krummhorn, crumhorn (musical instrument)
+  HE קרומהורן (כלי נגינה)
 
 .cromosoma : nom biolojia
   D un strutur de asidas nucleal e protena, trovada en la nucleo de la plu de selulas vivente, conteninte la informa jenetical
   EN chromosome
+  HE כרומוזום
 
 .cronica : ajetivo medica
   D (un maladia) durante tra un tempo longa o frecuente reveninte
   EN chronic (medical)
+  HE כרוני
 
 .crono- : prefisa tecnical
   D tempo
   EN chrono-
+  HE (קידומת טכנית) זמן
 
 .cronobiolojia : nom biolojia
   EN chronobiology
+  HE כרונוביולוגיה
 
 .cronolojia : nom
   D un presenta de avenis o datas en la ordina de sua aveni; la studia de arcivos istorial per trova la datas de avenis pasada
   EN chronology
+  HE כרונולוגיה
 
 cronolojial : ajetivo
   EN chronological
+  HE כרונולוגי
 
 cronolojiste : nom
   EN chronologist
+  HE כרונולוג
 
 .cronometre : nom util
   D un spesie de orolojo, con botones per ativi e pausa lo, usada per mesura la tempo esata de un corsa o otra prosede
   EN chronometer, stopwatch, timer
+  HE כרונומטר, שעון עצר, סטופר
 
 cronometri : verbo transitiva
   EN time
+  HE למדוד זמן
 
 cronometri : nom
   EN timing, timekeeping, measurement of time
+  HE מדידת זמן
 
 cronometriste : nom
   EN timekeeper
+  HE (אדם) מודד זמן
 
 .crosta : nom cosini medica
   D la strato esterna de un pan, torta, ceso, neva, etc; la strato esterna de roca de cual un planeta es composada; la covrente seca e protejente cual formi sur un feri cuando lo sani
   EN crust, scab, rind (cheese)
+  HE קרום; גלד
 
 crosti : verbo nontransitiva
   EN encrust, cake
+  HE להתכסות בקרום, להתקרש; להתגלד
 
 crosti : verbo transitiva
   EN encrust, cake
+  HE לצפות בקרום; לגלוד
 
 crosti : nom
   EN encrustation
+  HE הקרמה
 
 crostosa : ajetivo
   EN crusty
+  HE קרומי
 
 .crotal : nom retil
   D un vipera grande american con un serie de anelos cornin a sua coda cual vibra e crea clicas avertinte
   I #
   T Crotalus, Sistrurus
   EN rattlesnake, rattler
+  HE עכסן (נחש)
 
 .croxe : verbo transitiva veste
   D fabrica (un stofa o veste) par aneli filo de lana con un ago oncin
   EN crochet
+  HE לסרוג בשיטת קרושה
 
 .cru : ajetivo cosini
   D (un comeda) no coceda; (un materia) en sua forma natural, ancora no preparada o purida; (un informa) no analiseda, evaluada o preparada per usa
   EN raw, uncooked, crude, gross
+  HE נא; גס, לא מעובד
 
 .cruel : ajetivo siensa-umana
   D causante dole o sufri a otras, con intende o sin cura
   EN cruel, ruthless, dastardly, vicious, cut-throat
+  HE אכזרי, מרושע, חסר רחמים
 
 cruelia : nom
   EN cruelty, ruthlessness, viciousness
+  HE אכזריות, רשעות, חוסר רחמים
 
 .cruji : verbo nontransitiva
   D (un ojeto, tipal de lenio) fa un sona basa cuando on move o presa lo
   EN creak (low-pitched), groan
+  HE לחרוק
 
 cruji : verbo transitiva
   EN creak (low-pitched), groan
+  HE לחרוק
 
 cruji : nom
   EN creak (low-pitched), groan
+  HE חריקה
 
 crujinte : ajetivo
   EN creaking, creaky
+  HE חורק
 
 .crumpeta : nom
   D un torteta engles, plana, spesa e mol, tipal tostada e burida
   EN crumpet (cake)
+  HE קראמפט (לחמניה)
 
 .crup : nom medica
   D un inflama de la larinje e tracea en enfantes, asosiada con infeta e causante respira difisil
   EN croup (medical)
+  HE אסכרה, דלקת דרכי הנשימה
 
 .crus : nom util relijio
   D un marca o ojeto formida par du linias reta cual comparti un punto comun; un palo vertical con bara traversante, usada en edas pasada per mata criminales e otras; un simbol de cristianisme
@@ -33754,11 +34189,17 @@ cualces : pronom plural
 cualce cosa : pronom
   EN anything (at all), whatever (you like)
 
+cualce cosa cual : sujunta
+  EN whatever, anything which
+
 a cualce caso : averbo
   EN in any case, anyhow, anyway, nonetheless, nevertheless
 
 a cualce ora : averbo
   EN at any time of the day (at all), whenever (you like)
+
+a cualce ora cuando : sujunta
+  EN whenever, at any time when
 
 a cualce ves : averbo
   EN on any occasion (at all), at any time, whenever (you like), ever
@@ -33766,8 +34207,14 @@ a cualce ves : averbo
 en cualce loca : averbo
   EN anywhere (at all), wherever (you like)
 
+en cualce loca do : sujunta
+  EN wherever, in any place where
+
 en cualce modo : averbo
   EN in any way (at all), by any means (you like), in whatever way
+
+en cualce modo par cual : sujunta
+  EN however, by whatever means, by any means by which
 
 .cualcun : pronom
   D cualce person
@@ -38766,6 +39213,9 @@ divini : verbo transitiva
 divini : nom
   EN deification, apotheosis
 
+divinia : nom
+  EN divinity
+
 divinisme : nom
   D un crede a la esiste de un esente suprema, tipal un creor ci no interveni en la mundo
   EN deism
@@ -42924,7 +43374,7 @@ epitelial : ajetivo
   EN epithelial
 
 .epiteto : nom arte
-  D un ajetivo o descrive cual espresa un cualia tipal de un person o cosa spesifada, comun negativa
+  D un ajetivo o descrive cual espresa un cualia tipal de un person o cosa spesifada
   EN epithet
 
 .epoca : nom tera istoria
@@ -45464,12 +45914,20 @@ eziditisme : nom
 fa : nom
   EN doing, deed
 
+fa a : verbo
+  U los ia fa la fol a re
+  EN cause (someone or something) to become, make (someone or something) ...
+
 fa bon : verbo
   EN do well; do good
 
 fa ce : verbo
   U no fa ce me rie; la anunsia ia fa ce el roji
   EN cause (something to happen or become), make (something happen), render, turn
+
+fa de : verbo
+  U los ia fa de la fol un re
+  EN make ... of (someone or something)
 
 desfa : verbo transitiva
   EN undo
@@ -46212,7 +46670,7 @@ fasian galin : nom animal avia
   D un avia xasada con corpo spesa e gamas plumosa, de cual la mas es plu colorosa ca la fema
   I #
   T Tetraoninae
-  EN grouse
+  EN grouse, capercaillie
   FR tétra, gelinotte, lagopède
 
 .fasil : ajetivo
@@ -50881,34 +51339,42 @@ gambian : nom
   D un pais en Africa ueste, con costa sude a la Mar Atlantica
   I #
   EN Ghana
+  ES Ghana
 
 ganaian : ajetivo
   EN Ghanaian
+  ES ghanés
 
 ganaian : nom
   EN Ghanaian
+  ES ghanés
 
 .ganax : nom cosini
   D un pleninte bateda de xocolada e crema, usada en tortas e confetos
   EN ganache (food)
+  ES ganache
 
 .gang : nom governa
   D un grupo organizada de criminales; un grupo de jovenes envolveda en crimin o violentia minor; un grupo de jovenes ci asosia con lunlotra; un grupo organizada de persones ci labora par mano
   EN gang
+  ES pandilla
 
 .ganga : nom avia
   D un avia con plumas brunin, nidinte sur tera en desertos, comente semes, e relatada a pijones
   T Pteroclidae
   EN sandgrouse
+  ES ganga
 
 .Ganga, Rio : nom jeografial
   D un rio en Barat norde e Bangladex cual comensa en la Montes Himalaia e fini en la Golfo Bengala
   I Rio-Ganga
   EN Ganges River
+  ES río Ganges
 
 .ganglio : nom anatomia
   D un strutur composada de un cuantia de corpos de neurones, tipal forminte un infla a la fibre; un masa bon definida de materia gris en la sistem de nervos sentral
   EN ganglion (biology)
+  ES ganglio (anatomía)
 
 .gangrena : nom medica
   D la mori e descomposa local de texeda, cual resulta de sangue blocida o un infeta baterial
@@ -51756,6 +52222,9 @@ glisemial : ajetivo
 indise glisemial : nom
   EN glycemic|ae index
 
+.gliseria : nom planta
+  EN manna grass
+
 .gliserol : nom cimica
   D un licuida viscosa, dulse e sin color, formida como un suproduida en la fabrica de sapon
   EN glycerol, glycerin, glycerine
@@ -52500,6 +52969,9 @@ gras de porco : nom
 gras de ren : nom
   EN suet
 
+grasal : ajetivo
+  EN fatty (pertaining to fat)
+
 grasi : verbo transitiva
   EN grease, baste
 
@@ -52900,11 +53372,13 @@ guatemalteca : nom demonim
 
 .Guayaquil : nom jeografial
   EN Guayaquil
+  ES Guayaquil
 
 Golfo Guayaquil : nom jeografial
   D un golfo a ueste de Ecuador, un estende de la Mar Pasifica
   I #
   EN Gulf of Guayaquil
+  ES Golfo de Guayaquil
 
 .Gudjarat : nom jeografial
   D un provinse de Barat
@@ -52928,79 +53402,96 @@ gudjarati : nom
 .gugol : nom matematica
   D des a la potia 100
   EN googol (number)
+  ES gúgol (número)
 
 .gugolplex : nom matematica
   D des a la potia gugol; (metafor) cualce cuantia enorme
   EN googolplex (number)
+  ES gúgolplex (número)
 
 .guaiaco : nom planta
   D un arbor sempreverde de la Caribe e America tropical, istorial importante per sua lenio dur e oliosa
   EN guiacum
+  ES guayacán, guayaco
 
 .Guian Franses : nom jeografial
   D un pais en America Sude norde, governada par Frans
   I #
   EN French Guiana
+  ES Guayana Francesa
 
 guianes : ajetivo
   EN Guianan, French Guianan
+  ES francoguyanés
 
 guianes : nom demonim
   EN Guianan, French Guianan
+  ES francoguyanés
 
 .Guiana : nom jeografial
   C Georgetown
   D un pais a la costa norde-este de America Sude
   I #
   EN Guyana
+  ES Guyana
 
 guianan : ajetivo
   EN Guyanese
+  ES guyanés
 
 guianan : nom
   EN Guyanese
+  ES guyanés
 
 .gul : nom mitolojia
   D (en mitos) un mal fantasma ci ruba tombas e come corpos mor
   EN ghoul (mythology)
+  ES gul 
 
 .gulag : nom governa
   D un campo de labora en la sistem mantenida en la Uni Soviet de 1930 a 1955, tipal usada per prisonidas political, en cual multe persones ia mori; cualce loca simil
   EN gulag
+  ES gulag
 
 .gulax : nom cosini
   D un sopa o ragu de bove, paprica e onion, orijinante en Magiar
   I #
   EN goulash, gulyás (soup)
+  ES gulash
 
 .gulo : nom mamal
   D un mamal carnivor con corpo grande ma gamas corta, pelo longa e brun, e coda brosin, nativa de la tundra e forestas norde de Europa, Asia e America Norde
   I #
   T Gulo gulo
   EN wolverine (animal)
+  ES glotón, carcayú (animal)
 
 .gundi : nom mamal
   D un rodente peti e sosial, abitante rejiones rocosa en la desertos de Africa norde e este
   I #
   T Ctenodactylidae
   EN gundi (rodent)
+  ES gundi (roedor)
 
 .gupi : nom pex
   D un pex peti de acua dulse, comun trovada en acuerias
   I #
   T Poecilia reticulata
   EN guppy (fish)
+  ES guppy, lebistes, pez millón
 
 .guptan : ajetivo istoria
   D pertinente a la dinastia indu fundida en 320 cual ia rena la plu de Barat norde tra un periodo
   I #
   EN Guptan (dynasty)
+  ES Gupta (dinastía)
 
 .gurami : nom pex
   D un pex colorosa de Asia, popular en acuerias
   I #
   T Osphronemidae
   EN gourami (fish)
+  ES gurami
 
 .gurgula : verbo nontransitiva
   D crea un sona como acua corente de un botela, un stomaco fame, o un paso en fango
@@ -53025,18 +53516,22 @@ gurgula : nom
   D senti ce (un person o cosa) es bon, simpatiosa, sasiante, plasente, etc
   U me gusta leje; me gusta esta canta
   EN like, enjoy, be fond of
+  ES agradar, disfrutar, gustar
 
 gusta : nom
   EN enjoyment
+  ES goce, gozo, disfrute, placer
 
 gustable : ajetivo
   EN likable|likeable, enjoyable, pleasant, agreeable, welcome, groovy
 
 no gusta : verbo
   EN dislike
+  ES no gustar, desagradar, tener aversión a,
 
 nongusta : nom
   EN dislike
+  ES antipatía, desagrado, fastidio
 
 .h : simbol
   D la letera oto de la alfabeta roman
@@ -54241,6 +54736,10 @@ idrografiste : nom
   EN hydrogen
   EO hidrogeno
 
+.idrolase : nom biolojia cimica
+  D un enzima cual catalise la idrolise de lias variosa
+  EN hydrolase
+
 .idrolise : verbo transitiva cimica
   D rompe (un composada) par un reata cimical con acua
   EN hydrolyze|ys
@@ -54303,6 +54802,10 @@ idrosido de sodio : nom
 .idrosil : ajetivo cimica
   D de o pertinente a la radis {-OH}, en alcoles e multe otra composadas organica
   EN hydroxyl (chemistry)
+
+.idrosilase : nom biolojia cimica
+  D un enzima cual introdui un grupo idroxil a un composada organica
+  EN hydroxylase
 
 .idrostatica : nom fisica
   D un ramo de mecanica cual studia la ecuilibra de licuidas e la presa aplicada par licuida reposante
@@ -57478,12 +57981,19 @@ isolisme : nom
 isoliste : ajetivo
   EN isolationist
 
+.isomerase : nom biolojia cimica
+  D un enzima cual catalise cambias de isomeri con un sola molecula
+  EN isomerase
+
 .isomero : nom cimica
   D cada de du o plu composadas con la mesma formula ma un ordina diferente de la atomes en la molecula e con cualias diferente
   EN isomer (chemistry)
 
 isomeral : ajetivo cimica
   EN isomeric
+
+isomeri : verbo nontransitiva
+  EN isomerize|is
 
 .isometral : ajetivo matematica
   D con dimensiones egal; (en fisiolojia) de o pertinente a tensa de musculos sin contrae; (en desinia) usante un modo de mostra perspetiva en cual la tre dimensiones es representada par tre ases separada par 120°; (en matematica) pertinente a un cambia de un forma cual manteni distantias e angulos
@@ -60392,6 +60902,10 @@ laton : nom
 lator : nom
   EN tinsmith
 
+.latase : nom biolojia cimica
+  D un enzima cual catalise la idrolise de latosa a glucosa e galatosa
+  EN lactase
+
 .latce : nom cosini
   D (en cosini iudi) un crepe, tipal de patatas raspada
   I #
@@ -61456,6 +61970,10 @@ verbo liante : nom
   D un planta leniosa e trepante cual pende de arbores, tipal en forestas pluvosa tropical
   EN liana (plant)
 
+.liase : nom biolojia cimica
+  D un enzima cual fende lias variosa par modos otra ca idrolise e osidi
+  EN lyase
+
 .libela : nom artropodo
   D un inseto rapida volante e xasante, con du duples de alas grande e transparente
   I #
@@ -61746,6 +62264,10 @@ lietuvisce : nom demonim
 .ligamento : nom anatomia
   D un banda corta de texeda dur, flexable e fibrosa cual junta du osos o cartilajes; un plia membranin cual suporta o manteni la loca de un organo
   EN ligament, sinew
+
+.ligase : nom biolojia cimica
+  D un enzima cual lia du moleculas con lias covalente
+  EN ligase
 
 .lignito : nom cimica
   D un carbon brun e mol, formida de torba natural compresada
@@ -62190,6 +62712,10 @@ liones : ajetivo
 
 liones : nom
   EN Leonese
+
+.lipase : nom biolojia cimica
+  D un enzima de la pancreas cual catalise la redui de gras o asidas grasal
+  EN lipase
 
 .lipido : ajetivo biolojia cimica
   D parteninte a un clase de composadas organica cual es asidas grasosa o sua derivadas, e es nondisolvable en acua ma disolvable en solventes organica, incluinte multe olios natural, siras e steroides
@@ -68365,6 +68891,9 @@ moderniste : nom
 modernor : nom
   EN modernizer|is
 
+nonmoderna : ajetivo
+  EN unmodern, out of date, old-fashioned
+
 .modesta : ajetivo siensa-umana
   D umil sur sua propre capasias o atenis; conduinte o vestinte se en un modo cual evita atrae atende sesal
   EN modest (humble, avoiding impropriety), unpretentious
@@ -68643,6 +69172,9 @@ molinor : nom
   D un membro de un filo grande de animales nonvertebrato, incluinte polpos, calamares, limasas e caracoles
   T Mollusca
   EN mollusk|mollusc, shellfish
+
+.molva : nom pex
+  EN ling
 
 .momento : nom
   D un periodo de tempo estrema corta; un punto esata en tempo; la cuantia de move de un cosa, mesurada como sua masa multiplida par sua rapidia; la enerjia ganiada par un cosa movente
@@ -70483,6 +71015,7 @@ nadene : nom
 .naftol : nom cimica
   D un materia cristal derivada de naftalina, usada per fabrica antisepsicas e tinjentes
   EN naphthol (substance)
+  ES naftol (sustancia)
 
 .naive : ajetivo siensa-umana
   D mostrante un manca de esperia, sajia o bon judi; natural, nonfinjosa, inosente
@@ -70514,6 +71047,7 @@ naivia : nom
 
 namibian : ajetivo
   EN Namibian
+  ES namibio
 
 namibian : nom demonim
   EN Namibian
@@ -70596,158 +71130,204 @@ nara fondal : nom
 
 malnara : verbo transitiva
   EN garble (story)
+  ES codificar, embrollar, confundir
 
 naral : ajetivo
   EN fictional, narrative, narrational
+  ES ficticio, imaginario, inventado
 
 naras : nom plural
   EN stories, fiction
+  ES hsitorias, ficción
 
 naras siensal : nom
   EN science fiction
+  ES ciencia ficción
 
 nareta : nom
   EN short story
+  ES cuento, relato corto
 
 naror : nom
   EN storyteller, narrator, raconteur
+  ES escritor, cuentista, narrador, cuentacuentos
 
 nonarada : ajetivo
   EN untold
+  ES sin contar, no contada
 
 renara : verbo transitiva
   EN retell
+  ES volver a contar
 
 .narco- : prefisa tecnical
   D nonsensosa
   EN narco- (stupor)
+  ES narco-
 
 .narcolesia : nom medica
   D un maladia distinguida par un tende estrema de adormi en situas nonormal
   EN narcolepsy
+  ES narcolepsia
 
 narcolesica : ajetivo
   EN narcoleptic
+  ES narcoléptico
 
 .narcose : nom medica
   D un state de stupor, dormosia o nonconsensia, produida par drogas
   EN narcosis
+  ES narcosis
 
 .narcotica : ajetivo medica
   D (un droga) reduinte dole e causante stupor, dormosia o nonconsensia
   EN narcotic
+  ES narcótico, sedante, tranquilizante
 
 narcotica : nom
   EN narcotic
+  ES narcótico, sedante, tranquilizante
 
 .nardo : nom planta
   D un planta himalaian en familia de valeriana, cual produi un rizoma de cual on ia prepara un unjente multe custosa en edas antica
   I #
   T Nardostachys grandiflora
   EN spikenard (plant)
+  ES nardo (planta)
 
 .narina : nom anatomia
   D cada de la du abris esterna de la nas
   EN nostril, naris (pl. nares)
+  ES fosa nasal
   FR narine
 
 .narsisisme : nom siensa-umana
   D un interesa suprabundante o erotica sur se e sua aspeta fisical
   EN narcissism
+  ES narcisismo
 
 narsisiste : ajetivo
   EN narcissistic
+  ES ególatra, narcisista
 
 narsisiste : nom
   EN narcissist
+  ES narcisista
 
 .narsiso : nom planta
   D un planta en familia de lil, con flores tipal blanca e jala con sentro trompetin
   I #
   T Narcissus
   EN narcissus, daffodil (plant)
+  ES narciso
   FR narcisse
 
 .narval : nom mamal
   D un balena peti de la Mar Artica, de cual la mas ave un denton longa e spiral cual estende a ante
   I #
   T Monodon monoceros
+  CA narval
+  DE Narwal
   EN narwhal (whale)
+  ES narval
   FR narval
+  IT narvalo
+  PT narval
+  ZH 一角鯨
 
 .nas : nom anatomia
   D la parte supra la boca de un person o animal, usada per respira e ole
   I #
   EN nose
+  ES nariz
   FR nez
 
 nasal : ajetivo
   EN nasal
+  ES nasal
   FR nasal
 
 nasal : nom
   EN nasal (consonant)
+  ES nasal (consonante)
   FR nasale (consonne)
 
 nasali : verbo nontransitiva
   EN nasalize|is
+  ES nasalizar
   FR nasaliser
 
 nasali : verbo transitiva
   EN nasalize|is
+  ES nasalizar
 
 nasi : verbo transitiva
   EN nuzzle, nose at
+  ES frotar con la nariz
 
 posnasal : ajetivo
   EN postnasal
+  ES postnasal
 
 .nase : verbo nontransitiva biolojia
   D (un enfante) deveni un individua par sorti de la utero de un fema; (metafor) deveni esistente
   EN be born; come into existence
+  ES nacer
   FR naître
 
 nase : verbo transitiva
   V pari
   EN bear, give birth to
+  ES parir
 
 nase : nom
   EN birth
+  ES nacimiento
   FR naissance
 
 ante nase : ajetivo
   EN prenatal, antenatal
+  ES prenatal
   FR prénatal
 
 de nase : ajetivo
   EN natal
+  ES natal
 
 mor naseda : ajetivo
   EN stillborn
+  ES mortinato
 
 naseda : ajetivo
   EN born
+  ES nacido
 
 nasente : ajetivo
   EN nascent, coming into existence
+  ES naciente
 
 pos nase : ajetivo
   EN postnatal
+  ES postnatal
   FR postnatal
 
 prima naseda : ajetivo
   EN firstborn
+  ES primogénito
 
 renase : verbo nontransitiva
   EN be reborn
+  ES renacer
   FR renaître
 
 renase : nom
   EN rebirth, renaissance, renascence
+  ES renacimiento
   FR renaissance
 
 Renase : nom
   EN Renaissance
+  ES Renacimiento
   FR Renaissance
 
 renaseda : ajetivo
@@ -72796,6 +73376,12 @@ sin nube : ajetivo
 nucleal : ajetivo
   EN nuclear, nucleic
 
+desnucleali : verbo nontransitiva
+  EN denuclearize|is
+
+desnucleali : nom
+  EN denuclearization|is
+
 .nucleol : nom biolojia
   D un strutur peti e sferin en la nucleo de un selula en la interfase
   EN nucleolus (biology)
@@ -73014,7 +73600,7 @@ obedi : nom
   FR obéissance
 
 desobedi : verbo transitiva
-  EN disobey
+  EN disobey; break (rule, law)
   ES desobedecer
   FR désobéir
 
@@ -75575,6 +76161,10 @@ osidi-redui : nom
 osidinte : ajetivo
   EN rusting, rusty
 
+.osidoredutase : nom biolojia cimica
+  D un enzima cual catalise reatas de osidi o redui
+  EN oxidoreductase
+
 .osijen : nom cimica
   D la elemento cimical con numero atomal 8, un gas sin color e odor, e la composante de aira nesesada par organismes
   S O
@@ -76284,18 +76874,22 @@ ozonal sana : ajetivo
 .pacidermo : nom mamal
   D un mamal grande con pel spesa, como un elefante, rinosero o ipopotamo
   EN pachyderm
+  ES paquidermo
 
 .Pacistan : nom jeografial
   C Islamabad
   D un pais en Asia sude a norde-ueste de Barat
   I #
   EN Pakistan
+  ES Pakistán, Paquistán
 
 pacistani : ajetivo
   EN Pakistani
+  ES pakistaní, paquistaní
 
 pacistani : nom
   EN Pakistani
+  ES pakistaní, paquistaní
 
 .paco : nom util
   D un contenador e sua contenidas
@@ -76304,6 +76898,7 @@ pacistani : nom
 
 despaci : verbo transitiva
   EN unpack
+  ES desempacar, desempaquetar
 
 despaci : nom
   EN unpacking
@@ -76339,6 +76934,7 @@ repaci : verbo transitiva
   D un casola basa con manico longa
   I #
   EN pan, fry pan, frying pan, skillet
+  ES sartén
 
 padela de crepes : nom
   I #
@@ -76346,9 +76942,11 @@ padela de crepes : nom
 
 padela de grili : nom
   EN griddle
+  ES plancha de cocina
 
 padela de polvo : nom
   EN dustpan
+  ES recogedor
 
 padela de sote : nom
   I #
@@ -76357,42 +76955,54 @@ padela de sote : nom
 .padre : nom siensa-umana
   D un om en relata a sua enfantes; un jenitor mas
   EN father
+  ES padre
 
 padre de batiza : nom
   EN godfather
+  ES padrino
 
 padre futur : nom
   EN father-to-be
+  ES futuro padre
 
 padre par sposi : nom
   EN father-in-law
+  ES suegro
 
 padre sin sposa : nom
   EN single father
+  ES padre soltero
 
 estrapadre : nom
   EN stepfather
+  ES padrastro
 
 padral : ajetivo
   EN paternal; paternity (leave)
+  ES paternal, (permiso de) paternidad
 
 padria : nom
   EN fatherhood, paternity
+  ES paternidad
 
 padrin : ajetivo
   EN fatherly
+  ES paternal, paterno
 
 padrin : nom
   EN father figure, godfather
+  ES figura paterna, padrino
 
 padron : nom
   EN master, lord, boss; patriarch; patron (supporter)
 
 padronia : nom
   EN patronage
+  ES patrocinio, mecenazgo, patronato, patronazgo
 
 sin padre : ajetivo
   EN fatherless
+  ES huérfano de padre, sin padre
 
 .padriside : verbo transitiva governa
   D mata (sua propre padre)
@@ -76891,6 +77501,10 @@ panor : nom
   D (en mitos elinica) un dio de la manadas, regardada como un om con cornos, oreas e gamas de capra
   EN Pan (mythology)
 
+.panafrican : ajetivo governa
+  D pertinente a tota nasiones de Africa o a tota persones de desende african
+  EN pan-African
+
 .Panama : nom jeografial
   C la Site Panama
   D un pais en America Sentral, entre Colombia e Costa Rica, e la loca de la canal entre la mares Atlantica e Pasifica
@@ -77062,31 +77676,38 @@ pantala de nada : nom
 
 pantala faldin : nom
   EN culottes; skort
+  ES falda pantalón
 
 pantaleta : nom
   D un veste interna cual covre la jenitales, tipal la gluteos e a veses la coxas
   I #
   EN underpants, undershorts, pants (UK), shorts (US), panties, knickers
+  ES calzoncillos, calzones 
 
 pantalon : nom
   D un veste esterna cual covre la corpo de la taie o anca asta la talos, con tubo separada per cada gama
   I #
   EN trousers, pants (US), slacks, bottoms
+  ES trousers
 
 pantalon cortida : nom
   EN cut-offs
 
 pantalon de anca : nom
   EN hipsters, hip-huggers
+  ES vaqueros caídos, de cintura baja, de tiro bajo
 
 pantalon de carga : nom
   EN cargo pants
+  ES pantalón de camuflaje
 
 pantalon de cavalor : nom
   EN jodhpurs
+  ES pantalones de montar
 
 pantalon de denim : nom
   EN jeans
+  ES vaqueros
 
 pantalon de sporte : nom
   EN sweatpants, joggers, jogging bottoms, tracksuit bottoms
@@ -77107,12 +77728,15 @@ supantala : nom
   D un rejion de tera basa, acuosa e noncultivada
   I #
   EN wetland, swamp, bog, mire, quagmire, marsh, marshland, fen, fenland, bayou, morass
+  ES humedal, cenagal, ciénaga, lodazal, marisma, pantano
 
 pantan arborosa : nom
   EN marsh
+  ES ciénaga, pantano
 
 pantan erbosa : nom
   EN swamp
+  ES ciénaga, pantano, marisma
 
 pantan torbosa : nom
   EN peatland, peat bog
@@ -80995,11 +81619,11 @@ un plu pico de : espresa
   I #
   EN Piedmont (Italian region)
 
-piemontese : ajetivo demonim
+piemontes : ajetivo demonim
   D pertinente a la rejion Piemonte en Italia, o a la lingua romanica cual on parla ala
   EN Piedmontese (person, language)
 
-piemontese : nom
+piemontes : nom
   EN Piedmontese (person, language)
 
 .piga : nom avia
@@ -83128,6 +83752,10 @@ polimeria : nom
 polimerosa : ajetivo
   EN polymeric, polymerous
 
+.polimerase : nom biolojia cimica
+  D un enzima cual causa la crea de un polimer, spesial adn o arn
+  EN polymerase
+
 .polimorfe : ajetivo biolojia
   D esistente en formas diversa
   EN polymorphic
@@ -83639,7 +84267,7 @@ pop : nom
 
 .popa : nom veculo
   D la parte la plu retro de un barco o barcon, spesial sua teto; (nonformal) la gluteos
-  EN stern (ship); (colloquial) bum, butt, rear, tush (buttocks)
+  EN poop, stern (ship); (colloquial) bum, butt, rear, tush (buttocks)
 
 Popa : nom astronomia
   EN Puppis (constellation)
@@ -83809,6 +84437,10 @@ porcor : nom
   I #
   T Porifera
   EN porifer (organism)
+
+.porina : nom biolojia
+  D un protena capas de traversa un membrana selulal e funsiona como un por
+  EN porin
 
 .porno : ajetivo
   D (nonformal) pornografial
@@ -85737,6 +86369,12 @@ privada : ajetivo
 privata : nom
   EN confidence, secret
 
+privati : verbo nontransitiva
+  EN privatize|is
+
+privati : nom
+  EN privatization|is
+
 privatia : nom
   EN privacy, confidence, confidentiality; seclusion
 
@@ -86829,6 +87467,10 @@ protea jigante : nom planta
   T Protea cynaroides
   EN giant protea, king protea, king sugar bush, honeypot
 
+.protease : nom biolojia cimica
+  D un enzima cual redui protenas e peptidos
+  EN protease
+
 .proteje : verbo transitiva governa
   D preveni la feri o dana de (un person o cosa)
   DA beskytte, forsvare
@@ -87649,6 +88291,7 @@ trepunto : nom
 .puntua : verbo transitiva linguistica
   D ajunta marcas como puntos, virgulas e brasetas a (un testo scriveda) per separa frases e sua partes e per clari sinifias
   EN punctuate
+  ES puntuar
 
 puntua : nom
   EN punctuation
@@ -87907,6 +88550,7 @@ puxador : nom
   D un pasatempo composada de un imaje primida sur carton o lenio e taliada en pesos de formas diversa cual on debe reasembla
   I #
   EN jigsaw puzzle
+  ES rompecabezas
 
 .q : simbol
   D la letera 17 de la alfabeta roman
@@ -92852,6 +93496,10 @@ rubor : nom
   T Rubus fruticosus
   EN bramble (plant, berry)
 
+rubo gris : nom planta
+  T Rubus caesius
+  EN dewberry
+
 .ruca : nom planta cosini
   D un planta mediteranean en familia de col, de cual on come sua folias en saladas
   I #
@@ -96880,6 +97528,10 @@ selulal : ajetivo
   EN cellular
   FR cellulaire
 
+.selulase : nom biolojia cimica
+  D un enzima cual cambia selulosa a glucosa o un disacarido
+  EN cellulase
+
 .selulite : nom
   D un inflama de texeda juntante ipodermal
   EN cellulitis
@@ -99567,8 +100219,8 @@ silentia : nom
   EN silence
 
 .silica : nom tera
-  D un composada dur, sin color, e nonreatante cual es trovada como cuarzo e como la parte xef de arenito e otra rocas
-  EN silica, silicon dioxide
+  D un composada dur, sin color, e nonreatante cual es trovada como cuarzo e como la parte xef de arenito e otra rocas; un petra de esta materia
+  EN silica, silicon dioxide; flint
 
 .silicato : nom cimica
   D un sal en cual la anion conteni e silico e osijen
@@ -100410,6 +101062,10 @@ sinta aderente : nom
 
 sinta de libro : nom
   EN bookmark
+
+.sintase : nom biolojia cimica
+  D un enzima cual catalise un prosede de sintese
+  EN synthase
 
 .sintatica : nom linguistica
   D la ordina de parolas e formulas per crea un bon frase en un lingua; un colie de regulas per esta; la campo de linguistica cual studia esta
@@ -103576,7 +104232,7 @@ staniante : nom
   I #
   CA estació
   DE Bahnhof
-  EN station, stop, stopping place
+  EN station, stop, stopping place; (soldier's) post
   EO stacio
   ES estación
   FR gare
@@ -103596,6 +104252,9 @@ stasion final : nom
 stasion spasial : nom
   I #
   EN space station
+
+stasioni : verbo transitiva
+  EN station, deploy, post (soldier, etc.)
 
 sustasion : nom
   EN substation
@@ -106094,11 +106753,11 @@ con forma de T : ajetivo
   ES con forma de T
 
 .ta : averbo preverbal
-  D usada direta ante un verbo finita per indica ce esta refere a un situa nonreal (imajinal, dutada, desirada o mera posible); ance usada en demandas cortes
+  D usada direta ante un verbo finita per indica ce esta refere a un situa nonreal (imajinal, dutada, desirada o mera posible); simil usada en un suproposa introduida par `ci`, `cual`, `como`, `cuando`, `cuanto` o `do` per asentua ce la eleje entre la posibles no importa; ance usada en demandas cortes
   N No usa `ta` per refere a la futur en un frase pasada. Usa `va`: `tu ia dise ce tu va aida`. // Unlike _would_, `ta` does _not_ denote a reported future as in _he said he would be here_ (`el ia dise ce el va es asi`) and _she would later become an author_ (`el ia deveni plu tarda un autor`).
-  U si nos ta ave un mapa, nos no ta es perdeda; tu ta desira plu cafe?
+  U si nos ta ave un mapa, nos no ta es perdeda; cual lo ta es, me no gusta lo; me va dona a tu cual tu ta desira; do tu ta asconde, on va trova tu; como los ia ta entra, los ia desobedi la lege; tu ta desira plu cafe?
   V ia ta
-  EN would (indicating that a finite verb refers to a hypothetical scenario; also used in polite questions)
+  EN would (indicating that a finite verb refers to a hypothetical scenario, or one in which the identity of the thing concerned is irrelevant; also used in polite questions)
   EO -us
   ES expresión del condicional
 
@@ -106106,6 +106765,7 @@ ta ce : espresa
   D espresante un desira o comanda
   U ta ce nos vade; ta ce tu deside
   EN would that, may, let (something happen)
+  ES expresión de un deso o de una orden (imperativo)
 
 .tabaco : nom planta
   D un planta de la tropicos american en familia de solano; la folias de esta, cual conteni nicotina e es preparada par seci e fermenta per fuma o mastica
@@ -106125,11 +106785,13 @@ ta ce : espresa
   I #
   T Tabanidae
   EN horsefly
+  ES tábano
 
 .tabla : nom musica
   D un duple de tambures peti liada a lunlotra e juada par presa con la manos per cambia tono
   I #
   EN tabla (musical instrument)
+  ES tabla (instrumento musical)
 
 .table : nom arciteta
   D un mobila con surfas plana e un o plu gamas, sur cual on pone ojetos per come, scrive o labora; un peso de lenio o otra materia sur cual on fa xace o otra juas; un colie de fatos o numeros mostrada en colonas; (en informatica) un colie indiseda de elementos relatada
@@ -106153,57 +106815,71 @@ table basa : nom
 
 table de autopsia : nom
   EN autopsy table, slab
+  ES mesa de autopsias
 
 table de axi : nom
   EN hash table (software)
+  ES tabla hash (software)
 
 table de contenidas : nom
   EN table of contents
+  ES índice
   FR table de matières
 
 table de cosina : nom
   EN kitchen table
+  ES mesa de cocina
   FR table de cuisine
 
 table de labora : nom
   EN worktable, workbench, worktop, work surface; desktop (software)
+  ES escritorio, mesa de trabajo, superficie para trabajar, escritorio (software) 
   FR plan/surface de travail; bureau
 
 table de presa : nom
   I #
   EN ironing board
+  ES tabla de planchar
   FR planche à repasser
 
 table de vende : nom
   EN sales counter
+  ES mostrador de ventas
   FR comptoir
 
 table de xace : nom
   I #
   EN chessboard
+  ES tablero de ajedrez
   FR échiquier
 
 Table : nom astronomia
   EN Mensa (constellation)
+  ES Mensa (constelación)
   FR la Table
 
 table ladal : nom
   EN end table, side table
+  ES mesa auxiliar, rinconera, esquinera
 
 table ronda : nom
   EN round table (including discussion)
+  ES mesa redonda (incluyendo la discusión)
   FR table ronde (y compris discussion)
 
 tableta : nom
   EN tablet, slate (writing); tablet computer
+  ES tablet, tableta, pizarra (escritura)
   FR tablette (d'écriture, informatique)
 
 tableta de desinia : nom
   I #
   EN graphics tablet
+  ES tableta gráfica
 
 tabli : verbo nontransitiva
   EN tabulate
+  ES tabular
 
 .tabu : ajetivo siensa-umana
   D proibida par un tabu
@@ -106221,42 +106897,51 @@ tabu : nom
   D un salada de bulgur, tomates, persil, olio de oliva e jus de limon, popular en Lubnan e rejiones prosima
   I #
   EN tabbouleh (food)
+  ES tabule, tabulé
   FR taboulé
 
 .taci- : prefisa tecnical
   D rapida
   EN tachy- (rapid)
+  ES taqui- (rápido)
 
 .tacicardia : nom medica
   D batetas tro rapida de la cor
   EN tachycardia
+  ES taquicardia
 
 tacicardial : ajetivo
   EN tachycardial
+  ES taquicardia
 
 .tacion : nom fisica
   D un particula ipotesal cual move plu rapida ca lus
   EN tachyon (particle)
+  ES taquiñon
   FR tachyon
 
 .tacle : verbo transitiva sporte
   D (en rugbi e futbal american) para la move de (la juor ci posese la bal) par saisi el e forsa el a la tera; (en futbal internasional) atenta prende la bal de (un oposor) par intersepi el
   I #
   EN tackle (sport)
+  ES placar, tackle
   FR tacler
 
 tacle : nom
   EN tackle
+  ES placaje, tackle
   FR tacle
 
 .taco : nom cosini
   D un plato mexican, composada de un tortilia fritada, tipal pliada e plenida con miscas diversa como carne spisida, favas, letuga e tomates
   I #
   EN taco (food)
+  ES taco (comida)
 
 .ta-da : esclama
   D usada cuando on revela alga cosa nova o surprendente
   EN ta-da, hey presto, voilà
+  ES tachán
   FR voilà
 
 .Tadjicistan : nom jeografial
@@ -106264,14 +106949,17 @@ tacle : nom
   D un pais montaniosa e sin costa en Asia sentral, norde de Afganistan
   I #
   EN Tajikistan
+  ES Tayikistán
   FR Tadjikistan
 
 tadjici : ajetivo
   EN Tajik (person, language)
+  ES tayiko (persona, idioma)
   FR tadjik
 
 tadjici : nom
   EN Tajik (person, language)
+  ES tayiko (persona, idioma)
 
 .tafel : nom sporte
   D un grupo de juas de table, orijinante en Scandinavia, en cual un juor atenta prende la re e la otra atenta move la re a securia
@@ -106281,51 +106969,62 @@ tadjici : nom
 .tafeta : nom veste
   D un seda delicata e briliante, con trama lisa; un otra materia simil
   EN taffeta (fabric)
+  ES tafetán
   FR taffeta
 
 .tagalog : ajetivo demonim
   D pertinente a un popla de Luzon sentral en la Pilipinas, o a sua lingua austronesian
   EN Tagalog (person, language)
+  ES tagalo (persona, idioma)
   FR tagalog
 
 tagalog : nom
   EN Tagalog (person, language)
+  ES tagalo (persona, idioma)
 
 .tagete : nom planta
   D un planta en familia de elianto, con flores jala
   T Tagetes
   EN marigold
+  ES tagete, cempasúchil, cempoalxóchitl, cempaxochitl, cempoal, flor de muertos
 
 .Tahiti : nom jeografial
   D un isola en la Mar Pasifica sude-sentral, un de la Isolas Sosia cual formi un parte de Polinesia Franses
   I #
   EN Tahiti
+  ES Tahití
   FR Tahiti
 
 tahiti : ajetivo
   EN Tahitian
+  ES tahitiano
   FR tahitien
 
 tahiti : nom
   EN Tahitian
+  ES tahitiano
 
 .Tai : nom jeografial
   D un pais en Asia sude-este, a este de Miama e a ueste de Lau e Camputxa
   I #
   EN Thailand, Siam
+  ES Tailandia
   FR Thaïlande
 
 tai : ajetivo
   EN Thai, Siamese (person, language)
+  ES tailandés (persona, idioma)
   FR thaïlandais; thaï
 
 tai : nom demonim
-  EN Thai, Siamese (person, language)
+  EN Thai, Siamese (person, language
+  ES tailandés (persona, idioma)
 
 Golfo Tai : nom jeografial
   D un golfo a sude-este de Tai
   I #
   EN Gulf of Thailand
+  ES Golfo de Tailandia, Golfo de Siam
 
 .taie : nom anatomia
   D la parte de la corpo umana su la costelas e supra la ancas; la parte de un veste cual ensirca o covre esta; (metafor) la parte en la media de un cosa como un violin, un orolojo de arena, la corpo de un vespa, o la media de un barcon
@@ -106343,12 +107042,14 @@ Golfo Tai : nom jeografial
   D la foresta de coniferes, pantanosa a veses, de la latitudes norde, spesial entre la tundra e la stepes de Sibir e America Norde
   I #
   EN taiga, boreal forest
+  ES taiga, bosque boreal
   FR taïga
 
 .taitxi : nom sporte
   D un arte militar e sistem de eserse fisical, composada de series de moves lenta e controlada
   I #
   EN tai-chi, tai-chi chuan
+  ES taichí, taichi
   FR taï-chi-chuan
 
 .Taiuan : nom jeografial
@@ -106356,19 +107057,23 @@ Golfo Tai : nom jeografial
   D un isola e pais a lado de la costa de Jonguo norde-este
   I #
   EN Taiwan
+  ES Taiwán
   FR Taïwan
 
 taiuan : ajetivo
   EN Taiwanese
+  ES taiwanés
   FR taïwanais
 
 taiuan : nom
   EN Taiwanese
+  ES taiwanés
 
 .Taklamakan, Deserto : nom jeografial
   D un deserto en Jonguo norde-ueste
   I Deserto-Taklamakan
   EN Taklamakan Desert
+  ES Desierto de Taklamakán
 
 .tal : ajetivo prenomal
   D de la spesie ja indicada
@@ -106383,11 +107088,13 @@ taiuan : nom
 
 tal : averbo
   EN in such a way, in this way, like this, thus, thusly, so, sic
+  ES así
   FR ainsi
 
 tal ce : sujunta
   EN in such a way that
   EO tiel ke
+  ES de forma que, de modo que, de manera que
   FR de manière à ce que, de manière à, de façon à ce que, de façon à
 
 un tal : espresa
@@ -107595,7 +108302,7 @@ telon : nom
   CA estovalles, llençol, tovalles
   DA ark
   DE Decke, Laken, Tischdecke
-  EN sheet, tablecloth
+  EN sheet, bed sheet; tablecloth
   ES hoja, pliego, lámina, sábana, capa, mantel
   FR nappe, drap
   IT foglio
@@ -110527,16 +111234,20 @@ toxicolojiste : nom
 .toxina : nom cimica biolojia
   D un produida venenosa, creada en la selulas de un planta o animal
   EN toxin
+  ES toxina
 
 toxina de botulisme : nom
   EN botulinum toxin
+  ES toxina botulínica
 
 antitoxina : nom medica
   D un medisin per combate la efetos de toxinas
   EN antitoxin
+  ES antitoxina
 
 toxinia : nom
   EN toxicity
+  ES toxicidad
 
 .tra : preposada
 (1)
@@ -110673,6 +111384,7 @@ traduor : nom
 .traduolojia : nom
   D la studia de tradui e interprete
   EN translation studies, translatology, traductology
+  ES traductología
 
 .trae : verbo transitiva
   D fa ce (un person o cosa) ariva con se, cisa per dona lo a un otra person
@@ -110877,6 +111589,10 @@ transesalia : nom
 .transfemin : ajetivo
   D (un fem) transjenero; (un person nonbinaria) ci ia nase mas e regarda se como xef femin
   EN transfeminine
+
+.transferase : nom biolojia cimica
+  D un enzima cual envia un grupo funsional (per esemplo un grupo de metil o fosfato) de un molecula a un otra
+  EN transferase 
 
 .transfobia : nom siensa-umana
   D un antipatia estrema o nonrazonada a persones transesal
