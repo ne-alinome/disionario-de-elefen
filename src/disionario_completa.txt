@@ -312,42 +312,50 @@ abisinian : nom demonim
   U el abita un aparte; el abita en Moscva; el abita en la campania; el abita un caseta en la campania
   EN live in, inhabit, reside in, dwell in, settle in
   EO loĝi en
+  ES habitar, vivir, residir
   FR habiter dans/à
   HE לגור, להתגורר, לשכון, להשתקע
 
 abita : nom
   EN habitation, residency, dwelling (state)
   EO loĝado
+  ES habitación, residencia
   HE התגוררות, איכלוס
 
 abitable : ajetivo
   EN habitable, inhabitable, livable|liveable
   EO loĝebla
+  ES habitable
   HE ראוי למגורים
 
 abitablia : nom
   EN habitability, inhabitability, livability|liveability
   EO loĝebleco
+  ES habitabilidad
   HE היות מבנה או סביבה ראוי למגורים
 
 abitada : ajetivo
   EN inhabited, lived-in; manned
   EO loĝata, enloĝata
+  ES habitado
   HE מאוכלס, מיושב; מאוייש
 
 abitada : nom
   D la ambiente do un spesie de animal abita tipal
   EN habitat
   EO habitato
+  ES hábitat
   FR habitat
   HE בית גידול, סביבת מגורים טבעית
 
 abitada de studiantes : nom
   EN hall of residence, student residence, dormitory
+  ES residencia de estudiantes, residencia estudiantil, residencia universitaria
   HE מעון סטודנטים
 
 abital : ajetivo
   EN residential
+  ES residencial
   HE ששייך למגורים, עירוני
 
 abitante : ajetivo
@@ -359,54 +367,64 @@ abiteria : nom
   D un sala o casa do un person abita
   EN residence, abode, dwelling, accommodation, quarters, billet, domicile, lodging
   EO loĝejo
+  ES habitación
   FR habitation, logement
   HE מגורים, מעון
 
 abitor : nom
   EN inhabitant, resident, denizen
   EO loĝanto
+  ES habitante, residente
   FR habitant
   HE דייר, משתכן, תושב
 
 abitor de cava : nom
   EN cave dweller, caveman, cavewoman
   EO kavernulo
+  ES cavernícola, troglodita, hombre de las cavernas
   FR troglodyte
   HE איש מערות
 
 abitor luante : nom
   EN lodger
   EO ĉambroluanto
+  ES huésped, inquilino
   HE דייר בשכירות, שוכר
 
 abitores : nom plural
   EN inhabitants, residents, population
   EO loĝantoj, loĝantaro
+  ES habitantes, residentes
   HE תושבים, אוכלוסיה
 
 nonabitable : ajetivo
   EN uninhabitable, unlivable|unliveable
   EO neloĝebla
+  ES inhabitable
   HE שאינו ראוי למגורים
 
 nonabitada : ajetivo
   EN uninhabited; unmanned
   EO neloĝata
+  ES deshabitado
   FR inhabité
   HE לא מיושב
 
 nonabital : ajetivo
   EN non-residential
+  ES no residencial
   HE שאינו שייך למגורים, לא עירוני
 
 nonabitante : ajetivo
   EN non-residential
   EO neloĝanta
+  ES no residencial
   HE שאינו מתגורר
 
 nonabitor : nom
   EN non-resident
   EO neloĝanto
+  ES no residente
   HE שאינו תושב, שאינו דייר
 
 .abitua : verbo nontransitiva
@@ -414,6 +432,7 @@ nonabitor : nom
   U el abitua a labora en la note; el ia abitua a eroina
   EN get used (to), become habituated, become accustomed, become inured; grow addicted; acclimatize|is, acclimate
   EO kutimi (al, je); maniiĝi (pri)
+  ES estar acoumbrado a, estar habituado a
   FR être habitué (à); être dépendant (à)
   HE להתרגל, להסתגל; להתמכר
 
@@ -421,45 +440,53 @@ abitua : verbo transitiva
   D fa ce (algun) deveni abituada
   EN accustom, habituate, inure; addict
   EO kutimigi
+  ES acostumbrarse a, habituarse a
   FR accoutumer
   HE להרגיל
 
 abitua : nom
   EN habit, habituation, convention; addiction
   EO kutimo; manio
+  ES costumbre, hábito, adicción
   FR habitude; addiction
   HE הרגל; התמכרות
 
 abitua sosial : nom
   EN social habit, social convention
+  ES convención social
   HE מוסכמה חברתית
 
 abituada : ajetivo
   EN accustomed, used
   EO kutimiĝinta
+  ES habituado, acostumbrado
   FR habitué
   HE מורגל
 
 abitual : ajetivo
   EN habitual
   EO kutima
+  ES habitual
   FR habituel
   HE שיגרתי
 
 abituante : ajetivo
   EN habit-forming, moreish, addictive
   EO dependiga, maniiga
+  ES adictivo
   FR addictif
   HE יוצר הרגלים; ממכר
 
 mal abitua : nom
   EN bad habit, vice
   EO malbona kutimo, malvirto
+  ES mal hábito, vicio
   HE הרגל מגונה
 
 nonabituada : ajetivo
   EN unaccustomed, unused
   EO nekutimiĝinta
+  ES desacostumbrado, raro
   FR inhabituel
   HE שאינו מורגל; זר, בלתי רגיל
 
@@ -2188,7 +2215,7 @@ afgani : nom demonim
   HE לאשר, להצהיר
 
 afirma : nom
-  EN affirmation
+  EN affirmation, (formal) statement
   EO aserto
   HE אישור, הצהרה
 
@@ -2283,6 +2310,10 @@ afondada : ajetivo
 afonica : ajetivo
   EN aphonic
   HE חסר קול, שאיבד את קולו
+
+.aforisme : nom linguistica
+  D un declara, tipal corta, cual conteni un vera jeneral, comun comprendeda como saja o astuta
+  EN aphorism
 
 .Africa : nom jeografial
   D la continente du de la plu grandes de mundo, a sude de Europa
@@ -3492,6 +3523,12 @@ aleta de coda : nom
 aletin : ajetivo
   EN flipperlike
   HE שדומה לסנפיר
+
+ali : verbo transitiva
+  EN add wings to, cause to have wings
+
+alida : ajetivo
+  EN winged
 
 alor : nom sporte
   D un juor atacante ci funsiona prosima a la lado de campo; un pilote de un avion locada pos e a lado de la avion gidante en un forma
@@ -5651,17 +5688,17 @@ cuantia de amperes : nom
   EN ammeter
   HE מד-זרם
 
-.ampola : nom
-  D un capsula selida de vitro conteninte un licuida, tipal per injeta; un bulbo de lus
+.ampola : nom anatomia medica
+  D un capsula selida de vitro conteninte un licuida, tipal per injeta; un bulbo de lus; un botela cuasi sfera con du manicos, usada en Roma antica; un botela per usas santa; un caveta, o la fini dilatada de un duto, con forma simil
   I #
-  EN ampoule; lightbulb
-  HE אמפולה
+  EN ampoule; lightbulb; ampulla
+  HE אמפולה, בקבוקית; (נצרות) קנקן
 
 .amputa : verbo transitiva medica
   D corti o sutrae (un parte de corpo), tipal par sirurjia
   U amputa la gama de algun
   EN amputate
-  HE לקטוע, לכרות איבר
+  HE לקטוע, לכרות (איבר)
 
 amputa : nom
   EN amputation
@@ -6057,6 +6094,11 @@ con ance : preposada
   O de elinica ankulos (curvada) + stoma (boca)
   EN hookworm, ancylostomiasis
   HE מחלה הנגרמת על-ידי תולעי קרס
+
+.anconeo : nom tecnical anatomia medica
+  D un musculo peti a la posterior de la junta de codo
+  EN anconeus (muscle)
+  HE שריר המרפק
 
 .ancor : nom util
   D un ojeto pesosa, liada a un cordon e usada per fisa un barcon a la fondo de mar
@@ -6477,7 +6519,7 @@ angulida : ajetivo
   HE לגרום לייסורים, לגרום למצוקה
 
 angusa : nom
-  EN agony, anguish, anxiety, dismay, consternation, distress, stress (mental)
+  EN agony, anguish, anxiety, dismay, consternation, distress, stress (mental), tribulation
   HE ייסורים, סבל, עינוי, חרדה, לחץ, סטרס, מצוקה
 
 angusada : ajetivo
@@ -7752,6 +7794,14 @@ apocrifas : nom plural
   EN apocrypha
   HE אפוקריפה, הספרים החיצוניים לתנ"ך
 
+.apofonia : nom linguistica
+  D un cambia de sona en un parola cual indica informa gramatical
+  EN apophony, ablaut
+
+apofonia indoeuropean : nom
+  D un sistem de apofonia coerente trovada en reconstruis de protoindoeuropean, e continuante en sua desendentes
+  EN ablaut
+
 .apoia : verbo nontransitiva
   D inclina a via de la perpendicular; diverje de la vertical o orizonal
   I #
@@ -8295,33 +8345,40 @@ arcetipal : ajetivo
 .arci- : prefisa tecnical
   D xef, major
   EN archi-, arch- (chief)
+  ES archi-, arqui-
   HE (קידומת טכנית) ראשי, עיקרי
 
 .arcibispo : nom relijio
   D un bispo major
   EN archbishop
+  ES arzobispo
   HE ארכיבישופ
 
 arcibispia : nom
   EN archbishopric, archdiocese
+  ES arzobispado
   HE ארכיבישופות
 
 .arciduxe : nom governa
   D un duxe xef
   EN archduke
+  ES archiduque
   HE ארכידוכס
 
 arciduxesa : nom
   EN archduchess
+  ES archiduquesa
 
 .arcipelago : nom tera
   D un grupo o cadena de isolas
   EN archipelago
+  ES archipiélago
   HE ארכיפלג
 
 .arciprete : nom relijio
   D la prete xef de un grupo relijiosa
   EN high priest, high priestess
+  ES arcipreste
   HE כהן גדול
 
 .arciteta : nom arte
@@ -8335,77 +8392,94 @@ arciduxesa : nom
 
 arcitetal : ajetivo
   EN architectural
+  ES arquitectónico
   HE ארכיטקטי, אדריכלי
 
 arcitetor : nom
   EN architect
+  ES arquitecto
   HE ארכיטקט, אדריכל
 
 .arcitrava : nom arte
   D un faxon major, reposante sur la culminas de colonas; un moldur sirca un fenetra, porte o arco
   I #
   EN architrave
+  ES arquitrabe
   HE ארכיטרב (קורת אבן אופקית על שורת עמודים)
 
 .arcivo : nom informatica
   D un colie de informa rejistrada; un portapaper; un spesie de fix cual grupi otra fixes o suarcivos
   EN record (information), register, log; file, folder, document wallet; folder, directory
+  ES archivo, carpeta, cartera de documentos
   HE רשומה
 
 arcivador : nom
   EN file cabinet, filing cabinet
+  ES archivador
   HE ארון מסמכים
 
 arcivador de revisas : nom
   EN version control system, revision control system
+  ES sistema de control de versiones, sistema de control de revisión
   HE מערכת ניהול גרסאות
 
 arcival : ajetivo
   EN archival
+  ES de archivo
   HE ארכיוני
 
 arciveria : nom
   EN archive, depository, record office, repository, registry
+  ES archivo, depósito, oficina de registro, depósito, repositorio, registro
   HE ארכיון
 
 arcivi : verbo transitiva
   EN archive, log, chronicle, file
+  ES archivar, registrar
   HE לתעד, לתייק, לשמור בארכיון
 
 arciviste : nom
   EN archivist
+  ES archivero, archivista
   HE ארכיונאי
 
 arcivos anial : nom
   EN annals
+  ES anales
   HE ספרי השנים
 
 malarcivi : verbo transitiva
   EN misfile
+  ES archivar incorrectamente
   HE לתייק במקום הלא נכון
 
 suarcivo : nom informatica
   EN subfolder, subdirectory
+  ES subcarpeta, subdirectorio
   HE תת-ספריה
 
 .arcivolta : nom arte
   D un banda de moldures simil a un arcitrava, longo la curva su un arco
   EN archivolt, voussure (architecture)
+  ES arquivolta
   HE ארכיוולט
 
 .arco : nom matematica arte util
   D un parte de la perimetre de un sirculo o otra curva; un forma o strutur curva; la curso curvinte de un ojeto movente; un curso developante en un nara; un strutur curva cual estende simetre supra un abri, tipal suportante un teto, ponte o mur; un descarga eletrical luminosa entre du puntos; un arma per xuta flexas, tipal fabricada de un peso curva de lenio, de cual sua finis es juntada par un corda tensada; un basto longa portante filos tensada, usada per jua strumentos de cordetas
   I #, arco-construi
   EN arc (geometry, electrical, narrative); arch, archway (architecture); bow (weapon, music)
+  ES arco
   HE קשת
 
 arco apoiante : nom
   I #
   EN flying buttress
+  ES arbotante
   HE קשתות דואות
 
 arco de pede : nom
   EN arch (foot), instep
+  ES arco del pie, arco plantar
   HE קשת כף הרגל
 
 arco de porte : nom
@@ -8415,10 +8489,12 @@ arco de porte : nom
 arco de sielo : nom
   I #
   EN rainbow
+  ES arcoiris
   HE קשת בענן
 
 arco longa : nom
   EN longbow
+  ES arco largo
   HE קשת ליריית חיצים
 
 arco sigmoide : nom
@@ -8428,6 +8504,7 @@ arco sigmoide : nom
 
 arci : verbo nontransitiva
   EN arch (back, roof)
+  ES arquear, abovedar
   HE לקמר
 
 arci a retro : nom
@@ -8436,25 +8513,30 @@ arci a retro : nom
 
 arcin : ajetivo
   EN bow-shaped
+  ES en forma de arco
   HE בצורת קשת
 
 arcor : nom
   EN archer
+  ES arquero
   HE קשת, אדם היורה בחץ וקשת
 
 Arcor : nom astronomia
   D un constela de la zodiaco, entre la Scorpion e la Capra
   S ♐
   EN Sagittarius (constellation)
+  ES Sagitario (constalación)
   HE קבוצת הכוכבים קשת
 
 xuta con arco : nom
   EN archery
+  ES tiro con arco
   HE קשתות, ירי בחץ וקשת
 
 .arconte : nom istoria governa
   D cada de la nove judores xef en Atina antica; (metafor) un renor
   EN archon (Athenian judge)
+  ES arconte (juez ateniense)
   HE ארכון (שופט ביוון העתיקה)
 
 .arde : verbo nontransitiva
@@ -8641,6 +8723,11 @@ aresta nonlegal : nom
 arestada : ajetivo
   EN arrested, under arrest, in custody
   HE עצור, נמצא במעצר
+
+.aritenoide : nom anatomia medica
+  D un musculo con la forma de un culieron
+  EN arytenoid (muscle)
+  HE קיתון (שריר)
 
 .argon : nom cimica
   D la elemento cimical con numero atomal 18, un gas inerte
@@ -9269,6 +9356,23 @@ article de novas : nom
   EN news item
   HE ידיעה, כתבה חדשותית
 
+.articula : verbo nontransitiva anatomia
+  D (un oso) formi un junta (con un otra oso)
+  EN articulate
+  HE להתחבר במפרק
+
+articula : nom
+  EN articulation, joint (anatomy)
+  HE מפרק
+
+articulal : ajetivo
+  EN articular
+  HE מפרקי
+
+articulada : ajetivo
+  EN articulated, articulate, jointed
+  HE מחובר במפרק
+
 .artifis : ajetivo
   D fabricada par umanas, tipal de materias ance fabricada par umanas, en contrasta con cosas plu biolojial
   EN artificial, synthetic, manmade
@@ -9438,8 +9542,8 @@ asconde : verbo transitiva
   HE להחביא, להסתיר, להצניע, להסוות
 
 asconde : nom
-  EN hiding, cover-up
-  HE התחבאות, הסתרה; העלמה, טיוח
+  EN hiding, cover-up; latency
+  HE התחבאות, הסתתרות; החבאה, הסתרה, הצנעה; טיוח; חביון
 
 ascondeda : ajetivo
   EN hidden, concealed, latent, tucked away; lurking, stealthy
@@ -9448,6 +9552,9 @@ ascondeda : ajetivo
 ascondeda : averbo
   EN stealthily, by stealth
   HE בחשאי, בהחבא
+
+ascondedia : nom
+  EN hiddenness, latency
 
 asconderia : nom
   EN hideout, hiding place
@@ -9578,7 +9685,7 @@ asembla : verbo transitiva
   HE לאסוף, לכנס, לקבץ; להרכיב
 
 asembla : nom
-  EN gathering, get-together, meeting, rally, jamboree; (political) assembly
+  EN gathering, get-together, meeting, rally, jamboree; (political) assembly, diet
   HE אסיפה, מפגש, פגישה, ישיבה; התקהלות, התכנסות, כינוס, עצרת; הרכבה
 
 asembla constituinte : nom
@@ -10927,7 +11034,7 @@ atende : nom
   HE תשומת לב; קשב; השגחה
 
 atendente : ajetivo
-  EN attentive, alert, attendant, heedful; careful, rigorous, clear-headed, wakeful
+  EN attentive, alert, attendant, heedful, intent; careful, rigorous, clear-headed, wakeful
   HE קשוב, מתחשב; דרוך, זהיר
 
 atendor : nom
@@ -11828,7 +11935,7 @@ autoria : nom
 
 .autoria : nom governa
   D un potia o direto de comanda, deside e forsa la obedi
-  EN authority, mandate, jurisdiction
+  EN authority, mandate, jurisdiction, empowerment
   FR (l') autorité
   HE סמכות, מנדט
 
@@ -11839,7 +11946,7 @@ autori : verbo transitiva
   HE להסמיך, להאציל סמכות
 
 autori : nom
-  EN authorization|is
+  EN authorization|is, empowerment
   FR mandat, accréditation
   HE הסמכה, האצלת סמכות
 
@@ -14483,6 +14590,10 @@ basebalor : nom
   FR bassin (géographie)
   HE (גיאוגרפיה) אגן
 
+basin endoreica : nom tera
+  EN endorheic basin
+  FR bassin endoréique
+
 Basin Grande : nom jeografial
   D un rejion seca en la SUA, a ueste de la Montes Rocosa
   I #
@@ -16138,6 +16249,14 @@ biolojial : ajetivo
 biolojiste : nom
   EN biologist
   HE ביולוג
+
+.bioma : nom biolojia
+  D un comunia grande de organismes natural aveninte, en un abitada major, pe un foresta o tundra
+  CA bioma
+  EN biome
+  ES bioma
+  FR biome
+  IT bioma
 
 .biomasa : nom biolojia
   D la masa intera de organismes en un area o volum spesifada; materia organica usada como un combustable
@@ -17934,6 +18053,11 @@ bovin : ajetivo
   EN cowlike, bovine
   HE דמוי פרה
 
+bovon : nom
+  EN bull
+  FR taureau
+  HE פר, שור
+
 bovor : nom
   EN cowherd, cowboy, wrangler
   FR bouvier, cowboy
@@ -19524,6 +19648,11 @@ busor : nom
   FR bulot, buccin
   HE שבלול ימי
 
+.businador : nom anatomia medica
+  D un musculo plata e magra en la jena
+  EN buccinator (muscle)
+  HE שריר המחצצר
+
 .busola : nom util
   D un aparato con ago cual punta en dirije a la norde magnetal
   I #
@@ -19672,11 +19801,14 @@ ca : sujunta
 .caa : esclama onomatopea
   D la cria xiliante de un corvo o avia simil
   EN caw, crow
+  ES croc
+  FR croa
   HE קריאת עורב
   RU кар, кар-кар
 
 .cabal : nom governa relijio
   D un partito political secreta
+  DE kwrah
   EN cabal, caucus
   ES cábala, camarilla
   HE קבוצה פוליטית סודית
@@ -19713,7 +19845,11 @@ cabana de lenio : nom
 cabana de troncos : nom
   I #
   EN log cabin
+  FR cabane en rondins
   HE צריף עץ
+  IT capanna di tronchi
+  JA ログハウス
+  RU сруб
 
 cabana de utiles : nom
   EN tool shed
@@ -19775,6 +19911,7 @@ cable eletrical : nom
 
 caca de bove : nom
   EN (colloquial) bullshit, bollocks (nonsense)
+  ES (coloquial) pamplinas, sandeces, mojón, mamadas, chorradas
   HE בולשיט
 
 caci : verbo transitiva
@@ -19791,18 +19928,22 @@ cacin : ajetivo
 .cacara : verbo nontransitiva onomatopea
   D cria o rie en modo bruta o xiliante, como un ganso
   EN cackle
+  ES reírse a carcajadas, desternillarse, graznar (sonido de un ave)
   HE לגעגע (קול של ברווז; גם לצחוק בצורה דומה)
 
 cacara : nom
   EN cackle
+  ES carcajada, risotada, graznido (sonido de un ave)
   HE גִּעגוע (קול של ברווז)
 
 cacareta : verbo nontransitiva
   EN chuckle, chortle
+  ES reírse entre diente, reírse por lo bajo
   HE לצחקק, לגחך
 
 cacareta : nom
   EN chuckle, chortle
+  ES risa, risita
   HE צחקוק, גיחוך
 
 .cacatu : nom avia
@@ -20092,6 +20233,10 @@ Isolas Caiman : nom plural jeografial
   I isolas-caiman
   EN Cayman Islands
   HE איי קיימן
+
+.caio : nom tera
+  D un isola peti, basa e arenosa sur la surfas de un resife de coral
+  EN cay, caye, key
 
 .caje : nom arciteta
   D un strutur de baras o redes metal per restrinje animales, o persones caturada o prisonida
@@ -21942,8 +22087,11 @@ capasi : verbo nontransitiva
   HE לרכוש מיומנות
 
 capasi : verbo transitiva
-  EN enable
+  EN enable, empower
   HE לאפשר
+
+capasi : nom
+  EN enabling, empowerment
 
 capasia : nom
   EN ability, capability, capacity, power, faculty (power); talent, skill, knack, gift; proficiency, competence, prowess, artistry; efficiency, performance
@@ -22264,6 +22412,10 @@ caprisia : nom
 caprisosa : ajetivo
   EN capricious, whimsical
   HE קפריזי, גחמני
+
+.capside : nom biolojia
+  D un casca de protenas ensircante un virus
+  EN capsid
 
 .capsula : nom util biolojia
   D un contenador peti, tipal ronda o silindre; un contenador multe peti de jelatin, conteninte un cuantia de medisin; la membrana o gaina dur cual enclui alga cosa en la corpo, como la ren; la strato jelatin cual formi la surfas esterna de alga selulas baterial; un fruta seca cual rompe per relasa sua semes cuando matur; la strutur cual produi sporas en moses e epaticas
@@ -27729,7 +27881,7 @@ no como : sujunta
   RU словно не, как будто не
 
 sempre como : sujunta
-  EN however
+  EN however, in whatever way
 
 .comoda : nom arciteta
   D un mobila de caxetas e cisa scafales
@@ -27991,7 +28143,7 @@ compilor : nom
 
 .compleso : nom arciteta informatica siensa-umana
   D un grupo de construidas relatada en la mesma area; un grupo o sistem de cosas diferente, liada en un rede; (en psicoanalise) un grupo relatada de ideas emosial e importante cual es intera o partal represada, causa desacorda mental, e gida a conduis o states nonormal de mente
-  EN complex; compound, plant, facility, campus; complex (psychological)
+  EN complex; compound, plant, facility, campus; yard (industrial); complex (psychological)
   HE קומפלקס, מתחם; תסביך
 
 compleso de casas : nom arciteta siensa-umana
@@ -28680,6 +28832,11 @@ condensador : nom
   EN condor, New World vulture
   HE קונדור (ציפור)
 
+.condromalasia : nom medica
+  D un moli de la cartilaje de un junta
+  EN chondromalacia
+  ES condromalacia
+
 .condui : verbo nontransitiva
   D ata en un modo spesifada, tipal en relata sosial con otra persones
   N No usa `condui` per dise `gida` o `porta`.
@@ -29333,6 +29490,9 @@ consenta : nom
 consentra : nom
   EN concentration, focus
   HE ריכוז
+
+consentrada : ajetivo
+  EN concentrated, focused, intent
 
 consentrador : nom
   EN hub (computer)
@@ -30295,11 +30455,11 @@ contrademostra : nom
 
 .contradise : verbo transitiva filosofia
   D nega la veria de (un declara), spesial par mostra la oposada
-  EN contradict
+  EN contradict, be at odds with, call into question, show to be false, prove to be false, disprove, debunk, discredit, controvert, negate, confute
   HE לסתור
 
 contradise : nom
-  EN contradiction
+  EN contradiction, inconsistency, mismatch, variance
   HE סתירה
 
 autocontradise : verbo transitiva
@@ -30311,7 +30471,7 @@ autocontradisente : ajetivo
   HE סתירה עצמית
 
 contradisente : ajetivo
-  EN contradictory
+  EN contradictory, antithetical, contrary, contrasting, conflicting, at variance, at odds, opposing, clashing, divergent, discrepant, different; inconsistent, incompatible
   HE סותר
 
 contradise se : verbo transitiva
@@ -31012,6 +31172,11 @@ descori : verbo transitiva
 sin cor : ajetivo
   EN heartless
   HE חסר לב
+
+.coraco- : prefisa tecnical anatomia medica
+  D oncin, con forma de beco de corvo
+  EN coraco-, hook-like
+  HE (קידומת טכנית) דמוי קרס
 
 .coracoide : nom anatomia
   D un parte de la spala de multe vertebratos (estra la plu de mamales)
@@ -31878,7 +32043,7 @@ pos corta : averbo
   HE בקרוב, במהרה, עוד מעט, לאחר זמן קצר
 
 .corte : nom governa
-  D un asembla governada par un o plu judores per gida prosedes de lege; la construida o salon per esta; un renor e sua consiliores e otra persones; la abiteria de un renor
+  D un asembla governada par un o plu judores per gida litigas; la construida o salon per esta; un renor e sua consiliores e otra persones; la abiteria de un renor
   EN court (law, royal); courthouse, courtroom
   HE בית משפט, בית דין; חצר (המלך)
 
@@ -32030,6 +32195,15 @@ sin cortina : ajetivo
   D un util per corti ungias de dito e pede
   EN nail clipper
   HE קוצץ ציפורניים
+
+.coruga : verbo nontransitiva anatomia medica
+  D contrae en plias o plietas
+  EN corrugate
+  HE להתקמט, לקבל צורה גלית
+
+corugada : ajetivo
+  EN corrugated, wrinkled, crinkled, crinkly, wrinkly, crumpled, striated
+  HE מקומט, גלי
 
 .Corvatsca : nom jeografial
   C Zagreb
@@ -33142,6 +33316,11 @@ descremida : ajetivo
   EN skimmed (milk)
   HE (חלב) דל-שומן
 
+.cremaster : nom anatomia medica
+  D un musculo cual teni la testiculos
+  EN cremaster (muscle)
+  HE שריר מרים האשך
+
 .creol : ajetivo demonim linguistica
   D pertinente a persones ci desende de un misca de europeanes e africanes, spesial en la isolas de la Caribe, a sua cultur e cosini, o a sua linguas
   EN creole
@@ -33418,6 +33597,11 @@ crici : verbo transitiva
   EN jack up
   HE להשתמש במגבה
 
+.crico- : prefisa tecnical anatomia medica
+  D con forma de anelo
+  EN crico-, ring-shaped
+  HE (קידומת טכנית) דמוי טבעת
+
 .cril : nom artropodo
   D un crustaseo peti, simil a un gamba
   I #
@@ -33551,6 +33735,11 @@ criofilica : nom
 criojenia : nom
   EN cryogenics
   HE קריוגניקה
+
+.crioseci : verbo nontransitiva
+  D deveni conservada par jela rapida e esposa a un vacua cual sublima la jelo
+  EN freeze-dry
+  HE להתייבש בהקפאה
 
 .criosirurjia : nom medica
   D sirurjia cual usa la aplica local de fria estrema per destrui texedas nondesirada
@@ -33977,156 +34166,202 @@ crujinte : ajetivo
   EN croup (medical)
   HE אסכרה, דלקת דרכי הנשימה
 
+.crure : nom anatomia medica
+  D un parte longa en un strutur anatomial, spesial un cual parteni a un duple
+  EN crus (anatomy)
+  HE (אנטומיה) מבנה ארוך, בדרך-כלל חלק מזוג
+
 .crus : nom util relijio
-  D un marca o ojeto formida par du linias reta cual comparti un punto comun; un palo vertical con bara traversante, usada en edas pasada per mata criminales e otras; un simbol de cristianisme
+  D un marca o ojeto formida par du linias reta cual comparti un punto comun; un palo vertical con bara traversante, usada en edas pasada per mata criminales e otras; un simbol de cristianisme; la area entre la colo e la spalas de un cavalo o otra bestias, a cual la altia de la animal es mesurada
   I #
-  EN cross; crucifix
+  EN cross; crucifix; withers (horse)
+  HE צלב
 
 crus de vias : nom
   EN crossroads
+  HE צומת, הצטלבות
 
 Crus : nom astronomia
   D un constela fasil per vide en la sielo sude
   EN Crux (constellation)
+  HE הצלב הדרומי (קבוצת כוכבים)
 
 Crus Roja : nom
   EN Red Cross
+  HE הצלב האדום
 
 crusi : verbo transitiva
   EN crucify
+  HE לצלוב
 
 crusi : nom
   EN crucifixion
+  HE צליבה
 
 crusin : ajetivo
   EN crosslike, cross-shaped, cruciform
+  HE דמוי צלב
 
 .crusa : verbo nontransitiva
   D (du cosas) pasa lunlotra o reposa sur lunlotra en dirijes diferente, simil a la forma de un crus a alga grado
   EN cross, intersect
+  HE לחצות (אחד את השני), להצטלב
 
 crusa : nom
   EN crossing, intersection
+  HE חציה, הצטלבות
 
 crusa plana : nom
   EN level crossing, grade crossing
+  HE מצלב
 
 crusa sua brasos : espresa
   EN cross one's arms, fold one's arms
+  HE לשלב ידיים
 
 crusa sua gamas : espresa
   EN cross one's legs
+  HE לשלב רגליים
 
 crusante : ajetivo
   EN crossing, intersecting, crisscross
+  HE חוצה, מצטלב, שתי וערב
 
 descrusa : verbo transitiva
   EN uncross (arms, legs)
+  HE לפשוט (ידיים, רגליים)
 
 .crusada : verbo nontransitiva istoria
   D un mision militar medieval en un serie fada par europeanes per regania la Tera Santa de la muslimes entre la sentenios 11 e 13; cualce gera con intendes relijial; (metafor) un campania organizada con intende political, sosial o relijial, tipal motivada par un desira zelosa per cambia
   EN crusade
+  HE לצאת למסע צלב
 
 crusada : nom
   EN crusade
+  HE מסע צלב
 
 crusador : nom
   EN crusader
+  HE צלבן; פעיל במאבק חברתי
 
 .crusca : nom cosini
   D pesos de glumas de gran, separada de farina pos molini
   EN bran
+  HE סובין
 
 .cruser : ajetivo veculo
   D (un veculo) movente a un rapidia constante
   EN cruising
+  HE נע במהירות קבועה
 
 cruser : nom
   D un barcon de gera, plu grande ca un xasatorpedo e min armada ca un corasida
   EN cruiser (warship)
   EO krozoŝipo
   FR croiseur
+  HE סיירת (ספינת מלחמה)
 
 cruser de batalia : nom
   EN battlecruiser (warship)
+  HE סיירת מערכה
 
 .crustaseo : nom artropodo
   D un artropodo de un grupo grande e xef acual, como un crabe, langosta, omaro, gamba o siripede
   T Curstacea
   EN crustacean, shellfish
+  HE (ביולוגיה) סרטנאי
 
 .crut : nom musica
   D un strumento musical, orijinante en Cimri, simil a un lira ma juada como un violin
   I #
   EN crwth (musical instrument)
+  HE כלי נגינה וולשי
 
 .cruton : nom cosini
   D un peso peti de pan, fritada o tostada, tipal servida con sopa o salada
   EN crouton
+  HE קרוטון, צנימון
 
 .ctenoforo : nom
   D un nonvertebrato acual, con grupos de silios per nada e con selulas spesial cual lo usa per catura predas
   I #
   T Ctenophora
   EN ctenophore (organism)
+  HE מסרקנית (בעל חיים)
 
 .cuac : esclama onomatopea
   D la sona tipal de un pato o rana
   EN quack (duck); ribbit (frog)
+  HE גע-גע (קול ברווז)
 
 cuaci : verbo nontransitiva
   EN quack; croak
+  HE לגעגע
 
 cuaci : nom
   EN quack; croak
+  HE געגוע (קול ברווז)
 
 .cuadrante : nom matematica
   D cada de la cuatro cuatris de un sirculo; cada de la cuatro partes de cualce corpo divideda par du linias o planas a angulos reta; (istorial) un aparato per mesura angulos de altia en astronomia e naviga
   EN quadrant
+  HE רביע
 
 .cuadrilia : nom musica
   D un dansa cuadro par cuatro duples, con sinco partes de cual cada es un dansa completa; un musica per esta
   EN quadrille (dance, music)
+  HE קוודריל (ריקוד)
 
 .cuadro : ajetivo matematica
   D (un forma) con cuatro lados reta de la mesma longia e cuatro angulos reta
   EN square, check
+  HE ריבוע, משבצת
 
 cuadro : nom
   EN square, check
+  HE ריבוע, משבצת
 
 cuadrador : nom
   EN set square, carpenter's square
+  HE זוויתן נגרים
 
 Cuadrador : nom astronomia
   D un constela peti en la sielo sude
   EN Norma (constellation)
+  HE סרגל (קבוצת כוכבים)
 
 cuadral : ajetivo
   EN quadratic, square (root)
+  HE ריבועי
 
 cuadri : verbo nontransitiva
   EN square, become square
+  HE להפוך לריבועי
 
 cuadri : verbo transitiva
   EN square, make square
+  HE לרבע
 
 cuadrida : ajetivo
   EN squared
+  HE מרובע
 
 cuadrosa : ajetivo
   EN checked, checkered
+  HE משובץ (בעל משבצות)
 
 .cuaga : nom mamal
   D un spesie estinguida de zebra
   I #
   T Quagga quagga
   EN quagga (zebra)
+  HE קואגה (זברה)
 
 .cuai : nom cosini util
   D cada de un duple de bastetas de lenio, ivor o plastica, magra e diminuinte, tenida contra lunlotra en un mano per come, tipal par persones de Asia este
   I #
   EN chopstick
+  HE מקל אכילה
 
 .Cuait : nom jeografial
   C la Site Cuait
@@ -34134,196 +34369,248 @@ cuadrosa : ajetivo
   I #
   P cüait
   EN Kuwait
+  HE כווית
 
 cuaiti : ajetivo
   P cüaiti
   EN Kuwaiti
+  HE כוויתי
 
 cuaiti : nom
   EN Kuwaiti
+  HE כוויתי
 
 .cual : determinante
   D demandante sur la identia de un cosa
   EN (interrogative) what, which
+  HE מה, איזה, איזו
 
 cual : pronom
   D demandante sur la identia de un cosa; (suordinante) introduinte un suproposa ajetivin cual dona plu informa sur un cosa cual on ia indica direta a ante
   U un ata cual merita es lodada; la vino cual tu bevi es multe vea
   EN (interrogative) what, which, which one; (relative) which, that (cannot be omitted)
+  HE ש-, אשר
 
 cual cosa? : pronom
   EN what, which thing?
+  HE איזה? איזה דבר?
 
 cual de enferno? : espresa
   EN what the hell?
+  HE מה לעזאזל?
 
 cual de mundo? : espresa
   EN what on earth?
+  HE מה לכל הרוחות?
 
 cual es la data? : espresa
   EN what is the date?
+  HE מה התאריך?
 
 cual es la ora? : espresa
   EN what is the time?
+  HE מה השעה?
 
 de cual ... sua : espresa
   U me no ave plu la caxa de cual tu ia trova sua covrente
   EN whose, of which
+  HE שאת... שלו/שלה
 
 sur cual ... lo : espresa
   N // English tends to use a more compressed structure for such sentences than is possible in Elefen, saying _what was he asking if I liked?_ and _this is is the book which I said I would show you_.
   U sur cual el ia demanda esce me gusta lo?; esta es la libro sur cual me ia dise ce me va mostra lo a tu
   EN (interrogative) about what ... it?; (relative) which, that ... it
+  HE בקשר למה; שעליו/שאודותיו
 
 .cualce : determinante
   D un o alga, asentuante ce la eleje entre la posibles no importa
   U prende cualce carta; cualce vestes va sufisi
   EN any (at all), whichever (you like), arbitrary
+  HE כלשהו, איזשהו
 
 cualce : pronom
   EN any (no matter which), whichever; so-and-so
+  HE כל דבר, כל אחד (לא משנה מי)
 
 cualces : pronom plural
   EN any (people or things, optional plural pronoun)
+  HE כל דבר, כל אחד (לא משנה מי)
 
 cualce cosa : pronom
   EN anything (at all), whatever (you like)
+  HE כל דבר (לא משנה מה)
 
 cualce cosa cual : sujunta
   EN whatever, anything which
+  HE כל דבר ש
 
 a cualce caso : averbo
   EN in any case, anyhow, anyway, nonetheless, nevertheless
+  HE בכל מקרה, בכל אופן, מכל מקום, איך שלא יהיה
 
 a cualce ora : averbo
   EN at any time of the day (at all), whenever (you like)
+  HE בכל שעה (לא משנה מתי), מתישהו
 
 a cualce ora cuando : sujunta
   EN whenever, at any time when
+  HE בכל שעה ש
 
 a cualce ves : averbo
   EN on any occasion (at all), at any time, whenever (you like), ever
+  HE בכל זמן, בכל הזדמנות
 
 en cualce loca : averbo
   EN anywhere (at all), wherever (you like)
+  HE בכל מקום (לא משנה איפה), איפשהו
 
 en cualce loca do : sujunta
   EN wherever, in any place where
+  HE בכל מקום ש
 
 en cualce modo : averbo
   EN in any way (at all), by any means (you like), in whatever way
+  HE בכל דרך אפשרית, בכל צורה
 
 en cualce modo par cual : sujunta
   EN however, by whatever means, by any means by which
+  HE בכל דרך ש, בכל צורה ש
 
 .cualcun : pronom
   D cualce person
   EN anyone, anybody (doesn't matter who), whoever (you like), whosoever
+  HE כל אחד (לא משנה מי), מי שלא יהיה
 
 cualcun : nom
   EN everyman, man in the street
+  HE אדם מן השורה
 
 cualcun ci : espresa
   EN anyone who, whoever
+  HE כל מי ש (לא משנה מי)
 
 .cuale : nom siensa-umana
   D la esperia sujetal de un sensa
   EN quale (philosophy)
+  HE (פילוסופיה) קווליה
 
 .cuali : verbo nontransitiva
   D merita es asetada (per un emplea, concurso o simil) par causa de sua capasia, sabes o otra cualias
   EN qualify (for something), be eligible (for something)
+  HE להיות כשיר, להיות מתאים (למשהו)
 
 cuali : verbo transitiva
   D fa ce (un person) merita es asetada; (un parola) atribui un cualia a (un otra parola)
   EN qualify (someone for something, grammar)
+  HE להכשיר (מישהו למשהו); (דקדוק) להגביל, להבחין משמעות
 
 cuali : nom
   EN qualification
+  HE הכשרה, התאמה
 
 cualinte : ajetivo
   EN qualifying, eligible
+  HE כשיר, מתאים (למשהו)
 
 cualinte : nom
   EN qualifier (grammar)
+  HE (דקדוק) מסייג, מבחין
 
 descuali : verbo transitiva
   EN disqualify (someone)
+  HE לפסול, לשלול (מישהו)
 
 descuali : nom
   EN disqualification
+  HE פסילה, שלילה
 
 noncualinte : ajetivo
   EN ineligible
+  HE פסול, לא כשיר, לא מתאים
 
 .cualia : nom filosofia siensa-umana
   D un atribuida distinguinte de un person o cosa; la grado de bonia de un situa
   EN quality, feature, trait, attribute, property, characteristic, aura
+  HE איכות, טיב; תכונה, מאפיין, סגולה
 
 cualia de labora : nom
   EN quality of work, workmanship
+  HE דרגת מיומנות
 
 cualia de parla : nom
   EN quality of speech, diction
+  HE הגייה, דיקציה
 
 cualia de vive : nom
   EN quality of life, well-being, welfare
+  HE איכות חיים
 
 cualia spesial : nom
   EN feature, special feature
+  HE תכונה מיוחדת
 
 cualia unica : nom
   EN idiosyncrasy
+  HE תכונה ייחודית
 
 cualial : ajetivo
   EN qualitative
+  HE איכותני
 
 cualias nesesada : nom plural
   EN necessary qualities, right stuff
+  HE תכונות נדרשות
 
 de cualia alta : ajetivo
   EN high-quality, vintage
+  HE איכותי
 
 sin cualias : ajetivo
   EN featureless
+  HE חסר מאפיינים מיוחדים
 
 .cuando : averbo
   D (demandante o introduinte un suproposa ajetivin) a cual tempo
   U cuando nos va parti?; me no sabe cuando me va reveni; febrero, cuando la aira es fria
   EN (interrogative) when; (relative) at which time
+  HE מתי; כש-
 
 cuando : sujunta
   D (introduinte un suproposa averbin) a la tempo a cual, o (pos un preposada) la tempo a cual
   U nos va parti cuando la sol reposa; me ia come ante cuando vos ia ariva
   EN when
+  HE בזמן ש, כש-
 
 a cuando : sujunta
   D a la momento cuando (alga cosa aveni)
   EN as (at the moment when)
   FR au moment où
-  HE -בזמן ש-, ברגע ש
+  HE בזמן ש, ברגע ש
   RU когда, в тот момент когда
 
 ante cuando : sujunta
   EN before (the time when)
   EO antaŭ ol
-  HE -לפני ש
+  HE לפני ש
 
 asta cuando : sujunta
   EN until, till (the time when)
-  HE -עד ש
+  HE עד ש
 
 de cuando : sujunta
   EN since the time when, ever since
   FR depuis que
+  HE מאז ש
   RU с той поры как, с тех пор как, как только
 
 en cuando : sujunta
   D en un parte de, o tota de, la tempo cuando (alga cosa aveni)
   EN while, whilst, as, during the time when
+  HE בזמן ש, בעוד ש
 
 estra cuando : sujunta
   EN except when, unless
+  HE חוץ מ (הזמן ש)
 
 pos cuando : sujunta
   CA després que
@@ -34332,571 +34619,717 @@ pos cuando : sujunta
   EO post kiam
   ES después que
   FR après que
+  HE לאחר, אחרי ש
   JA 後に
   PT pois que, depois
   RU после
 
 sempre cuando : sujunta
   EN whenever
+  HE בכל פעם ש, בכל שעה ש, כל אימת ש
 
 .cuantia : nom
   D un mesura de cuanto, usada egal per cosas individua contable o noncontable, tipal espresada con numeros
   EN quantity, amount, magnitude; number (quantity, not position in sequence)
+  HE כמות, מידה, שיעור
 
 cuantia de abitores : nom
   EN population (figure)
   FR population
-  HE גודל האוכלוסיה
+  HE שיעור האוכלוסייה
 
 cuantia de mores : nom
   EN death toll
+  HE מחיר דמים, מספר הרוגים
 
 cuantia de regardores : nom
   EN audience size, ratings, viewing figures
+  HE שיעור צפייה
 
 cuantia persental : nom
   EN percentage
+  HE שיעור אחוזים, תאחוז
 
 cuantial : ajetivo
   EN quantitative
+  HE כמותי
 
 cuanti : verbo transitiva
   EN quantify
+  HE לכמת
 
 cuanti : nom
   EN quantification
+  HE כימות
 
 .cuanto : determinante
   D demandante sur la cuantia de alga cosa
   EN (interrogative) how many, how much
+  HE כמה
 
 cuanto : averbo
   EN (interrogative) how many, how much
+  HE כמה
 
 cuanto : sujunta
   D (introduinte un suproposa averbin) en la cuantia cual
   U el ia aida cuanto el ia pote
   EN as many as, as much as, inasmuch as, as far as, so far as, to the extent that
+  HE ככל ש, עד כמה ש
 
 per cuanto tempo : espresa
   U per cuanto tempo tu va labora?
   EN how much time, how long (intended)
+  HE כמה זמן
 
 tra cuanto tempo : espresa
   U tra cuanto tempo tu abita ja asi?
   EN how much time, how long (elapsed)
+  HE כמה זמן
 
 .cuanto : nom fisica
   D la cuantia minima de cualce cosa fisical cual pote partisipa en un interata
   EN quantum
+  HE קוונט, קוונטום
 
 cuantos : nom plural
   EN quanta
+  HE קוונטה
 
 .cuarc : nom fisica
   D cada de alga particulas suatomal cual ave un carga eletrical fratal, e sur cual fisicistes suspeta ce los es la composantes de adrones
   EN quark
+  HE קווארק
 
 cuarc alta : nom
   EN top quark
+  HE קווארק עליון
 
 cuarc asendente : nom
   EN up quark
+  HE קווארק למעלה
 
 cuarc basa : nom
   EN bottom quark
+  HE קווארק תחתון
 
 cuarc desendente : nom
   EN down quark
+  HE קווארק למטה
 
 cuarc encantada : nom
   EN charm quark
+  HE קווארק קסום
 
 cuarc strana : nom
   EN strange quark
+  HE קווארק מוזר
 
 .cuaresma : nom relijio
   D la periodo de cuatrodes dias ante pascua en cristianisme, tradisional un periodo de juna, asteni e repenti
   EN lent (Christianity)
+  HE (נצרות) תענית
 
 cuaresmal : ajetivo
   EN lenten
+  HE (נצרות) שקשור בתענית
 
 .cuarzo : nom tera
   D un mineral dur e blanca o sin color, composada de silica
   EN quartz
+  HE קוורץ
 
 .cuasar : nom astronomia
   D un ojeto sielal multe masosa e distante cual emete cuantias enorme de enerjia
   EN quasar
+  HE קוואזר
 
 .cuasi : averbo
   D no multe min ca; a grado noncompleta ma sin multe mancas; nonesata ma sin difere major
   EN almost, nearly, virtually, practically, not quite, just less than
+  HE כמעט, בקירוב
 
 cuasi- : prefisa tecnical
   D cuasi, multe prosima a
   EN quasi-
+  HE (קידומת טכנית) קרוב ל
 
 cuasi cadun : pronom
   EN almost everyone
+  HE כמעט כולם
 
 .cuatrigalon : nom
   D un cuatri de un galon
   EN quart
+  HE רבע גלון
 
 .cuatrim : nom mone
   D un moneta con valua de 25 sentimes
   EN 25-cent piece, quarter, farthing (coin)
+  HE רבע דולר
 
 .cuatrinegra : ajetivo istoria
   EN quadroon
+  HE (מוצא) רבע אפריקאי
 
 cuatrinegra : nom
   D (istorial) un person ci ave un avo o ava de la raza negra
   EN quadroon
+  HE (אדם ממוצא) רבע אפריקאי
 
 .cuatro : determinante matematica
   D 2 multiplida par 2; la numero entre tre e sinco
   EN four
+  HE ארבע, ארבעה
 
 cuatro : ajetivo
   EN fourth (ordinal)
+  HE רביעי, רביעית
 
 cuatro- : prefisa tecnical
   D cuatro
   EN quadr-, quadri-
+  HE (קידומת טכנית) ארבע
 
 cuatri : verbo nontransitiva
   EN quarter
+  HE להתחלק לארבע
 
 cuatri : nom
   EN quarter, fourth (fraction)
+  HE רבע
 
 cuatri- : prefisa tecnical
   D un cuatri de
   EN quarter-
+  HE (קידומת טכנית) רבע
 
 Cuatri Vacua : nom jeografial
   D un deserto vasta en la Penisola Arabi
   I #
   EN Empty Quarter, Rub al Khali, Great Sandy Desert
+  HE מדבר רובע אל חאלי
 
 cuatrida : ajetivo
   EN quartered; quarto (book size)
+  HE מחולק לארבע; קוורטו (מידת גיליון)
 
 cuatruple : ajetivo
   EN quadruple
+  HE פי ארבעה
 
 cuatruple : nom
   EN quartet, foursome
+  HE רביעייה
 
 .cuatroangulo : ajetivo matematica
   D (un forma plana) con cuatro angulos
   EN quadrangular
+  HE בעל ארבע צלעות
 
 cuatroangulo : nom
   EN quadrangle
+  HE צורה בעלת ארבע צלעות
 
 .cuatrojemelo : ajetivo biolojia
   EN quadruplet
+  HE אחד מרביעייה
 
 cuatrojemelo : nom
   D un de cuatro enfantes naseda en la mesma pari
   EN quadruplet
+  HE אחד מרביעייה
 
 .cuatroladal : ajetivo matematica
   D (un forma plana) con cuatro lados
   EN quadrilateral, quadrangular
   FR quadrilatéral, quadrangulaire
+  HE בעל ארבע צלעות
 
 cuatroladal : nom
   EN quadrilateral, quadrangle
   FR quadrilatère, quadrangle
+  HE צורה בעלת ארבע צלעות
 
 .cuatronaria : ajetivo tera cimica
   D pertinente a la periodo jeolojial la plu resente en la senozoica, seguente la tersiaria e composada de la plestosene e olosene; (en cimica) pertinente a un cimical con cuatro atomes de carbono o grupos organica
   EN quaternary
+  HE (גאולוגיה) רביעון
 
 .cuatropede : ajetivo biolojia
   D (un animal) con cuatro pedes
   EN quadrupedal
+  HE בעל ארבע רגליים
 
 cuatropede : nom
   EN quadruped
+  HE בעל ארבע רגליים
 
 .cuaxiorcor : nom medica
   D un forma de malnuri causada par un manca de protena, tipal afetante enfantes joven en la tropicos
   EN kwashiorkor (medical)
+  HE (רפואה) קוושיורקור
 
 .Cuba : nom jeografial
   C Havana
   D un pais en la Indias Ueste, la plu grande e la plu ueste de la isolas en la Mar Caribe a la boca de la Golfo Mexico
   I #
   EN Cuba
+  HE קובה
 
 cuban : ajetivo
   EN Cuban
+  HE קובני
 
 cuban : nom
   EN Cuban
+  HE קובני
 
 .cubisme : nom arte
   D un stilo de arte, tipal depinta, de la temprana de la sentenio 20, presentante formas natural en modo jeometrial
   EN cubism
+  HE קוביזם
 
 cubiste : ajetivo
   EN cubist
+  HE קוביסטי
 
 cubiste : nom
   EN cubist
+  HE קוביסט
 
 .cubo : ajetivo matematica
   D (un cosa tridimensional) con un forma solida o vacua cual es contenida par ses cuadros egal
   I #
   EN cubic, cubical
+  HE קובייתי; מעוקב
 
 cubo : nom
   EN cube
+  HE קובייה
 
 cubi : verbo nontransitiva
   EN become a cube
+  HE לעלות בחזקת שלוש
 
 cubi : verbo transitiva
   EN cube
+  HE להעלות בחזקת שלוש
 
 cubida : ajetivo
   EN cubed, to the third power
+  HE בחזקת שלוש
 
 .cucabura : nom avia
   D un avia pexor de Australia e Gine Nova, notada per sua clama multe forte
   I #
   T Dacelo
   EN kookaburra
+  HE קוקברה (ציפור)
 
 .cucaraxa : nom artropodo
   D un inseto simil a un scarabe con antenas e gamas longa, tipal regardada como pestes en cosinas e otra locas
   I #
   T Blattaria
   EN cockroach, roach
+  HE תיקן, מקק, ג'וק
 
 .cuci : nom informatica
   D un dato enviada par un servador a un surfador, reenviada sempre cuando la surfador reasede la mesma servador, e usada per identifia la usor
   EN cookie (web)
+  HE (מחשבים) קוקית
 
 .cucu : nom avia
   D un avia de grandia media, con coda longa e dorso gris o brun, de cual alga pone sua ovos en la nidos de avias cantante peti
   I #
   T Cuculidae
   EN cuckoo
+  HE קוקייה (ציפור)
 
 .cucui : nom planta
   D un arbor perene en familia de euforbia, con semes grande de cual on oteni un olio usada en lampas, nativa de Asia sude-este e la isolas de la Mar Pasifica sude
   I #
   T Aleurites moluccana
   EN candlenut, candleberry (tree)
+  HE קוקוי (עץ)
 
 .cucurucu : esclama onomatopea
   D la sona forte de un gal mas
   EN cock-a-doodle-doo, crow
+  HE קוקוריקו
 
 .cudzu : nom planta
   D un planta trepante de Asia cual crese rapida, usada como comeda de bestias e per controla erode, e cual ia deveni un peste en la SUA sude-este
   I #
   T Pueraria
   EN kudzu (plant)
+  HE קוזו, קודזו (צמח)
 
 .cuecer : ajetivo relijio
   D pertinente a la Sosia Relijiosa de Amis, un promove fundida sirca 1650 par George Fox e dedicada a prinsipes pasosa
   EN Quaker
+  HE קוויקר
 
 cuecer : nom
   EN Quaker
+  HE קוויקר
 
 cuecerisme : nom
   EN Quakerism (Christianity)
+  HE (נצרות) קוויקרים, קוויקריזם
 
 .cuer : ajetivo siensa-umana
   D parteninte a un minoria noneterosesal o nonsisjenero
   EN queer (non-conforming)
+  HE קוויר
 
 .cuerco : nom planta
   D un arbor cual produi un noza oval e lisa en un funda tasin, e cual es un fonte importante de lenio dur
   I #
   T Quercus
   EN oak
+  HE אלון (עץ)
 
 cuerco sempreverde : nom planta
   I #
   T Quercus virginianus
   EN evergreen oak, live oak
+  HE אלון ירוק-עד
 
 cuerco de suber : nom planta
   I #
   T Quercus suber
   EN cork oak
+  HE אלון השעם
 
 cuerca : nom
   D la fruta de la cuerco
   EN acorn
+  HE בלוט
 
 de cuerco : ajetivo
   EN oak, oaken
+  HE מעץ אלון
 
 .cuicstep : nom musica
   D un dansa simil a un fostrot rapida
   EN quickstep (dance)
+  HE קוויקסטפ (ריקוד)
 
 .cuieta : ajetivo
   D produinte poca o no sona
   EN quiet, calm, soft, faint, stealthy
+  HE שקט, עמום
 
 cuieta : averbo
   EN quietly, calmly, softly, faintly, stealthily; pianissimo
+  HE בשקט
 
 cuieti : verbo nontransitiva
   EN quieten, calm, calm down
+  HE לשקוט
 
 cuieti : verbo transitiva
   EN quieten, calm, calm down
+  HE להשקיט
 
 cuietia : nom
   EN quiet, calm, quietness, calmness
+  HE שקט
 
 cuietisme : nom
   EN quietism
+  HE (נצרות) קווייטיזם
 
 cuietiste : nom
   EN quietist
+  HE (נצרות) קווייטיסט
 
 noncuieta : ajetivo
   EN uneasy
+  HE לא שקט
 
 .cuiscal : nom avia
   D un avia negra e larga de America Norde e Sude
   I #
   T Quiscalus
   EN grackle (bird)
+  HE סוג ציפור
 
 .cuiz : nom sporte
   D un concurso simil a un esamina de sabes
   EN quiz
+  HE בוחן, חידון
 
 .culier : nom util
   D un util composada de un bol peti, tipal ronda o oval, con manico longa, usada per come, misca e servi comedas; un util simil ma plu grande, usada per prende cosas polvin o semisolida de un contenador; un parte simil de alga macinas per escava
   I #
   EN spoon, scoop
   FR cuiller, cuillère
+  HE כף
 
 culier de table : nom
   EN tablespoon (spoon, measurement)
   FR cuiller à soupe
+  HE כף
 
 culier de te : nom
   EN teaspoon (spoon, measurement)
   FR petite cuillère, cuiller à café
+  HE כפית
 
 culieri : verbo transitiva
   EN (transfer by) spoon
+  HE להשתמש בכף
 
 culierin : ajetivo
   EN spoonlike, spoon-shaped
+  HE בצורת כף, כפית
 
 culieron : nom
   I #
   EN ladle
   FR louche
+  HE תרווד, מצקת
 
 .culmina : verbo nontransitiva
   D ateni la punto la plu alta, fisical o metafor
   EN culminate, climax, peak, crest
   FR culminer
+  HE להגיע לפסגה, להגיע לשיא
 
 culmina : nom
   EN culmination, climax, peak, summit, top, crest; paragon; punchline
   FR point culminant, sommet
+  HE פסגה, שיא, צמרת
 
 culmina con : verbo
   EN culminate with, be surmounted with, be topped with
+  HE לסיים עם
 
 culmina de arbor : nom
   EN treetop
+  HE צמרת עץ
 
 culmina de colina : nom
   EN hilltop
+  HE ראש גבעה
 
 culmina de monte : nom
   EN mountaintop
+  HE ראש הר
 
 culminante : ajetivo
   EN culminating, peaking, climaxing, climactic
   FR culminant
+  HE מגיע לשיא, מגיע לפסגה
 
 .culo : nom anatomia
   D (nonformal) la gluteos o ano; un person fol o despetable
   EN (colloquial) arse, ass, bum, butt, booty, fanny (US), rump, tush (buttocks); (insult) arse, jerk, schmuck, prat
   EO pugo
   FR cul
+  HE תחת
 
 culeta : nom
   D (nonformal) un gluteo
   EN (colloquial) bun, butt cheek (buttock)
   FR fesse
+  HE אחד מצדדי הישבן
 
 .culom : nom fisica
   D la mesura internasional de carga eletrical
   EN coulomb (unit of charge)
   FR coulomb
+  HE (פיזיקה) קולון
 
 .culote : nom veste
   D un pantaleta fema con forma de pantala laxe
   EN French knickers, tap pants
   FR culotte-short
+  HE מכנס קצר לנשים
 
 .culpa : verbo transitiva governa
   D senti o declara ce (un person o cosa) ia causa un fali o rompe spesifada
   EN blame
   FR blâmer
+  HE להאשים
 
 culpa : nom
   EN blame
   FR reproches, blâme
+  HE האשמה
 
 culpable : ajetivo
   EN guilty, blameworthy, culpable, responsible, liable
   FR coupable, blâmable
+  HE אשם
 
 culpablia : nom
   EN guilt, responsibility, liability
   FR culpabilité
+  HE אשמה
 
 desculpa : verbo transitiva
   EN exculpate, exonerate, vindicate, acquit
   FR disculper
+  HE לזכות
 
 desculpa : nom
   EN exoneration, vindication, acquittal
+  HE זיכוי (מאשמה)
 
 desculpada : ajetivo
   EN exonerated
+  HE זכאי, מזוכה
 
 es desculpada : verbo
   EN be exonerated, be acquitted, get off
+  HE לצאת זכאי
 
 nonculpable : ajetivo
   EN blameless, innocent (of crime), not guilty
   FR innocent, non coupable
+  HE חף מפשע
 
 nonculpablia : nom
   EN blamelessness, innocence
   EO senkulpeco
+  HE חפות
 
 .cultiva : verbo transitiva siensa-umana
   D prepara e usa (un area de tera) per eleva plantas, tipal per come par umanas o animales
   EN cultivate, farm, grow (something); till, work (the soil)
   FR cultiver
+  HE לעבד (קרקע); לגדל (צמחים)
 
 cultiva : nom
   EN crop, cultivation, agriculture, husbandry; culture (medical)
   FR culture
+  HE עיבוד (קרקע); גידול (חקלאי), יבול
 
 cultiva de uvas : nom
   EN viticulture
+  HE גידול גפנים
 
 cultiva luante : verbo transitiva
   EN sharecrop
+  HE לעבד קרקע כאריס
 
 alterna de cultiva : nom
   EN crop rotation
   FR rotation culturale
+  HE מחזור זרעים
 
 cultivable : ajetivo
   EN cultivatable, cultivable, arable, farmable, growable
   FR cultivable
+  HE (קרקע) ראוייה לעיבוד
 
 cultivada : ajetivo
   EN cultivated, farmed
   FR cultivé
+  HE (קרקע) מעובדת
 
 cultivada a casa : ajetivo
   EN homegrown
+  HE מגודל בבית
 
 cultivador : nom
   EN cultivator, tiller, rototiller, rotavator
   FR motoculteur
+  HE קלטרת, מקלטר
 
 cultival : ajetivo
   EN agricultural, agrarian
   FR cultural
+  HE חקלאי, אגררי
 
 cultiveria : nom
   EN farm, farmstead, plantation
   FR ferme, plantation
+  HE חווה, משק, מטע
 
 cultiveria grande : nom
   EN plantation, latifundium
   FR hacienda
+  HE נחלה חקלאית, לטיפונדיה
 
 cultivor : nom
   EN farmer, grower, agriculturalist, cultivator (person)
   FR cultivateur
+  HE חוואי
 
 cultivor luante : nom
   EN sharecropper
+  HE אריס
 
 cultivorisme : nom
   D un filosofia cual regarda cultiva como la funda ideal de valuas sosial
   EN agrarianism
+  HE (פילוסופיה) אגרריות
 
 noncultivada : ajetivo
   EN uncultivated, fallow
   FR inculte
+  HE (אדמת) בור
 
 .culto : nom relijio
   D un sistem de adora relijiosa, dirijeda a un person o cosa spesifada; un grupo relativa peti de persones con credes o rituos cual otra persones regarda como strana o mal; un amira tro grande o nonmeritada per un person o cosa spesifada
   EN cult
   FR culte
+  HE כת
 
 culto de personalia : nom
   EN personality cult
   FR culte de la personnalié
+  HE פולחן אישיות
 
 cultiste : nom
   EN cultist
+  HE חבר בכת
 
 .cultur : nom siensa-umana
   D la abituas, rituos, artes, instituidas sosial e atenis de un nasion, popla o otra grupo sosial; la credes e desiras tipal de un sosia, comunia o eda; la modo en cual un person o grupo gida sua vive
   EN culture, lifestyle, ethos
   FR culture, style de vie, mode de vie
+  HE תרבות, אורח חיים, אתוס
 
 cultural : ajetivo
   EN cultural
   FR culturel
+  HE תרבותי
 
 intercultural : ajetivo
   EN intercultural, cross-cultural, cross-culture
   FR interculturel
+  HE בין-תרבותי
 
 sucultur : nom
   D un grupo distinguida en un cultur plu grande
   EN subculture
+  HE תת-תרבות
 
 .cuman : ajetivo demonim
   D pertinente a un popla turcica nomada medieval de la area a norde de la Mar Negra, de ci multe membros ia migra a Magiar e Balgaria pos la invade de la mongoles en 1237 ec; pertinente a sua lingua
   EN Cuman
+  HE קומני, קומנית (עם, שפה)
 
 cuman : nom demonim
   EN Cuman
+  HE קומנים (עם)
 
 .cumbia : nom musica
   D un tipo de musica e dansa, orijinante en Colombia, simil a salsa
   EN cumbia (dance, music)
+  HE קומביה (ריקוד, מוזיקה)
 
 .cumcuat : nom planta cosini
   D un arbor de Asia; la fruta sitrica de esta, con casca dulse e comable, e pulpa asida
   I #
   T Fortunella
   EN kumquat
+  HE קומקוואט, תפוז סיני
 
 .cumin : nom planta cosini
   D un planta peti e magra de Asia sentral e la Mediteraneo; la semes bonodorosa de esta, usada como un spise, tipal moleda e usada en cari
@@ -34904,93 +35337,116 @@ cuman : nom demonim
   T Cuminum cyminum
   EN cumin (plant, seed)
   FR cumin
+  HE כמון
 
 .cumula : verbo nontransitiva
   D (cosas) deveni colieda en cuantia cresente
   EN accumulate, hoard, accrue
   FR accumuler
+  HE להצטבר, להיאסף, להיערם
 
 cumula : nom
   EN accumulation, accrual, backlog, build-up, pile-up
   FR accumulation
+  HE צבירה, איסוף, אגירה; הצטברות, מצבור, ערימה, מערום
 
 cumula de neva : nom
   EN snowpack
+  HE שלג עמוק
 
 cumulador : nom
   EN accumulator (software, cryptography, energy)
+  HE (מחשבים) צובר, אוגר
 
 cumulante : ajetivo
   EN cumulative
   FR cumulatif
+  HE מצטבר
 
 cumulor : nom
   EN hoarder
+  HE אגרן, אספן כפייתי
 
 .cumulo : ajetivo
   D (nubes) forminte masas ronda, pilada sur lunlotra sur un funda plana
   EN cumulus (cloud)
+  HE קומולוס, עב (ענן)
 
 cumulo : nom
   EN cumulus
   FR cumulus (cloud)
+  HE קומולוס, עב (ענן)
 
 cumulin : ajetivo
   EN cumulous (like cumulus clouds)
+  HE בצורת ענן קומולוס
 
 cumulosa : ajetivo
   EN cumulous (containing cumulus clouds)
+  HE (שמיים) מלא ענני קומולוס
 
 .cumulonimbo : ajetivo
   D (nubes) forminte un masa densa e multe alta con funda plana, tipal en tempestas lamposa
   EN cumulonimbus (cloud)
+  HE קומולונימבוס, עב חשרה (ענן)
 
 cumulonimbo : nom
   EN cumulonimbus (cloud)
+  HE קומולונימבוס, עב חשרה (ענן)
 
 .cuna : nom arciteta
   D un leto peti per un bebe, tipal osilante
   I #
   EN cradle
   FR berceau
+  HE עריסה
 
 cuna texeda : nom
   EN cat's cradle
+  HE סבתא סורגת (משחק)
 
 .cuneforma : ajetivo linguistica
   D pertinente a la sinias formida como cuneos, usada en la sistemes antica de scrive de Mesopotamia, Persia e la site Ugart, cual survive xef como impresas sur tabletas de arjila
   I #
   EN cuneiform
   FR cunéiforme
+  HE שקשור לכתב יתדות
 
 cuneforma : nom
   EN cuneiform
+  HE כתב יתדות
 
 .cuneo : nom util
   D un peso de lenio, metal o otra materia con un fini spesa cual diminui a un borda magra, tipal martelida entre du ojetos per fisa o separa los
   EN wedge, chock, shim; wedge (golf club)
   FR coin (pour fendre le bois)
+  HE טריז
 
 .cungfu : nom sporte
   D un arte militar de Jonguo, simil a carate
   EN kung fu
+  HE קונג פו
 
 .cunilingo : nom siensa-umana
   D la ata de stimula la jenitales de un fem con lingua o labios
   EN cunnilingus
+  HE מין אוראלי באישה
 
 fa cunilingo : verbo
   EN perform cunnilingus
+  HE לבצע מין אוראלי באישה
 
 .cuno : nom anatomia
   D (nonformal) la vulva o vajina
   EN (colloquial) pussy, fanny (UK), cunt (vagina)
   EO piĉo
   FR con, chatte
+  HE (סלנג) כוס (פות)
 
 leca la cuno : verbo
   EN (colloquial) eat out, go down on (cunnilingus)
   EO frandzi
+  HE (סלנג) לרדת לבחורה
 
 .cuol : nom mamal
   D un marsupio carnivor ci sembla un gato, con gamas corta e pelo con marcas blanca, abitante la forestas de Australia e Gine Nova
@@ -34998,160 +35454,200 @@ leca la cuno : verbo
   T Dasyurus
   EN quoll (animal)
   FR dasyure, chat marsupial
+  HE נמיית כיס
 
 .cuoro : nom util
   D un materia fabricada de la pel de un animal par tana o simil
   EN leather
   FR cuir
+  HE עור (מעובד)
 
 cuoro suave : nom
   EN suede
   FR daim, cuir suédé
+  HE זמש
 
 cuoro vernisida : nom
   EN patent leather
   FR cuir vernis
+  HE עור מבריק
 
 cuorin : ajetivo
   EN leathery
+  HE כמו עור (מעובד)
 
 de cuoro : ajetivo
   EN (made of) leather
+  HE עשוי מעור
 
 .cuorum : nom governa
   D la cuantia minima de membros de un asembla ci debe es presente per permete prosedes valida
   EN quorum
   FR quorum
+  HE קוורום, מניין חוקי
 
 .cuota : nom governa
   D un limita a la cuantia de un produida cual on pote crea, esporta o emporta; un cuantia fisada de un cosa cual un person o grupo pote reseta o debe contribui
   EN quota, allowance
+  HE מכסה
 
 .cupe : nom veculo
   D un auto con teto fisada, du portes e un retro inclinada
   EN coupé (car)
+  HE קופה (מכונית)
 
 .Cupido : nom mitolojia
   D (en mitos roman) la dio de ama, tipal representada par un enfante nuda con alas e un arco con flexas
   I #
   EN Cupid
+  HE קופידון
 
 .cupola : nom arciteta
   D un teto formida de voltas, tipal con funda ronda
   I #
   EN dome, cupola
   FR dôme, coupole
+  HE כיפה (גג)
 
 cupola jeodesial : nom
   I #
   EN geodesic dome
   FR géode
+  HE כיפה גאודזית
 
 cupola onionin : nom
   I #
   EN onion dome
+  HE כיפת בצל
 
 cupolin : ajetivo
   EN domelike, dome-shaped
+  HE (גג) בצורת כיפה
 
 .cupre : nom cimica
   D la elemento cimical con numero atomal 29, un metal rojin brun
   S Cu
   EN copper
   FR cuivre
+  HE נחושת
 
 cupri : verbo transitiva
   EN copper
   FR cuivrer
+  HE לצפות בנחושת
 
 cupror : nom
   EN coppersmith
+  HE חרש נחושת
 
 de cupre : ajetivo
   EN (made of) copper
+  HE עשוי מנחושת
 
 .cuprica : ajetivo cimica
   D pertinente a cupre con valentia du
   EN cupric
+  HE נחושתי (דרגת חמצון 2)
 
 .cuprita : nom tera
   D un mineral roja oscur o negra brunin, composada de osido cuprosa
   EN cuprite
+  HE קופריט (מינרל)
 
 .cuprosa : ajetivo cimica
   D pertinente a cupre con valentia un
   EN cuprous
+  HE נחושתי (דרגת חמצון 1)
 
 .cura : verbo transitiva siensa-umana
   D atende e aida la manteni de (un person o cosa), tipal con compatia; regarda (un person o cosa) como meritante atende
   V atende
   EN care, care for, take care of, nurse, nurture, look after, minister to
   FR soigner, prendre soin de
+  HE לטפל, לסעוד, לטפח
 
 cura : nom
   EN care, concern, nurture; care (means of treatment); custody
   FR soin, soins
+  HE טיפול, סיעוד, טיפוח; אפוטרופסיות
 
 cura personal : nom
   EN grooming, personal hygiene
+  HE טיפוח אישי
 
 cura prima : nom
   EN primary care
   FR premiers soins
+  HE רפואה ראשונית
 
 autocura : nom
   EN self-care
+  HE טיפוח עצמי
 
 ci cura? : esclama
   EN who cares? (disinterest)
+  HE למי אכפת?
 
 curante : ajetivo
   EN careful, deliberate; custodial
+  HE זהיר; אפוטרופסי
 
 curor : nom
   EN carer, nurse
   FR infirmier, infirmière
+  HE מטפל, אח/אחות
 
 curoria : nom
   EN nursing (profession)
+  HE סיעוד
 
 descura : verbo transitiva
   EN neglect
   FR négliger
+  HE להזניח
 
 descura : nom
   EN negligence, apathy
   FR négligence
+  HE הזנחה, הפקרה, רשלנות
 
 descurada : ajetivo
   EN neglected, overgrown, derelict
   FR négligé
+  HE מוזנח, מופקר
 
 descurante : ajetivo
   EN negligent, neglectful, derelict
+  HE רשלני
 
 me no cura : esclama
   EN I don't care (disinterest)
+  HE לא אכפת לי
 
 noncurante : ajetivo
   EN uncaring, indifferent, blasé
   FR indifférent, blasé
+  HE לא-אכפתי, אדיש
 
 noncurantia : nom
   EN indifference
+  HE אי-אכפתיות, אדישות
 
 sin cura : ajetivo
   EN carefree, mindless, thoughtless
+  HE חסר התחשבות
 
 .Curan : nom relijio
   D la libro santa de islam
   EN Qur'an, Koran
   FR Coran
+  HE קוראן
 
 .curare : nom medica
   D un resina cual paralise la motoneurones, otenida de alga plantas de America Sude
   EN curare (resin)
   ES curare
+  HE קורארה (רעל)
 
 .Curasau : nom jeografial
   C Willemstad
@@ -35160,6 +35656,7 @@ sin cura : ajetivo
   EN Curaçao (island)
   ES Curazao, Curasao
   FR Curaçao
+  HE קוראסאו (אי)
 
 .curcuma : nom planta cosini
   D un planta asian en familia de jinjer; la polvo bonodorosa e briliante jala derivada de la rizoma de esta, usada per sabori e colori en cosini asian e istorial per tinje stofa
@@ -35168,63 +35665,77 @@ sin cura : ajetivo
   EN turmeric (plant, spice)
   ES cúrcuma
   FR curcuma
+  HE כורכום
 
 .Curdistan : nom jeografial
   D un rejion a sude de la Montes Caucaso, la abitada tradisional de la popla curdi
   I curdistan
   EN Kurdistan
+  HE כורדיסטן
 
 curdi : ajetivo
   EN Kurdish, Kurd (person, language)
+  HE כורדי, כורדית (שפה)
 
 curdi : nom demonim
   EN Kurdish, Kurd (person, language)
+  HE כורדי, כורדית (שפה)
 
 .cureta : nom util medica
   D un util usada en sirurjia per sutrae materia par raspa, tipal per limpi la utero
   EN curette (tool)
   FR curette
+  HE מגרד (כלי)
 
 cureti : verbo transitiva
   EN perform curettage
   FR cureter
+  HE לבצע גרידה
 
 cureti : nom
   EN curettage
   FR curetage
+  HE גרידה
 
 .curgan : nom siensa-umana
   D un colineta o tumulo de un tipo orijinante en Rusia sude e Ucraina
   I #
   EN kurgan (mound)
+  HE תל קבורה, רוגם, קורגאן
 
 .curio : nom cimica
   D la elemento cimical con numero atomal 96
   S Cm (curium)
   EN curium (element)
   FR curium
+  HE קוריום (יסוד)
 
 .curiosa : ajetivo
   D zelosa per sabe o aprende alga cosa
   EN curious, inquisitive, nosy, nosey (wanting to know more)
   FR curieux (qui veut savoir)
+  HE סקרן, סקרני
 
 curiosi : verbo nontransitiva
   EN become curious, pry
   FR devenir curieux
+  HE לפתח סקרנות
 
 curiosi : verbo transitiva
   EN intrigue, arouse curiosity
   FR intriguer, rendre curieux
+  HE לעורר סקרנות
 
 curiosia : nom
   EN curiosity
   FR curiosité
+  HE סקרנות
 
 .curling : nom sporte
   D un sporte en cual on lisca petras, ronda e plana a su, longo un surfas de jelo en dirije a un marca, en cuando otra membros de la ecipo scopi la jelo per controla la rapidia e dirije de la petra
   I #
   EN curling (sport)
+  HE קרלינג (ספורט)
 
 .curlo : nom avia
   D un avia grande vadante en familia de calidris, con beco longa e curvida a su
@@ -35232,163 +35743,200 @@ curiosia : nom
   T Numenius
   EN curlew (bird)
   FR courlis
+  HE חרמשון (ציפור)
 
 .curso : nom
   D la via o dirije segueda par un cosa movente, incluinte ruas e rios e (metafor) un carera o la istoria; un via preparada per un corsa o otra usa simil; un serie de lesones instruinte sur un sujeto spesifada
   EN course, path, track, trail, circuit, trajectory, tract; fairway (golf)
   FR cours, parcours, circuit, trajectoire
+  HE מסלול, נתיב, אפיק; קורס, חוג
 
 curso alta : nom
   EN upper course (river)
   FR amont
+  HE (נהר) אפיק עליון
 
 curso basa : nom
   EN lower course (river)
   FR aval
+  HE (נהר) אפיק תחתון
 
 curso de corsa : nom
   EN racetrack, racecourse, raceway
   FR parcours de course
+  HE מסלול מרוץ
 
 curso de dijesta : nom
   EN digestive tract, alimentary tract
+  HE מערכת העיכול
 
 curso de mus : nom
   EN mouse trail (software)
+  HE (מחשבים) עקבות עכבר
 
 curso de ostaculos : nom
   EN obstacle course
   FR parcours d'obstacles
+  HE מסלול מכשולים
 
 curso de respira : nom
   EN respiratory tract
+  HE מערכת הנשימה
 
 curso de studia : nom
   EN course of study
   FR cours
+  HE מסלול לימודים
 
 curso de trata : nom
   EN course of treatment
+  HE מסלול טיפולי
 
 curso de vose : nom
   EN vocal tract
+  HE מערכת הקול
 
 curso enlinia : nom
   EN online course, internet course
   FR cours en ligne
+  HE קורס מקוון
 
 curso intensa : nom
   EN crash course
+  HE קורס מזורז
 
 curso par coresponde : nom
   EN correspondence course
   FR cours par correspondance
+  HE קורס בהתכתבות
 
 curso projetada : nom
   EN itinerary, projected course
   FR itinéraire
+  HE תוכנית מסע
 
 cursos : nom plural
   EN courses, curriculum
   FR programme d'enseignement
+  HE תוכנית לימודים
 
 estra cursos : ajetivo
   EN extracurricular
+  HE שמחוץ לתוכנית הלימודים
 
 .cursor : nom informatica
   D un indicador movable sur un scermo de un computador, indicante la loca cual ta es afetada si la usor tape o clica
   I indicador
   EN cursor (software)
+  HE (מחשבים) סמן
 
 .cursor : nom avia
   D un avia simil a un pluvial, capas de core rapida
   I #
   T Cursorius, Rhinoptilus
   EN courser (bird)
+  HE רץ מדבר (ציפור)
 
 .curva : ajetivo matematica
   D con forma cual devia gradal de retia
   EN curved, bent (naturally)
   ES curva
   FR courbe
+  HE מעוקם, מעוקל (באופן טבעי)
 
 curva : nom
   EN curve, bend, bight
   ES curva
   FR courbe
+  HE עקומה, עקום, עיקול
 
 curva ornosa : nom
   EN flourish, ornate curve
   ES floritura, adorno
   FR fioriture
+  HE עיטור מעוקל
 
 curvable : ajetivo
   EN bendable
   ES borneadizo, flexible, maleable
   FR malléable
+  HE שניתן לעיקום
 
 curvi : verbo nontransitiva
   EN curve, bend; bend down, stoop
   ES curvar
   FR courber
+  HE להתעקם, להתעקל; להתכופף
 
 curvi : verbo transitiva
   EN curve, bend; bend down, stoop
   ES curvar
   FR courber
+  HE לעקם, לעקל, לכופף
 
 curvi se a ante : verbo
   D curvi la parte alta de sua corpo a ante, con spalas levada
   EN hunch forward, hunch over
   ES encorvarse
+  HE לרכון
 
 curvia : nom
   EN curvature
   ES curvatura
+  HE עקמומיות
 
 curvida : ajetivo
   EN bent, crooked
   ES curvado
   FR courbé
+  HE מעוקם, מעוקל, מכופף, כפוף
 
 curvosa : ajetivo
   EN curvy, curvaceous, voluptuous, rubenesque, zaftig
   ES curvo, curvado, curvilíneo, voluptuoso, 
   FR galbé
+  HE (גוף אישה) מעוגל
 
 descurvi : verbo nontransitiva
   EN unbend
   ES enderezar
+  HE להתיישר (ממצב עקום)
 
 descurvi : verbo transitiva
   EN unbend
   ES enderezarse
+  HE ליישר (ממצב עקום)
 
 .cuscus : nom cosini
   D un spesie de semola de Africa norde, produida par molini trigo dur; un plato preparada par empapa esta o esposa lo a vapor, con ajunta de carne, vejetales o frutas
   EN couscous (food)
   ES cuscús
+  HE קוסקוס
 
 .cusin : nom siensa-umana
   D un relatada de la mesma jenera, estra sua frates e sores
   EN cousin
   ES primo, prima
   FR cousin, cousine
+  HE בן/בת דוד
 
 cusina : nom
   EN female cousin
   ES prima
   FR cousine
+  HE בת דוד
 
 cusino : nom
   EN male cousin
   ES primo
   FR cousin
+  HE בן דוד
 
 .custa : verbo transitiva mone
   D (un ben o servi) es otenable pos la paia de (un cuantia spesifada de mone)
   EN cost
   ES costar, valer
+  HE לעלות (כסף)
 
 custa : nom
   DA pris, omkostning
@@ -35397,6 +35945,7 @@ custa : nom
   EO prezo, kosto
   ES precio, valor, costo
   FR prix
+  HE עלות, מחיר
   IT prezzo ; costo
   NL prijs
   PT preço, custo, valor
@@ -35404,66 +35953,81 @@ custa : nom
 custa de instrui : nom
   EN tuition fee, tuition
   ES cuota de matrícula, tasa de matrícula
+  HE שכר לימוד
 
 custa de lua : nom
   EN rent
   ES coste de alquiler
+  HE שכר דירה
 
 custa de viaja : nom
   EN travel cost, airfare
   ES tarifa aérea, coste del billete, coste del pasaje
+  HE עלות טיסה
 
 custa per la compror : nom
   EN consumer price, street price, price in the shops
   ES precio al consumidor
+  HE מחיר לצרכן
 
 a bon custa : ajetivo
   EN affordable
   ES a buen precio, económico, módico, asequible
+  HE (מחיר) בר-השגה, בהישג יד
 
 a custa de : preposada
   EN at the cost of, at the expense of
   ES a costa de, a expensas de
+  HE במחיר של, על חשבון (מישהו/משהו)
 
 cosa sin custa : nom
   EN freebie, giveaway
   ES regalo, obsequio
+  HE (דבר) חינמי
 
 custosa : ajetivo
   EN costly, expensive, dear, pricey
   ES caro, costoso
+  HE יקר
 
 deside la custa de : verbo
   EN price
   ES tasar, valorar
+  HE לתמחר
 
 sin custa : ajetivo
   EN free, for free, gratis, gratuitous, toll-free
   ES gratis, gratuito
+  HE חינם, בחינם, חינמי
 
 .cutanea : ajetivo anatomia
   D pertinente o afetante la pel
   EN cutaneous
   ES cutáneo
   FR cutané
+  HE עורי
 
 sucutanea : ajetivo anatomia
   EN subcutaneous
   ES subcutáneo
+  HE תת-עורי
 
 .cuticula : nom anatomia
   D la strato esterna de un texeda vivente; la pel mor a la funda de un ungia de un dito de mano o pede
   EN cuticle
   FR cuicule
+  HE קוטיקולה, כסותית
 
 cuticula laserada : nom
   EN hangnail
+  HE ציפורן חודרנית
 
 .cuxan : ajetivo demonim istoria
   D pertinente a un dinastia de Iran cual ia invade Barat e ia crea un impero en la norde-ueste entre la sentenios 1 e 3 ec
   I #
   EN Kushan (dynasty)
   ES kushán (dinastía)
+  HE קושאן
 
 .cuxin : nom arciteta
   D un saco, tipal retangulo, plenida con plumas o otra materia mol, usada per suporta la testa, dorso o otra partes de la corpo; un cosa simil, usada per proteje contra xocas
@@ -35471,68 +36035,85 @@ cuticula laserada : nom
   EN cushion, pillow; buffer
   ES cojín
   FR coussin
+  HE כר, כרית
 
 cuxin de favas : nom
   EN beanbag
+  HE פוף
 
 cuxin de jenos : nom
   EN kneeler, hassock
+  HE כרית לכריעת ברך
 
 cuxin de securia : nom
   I #
   EN safety cushion, airbag
   ES airbag
   FR airbag
+  HE כרית אוויר
 
 cuxin de testa : nom
   EN pillow
   ES almohada
+  HE כרית (לראש)
 
 cuxineta : nom
   EN pad
+  HE רפידה, פד
 
 cuxini : verbo transitiva
   EN cushion, pad
+  HE לרפד
 
 cuxinida : ajetivo
   EN cushioned, padded
+  HE מרופד
 
 .cvas : nom cosini
   D un bevida slavica, comun preparada de pan de segal, e ance usada en sopas
   EN kvass
+  HE קוואס (משקה)
 
 .d : simbol
   D la letera cuatro de la alfabeta roman; la nota du de la scala diatonica de C major
   P de
   EN d
+  ES d
   FR ré
+  HE האות הרביעית באלפבית הלטיני
 
 .-da : sufisa ajetivo
   D ajuntada a un verbo per formi la partisipio pasiva
   N La partisipio pasiva es un ajetivo cual indica ce on fa (o ia fa) la ata de la verbo a la person o cosa cual la partisipio descrive (un mesaje ascondeda es un mesaje cual on ia asconde). On usa lo ance como un nom, indicante un person o cosa cual es `-da`. No confusa `-da` con la paroleta `ia`, cual formi la tempo pasada de un verbo xef. // `-da` creates a passive form, such as `ovos fritada`. This is not the same thing as the past tense in `el ia frita la ovos`, even though both are _fried_ in English.
   U ascondeda; tu ia asconde un mesaje e me ia trova tua mesaje ascondeda; la mesaje ia es ascondeda
   EN -ed
+  ES -ado, -ido (en verbos regulares)
+  HE (סיומת) בינוני פעול (צורות פעול, מפועל, מופעל)
 
 -da : sufisa nom
   U empleada; comeda
   EN -ee (person or thing that is -ed)
+  HE (סיומת) בינוני פעול (צורות פעול, מפועל, מופעל)
 
 .Dacia : nom jeografial
   D un pais antica en Europa sude-este, corespondente a Romania moderna
   I #
   EN Dacia (ancient region)
   ES Dacia
+  HE דאקיה (ארץ עתיקה)
   RU Дакия
 
 .dacota : ajetivo demonim
   D pertinente a la americanes orijinal de la vale de la Rio Mississippi norde e la planos prosima, o a sua lingua
   EN Dakota (person, language)
   ES dacota (persona, lengua)
+  HE דקוטה (עם, שפה)
   RU дакота, дакотский
 
 dacota : nom
   EN Dakota (person, language)
   ES dacota (persona, lengua)
+  HE דקוטה (עם, שפה)
   RU Дакота
 
 .dadaisme : nom arte
@@ -35541,11 +36122,13 @@ dacota : nom
   P dadaïsme
   EN dadaism
   ES dadaísmo
+  HE דאדאיזם
 
 dadaiste : ajetivo
   P dadaïste
   EN dadaist
   ES dadaísta
+  HE דאדאיסט
 
 .dado : nom sporte
   D un cubo peti de cual cada lado es marcada con un cuantia diferente de puntos, de un a ses, lansada e usada en juas de acaso e aposta
@@ -35553,11 +36136,13 @@ dadaiste : ajetivo
   EN die, dice
   ES dado
   FR dé (pour jouer)
+  HE קוביית משחק
   RU игральная кость, кубик для игры
 
 dados : nom plural
   EN dice
   ES dados
+  HE קוביות משחק
   RU игральные кубики
 
 .dafnia : nom artropodo
@@ -35565,6 +36150,7 @@ dados : nom plural
   I #
   EN daphnia (crustacean)
   ES dafnia, pulga de agua
+  HE דפניה (סרטן)
 
 .daga : nom util
   D un cotel corta con un lamina con punto e borda agu, usada como un arma
@@ -35572,53 +36158,65 @@ dados : nom plural
   EN dagger, dirk
   ES daga
   FR dague
+  HE פגיון
   RU кинжал
 
 daga magra : nom util
   EN stiletto
   ES estilete
+  HE סטילטו (סכין)
 
 dageta : nom util
   D un ago spesa e nonagu, con buco grande, usada per tira un banda o cordeta tra un orlo
   EN bodkin (needle)
   ES punzón
+  HE (תפירה) משחיל גומי, משחיל שרוכים
 
 dagi : verbo transitiva
   EN stab
+  HE לדקור (בפגיון)
 
 .dagara : ajetivo demonim
   D pertinente a un popla de Gana e Burcina Faso o a sua lingua
   EN Dagaaba (people), Dagare (language)
+  HE דגאבה (עם, שפה)
 
 dagara : nom
+  DE Dagaare, Dagaaba
   EN Dagaaba (people), Dagare (language)
+  HE דגאבה (עם, שפה)
 
 .dagereotipo : nom util
   D un foto preparada par un prosede temprana, developada par Louis Daguerre en 1831
   EN daguerreotype
   ES daguerrotipo
+  HE דאגרוטיפ
   RU дагерротип
 
 .daiciri : nom cosini
   D un coctel conteninte rum e jus de lima
   EN daiquiri (drink)
   ES daiquiri
+  HE דאקירי (משקה)
   RU Дайкири (коктель из смеси светлого рома, сока Лайма и сахара)
 
 .Dakota : nom jeografial
   EN Dakota
   ES Dakota
+  HE דקוטה (איזור)
 
 Dakota Norde : nom jeografial
   D un stato en la SUA norde-sentral, bordante Canada
   EN North Dakota (US state)
   ES Dakota del Norte (estado de Estados Unidos)
+  HE דקוטה הצפונית
   RU Северная Дакота (штат)
 
 Dakota Sude : nom jeografial
   D un stato en la SUA norde-sentral
   EN South Dakota (US state)
   ES Dakota del Sur (estado de Estados Unidos)
+  HE דקוטה הדרומית
   RU Южная Дакота (штат)
 
 .dalia : nom planta
@@ -35626,15 +36224,21 @@ Dakota Sude : nom jeografial
   I #
   T Dahlia
   EN dahlia
+  ES dalia
+  HE דליה (צמח)
   RU георгин (цветок)
 
 .dalit : ajetivo demonim
   D pertinente a cada de la castas indu cual on ia nomi `nontocable` en la pasada
   EN Dalit (caste)
+  ES paria (casta)
+  HE שקשור לדלית (קאסטה בהודו)
   RU относящийся к касте неприкасаемых
 
 dalit : nom demonim
   EN Dalit (caste)
+  ES paria (casta)
+  HE דלית (קאסטה בהודו)
   RU Далит, неприкасаемый (каста в Индии)
 
 .Dalmasia : nom jeografial
@@ -35642,21 +36246,27 @@ dalit : nom demonim
   I #
   EN Dalmatia
   ES Dalmacia
+  HE דלמטיה (אזור)
   RU Далмация (историческая область на северо-западе Балканского полуострова, на побережье Адриатического моря, на территории современных Хорватии в основном и Черногории)
 
 dalmasian : ajetivo
   EN Dalmatian (including dog)
+  ES dálmata (incluyendo el perro)
+  HE דלמטי
   RU далматский, далматинский
 
 dalmasian : nom demonim mamal
   I #
   EN Dalmatian (including dog)
+  ES dámata (incluyendo el perro)
+  HE דלמטי
   RU далмат (член племени далматов), далматинец (порода собак)
 
 .daltonisme : nom medica
   D la noncapasia de distingui alga colores
   EN color|ur blindness
   ES daltonismo
+  HE עיוורון צבעים
   RU дальтонизм
 
 .dama : nom
@@ -35665,12 +36275,14 @@ dalmasian : nom demonim mamal
   EN lady, dame, gentlewoman, matron; bridesmaid; queen (chess, cards)
   ES dama
   FR dame
+  HE גברת, ליידי; שושבינה; (שחמט, קלפים) מלכה
   RU дама
 
 dama de onora : nom
   EN maid of honor|ur
   ES dama de honor
   FR demoiselle d'honneur
+  HE שושבינה
   RU подружка невесты
 
 damas : nom plural sporte
@@ -35678,68 +36290,82 @@ damas : nom plural sporte
   EN checkers, draughts (game)
   ES damas (juego)
   FR les dames (jeu)
+  HE דמקה
   RU шашки
 
 damia : nom
   EN ladyship
+  HE כבוד מעלתה
   RU Ваша Милость (обращение к титулованной женщине)
 
 damin : ajetivo
   EN ladylike
   ES damenhaft
+  HE שהולם גברת, מעודן, נשי
 
 .damasco : nom veste
   D un stofa texeda con motif vidable a ambos lados
   EN damask (fabric)
+  HE אריג דמשק
 
 .dana : verbo transitiva
   D causa cambias fisical a (alga cosa) cual redui sua valua, usosia o funsiona normal; afeta negativa (alga cosa)
   EN damage
   FR endommager
+  HE להזיק, לגרום נזק
   RU повреждать, портить
 
 dana : nom
   EN damage
   ES daño, perjuicio
   FR dommage
+  HE נזק
   RU повреждение, поломка
 
 dana criminal : nom
   EN vandalism
   ES vandalismo
   FR vandalisme
+  HE ונדליזם, משחיתנות
   RU вандализм
 
 danante : ajetivo
   EN damaging, injurious
+  HE מזיק, פוגעני
 
 .dandi : nom siensa-umana
   D un om multe dedicada a moda, stilo e ordina pertinente a sua vestes e aspeta; un om de esta tipo ci finje ce el es plu sofisticada ca el es en realia
-  EN fop, dandy, poseur, hipster, popinjay
+  EN fop, dandy, poseur, hipster, popinjay, metrosexual
+  HE גנדרן, מטרוסקסואל
   RU щёголь, фат, денди, хлыщь
 
 dandia : nom
   EN foppery
+  HE גנדרנות, מטרוסקסואליות
 
 .Danmarc : nom jeografial
   C Kobenhavn
   D un pais en Europa norde-ueste, entre la Mar Norde e la Mar Baltica
   I #
   EN Denmark
+  HE דנמרק
   RU Дания
 
 dansce : ajetivo
   EN Danish (person, language)
+  HE דני, דנית (שפה)
   RU датский
 
 dansce : nom demonim
   EN Dane; Danish
+  HE דני, דנית (שפה)
   RU датчанин, датский язык
 
 Streta Danmarc : nom jeografial
   D un streta entre Calalitnunat e Island, un parte de la Mar Atlantica
   I #
   EN Denmark Strait
+  HE מצר דנמרק
   RU Датский пролив
 
 .dansa : verbo nontransitiva musica
@@ -35748,28 +36374,33 @@ Streta Danmarc : nom jeografial
   EN dance, prance; flicker (flame)
   ES bailar, danzar
   FR danser
+  HE לרקוד
   RU танцевать
 
 dansa : nom
   EN dance
   ES baile, danza
   FR danse
+  HE ריקוד, מחול
   RU танец
 
 dansa cuadro : nom
   EN square dance
+  HE ריקוד רביעיות
   RU кадриль
 
 dansa de folclor : nom
   EN folk dance
   ES baile folclórico
   FR danse folklorique
+  HE ריקוד עם
   RU народный танец
 
 dansa de moria : nom
   EN danse macabre
   ES danza de la muerte, danza macabra
   FR danse macabre
+  HE ריקוד המוות
   RU пляска смерти (род аллегорической драмы или процессии в Средневековье)
 
 dansa de ventre : nom
@@ -35777,15 +36408,18 @@ dansa de ventre : nom
   EN belly dance
   ES danza del vientre, danza egipcia, danza oriental
   FR dance du ventre
+  HE ריקוד בטן
   RU танец живота
 
 dansa un valsa : espresa
   EN dance a waltz
+  HE לרקוד ואלס
 
 dansor : nom
   EN dancer
   ES bailarín, bailarina
   FR danseur
+  HE רקדן
   RU танцор
 
 .Danubio, Rio : nom jeografial
@@ -35793,12 +36427,14 @@ dansor : nom
   I Rio-Danubio
   EN River Danube
   ES Río Danubio
+  HE דנובה (נהר)
   RU Дунай (река)
 
 .Dardanelia, Streta : nom jeografial
   D un streta liante la Mar Ejeo e la Mar Marmara
   EN Dardanelles
   ES Dardanelos
+  HE דרדנלים (מצר)
   RU Дарданеллы (обобщающее название нескольких проливов между европой и Азией)
 
 .dardo : nom sporte
@@ -35807,12 +36443,14 @@ dansor : nom
   EN dart
   ES dardo
   FR dard
+  HE חץ (עם כנפיים)
   RU дротик
 
 .darma : nom relijio
   D (en induisme) la prinsipe de ordina de la universo, incluinte virtuas e obligas; (en budisme) la instruis o relijio de la Buda
   EN dharma (religion)
   ES dharma
+  HE (דת) דארמה
   RU дхарма
 
 .darmstatio : nom cimica
@@ -35820,6 +36458,7 @@ dansor : nom
   S Ds
   EN darmstadtium (element)
   ES darmstatio
+  HE דרמשטאדטיום (יסוד)
   RU дармшта́дтий
 
 .darvix : nom relijio
@@ -35827,6 +36466,7 @@ dansor : nom
   I #
   EN dervish
   ES derviche
+  HE דרוויש
   RU дервиш
 
 .Darwin, Charles : nom biolojia
@@ -35835,6 +36475,7 @@ dansor : nom
   P txarlz dárwin
   EN Charles Darwin
   ES Charles Darwin
+  HE צ'ארלס דארווין
   RU Чарлз Дарвин
   ZH 查尔斯·达尔文
 
@@ -35842,23 +36483,36 @@ darwinisme : nom biolojia
   D la teoria de la evolui de spesies par eleje natural, developada par Charles Darwin, un naturiste engles
   EN Darwinism
   ES darwinismo
+  HE דארוויניזם
 
 .data : nom
   D un dia de mense o anio, spesifada par un numero
   EN date (calendar)
   FR date
+  HE תאריך
   RU дата
 
 dati : verbo transitiva
   EN date (determine the date of, write a date on)
   FR dater
+  HE לתארך
   RU датировать, определять дату чего-либо
+
+dati radiocarbonal : verbo transitiva
+  EN carbon-date
+  HE לתארך בעזרת פחמן
+
+dati radiocarbonal : nom
+  EN carbon dating, radiocarbon dating
+  HE תיארוך פחמן
 
 posdati : verbo transitiva
   EN postdate
+  HE לתארך קדימה
 
 predati : verbo transitiva
   EN backdate
+  HE לתארך לאחור
 
 .datilo : nom planta
   D un palma alta nativa, de Asia ueste e Africa norde, cual produi datilas
@@ -35866,6 +36520,7 @@ predati : verbo transitiva
   T Phoenix dactylifera
   EN date (tree)
   FR palmier dattier
+  HE דקל (עץ)
   RU финиковая пальма
 
 datila : nom cosini
@@ -35873,36 +36528,43 @@ datila : nom cosini
   I #
   EN date (fruit)
   FR datte
+  HE תמר
   RU финик
 
 .datilo : nom linguistica
   D (en poesia) un metre composada de un silaba asentuada segueda par du silabas nonasentuada
   EN dactyl (poetry)
+  HE (שירה) דקטיל
   RU дактиль (стихотворный размер)
 
 datilal : ajetivo
   EN dactylic
   FR dactyle
+  HE (שירה) במשקל דקטיל
   RU дактилический
 
 .dativa : ajetivo linguistica
   EN dative (grammar)
+  HE מושא עקיף
   RU дательный (падеж)
 
 dativa : nom
   D un caso gramatical cual indica ojetos nondireta o resetores de atas
   EN dative (grammar)
   FR datif
+  HE מושא עקיף
   RU дательный падеж
 
 .dato : nom informatica
   D un fato o detalia individua de cual on pote deriva informa par prosede
   EN datum
+  HE נתון
   RU элемент данных, исходный факт, характеристика
 
 datos : nom plural
   EN data
   FR données, data
+  HE נתונים
   RU данные
 
 .datura : nom planta
@@ -35910,28 +36572,33 @@ datos : nom plural
   I #
   T Datura
   EN datura (plant)
+  HE דטורה (צמח)
   RU дурман (растение)
 
 .dau : nom relijio filosofia
   D (en filosofia xines) la prinsipe asoluta de la universo, combinante la prinsipes de iin e iang e sinifiante la via de armonia en natur
   EN Tao, Dao
   ES Tao, Dao
+  HE טאו, דאו
   RU Дао (религиозно-филосовский термин)
 
 dauisme : nom
   EN Taoism, Daoism
   ES taoísmo
+  HE טאואיזם, דאואיזם
   RU Даосизм
 
 dauiste : nom
   EN Taoist, Daoist
   ES taoísta
+  HE טאואיסט, דאואיסט
   RU Даос (исповедующий даосизм)
 
 .Davis, Streta : nom jeografial
   D un streta a sude de la Baia Baffin, entre Labrador e Calalitnunat
   I Streta-Davis
   EN Davis Strait
+  HE מצר דיוויס
   RU пролив Дейвиса
 
 .de : preposada
@@ -35942,6 +36609,7 @@ dauiste : nom
   EN from, of, since (a point of origin in space or time)
   EO de, ekde, disde, de post
   FR de dès, depuis
+  HE מ-, מן
   RU (обозначает начальную точку движения или как уточнение к месту нахождения; обозначает место рождения и происхождения, принадлежность к какому-то временному периоду, начальную точку во времени, источник; например - информации; обозначает место откуда убирают что-либо или то от чего избавляют)
 
 (2)
@@ -35950,6 +36618,7 @@ dauiste : nom
   EN made of, composed of, consisting of
   EO el
   FR de, en
+  HE עשוי מ
   RU (описывает материал из которого сделан предмет)
 
 (3)
@@ -35959,6 +36628,7 @@ dauiste : nom
   EN of, belonging to (an owner or whole)
   EO de
   FR de
+  HE של (שייכות)
   RU (предлог передающий значение родительного падежа, принадлежности к чему-либо)
 
 (4)
@@ -35967,6 +36637,7 @@ dauiste : nom
   EN of (specifying, adding detail)
   EO el (aŭ sen prepozicio)
   FR de
+  HE של (פירוט)
   RU (образует сочетания соответствующие русским качественным и количественным прилагательным)
 
 (5)
@@ -35975,18 +36646,21 @@ dauiste : nom
   EN (a quantity) of
   EO da
   FR de
+  HE של (כמות)
   RU (выражает количество или меру вещества, содержащегося в чём-либо)
 
 (6)
   D juntante du nomes per crea un elemento fisada de vocabulo
   U avia de mar; oculo de sol; tenis de table
   EN (forming the equivalent of a compound noun)
+  HE של (יצירת שם עצם מורכב)
 
 (7)
   D clarinte ce un otra preposada, direta seguente, indica un loca do un move comensa
   U me move mea mano de su la table
   EN from (indicating motion away from the location shown by the following preposition)
   EO de, el
+  HE מ-, מן
   RU (в сочетании с другими предлогами, ставится перед ними, обозначает направление движения со смыслом) от, с
 
 (8)
@@ -35995,35 +36669,42 @@ dauiste : nom
   V ante, cuando, do, en, estra, pos, su, sur, supra
   EN (converting the following preposition into an adverb indicating motion away from a location)
   EO de -e
+  HE מ-, מן
   RU (в сочетании с другими предлогами, ставится перед ними, образует наречия с направлением движения) от, с (при этом существительное после этого сочетания прелогов уже не ставится)
 
 de ci : espresa
   EN of whom, whose
   FR dont
+  HE ש (משהו או מישהו) שלו
   RU чей, чья, от которого, от которой (используется для людей)
 
 de cual : espresa
   EN of which, whose
   FR dont
+  HE ש (משהו או מישהו) של זה
   RU которого, которой (используется для неодушевленных предметов и животных)
 
 de esta : averbo
   EN thereof
   FR de ça, en
+  HE של זה
   RU от этого, этого
 
 de esta loca : averbo
   EN from this place, away
   FR de là
+  HE מכאן, מפה
   RU отсюда
 
 a 24 oras de la dia : averbo
   EN 24 hours a day, around the clock, round the clock
+  HE 24 שעות ביממה, מסביב לשעון
   RU круглосуточно
 
 .de- : prefisa tecnical
   D de, a via de, a su de
   EN de-
+  HE (קידומת טכנית) מ-
   RU (приставка соответствующая русским) от, с, из (и возможно другим)
 
 .debate : verbo transitiva filosofia
@@ -36506,7 +37187,7 @@ Baia Delaware : nom jeografial
   RU делегировать; назначать, уполномочивать; передавать, поручать, вверять, доверять
 
 delega : nom
-  EN delegation
+  EN delegation, deputation
   FR délégation
   RU делегирование
 
@@ -36990,6 +37671,9 @@ interdepende : verbo nontransitiva
 
 interdependente : ajetivo
   EN interdependent
+
+nondepende : nom
+  EN independence, self-sufficiency, autonomy
 
 nondependente : ajetivo
   EN not dependent, self-sufficient, standalone; independent, autonomous
@@ -38058,7 +38742,7 @@ diastolal : ajetivo
   EN diazepam, valium
 
 .dicdic : nom
-  D un antilope nana de la savana seca de Africa
+  D un antilope nano de la savana seca de Africa
   I #
   T Madoqua
   EN dik-dik (antelope)
@@ -38664,6 +39348,13 @@ nondiscreta : ajetivo
 
 nondiscreta : nom
   EN indiscreet person, bigmouth
+
+.discrimina : verbo nontransitiva
+  D distingui nonjusta o prejudinte en la trata de categorias diferente de persones, spesial per sua raza, jenero, o eda
+  EN discriminate
+
+discrimina : nom
+  EN discrimination
 
 .discute : verbo transitiva
   D parla sur (un sujeto) con un otra person o un grupo de persones; parla o scrive detaliosa sur (un sujeto), considerante opinas e ideas diversa
@@ -40994,10 +41685,7 @@ egali : verbo nontransitiva
   EN equalize|is, become equal, catch up
 
 egali : verbo transitiva
-  EN equalize|is, make equal
-
-egali : verbo transitiva
-  EN match, rival, equate to, catch up with
+  EN equalize|is, make equal, match, rival, equate to, catch up with
 
 egali : nom
   EN equation
@@ -41046,6 +41734,15 @@ egaliste : ajetivo
 
 nonegal : ajetivo
   EN unequal, non-equivalent
+
+nonegali : verbo nontransitiva
+  EN become unequal
+
+nonegali : verbo transitiva
+  EN make unequal
+
+nonegali : nom
+  EN inequation
 
 nonegalia : nom
   EN inequality, disparity, discrepancy
@@ -42241,7 +42938,7 @@ enaira : nom
 
 .enama : verbo transitiva siensa-umana
   D (un person) fa ce (algun) comensa ama el
-  EN enamor|ur, cause to fall in love, infatuate
+  EN enamor|ur, infatuate, win the love of, cause to fall in love
 
 enama : nom
   EN infatuation
@@ -42309,6 +43006,12 @@ encarga : nom
 
 coencargada : ajetivo
   EN collegial, with shared responsibility
+
+encargable : ajetivo
+  EN responsible (trustworthy)
+
+encargablia : ajetivo
+  EN responsibility
 
 encargada : ajetivo
   EN entrusted, responsible, accountable, answerable, in charge
@@ -42408,6 +43111,11 @@ endonim : nom
   D la strato la plu interna de la sitoplasma de selulas amebin
   EN endoplasma
 
+.endoreica : ajetivo tera
+  D (un lago o rio) perdente acua par vapori o filtri, e no par esflue
+  EN endorheic
+  FR endoréique
+
 .endorfina : nom anatomia
   D cada de un grupo de ormones secreteda en la serebro e sistem de nervos, cual ave un efeto simil a opio
   EN endorphin
@@ -42504,11 +43212,11 @@ reenerji : verbo transitiva
   EN re-energize|is, rally
 
 .enets : ajetivo demonim
-  D pertinente a un popla de Sibir norde ci es pastores de renos, o a sua linguas
-  EN Enets, Samoyed, Samoyedic (person, language)
+  D pertinente a un popla de Sibir norde ci es pastores de renos, o a sua lingua
+  EN Enets
 
 enets : nom
-  EN Enets, Samoyed, Samoyedic (person, language)
+  EN Enets (person, language)
 
 .enfante : ajetivo biolojia siensa-umana
   EN child
@@ -44116,7 +44824,18 @@ nonescusable : ajetivo
 
 .escuta : verbo transitiva biolojia
   D atende la parla o sona de (un person o cosa)
+  AR استمع
+  CA auscultar
   EN listen (to), hark, harken, hearken
+  FI kuunnella
+  FR écouter
+  IT ascoltare
+  JA 聞く
+  NL aanhoren
+  PL słuchać
+  PT escutar
+  RU слушать
+  ZH 听
 
 escuta : nom
   EN hearing (legal)
@@ -45903,66 +46622,82 @@ eziditisme : nom
   D la letera ses de la alfabeta roman; la nota cuatro de la scala diatonica de C major
   P ef
   EN f
+  ES f
   FR f
 
 .fa : verbo transitiva
   D reali o partisipa en (un ata)
   N No usa `fa` per dise `crea` o `fabrica`. // `Fa` does not mean _make_ in the senses of `crea`, `fabrica` or `prepara`.
   EN do, perform; commit (crime); have (shower, dream, etc.); take (shower, photo, etc.); hold (event); play (game, role)
+  ES hacer
   FR faire
 
 fa : nom
   EN doing, deed
+  ES hecho
 
 fa a : verbo
   U los ia fa la fol a re
   EN cause (someone or something) to become, make (someone or something) ...
+  ES causar (algo, algo a alguien), llegar a ser
 
 fa bon : verbo
   EN do well; do good
+  ES hacer el bien, estar bien, hacerlo bien
 
 fa ce : verbo
   U no fa ce me rie; la anunsia ia fa ce el roji
   EN cause (something to happen or become), make (something happen), render, turn
+  ES causar, hacer que
 
 fa de : verbo
   U los ia fa de la fol un re
   EN make ... of (someone or something)
+  ES hacer ... de (alguien o algo)
 
 desfa : verbo transitiva
   EN undo
+  ES deshacer
   FR défaire
 
 desfa : nom
   EN undoing
+  ES ruina, perdición
 
 fada : ajetivo
   EN done
+  ES hecho
   FR fait
 
 fada : nom
   EN deed (past)
+  ES hecho (pasado)
   FR fait
 
 fada realida : nom
   EN fait accompli
+  ES hecho consumado
   FR fait accompli
 
 faor : nom
   EN doer
+  ES emprendedor, ejecutor, realizador, fabricante, creador
   FR faiseur
 
 malfa : verbo transitiva
   EN do badly, bodge, botch, bungle, bumble, screw up, make a bad job of
+  ES hacer mal, estropear, hacer una chapuza, arruinar
 
 malfa : nom
   EN misfeed, bodge, botch
 
 malfaor : ajetivo
   EN bodger, botcher, bungler
+  ES chapucero, inepto, manaza, torpe
 
 refa : verbo transitiva
   EN redo, recommit, do over, do again
+  ES rehacer
   FR refaire
 
 refa : nom
@@ -46001,7 +46736,7 @@ fabricada : ajetivo
   FR fabriqué
 
 fabricada : nom
-  EN artifact
+  EN artifact|artefact
   FR artefact
 
 fabricada a casa : ajetivo
@@ -46029,7 +46764,7 @@ fabricor de vagones : nom
   EN wainwright
 
 ojeto fabricada : nom
-  EN artifact
+  EN artifact|artefact
   FR artefact
 
 prefabrica : verbo transitiva
@@ -46365,11 +47100,12 @@ suprafamilia : nom
 .fan : nom sporte
   D un person con un interesa forte en un sporte, arte, etc; un person ci amira forte un ecipo de sporte o un person famosa
   EN fan, fanatic, aficionado
-  ES fan (admirador), fanático, aficionado, enthusiast
+  ES fan (admirador), fanático, aficionado, entusiasta
   FR fan
 
 fanes : nom plural
   EN fans, fandom
+  ES admiradores, aficionados, fanáticos, seguidores
 
 fania : nom
   EN fandom (quality)
@@ -46380,6 +47116,7 @@ fanin : ajetivo
 .fandango : nom musica
   D un dansa vivosa de Espania per du persones, tipal acompaniada par castanietas o tambureta
   EN fandango (dance)
+  ES fandango (baile)
 
 .fanfara : verbo nontransitiva musica
   D jua un melodia corta con strumentos como trompas, tipal per anunsia la ariva de un person importante
@@ -46718,7 +47455,7 @@ fasina : nom
   FR fascination
 
 fasinada : ajetivo
-  EN fascinated, rapt
+  EN fascinated, rapt, intent
 
 fasinante : ajetivo
   EN fascinating, engrossing, riveting, compelling
@@ -46768,6 +47505,9 @@ en fato : averbo
 fatal : ajetivo
   EN factual
   FR factuel
+
+fatia : nom
+  EN factuality, facticity
 
 la fato ce : nom
   EN the fact that
@@ -48194,12 +48934,22 @@ filtrida : nom
 nonfiltrida : ajetivo
   EN unfiltered
 
+.fimbria : nom anatomia medica
+  D un serie de fibres simil a un franje; un de esta fibres; la fibres a la fini de la trompa de utero
+  EN fimbria
+
 .finansia : verbo transitiva mone
   D suporta (un emprende) con mone
   EN finance, fund, defray
 
 finansia : nom
   EN finance
+
+finansia coletiva : verbo transitiva
+  EN crowdfund
+
+finansia coletiva : nom
+  EN crowdfunding
 
 finansia matematical : nom
   EN mathematical finance
@@ -48907,7 +49657,7 @@ foca : nom
   EN focus; centerpiece|re
 
 focada : ajetivo
-  EN focused, in focus
+  EN focused, in focus; intent
 
 focal : ajetivo
   EN focal
@@ -49507,6 +50257,10 @@ reformula : verbo transitiva
   D un serie de demandas, tipal primida e con respondes elejable, per colie informa
   EN form (to fill), questionnaire
 
+.fornix : nom anatomia medica
+  D un strutur voltin o arcin en la corpo
+  EN fornix
+
 .forno : nom util cosini
   D un comparte encluida per coce o caldi comedas o seramicas
   I #
@@ -49741,6 +50495,9 @@ foto prosima : nom
 fa un foto : nom
   EN take a photo
 
+fotor : nom
+  EN photographer
+
 .foto- : prefisa tecnical
   D lus o fotografia
   EN photo- (light, photography)
@@ -49917,7 +50674,7 @@ frajilia : nom
   EN frank, direct, candid, outspoken, plainspoken, outright, explicit, vocal; straightforward
 
 francia : nom
-  EN frankness, directness
+  EN frankness, directness, straightforwardness
 
 .francamason : nom governa
   D un membro de un ordina internasional instituida per amia e aida mutua, cual inclui rituos secreta
@@ -50287,6 +51044,10 @@ frigian : ajetivo
   D un disco concava de plastica, flotada tra la aira como un diverti o sporte
   I #
   EN frisbee
+
+.Frisia : nom jeografial istoria
+  D un area istorial a la costa de la Mar Norde, incluinte la provinse Frisland e otra locas en cual frisce es oji parlada
+  EN Frisia
 
 .Frisland : nom jeografial
   D un provinse en Nederland norde
@@ -50960,17 +51721,21 @@ fusin : ajetivo
   D un panel liscable, usada como un dividente o porte entre sales en casas nion tradisional
   I #
   EN fusuma (screen)
+  ES fusuma
 
 .futbal : nom sporte
   D un sporte juada par du ecipos de 11 juores, con un bal sfera cual no juor estra la golores pote toca par braso o mano; cualce de la varias de esta jua
   I #
   EN football, soccer
+  ES fútbol
 
 futbal american : nom
   EN American football, gridiron football
+  ES fútbol americano
 
 futbalor : nom
   EN footballer, football player, soccer player
+  ES futbolista
 
 .futil : ajetivo siensa-umana
   D (un ata) sin resulta usosa
@@ -50986,6 +51751,7 @@ futilia : nom
   D un materas nion, desenrolada sur la solo per usa como leto; un tipo de sofa basa cual on desplia per usa como leto
   I #
   EN futon (mattress)
+  ES futón (colchón)
 
 .futur : ajetivo filosofia
   D a un tempo plu tarda ca la momento de parla o scrive
@@ -50993,15 +51759,19 @@ futilia : nom
 
 futur : nom
   EN future, posterity
+  ES futuro, posteridad
 
 en la futur : averbo
   EN in the future, subsequently
+  ES en el futuro, posteriormente
 
 en la futur distante : averbo
   EN in the distant future, eventually
+  ES en el futuro lejano, finalmente, al final
 
 futuriste : nom
   EN futurist
+  ES futurista
 
 .futurolojia : nom siensa-umana
   D la predise sistemosa de la futur, tipal par estrapola tendes presente
@@ -51189,7 +51959,7 @@ galerieta : nom
   EN Gaul (ancient region)
 
 galo : ajetivo
-  EN Gaulish; Gaul
+  EN Gaulish, Gallic; Gaul
 
 galo : nom
   EN Gaulish; Gaul
@@ -51852,7 +52622,7 @@ genoves : nom demonim
 
 .gera : verbo nontransitiva governa
   D partisipa en un disputa con armas entre nasiones, statos o grupos diferente
-  EN war, make war
+  EN war, make war, wage war
 
 gera : nom
   EN war, warfare
@@ -52118,6 +52888,9 @@ glande salival : nom
 glande suprarenal : nom
   EN adrenal gland
 
+glandal : ajetivo
+  EN glandular
+
 .glareola : nom avia
   D un avia insetivor con alas longa e coda forcin, relatada a la pluviales
   I #
@@ -52212,6 +52985,10 @@ glicada : ajetivo
   I #
   EN glyph, pictogram, pictograph
 
+.glifosato : nom cimica
+  D un composada artifis usada como un erbiside forte
+  EN glyphosate
+
 .glisemia : nom medica
   D la presentia de glucosa en la sangue
   EN glycemia|ae
@@ -52299,6 +53076,14 @@ gloriosa : ajetivo
 
 gloseria : nom
   EN glossary
+
+.gloso- : prefisa tecnical anatomia medica
+  D con forma de lingua
+  EN glosso-
+
+-gloso : sufisa tecnical anatomia medica
+  D con forma de lingua
+  EN -glossus
 
 .glote : nom anatomia linguistica
   D la parte de la larinje composada de la plias vosal e la pasaje entre los
@@ -52633,6 +53418,15 @@ gradiente termal : nom
 .grado : nom
   D la cuantia, nivel o estende a cual alga cosa aveni o es presente; un unia per mesura angulos; un nivel en un scala, serie o prosede, o en la ierarcia de un organiza o sosia; cada de la surfases orizonal cual formi un scalera
   EN degree, extent; rank, echelon; stair, tread, step; stage, step (process)
+
+de grado du : ajetivo
+  EN secondary, second-degree
+
+de grado prima : ajetivo
+  EN primary, first-degree
+
+de grado tre : ajetivo
+  EN tertiary, third-degree
 
 grado de celsius : nom
   EN degree Celsius, degree centigrade
@@ -53023,6 +53817,10 @@ pregrasia : verbo transitiva
 
 pregrasias : esclama
   EN thanks in advance
+
+.grasil : ajetivo anatomia medica
+  D magra en modo bela o refinada
+  EN gracile, thin, slim, slender, svelte
 
 .Grau, Mar : nom jeografial
   D un mar a ueste de Peru, un parte de la Mar Pasifica
@@ -53803,6 +54601,10 @@ Hebrides Interna : nom plural jeografial
   I #
   T Lawsonia inermis
   EN henna (plant, dye)
+
+.henje : nom istoria
+  D un monumento preistorial, composada de un sirculo de petras o lenios grande e vertical
+  EN henge
 
 .henri : nom fisica
   D la unia internasional per mesura indui eletrical
@@ -55008,6 +55810,13 @@ ilaria : nom
   EN ilium (anatomy)
   EO ilio
 
+ilial : ajetivo
+  EN iliac
+
+ilial : nom anatomia medica
+  D un musculo liante la ilio a la tibia
+  EN iliacus (muscle)
+
 .Ilio : nom jeografial
   D un nom antica de la site Troia
   V Troia
@@ -56002,6 +56811,9 @@ induinte : ajetivo
   D ativia economial cual trata la prosede de materias cru e la fabrica de benes en fabricerias
   EN industry
 
+industria casetal : nom
+  EN cottage industry, domestic system
+
 industri : verbo transitiva
   EN industrialize|is
 
@@ -56237,7 +57049,7 @@ influablia : nom
   EN suggestibility
 
 influente : ajetivo
-  EN influential, seminal
+  EN influential, seminal, instrumental
 
 .infografia : nom informatica
   D imajes produida par computadores; la arte e siensa de produi estas
@@ -56772,7 +57584,7 @@ nonintendeda : ajetivo
 
 .intensa : ajetivo
   D de fortia o grado estrema; multe consentrada
-  EN intense, intensive; formidable
+  EN intense, intensive; intent; formidable
 
 desintensi : verbo nontransitiva
   EN reduce, assuage
@@ -56802,7 +57614,7 @@ intensia : nom
   EN entire, whole, total
 
 intera : averbo
-  EN entirely, wholly, totally, quite
+  EN entirely, wholly, totally, utterly, quite
 
 intera : nom
   EN whole, entirety, totality
@@ -57335,6 +58147,10 @@ iodlor : nom
 .iogurte : nom cosini
   D un comeda semisolida, preparada de lete fermentada par baterias, comun con la ajunta de dulses e otra sabores
   EN yogurt, yoghurt
+
+.ioide : nom anatomia medica
+  D un oso en la colo, con forma de U, cual suporta la lingua
+  EN hyoid (bone)
 
 .ioio : nom sporte
   D un jueta composada de du discos separada par un ranur en cual un cordeta es enrolada, cual pote es jirada a basa e a retro par sua momento
@@ -58247,6 +59063,9 @@ iudisme : nom
 
 iudiste : ajetivo
   EN Judaic, Jewish
+
+noniudi : ajetivo
+  EN non-Jewish, gentile
 
 .iugo : nom util
   D un peso de lenio usada per lia du boves o otra animales a un arado, caro o vagon
@@ -59808,7 +60627,7 @@ judal : ajetivo
   EN judicial
 
 juderia : nom
-  EN judiciary
+  EN judiciary; jurisdiction
 
 judi de tempo : nom
   EN timing
@@ -61024,6 +61843,9 @@ lava interna : nom
 lava la serebro : verbo
   EN brainwash
 
+lava la vestes : verbo
+  EN wash the clothes, do the laundry, do the washing
+
 lavador : nom
   I #
   EN washing machine (clothes, dishes)
@@ -61302,6 +62124,9 @@ tro lejera : ajetivo
   D (en la armada roman antica) un unia de entre tre e ses mil soldatos; (en la armada franses) un unia xef composada de soldatos nonfranses
   EN legion
 
+desilejion : nom
+  EN cohort (Roman army unit)
+
 lejionor : nom
   EN legionnaire
 
@@ -61460,6 +62285,17 @@ leoni : verbo nontransitiva
 
 leoni : verbo transitiva
   EN lionize|is
+
+.Leon : nom jeografial
+  D un rena antica e provinse presente de Espania norde
+  I #
+  EN León (Spanish region)
+
+leones : ajetivo
+  EN Leonese
+
+leones : nom
+  EN Leonese
 
 .leopardo : nom mamal
   D un gato grande con pelo brun con manxas negra, trovada en la forestas de Africa e Asia sude
@@ -61651,6 +62487,12 @@ leteras major o minor : nom
 leteral : ajetivo
   EN literal
 
+leteralisme : nom
+  EN literalism, textualism
+
+leteraliste : ajetivo
+  EN literalist, textualist
+
 leteri : verbo transitiva
   EN letter, do lettering
 
@@ -61794,6 +62636,9 @@ leva sua regarda : verbo
 
 leva sua spalas : verbo
   EN shrug
+
+leva temprana : verbo
+  EN get up early, rise early
 
 ante leva de sol : ajetivo
   EN predawn
@@ -62029,7 +62874,7 @@ tro libidosa : ajetivo
 
 .libre : ajetivo governa
   D no controlada par un otra; capas de ata como on desira
-  EN free, at liberty; freelance
+  EN free, at liberty, at large; freelance
 
 libralisme : nom
   EN liberalism
@@ -62702,17 +63547,6 @@ stofa de lino : nom
 linxa : nom
   EN lynching
 
-.Lion : nom jeografial
-  D un rena antica e provinse presente de Espania norde
-  I #
-  EN León (Spanish region)
-
-liones : ajetivo
-  EN Leonese
-
-liones : nom
-  EN Leonese
-
 .lipase : nom biolojia cimica
   D un enzima de la pancreas cual catalise la redui de gras o asidas grasal
   EN lipase
@@ -62844,7 +63678,11 @@ nonliscosa : ajetivo
   T Petaurus
   EN flying possum, flying phalanger, glider (marsupial)
 
-.-lise : sufisa nom cimica medica
+.lise : nom cimica medica
+  D descomposa o desintegra
+  EN lysis
+
+-lise : sufisa nom cimica medica
   D descomposa o desintegra
   EN -lysis (decomposition)
 
@@ -63233,7 +64071,7 @@ lodante : ajetivo
   EN praising, flattering
 
 lodas : esclama
-  EN congratulations, my compliments
+  EN congratulations, my compliments; hail (greeting)
 
 nonlodada : ajetivo
   EN unpraised, unsung
@@ -63416,6 +64254,9 @@ longia : nom
 
 longia de onda : nom
   EN wavelength
+
+longida : ajetivo
+  EN elongated, prolate
 
 par longia : nom
   EN lengthwise, lengthways
@@ -63642,6 +64483,9 @@ lunal : ajetivo
 
 luneta : nom
   EN small moon, natural satellite
+
+lunin : ajetivo
+  EN lunate, crescent, moon-shaped
 
 sulunan : ajetivo
   EN sublunar (astronomy)
@@ -64329,6 +65173,10 @@ maioral : ajetivo
 vismaior : nom
   EN vice-mayor, alderman
 
+.Maiorca : nom jeografial
+  D la isola la plu grande de la Isolas Balear
+  EN Mallorca, Majorca
+
 .mais : nom planta cosini
   D un planta sereal con granes grande; esta granes, usada per comeda de umanas e bestias
   I #
@@ -64444,6 +65292,9 @@ mal : averbo
   EN badly, wrongly
   FR mal
 
+mal : nom
+  EN bad thing, evil thing, wicked thing
+
 mal- : prefisa
   D ajuntada a un verbo per formi un verbo per un ata plu mal, tipal spesialida
   U malodori; maldise
@@ -64465,7 +65316,7 @@ mali : nom
   EN worsening, degeneration, deterioration, corruption, exacerbation
 
 malia : nom
-  EN evil
+  EN evil, wickedness
 
 malida : ajetivo
   EN deteriorated, corrupt, degenerate, spoiled (food)
@@ -66166,6 +67017,14 @@ matini : verbo nontransitiva
 matini : nom
   EN dawn, daybreak; threshold (metaphor)
 
+matinor : nom
+  CA matiner
+  EN morning person, early bird, early riser
+  ES madrugador
+  FR lève-tôt, matineux
+  IT uccello in anticipo
+  PT madrugador
+
 .matriarca : nom siensa-umana
   D un fem, tipal vea, ci es la xef de un familia o tribu, o ci es potiosa en un familia o organiza
   EN matriarch
@@ -66492,10 +67351,13 @@ premedical : ajetivo
 
 .medieval : ajetivo istoria
   D parteninte a la eda entre aprosima la sentenios 5 e 15
-  EN medieval
+  EN medieval|ae
 
 eda medieval : nom
   EN middle ages
+
+medievaliste : nom
+  EN medievalist|ae
 
 .mediocre : ajetivo
   D con cualia media o min ca media; no multe bon
@@ -66954,7 +67816,7 @@ premenstrual : ajetivo
   EN mint (plant)
 
 menta fresca : nom
-  D un menta usada en cosina e como un saborinte per confetos
+  D un menta usada en cosini e como un saborinte per confetos
   T Mentha spicata
   EN spearmint
 
@@ -67810,6 +68672,10 @@ sin microbios : ajetivo
 
 microbiolojiste : nom
   EN microbiologist
+
+.microbireria : nom
+  D un bireria autonom cual produi bir en cuantias peti
+  EN microbrewery, craft brewery
 
 .microcosmo : nom filosofia
   D un loca, situa o comunia regardada como un esemplo miniatur de un cosa multe plu grande
@@ -69833,6 +70699,14 @@ morera : nom
   D forma
   EN -morph
 
+.morfe :  verbo transitiva informatica
+  D cambia lisa (un imaje) a un otra par pasos peti e gradal, usante tecnicas de anima par computador
+  EN morph
+
+morfe : nom informatica
+  D un imaje cambiante de un otra par morfe
+  EN morph
+
 .morfem : nom linguistica
   D un unia de sinifia en un lingua, cual on no pote divide plu
   EN morpheme
@@ -70437,7 +71311,7 @@ tan multe como posible : espresa
 
 .multicultural : ajetivo siensa-umana
   D pertinente a plu ca un cultur
-  EN multicultural
+  EN multicultural, cosmopolitan
 
 .multidimensional : ajetivo fisica
   D con plu ca un dimension
@@ -70887,6 +71761,20 @@ nonmutable : ajetivo
 nonmutablia : nom
   EN immutability
 
+.mutaforma : nom
+  D un esente cual pote muta sua forma fisical, tipal volente, como trovada en mitos e fantasias
+  DE formwandler
+  EN shape-shifter
+  IT mutaforma
+
+mutaformi : verbo nontransitiva
+  D muta sua forma fisical, tipal par un capasia inerente o par majia, como trovada en mitos e fantasias
+  EN shape-shift, metamorphose
+
+mutaformia : nom
+  D la capasia, inerente o majial, per cambia sua forma fisical, como trovada en mitos e fantasias
+  EN shape-shifting, metamorphosis
+
 .mutajen : ajetivo biolojia cimica
   D capas de inisia o aselera muta jenetical
   EN mutagenic (genetics)
@@ -71053,27 +71941,24 @@ namibian : nom demonim
   EN Namibian
   ES namibio
 
-.nana : ajetivo
-  D estrema o noncomun peti
-  EN dwarf (including mythology), midget, gnome
-  ES enano
-  FR nain
-
-nana : nom
-  D un person estrema o noncomun peti; (en fables) un membro de un raza mital de viventes corta e umanin, jeneral capas de mina e metalurjia
-  I #
-  EN dwarf, midget, gnome
-  ES enano
-  FR nain
-
-nanisme : nom
-  EN dwarfism
-  ES enanismo
-
 .nana : nom
   D (nonformal) un enfantor
   EN (colloquial) nanny (carer)
   ES niñera, canguro, nana
+
+.nano : nom
+  D un person estrema o noncomun peti; (en fables) un membro de un raza mital de viventes corta e umanin, jeneral capas de mina e metalurjia
+  I #
+  EN dwarf (including mythology), midget, gnome
+  ES enano
+  FR nain
+
+nanin : ajetivo
+  EN dwarflike; dwarf (planet)
+
+nanisme : nom
+  EN dwarfism
+  ES enanismo
 
 .nano- : prefisa tecnical
   D multe peti; {10^-9}
@@ -71149,8 +72034,8 @@ nareta : nom
   ES cuento, relato corto
 
 naror : nom
-  EN storyteller, narrator, raconteur
-  ES escritor, cuentista, narrador, cuentacuentos
+  EN storyteller, narrator, raconteur, chronicler
+  ES escritor, cuentista, narrador, cuentacuentos, cronista
 
 nonarada : ajetivo
   EN untold
@@ -72220,7 +73105,14 @@ neurosirurjiste : nom
   D un toxina cual afeta la sistem de nervos
   EN neurotoxin
 
-.neurotransmetador : nom biolojia
+.neurotransmete : verbo transitiva biolojia
+  D envia (un impulsa) tra un sinapse entre neurones
+  EN neurotransmit
+
+neurotransmete : nom
+  EN neurotransmission
+
+neurotransmetador : nom
   D un cimical cual es relasada a la fini de un neuron e vade ultra la sinapse per stimula la selula seguente
   EN neurotransmitter
 
@@ -73144,7 +74036,7 @@ nonotada : nom
   EN oversight
 
 notable : ajetivo
-  EN notable, mentionable, noticeable, remarkable, considerable
+  EN notable, mentionable, noteworthy, noticeable, remarkable, considerable
 
 notable : averbo
   EN notably, noticeably, remarkably, considerably
@@ -73580,6 +74472,7 @@ o ... o : espresa
   D ajuntada a alga nomes fema con la coda `-a` per nomi la mas corespondente; ajuntada a la nom de un fruta con la coda `-a` per nomi sua arbor
   U ava/avo; poma/pomo
   EN male; tree
+  ES masculino, árbol
 
 .oasis : nom tera
   D un loca en un deserto do on pote trova acua
@@ -73614,7 +74507,7 @@ desobedinte : ajetivo
   ES desobediente
 
 nonobedinte : ajetivo
-  EN uncompliant
+  EN non-compliant, uncompliant
 
 obedinte : ajetivo
   EN obedient, obeying, compliant
@@ -73645,6 +74538,13 @@ obesia : nom
   I #
   EN obi (sash)
   FR obi
+
+.oblica : ajetivo
+  D apoiada, no paralel e no a angulo reta
+  EN oblique
+
+oblicia : nom
+  EN obliquity
 
 .oblida : verbo transitiva siensa-umana
   D no recorda; no pote recorda
@@ -75298,6 +76198,10 @@ oranin brun : ajetivo
   D un egleseta, tipal per usa privata
   EN oratory
 
+.orbicula : nom anatomia medica
+  D la musculo sirca la oio cual fermi la palpebras
+  EN orbicularis oculi (muscle)
+
 .orbita : verbo transitiva astronomia anatomia
   D (un ojeto o veculo spasial) move en curso curva sirca un stela, planeta o luna
   EN orbit
@@ -75770,7 +76674,7 @@ orneta : nom
   EN bauble, trinket, trifle, gewgaw, knickknack, curio, souvenir, tchotchke
 
 ornosa : ajetivo
-  EN ornate, baroque, florid, rococo; gaudy, tawdry
+  EN ornate, baroque, florid, rococo, swash; gaudy, tawdry
 
 .ornito- : prefisa tecnical biolojia
   D avia
@@ -76326,6 +77230,9 @@ oso de talo : nom
 oso medulosa : nom
   EN marrowbone
 
+interosal : ajetivo
+  EN interosseous
+
 oseria : nom
   EN ossuary
 
@@ -76366,7 +77273,7 @@ ospitor : nom
   EN host, hostess
 
 ospitor de avion : nom
-  EN air steward, air stewardess, air hostess
+  EN air steward, air stewardess, air hostess, flight attendant
 
 ospitor de conversa : nom
   EN chat-show host, talk-show host
@@ -78845,7 +79752,7 @@ parteninte : nom
 .parti : verbo nontransitiva
   D vade a via (de un loca, grupo, person, etc)
   U la tren va parti de la stasion
-  EN depart, leave, go
+  EN depart, leave, go; pass away (die)
 
 parti : nom
   EN departure, parting; exodus
@@ -81028,6 +81935,9 @@ pesa : nom
 pesador : nom
   EN scales, weighing machine
 
+peseria : nom
+  EN weigh-house
+
 pesosa : ajetivo
   EN heavy, ponderous, hefty
 
@@ -81190,6 +82100,10 @@ peti : verbo transitiva
 peti : nom
   EN little thing, little one, runt
 
+.petineo : nom anatomia medica
+  D un musculo liante la pubica e la tibia
+  EN petineus
+
 .petirosa : nom avia
   D un avia peti de la mundo vea con dorso brun e peto roja
   I #
@@ -81217,6 +82131,9 @@ petra cubo : nom
 
 petra de agi : nom
   EN whetstone
+
+petra de angulo : nom
+  EN cornerstone
 
 petra de milia : nom
   EN milestone
@@ -81433,6 +82350,12 @@ pexor : nom avia
 
 pexor ueb : nom
   EN phisher
+
+suprapexa : verbo transitiva
+  EN overfish
+
+suprapexa : nom
+  EN overfishing
 
 .pexeta : nom pex
   D un pex peti e sosial, trovada en la lagos e rios de Eurasia
@@ -82059,6 +82982,14 @@ pirati : verbo transitiva
 piratia : nom
   EN piracy
 
+.piriforma : ajetivo
+  D perin, con forma de pera
+  EN piriform, pear-shaped
+
+piriforma : nom anatomia medica
+  D un musculo liante la sacro a la tibia
+  EN piriform (muscle)
+
 .Pirineo : nom jeografial
   D la rejion de la Montes Pirineo
   EN Pyrenees
@@ -82224,6 +83155,16 @@ pita elinica : nom
 
 pitagoran : ajetivo
   EN Pythagorean
+
+pitagorisme : nom filosofia
+  CA pitagorisme
+  DE Pythagoreismus
+  EN Pythagoreanism
+  ES pitagorismo
+  FR pythagorisme
+  IT pitagorismo
+  PT pitagorismo
+  RU пифагореизм
 
 .piton : nom retil
   D un serpente grande ma nonvenenosa, cual mata sua preda par presa lo
@@ -82668,6 +83609,10 @@ plaserosa : ajetivo
   D un selula blanca de sangue cual secrete cuantias grande de anticorpos
   EN plasmacyte (biology)
 
+.plasmide : nom biolojia
+  D un molecula peti de adn, separada de la adn cromosomal, capas de reprodui autonom, e comun en baterias
+  EN plasmid
+
 .plasmodio : nom medica
   D un protozon parasital de un jenero cual inclui los cual causa malaria
   I #
@@ -82748,6 +83693,9 @@ plati : verbo nontransitiva
 
 plati : verbo transitiva
   EN flatten
+
+platida : ajetivo
+  EN flattened, oblate
 
 platin : ajetivo
   EN flattish
@@ -82896,6 +83844,10 @@ platonisme : nom filosofia
   NL vierkant
   PT praça
   RU площадь
+
+.Pleades : nom plural mitolojia
+  D (en mitos elinica) la sete fias de Atlas e Pleone, xasada par Orion asta cuando Zeus ia cambia los a un grupo de stelas; un grupo de stelas en la Bove
+  EN Pleiades (mythology, stars)
 
 .plectro : nom musica
   D un peso magra e plata de plastica o otra materia cuasi flexable, usada per toca la cordetas de un strumento como la gitar; un parte simil per toca la cordetas de un strumento como la clavesimbal
@@ -83125,10 +84077,6 @@ plieta sua fronte : espresa
 plietosa : ajetivo
   EN wrinkled, shriveled|ll, wizened, crumpled, crinkled, crinkly, puckered, puckery, plissé
   FR ridé
-
-.Pliades : nom plural mitolojia
-  D (en mitos elinica) la sete fias de Atlas e Plione, xasada par Orion asta cuando Zeus ia cambia los a un grupo de stelas; un grupo de stelas en la Bove
-  EN Pleiades (mythology, stars)
 
 .pliosene : ajetivo tera
   D pertinente a la epoca final de la tersiaria, entre la miosene e la plestosene
@@ -83387,7 +84335,7 @@ pluraliste : nom
   EN pluralist
 
 .Pluto : nom astronomia mitolojia
-  D un planeta nana cual orbita la Sol; (en mitos elinica) la dio de la sumundo
+  D un planeta nanin cual orbita la Sol; (en mitos elinica) la dio de la sumundo
   EN Pluto (mythology, planet)
   FR Pluton
 
@@ -84512,7 +85460,7 @@ portador : nom
 portor : nom
   CA porter
   DE Pförtner
-  EN porter, bellboy, bellhop; caddie (golf); pallbearer
+  EN porter, bellboy, bellhop; caddie (golf); pallbearer; carrier, vector (disease)
   EO portisto
   ES mozo
   FR porteur
@@ -87068,6 +88016,9 @@ pronto : averbo
 pronto a pos : averbo
   EN soon afterwards
 
+pronto cuando : sujunta
+  EN as soon as
+
 pronto pos : preposada
   CA poc després
   DE sofort nach
@@ -87370,6 +88321,10 @@ prosegue : nom
 
 prosegue funeral : nom
   EN funeral procession, cortège
+
+.prosero : nom anatomia medica
+  D un musculo de la fas, entre la oios
+  EN procerus
 
 .prosima : ajetivo
   D a un distantia corta; a un tempo no distante en la futur; aprosima; (un ami) multe bon conoseda
@@ -87897,12 +88852,16 @@ psicoterapiste : nom
   D un alusinojen, estraeda de alga xampiniones
   EN psilocybin (drug)
 
+.psoas : nom anatomia medica
+  D cada de du musculos liante la lombo a la gama
+  EN psoas (muscle)
+
 .psoriase : nom medica
   D un maladia de la pel, marcada par areas roja, scamosa e prurinte
   EN psoriasis (medical)
 
 .ptero- : prefisa tecnical
-  D alas
+  D con forma de ala, o pertinente a un ala
   EN ptero- (wing)
 
 .pterodatilo : nom dinosauro
@@ -91044,7 +92003,8 @@ nonreportada : ajetivo
   EN unreported
 
 reportor : nom
-  EN reporter
+  EN reporter, chronicler
+  ES periodista, reportero, cronista
 
 .reposa : verbo nontransitiva biolojia
   D sesa labora per refresci se; reclina sur la tera, un sofa, un leto, etc; resta tempora a un loca; (la Sol, Luna, etc) move a su la orizon
@@ -94022,6 +94982,10 @@ sadiste : nom
 sadomasociste : ajetivo
   EN sadomasochistic
 
+.saduseo : nom istoria relijio
+  D un membro de un seta antica de iudisme cual ia nega la esiste de spiritos e ia aseta sola leges scriveda
+  EN sadducee
+
 .safari : nom
   D un mision per oserva o xasa animales en sua abita natural, tipal en Africa este
   EN safari
@@ -94418,6 +95382,9 @@ salon de balo : nom
 salon de bir : nom
   EN beer hall
 
+salon de come : nom
+  EN dining hall, refectory
+
 salon de conserta : nom
   EN concert hall, auditorium
   FR salle de concert, auditorium
@@ -94570,6 +95537,10 @@ salpica : verbo transitiva
 salpica : nom
   EN splash, spatter, splatter
   FR éclaboussure
+
+.salpingo- : prefisa tecnical anatomia medica
+  D con forma un trompeta
+  EN salpingo-, trumpet-shaped
 
 .salsa : nom cosini
   D un licuida densa, servida con o sur comedas; un tipo de musica e dansa de America latina cual misca elementos de jaz e roc
@@ -94860,6 +95831,10 @@ samoan : ajetivo
 
 samoan : nom demonim
   EN Samoan
+
+.samodeica : ajetivo linguistica
+  D pertinente a cualce de un familia de linguas de la popla nomada de Sibir norde, ci vive tradisional como pastores de renos, incluinte enets, nenets, nganasan, e selcup
+  EN Samoyedic, Samoyed
 
 .samovar : nom cosini
   D un vaso ornosa per te, orijinante en Rusia
@@ -95188,6 +96163,15 @@ santa : nom
 santa padronal : nom
   EN patron saint
 
+desanti : verbo nontransitiva
+  EN become desecrated, become defiled, become profane
+
+desanti : verbo transitiva
+  EN desecrate, defile, profane
+
+desanti : nom
+  EN desecration, sacrilege
+
 nonsanta : ajetivo
   EN unholy, profane
 
@@ -95402,6 +96386,10 @@ sarda : nom demonim
   D un veste composada de un peso longa de stofa envolveda sirca la corpo e plisada a la taie o axilas, portada par femes de Asia sude-este
   I #
   EN sarong (garment)
+
+.sartorio : nom anatomia medica
+  D un musculo longa e magra de la gama basa
+  EN sartorius (muscle)
 
 .sasafras : nom planta
   D un arbor de America Norde con folias bonodorosa cual pote es usada per prepara un te
@@ -96839,7 +97827,7 @@ secrete : nom
 
 .secular : ajetivo relijio governa
   D pertinente a ativias, disposas o otra cosas cual no ave un funda relijial o spirital
-  EN secular
+  EN secular, profane
   FR séculier
 
 seculari : verbo nontransitiva
@@ -97164,6 +98152,13 @@ sefardi : nom
   T Secale cereale
   EN rye (plant)
   FR seigle
+
+.segrega : verbo transitiva
+  D separa o divide (persones, ativias, o grupos) par raza, jenero, relijio, etnico, o simil
+  EN segregate
+
+segrega : nom
+  EN segregation
 
 .segue : verbo transitiva
   D vade o veni pos (un otra person o cosa movente); apare o aveni pos; adere a o obedi (un obliga sosial, legal, etical o relijial)
@@ -98511,6 +99506,10 @@ sepsica : ajetivo
 -sepsica : sufisa ajetivo medica
   EN -septic
 
+.septo : nom anatomia medica
+  D un divide entre du cambras, como lo entre la narinas o la cambras de la cor
+  EN septum
+
 .sera : nom
   D la periodo de tempo a la fini de la dia, tipal entre sirca 18:00 e medianote; esta periodo a la dia ante un aveni spesifada
   DA aften
@@ -99028,6 +100027,10 @@ servor xef : nom
 
 servorin : ajetivo
   EN servantlike, servile
+
+.servix : nom anatomia medica
+  D la pasaje streta cual formi la fini basa de la utero; un parte simil a un colo en otra organos
+  EN cervix
 
 .servo : nom mamal
   D un mamal con cornos raminte cual es perdeda a cada anio
@@ -100260,6 +101263,9 @@ silindre : nom
   D un strutur corta, microscopial, capelin e vibrante, usada par alga selulas e protozones per move se o la licuida ambiente
   EN cilium (pl. cilia) (biology)
 
+silial : ajetivo
+  EN cilial
+
 .silo : nom arciteta
   D un tore alta o un profonda, usada per conserva gran a un cultiveria
   I #
@@ -100703,7 +101709,10 @@ sindrom de imunodebilia otenida : nom
   HE איידס
 
 sindrom de osese e compulsa : nom
-  EN obsessive-compulsive disorder
+  EN OCD, obsessive-compulsive disorder
+
+sindrom respiral acuta sever : nom
+  EN SARS, severe acuta respiratory sindrome
 
 .sinema : nom arte arciteta
   D un teatro cual mostra filmas
@@ -102774,7 +103783,7 @@ sopa de pex : nom
   EN fish soup
 
 sopa de poro : nom
-  EN leak soup
+  EN leek soup
 
 sopa de talietas : nom
   EN noodle soup
@@ -103682,6 +104691,10 @@ spisosa : ajetivo
   D un organo en la adomen envolveda en la produi e sutrae de selulas de sangue en la plu de vertebratos
   EN spleen (anatomy)
 
+.splenio : nom anatomia medica
+  D cada de du musculos, liada a la vertebras de la colo e la dorso alta, cual tira la testa a retro
+  EN splenius (muscle)
+
 .spondeo : nom linguistica
   D (en poesia e canta) un pede composada de du silabas longa (o asentuada)
   EN spondee (poetry)
@@ -103991,6 +105004,10 @@ sputa : nom
   IT Sig.ra, Sig.na
   NL mevrouw, juffrouw
   PT Senhora, senhorita
+
+.sras : nom corti
+  D sindrom respiral acuta sever
+  EN SARS, severe acute respiratory sindrome
 
 .sri : nom
   D (en parla cortes o formal) un person
@@ -104634,6 +105651,10 @@ stiliste : nom
   IT stilo, puntina
   NL schrijfstift, pen
   PT agulha de vitrola, estilete
+
+stilo- : prefisa tecnical anatomia medica
+  D con forma de pen o stilo
+  EN stylo-, pen-shaped
 
 .stilton : nom cosini
   D un ceso forte, tipal con venas blu, orijinante en England
@@ -105710,7 +106731,7 @@ sufisinte : ajetivo
   PT sofrer, padecer
 
 sufri : nom
-  EN suffering, affliction, hardship
+  EN suffering, affliction, hardship, tribulation
 
 sufror : nom
   EN sufferer
@@ -109632,6 +110653,9 @@ teton : nom
   D (nonformal) un seno
   EN (colloquial) tit, boob, knocker (breast)
 
+tetor : nom
+  EN suckler, breastfeeder, wet nurse
+
 .teta : nom
   D la letera oto de la alfabeta elinica
   S Θ θ
@@ -109646,12 +110670,12 @@ teton : nom
   EN tetanus, lockjaw (medical)
 
 .teto : nom arciteta
-  D la strutur cual covre la culmina de un construida o veculo; la nivel su sielo de un barcon
+  D la strutur cual covre la culmina de un construida o veculo; la covrente de un contenador; la nivel su sielo de un barcon
   I #
   CA teulat
   DA tag
   DE Dach
-  EN roof, rooftop; deck
+  EN roof, rooftop; lid; deck
   EO tegmento; ferdeko
   ES techo, techumbre, tejado, azotea
   FR toit; pont (de bateau)
@@ -109899,15 +110923,15 @@ como tio : ajetivo
 
 dutia : nom
   P dutía
-  EN female cousin of one's grandparents' generation
+  EN great-aunt; any female cousin of one's grandparents' generation
   FR grande-tante
 
 dutie : nom
-  EN cousin of one's grandparents' generation
+  EN great-aunt, great-uncle; any cousin of one's grandparents' generation
 
 dutio : nom
   P dutío
-  EN male cousin of one's grandparents' generation
+  EN great-uncle; any male cousin of one's grandparents' generation
   FR grand-oncle
 
 tia : nom
@@ -109925,15 +110949,15 @@ tio : nom
 
 tretia : nom
   P tretía
-  EN female cousin of one's great-grandparents' generation
+  EN great-great-aunt; any female cousin of one's great-grandparents' generation
   FR arrière-grande-tante
 
 tretie : nom
-  EN cousin of one's great-grandparents' generation
+  EN great-great-aunt, great-great-uncle; any cousin of one's great-grandparents' generation
 
 tretio : nom
   P tretío
-  EN male cousin of one's great-grandparents' generation
+  EN great-great-uncle; any male cousin of one's great-grandparents' generation
   FR arrière-grand-oncle
 
 .tifa : nom planta
@@ -111590,6 +112614,16 @@ transesalia : nom
   D (un fem) transjenero; (un person nonbinaria) ci ia nase mas e regarda se como xef femin
   EN transfeminine
 
+.transfere : verbo nontransitiva
+  D (potia, mone, armas, etc) es formal donada a un otra person o grupo
+  EN transfer
+
+transfere : verbo transitiva
+  EN transfer, hand over, make over, sign over
+
+transfere : nom
+  EN transfer, handover
+
 .transferase : nom biolojia cimica
   D un enzima cual envia un grupo funsional (per esemplo un grupo de metil o fosfato) de un molecula a un otra
   EN transferase 
@@ -112794,7 +113828,7 @@ trompon : nom
 .tronco : nom biolojia anatomia
   D la parte major de un arbor, distinguida de sua ramos e radises; un peso grande taliada de un arbor; la parte de la corpo de un umana o animal estra sua membros o testa; la parte major de un avion estra sua alas; la parte de un parola estra sua afisas
   I #
-  EN trunk (log, torso); fuselage; frustum (geometry); stem (of word)
+  EN trunk (tree, torso), log; fuselage; frustum (geometry); stem (of word)
   FR tronc; buche; torse; radical (d'un mot)
 
 tronceta : nom
@@ -113433,7 +114467,7 @@ tupi : nom
 turba : nom
   DA besvær, vrøvl
   DE Schwierigkeit
-  EN trouble, difficulty, unrest; mischief, shenanigans; turbulence
+  EN trouble, difficulty, unrest, tribulation; mischief, shenanigans; turbulence
   ES problema, apuro, dificultad, aflicción, inquietud, perturbación, molestia, pena
   FR trouble, turbulence
   IT difficoltà
@@ -117660,6 +118694,9 @@ veste spasial : nom
   EN spacesuit
   FR combinaison spatiale
 
+vestes lavada : nom
+  EN laundry, washing
+
 bonvestida : ajetivo
   EN well-dressed, smart, dapper, debonair, rakish
 
@@ -118606,6 +119643,10 @@ de virgula flotante : nom
 virgula desimal : nom
   EN decimal point
 
+.virion : nom biolojia medica
+  D un virus cuando estra un selula ospitante
+  EN virion
+
 .virjin : ajetivo siensa-umana
   D (un person) ci no ia copula e ia fa no otra relatas sesal; (metafor) naive, sin esperia
   EN virginal, sexually innocent, chaste
@@ -119247,6 +120288,9 @@ vola : nom
 vola alta : verbo
   EN soar
 
+vola nonscemida : nom
+  EN chartered flight
+
 vola scemida : nom
   EN scheduled flight
 
@@ -119444,6 +120488,9 @@ voltor : nom
   I volta-arciteta
   EN vault (ceiling)
 
+voltin : ajetivo
+  EN vaulted, vault-shaped
+
 .voltaica : ajetivo fisica
   D pertinente a eletrica produida par ativia cimical en un pila
   EN voltaic
@@ -119624,7 +120671,7 @@ votores : nom plural
 
 .vulgar : ajetivo siensa-umana
   D sin sofistica; referente a seso o otra funsionas fundal de la corpo en modo ofendente
-  EN vulgar, indecent, improper, naughty, bawdy, crude, foul-mouthed, rabelaisian, ribald, off-color|ur
+  EN vulgar, indecent, improper, naughty, bawdy, crude, foul-mouthed, lewd, rabelaisian, ribald, off-color|ur
 
 vulgaria : nom
   EN vulgarity
@@ -121218,7 +122265,7 @@ zeli : verbo transitiva
 
 zelosa : ajetivo
   D con multe zelo
-  EN zealous, enthusiastic, eager, keen, anxious (for), passionate, ardent, avid, fanatical, fervent, zestful; hearty, heartfelt, (emotionally) warm
+  EN zealous, enthusiastic, eager, keen, anxious (for), passionate, ardent, avid, fanatical, fervent, intent, zestful; hearty, heartfelt, (emotionally) warm
   EO entuziasma, fervora, avida, kora
   FR enthousiaste, zélé
 
@@ -121550,6 +122597,10 @@ zoroastriste : nom
   EN Zoroastrian
   EO zoroastristo
   FR zoroastrien
+
+.zoster : nom medica
+  D un inflama acuta e dolente de la nervos
+  EN shingles, herpes zoster, zoster
 
 .zuca : nom planta cosini
   D cualce de un grupo de plantas cual produi frutas grande e pulposa con casca dur; un de esta frutas, de cual sua pulpa es tipal coceda e comeda como un vejetal
